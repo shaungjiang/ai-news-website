@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 新闻日报 — {{nowDate}}</title>
+  <meta name="description" content="每日 AI 新闻聚合，汇集国内外人工智能最新资讯">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="/" class="logo">
+      <span class="logo-icon">🤖</span>
+      <span class="logo-text">AI 新闻日报</span>
+    </a>
+    <div class="header-info">
+      <span class="date-badge">{{nowDate}}</span>
+      <span class="header-stats">
+        今日 {{stats.today}} 条 · 共 {{stats.total}} 条
+        （🇨🇳 {{stats.chinese}} · 🌐 {{stats.english}}）
+      </span>
+    </div>
+  </div>
+</header>
+
+<main class="content">
+  <div class="container">
+
+    {{#each dateGroups}}
+    <section class="date-section">
+      <h2 class="date-heading">
+        {{#if (eq label "今日")}}📅 今日{{else if (eq label "昨天")}}📆 昨天{{else}}📅 {{label}}{{/if}}
+        <span class="count-badge">{{items.length}} 条</span>
+      </h2>
+
+      <div class="news-grid">
+        {{#each items}}
+        <article class="news-card {{#if (eq lang "en")}}en-card{{/if}}">
+          <div class="card-header">
+            <div class="tags">
+              {{#each tags}}
+              <span class="tag tag-{{this}}">{{this}}</span>
+              {{/each}}
+              <span class="tag tag-lang">{{#if (eq lang "zh")}}🇨🇳{{else}}🌐 EN{{/if}}</span>
+            </div>
+            <button class="share-btn" onclick="shareArticle('{{link}}', '{{title}}')" title="分享">
+              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
+                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
+              </svg>
+            </button>
+          </div>
+
+          <h3 class="card-title">
+            <a href="{{link}}" target="_blank" rel="noopener" class="title-link">
+              {{title}}
+            </a>
+          </h3>
+
+          <p class="card-snippet">{{snippet}}</p>
+
+          <div class="card-footer">
+            <span class="source-name">{{sourceName}}</span>
+            <span class="card-time">{{formatDate pubDate}}</span>
+            <a href="{{link}}" target="_blank" rel="noopener" class="read-link">
+              {{#if (eq lang "zh")}}阅读原文 →{{else}}Read more →{{/if}}
+            </a>
+          </div>
+        </article>
+        {{/each}}
+      </div>
+    </section>
+    {{/each}}
+
+  </div>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>🕐 更新于 {{generatedAt}}</p>
+    <p>AI 新闻日报 — 每日自动更新 · 免费 · 开源</p>
+  </div>
+</footer>
+
+<script>
+function shareArticle(url, title) {
+  if (navigator.share) {
+    navigator.share({ title, url }).catch(() => {});
+  } else {
+    navigator.clipboard.writeText(url).then(() => {
+      alert('链接已复制到剪贴板！');
+    });
+  }
+}
+</script>
+
+</body>
+</html>

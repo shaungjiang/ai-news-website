@@ -1,0 +1,17 @@
+{
+  "name": "ai-news-website",
+  "version": "1.0.0",
+  "description": "AI News Daily - 国内外AI新闻聚合",
+  "type": "module",
+  "scripts": {
+    "fetch": "node src/fetch-feeds.js",
+    "process": "node src/process-news.js",
+    "build": "node src/generate-site.js",
+    "all": "npm run fetch && npm run process && npm run build"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0",
+    "handlebars": "^4.7.8",
+    "node-fetch": "^3.3.2"
+  }
+}

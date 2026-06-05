@@ -1,0 +1,90 @@
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+import Handlebars from 'handlebars';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const ROOT = path.join(__dirname, '..');
+const DATA_DIR = path.join(ROOT, 'data');
+const TEMPLATES_DIR = path.join(ROOT, 'templates');
+const PUBLIC_DIR = path.join(ROOT, 'public');
+
+// ====== Handlebars helpers ======
+Handlebars.registerHelper('formatDate', (dateStr) => {
+  const date = new Date(dateStr);
+  const now = new Date();
+  const diffMs = now - date;
+  const diffH = Math.floor(diffMs / (1000 * 60 * 60));
+  const diffD = Math.floor(diffMs / (1000 * 60 * 60 * 24));
+
+  if (diffH < 1) return '刚刚';
+  if (diffH < 24) return `${diffH} 小时前`;
+  if (diffD < 2) return '昨天';
+  if (diffD < 7) return `${diffD} 天前`;
+  return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+});
+
+Handlebars.registerHelper('formatFullDate', (dateStr) => {
+  const date = new Date(dateStr);
+  return date.toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
+});
+
+Handlebars.registerHelper('eq', (a, b) => a === b);
+
+Handlebars.registerHelper('json', (obj) => JSON.stringify(obj));
+
+// ====== Group articles by date ======
+function groupByDate(articles) {
+  const groups = {};
+  const today = new Date().toDateString();
+  const yesterday = new Date(Date.now() - 86400000).toDateString();
+
+  for (const article of articles) {
+    const date = new Date(article.pubDate).toDateString();
+    let label;
+    if (date === today) label = '今日';
+    else if (date === yesterday) label = '昨天';
+    else label = new Date(article.pubDate).toLocaleDateString('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' });
+
+    if (!groups[label]) groups[label] = [];
+    groups[label].push(article);
+  }
+
+  return Object.entries(groups).map(([label, items]) => ({ label, items }));
+}
+
+// ====== Render ======
+function main() {
+  console.log('🎨 Generating website...\n');
+
+  const newsPath = path.join(DATA_DIR, 'news.json');
+  if (!fs.existsSync(newsPath)) {
+    console.error('❌ news.json not found! Run process-news.js first.');
+    process.exit(1);
+  }
+
+  const data = JSON.parse(fs.readFileSync(newsPath, 'utf-8'));
+  const dateGroups = groupByDate(data.articles);
+
+  // Build template context
+  const context = {
+    generatedAt: new Date(data.generatedAt).toLocaleString('zh-CN'),
+    stats: data.stats,
+    dateGroups,
+    nowDate: new Date().toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric' }),
+  };
+
+  // Compile template
+  const templateSource = fs.readFileSync(path.join(TEMPLATES_DIR, 'index.hbs'), 'utf-8');
+  const template = Handlebars.compile(templateSource);
+  const html = template(context);
+
+  // Write output
+  fs.mkdirSync(PUBLIC_DIR, { recursive: true });
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'index.html'), html, 'utf-8');
+
+  console.log(`✅ Generated: ${html.length.toLocaleString()} bytes`);
+  console.log(`📁 Output: ${path.join(PUBLIC_DIR, 'index.html')}`);
+}
+
+main();
