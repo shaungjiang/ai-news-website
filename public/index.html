@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI 新闻日报 — 2026年6月5日</title>
-  <meta name="description" content="每日 AI 新闻聚合，汇集国内外人工智能最新资讯">
+  <meta name="description" content="每日 AI 新闻聚合，汇集国内外人工智能最新资讯。自动更新，免费阅读。">
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%233b6df0'/><stop offset='100%' stop-color='%237b2ff0'/></linearGradient></defs><rect width='100' height='100' rx='22' fill='url(%23g)'/><text x='50' y='68' text-anchor='middle' font-size='48'>🤖</text></svg>">
 </head>
 <body>
 
@@ -16,1539 +16,1413 @@
       <span class="logo-icon">🤖</span>
       <span class="logo-text">AI 新闻日报</span>
     </a>
-    <div class="header-info">
-      <span class="date-badge">2026年6月5日</span>
-      <span class="header-stats">
-        今日 39 条 · 共 145 条
-        （🇨🇳 60 · 🌐 85）
-      </span>
+    <div class="header-stats">
+      今日 <strong>39 条</strong> · 共 145 条
     </div>
   </div>
 </header>
 
+<section class="hero">
+  <div class="container">
+    <h1 class="hero-title">2026年6月5日 · <span>AI 资讯速览</span></h1>
+    <p class="hero-subtitle">汇聚国内外人工智能前沿动态，每日 8:00 自动更新</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="hero-stat-icon">📰</span>
+        <span>今日 <strong>39</strong> 篇</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-icon">🇨🇳</span>
+        <span>中文 <strong>60</strong> 篇</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-icon">🌐</span>
+        <span>英文 <strong>85</strong> 篇</span>
+      </div>
+    </div>
+  </div>
+</section>
+
 <main class="content">
   <div class="container">
+    <div class="filter-bar">
+      <button class="filter-tab active" onclick="filterNews('all', this)">全部<span class="filter-count">145</span></button>
+      <button class="filter-tab" onclick="filterNews('zh', this)">🇨🇳 中文<span class="filter-count">60</span></button>
+      <button class="filter-tab" onclick="filterNews('en', this)">🌐 English<span class="filter-count">85</span></button>
+    </div>
 
-    <section class="date-section">
-      <h2 class="date-heading">
-        📅 今日
-        <span class="count-badge">39 条</span>
-      </h2>
+    <section class="date-section" data-date="今日">
+      <div class="date-heading">
+        <span class="date-icon">📅</span>
+        <span class="date-label">今日</span>
+        <span class="date-count">39 篇</span>
+      </div>
 
       <div class="news-grid">
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839716335438337?f&#x3D;rss', '本田5月中国汽车销量同比下降48.68%')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 11:21:26  +0800">2 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839716335438337?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              本田5月中国汽车销量同比下降48.68%
-            </a>
+            <a href="https://36kr.com/newsflashes/3839716335438337?f&#x3D;rss" target="_blank" rel="noopener">本田5月中国汽车销量同比下降48.68%</a>
           </h3>
 
           <p class="card-snippet">本田中国发布2026年5月终端汽车销量，5月本田在中国的终端汽车销量为28279辆，同比下降48.68%；1-5月本田在中国的终端汽车累计销量为173344辆。（界面）</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839716335438337?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-政策监管">政策监管</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839715093662211?f&#x3D;rss', '腾讯首发效率智能体工具集，覆盖20多个垂直场景Agent')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 11:20:10  +0800">2 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839715093662211?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              腾讯首发效率智能体工具集，覆盖20多个垂直场景Agent
-            </a>
+            <a href="https://36kr.com/newsflashes/3839715093662211?f&#x3D;rss" target="_blank" rel="noopener">腾讯首发效率智能体工具集，覆盖20多个垂直场景Agent</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，腾讯在2026腾讯云AI产业应用大会上首次系统发布“效率智能体工具集”，面向个人提效、办公提效、企业提效三类需求，针对20多个垂直场景提供差异化的智能体解决方案。针对个人用户，本地AI助手QClaw首创“微信直连”模式，并打通腾讯文档、腾讯会议、ima、QQ邮箱等工具。面向职场人群，腾讯</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+              <span class="card-tag policy">政策监管</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839715093662211?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839712634014208?f&#x3D;rss', '汤道生回应&quot;腾讯慢了&quot;：承认业务线快慢不一，接受外界提醒和建议')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 11:17:40  +0800">2 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839712634014208?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              汤道生回应&quot;腾讯慢了&quot;：承认业务线快慢不一，接受外界提醒和建议
-            </a>
+            <a href="https://36kr.com/newsflashes/3839712634014208?f&#x3D;rss" target="_blank" rel="noopener">汤道生回应&quot;腾讯慢了&quot;：承认业务线快慢不一，接受外界提醒和建议</a>
           </h3>
 
           <p class="card-snippet">在腾讯AI产业峰会现场，针对外界“腾讯慢了”的批判，腾讯集团高级执行副总裁汤道生作出回应，其承认在复杂组织中不同业务线速度不一，有快有慢，也有失败与探索，对外界批评与提醒持开放态度并接受建议。汤道生表示：&quot;在这样的一个长跑，我相信模型会不断迭代，用户的需求也在不断变化，也会有新的产品形态出现，我觉得</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839712634014208?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839711731599872?f&#x3D;rss', '娃哈哈方便食品公司更名宏胜方便食品')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 11:16:45  +0800">2 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839711731599872?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              娃哈哈方便食品公司更名宏胜方便食品
-            </a>
+            <a href="https://36kr.com/newsflashes/3839711731599872?f&#x3D;rss" target="_blank" rel="noopener">娃哈哈方便食品公司更名宏胜方便食品</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，天眼查App显示，近日，杭州娃哈哈方便食品有限公司发生工商变更，企业名称变更为杭州宏胜方便食品有限公司。该公司成立于2003年10月，法定代表人为盛文龙，注册资本100万美元，经营范围包括生产方便面等，由恒枫贸易有限公司、施幼珍共同持股。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839711731599872?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839702186838530?f&#x3D;rss', '腾讯高管：今年腾讯大部分代码都由AI生成')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 11:07:02  +0800">2 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839702186838530?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              腾讯高管：今年腾讯大部分代码都由AI生成
-            </a>
+            <a href="https://36kr.com/newsflashes/3839702186838530?f&#x3D;rss" target="_blank" rel="noopener">腾讯高管：今年腾讯大部分代码都由AI生成</a>
           </h3>
 
           <p class="card-snippet">在腾讯云AI产业应用大会上，腾讯高级执行副总裁汤道生在与腾讯首席AI科学家姚顺雨的对话中表示，今年腾讯大部分代码都是由AI生成，腾讯的工程师可能会花更多的时间去做架构设计等，他们把写代码的工作都交给AI了，定期指导、修正AI写的东西。（第一财经）</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839702186838530?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839698027317766?f&#x3D;rss', '千寻智能在杭州成立机器人公司，注册资本1000万')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 11:02:49  +0800">2 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839698027317766?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              千寻智能在杭州成立机器人公司，注册资本1000万
-            </a>
+            <a href="https://36kr.com/newsflashes/3839698027317766?f&#x3D;rss" target="_blank" rel="noopener">千寻智能在杭州成立机器人公司，注册资本1000万</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，天眼查App显示，近日，千寻智能（杭州）机器人有限公司成立，法定代表人为孙荣毅，注册资本1000万人民币，经营范围包括服务消费机器人制造、软件销售、人工智能基础软件开发等，由千寻智能（北京）科技有限公司全资持股。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839698027317766?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-大模型">大模型</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839693822085382?f&#x3D;rss', 'NBA中国携手阿里巴巴上线首个官方AI大模型')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:58:32  +0800">2 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839693822085382?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              NBA中国携手阿里巴巴上线首个官方AI大模型
-            </a>
+            <a href="https://36kr.com/newsflashes/3839693822085382?f&#x3D;rss" target="_blank" rel="noopener">NBA中国携手阿里巴巴上线首个官方AI大模型</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，NBA中国携手阿里巴巴打造的首个官方大模型“NBA Chat”正式上线。NBA Chat基于阿里千问大模型开发，结合比赛历史数据、球员深度分析等NBA数据，提供智能篮球问答服务。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model">大模型</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839693822085382?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839692952013056?f&#x3D;rss', '辽宁：拟打造沈大经济走廊，加快东北海陆大通道建设')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:57:39  +0800">2 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839692952013056?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              辽宁：拟打造沈大经济走廊，加快东北海陆大通道建设
-            </a>
+            <a href="https://36kr.com/newsflashes/3839692952013056?f&#x3D;rss" target="_blank" rel="noopener">辽宁：拟打造沈大经济走廊，加快东北海陆大通道建设</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，《辽宁省“十五五”区域协调发展规划（征求意见稿）》向社会公开征求意见。其中提到，打造沈大经济走廊，加快东北海陆大通道建设。加快东北海陆大通道建设，协同打造千亿级冷链产业集群。推动沈大共同实施“数据要素+工业制造”专项行动。支持沈大沿线节点城市加强风电装备、光伏组件、储能电池等领域全链条合</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839692952013056?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-政策监管">政策监管</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839683855682056?f&#x3D;rss', '深圳出台新能源车险高质量发展“深十条”')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:48:24  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839683855682056?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              深圳出台新能源车险高质量发展“深十条”
-            </a>
+            <a href="https://36kr.com/newsflashes/3839683855682056?f&#x3D;rss" target="_blank" rel="noopener">深圳出台新能源车险高质量发展“深十条”</a>
           </h3>
 
           <p class="card-snippet">为进一步深化新能源车险改革，提升保险服务新能源汽车产业发展水平，近期，深圳金融监管局联合深圳市工信局、深圳市交通运输局、深圳市商务局印发《关于促进深圳新能源车险高质量发展若干措施的通知》，推出十项政策举措。其中，围绕《措施》提出的“探索智能驾驶综合保险”“创新‘基本+变动’组合产品”等方向，深圳金融</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+              <span class="card-tag policy">政策监管</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839683855682056?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-政策监管">政策监管</span>
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839679073978629?f&#x3D;rss', '中证协启动2026年券商并购重组能力专项评价')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:43:32  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839679073978629?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              中证协启动2026年券商并购重组能力专项评价
-            </a>
+            <a href="https://36kr.com/newsflashes/3839679073978629?f&#x3D;rss" target="_blank" rel="noopener">中证协启动2026年券商并购重组能力专项评价</a>
           </h3>
 
           <p class="card-snippet">中证协已向各证券公司下发《关于开展2026年证券公司支持上市公司并购重组能力专项评价的通知》，正式启动2026年证券公司支持上市公司并购重组能力专项评价工作。据了解，本次评价旨在落实证监会“1+N”系列政策文件精神，通过活跃并购重组业务助力上市公司提质增效，评价结果将供分类监管工作使用。（中证报）</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag policy">政策监管</span>
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839679073978629?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839673465866498?f&#x3D;rss', '百度智能云与FluxA达成战略合作')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:37:49  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839673465866498?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              百度智能云与FluxA达成战略合作
-            </a>
+            <a href="https://36kr.com/newsflashes/3839673465866498?f&#x3D;rss" target="_blank" rel="noopener">百度智能云与FluxA达成战略合作</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，全球AI Agent支付基础设施提供商FluxA与百度智能云正式建立战略合作伙伴关系。国内OPC（一人公司）可在百度智能云“云市场”将AI技能、数字内容等封装为可被Agent调用和购买的商品并定价上架，上架商品经FluxA平台向海外数万个Agent分销，调用产生的费用由FluxA支付系统</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839673465866498?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839672249370887?f&#x3D;rss', '楚江新材增资至约16.2亿')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:36:35  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839672249370887?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              楚江新材增资至约16.2亿
-            </a>
+            <a href="https://36kr.com/newsflashes/3839672249370887?f&#x3D;rss" target="_blank" rel="noopener">楚江新材增资至约16.2亿</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，天眼查App显示，近日，楚江新材发生工商变更，注册资本由约15.1亿人民币增至约16.2亿人民币，增幅约8%。该公司成立于2005年12月，法定代表人为姜纯，经营范围包括有色金属材料研发、加工、销售，热工设备的研制、生产和销售等，由安徽楚江投资集团有限公司、缪云良、香港中央结算有限公司等</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">刚刚</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839672249370887?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839669498906883?f&#x3D;rss', 'IDC最新数据：追觅扫地机全球销量、销额双第一')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:33:47  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839669498906883?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              IDC最新数据：追觅扫地机全球销量、销额双第一
-            </a>
+            <a href="https://36kr.com/newsflashes/3839669498906883?f&#x3D;rss" target="_blank" rel="noopener">IDC最新数据：追觅扫地机全球销量、销额双第一</a>
           </h3>
 
           <p class="card-snippet">国际数据公司IDC日前正式发布《全球家用智能扫地机器人市场季度跟踪报告》。报告显示，2026年第一季度，追觅扫地机拿下全球销量与销额双第一。截至目前，追觅扫地机已进入全球120个国家和地区市场，并在全球30个国家斩获市占第一，10个国家市场份额超50%。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">1 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839669498906883?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-商业融资">商业融资</span>
-              <span class="tag tag-政策监管">政策监管</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839667122080001?f&#x3D;rss', 'SpaceX据悉将其IPO的日本融资目标提高至25亿美元')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:31:22  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839667122080001?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              SpaceX据悉将其IPO的日本融资目标提高至25亿美元
-            </a>
+            <a href="https://36kr.com/newsflashes/3839667122080001?f&#x3D;rss" target="_blank" rel="noopener">SpaceX据悉将其IPO的日本融资目标提高至25亿美元</a>
           </h3>
 
           <p class="card-snippet">SpaceX已将其在日本发行股票的计划筹集金额增加了四分之一，这表明日本散户投资者的需求强劲。据监管文件披露，SpaceX目前正寻求从日本投资者那里筹集至多25亿美元的资金，高于上周披露的20亿美元。文件显示，日本投资者获配1480万至1850万股A类股，初步定价为每股135美元。日本部分的认购登记</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">1 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz">商业融资</span>
+              <span class="card-tag policy">政策监管</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839667122080001?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839661669533958?f&#x3D;rss', 'B站宣布启动AI创造公开赛')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:25:49  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839661669533958?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              B站宣布启动AI创造公开赛
-            </a>
+            <a href="https://36kr.com/newsflashes/3839661669533958?f&#x3D;rss" target="_blank" rel="noopener">B站宣布启动AI创造公开赛</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，哔哩哔哩（以下简称&quot;B站&quot;）正式启动“build in bilibili · AI创造公开赛”（以下简称B站AI创造公开赛），并公布参赛规则。比赛不设年龄、学历、职业与经验等参赛门槛，并首次将评选权交给用户——所有B站用户均可通过投币、弹幕等方式参与创作并选出认可的产品。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">1 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839661669533958?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839658412099846?f&#x3D;rss', '北证50指数涨幅扩大至3%')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:22:31  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839658412099846?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              北证50指数涨幅扩大至3%
-            </a>
+            <a href="https://36kr.com/newsflashes/3839658412099846?f&#x3D;rss" target="_blank" rel="noopener">北证50指数涨幅扩大至3%</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，北证50指数涨幅扩大至3%。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">1 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839658412099846?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839654041553152?f&#x3D;rss', 'A股三大指数全线翻红')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:18:04  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839654041553152?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              A股三大指数全线翻红
-            </a>
+            <a href="https://36kr.com/newsflashes/3839654041553152?f&#x3D;rss" target="_blank" rel="noopener">A股三大指数全线翻红</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，A股三大指数全线翻红，保险、游戏、光纤、零售等方向涨幅居前，沪深京三市上涨个股近2500只。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">1 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839654041553152?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839643395279105?f&#x3D;rss', '沪深两市成交额突破1万亿元')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 10:07:14  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839643395279105?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              沪深两市成交额突破1万亿元
-            </a>
+            <a href="https://36kr.com/newsflashes/3839643395279105?f&#x3D;rss" target="_blank" rel="noopener">沪深两市成交额突破1万亿元</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量超600亿元。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">1 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839643395279105?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839630825032192?f&#x3D;rss', '南向资金净买入额达20亿港元')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 09:54:27  +0800">4 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839630825032192?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              南向资金净买入额达20亿港元
-            </a>
+            <a href="https://36kr.com/newsflashes/3839630825032192?f&#x3D;rss" target="_blank" rel="noopener">南向资金净买入额达20亿港元</a>
           </h3>
 
           <p class="card-snippet">36氪获悉，南向资金净买入额达20亿港元。</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">1 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839630825032192?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/newsflashes/3839625165769224?f&#x3D;rss', '泰国寻求6月底前与美国达成贸易协议，目标关税为10%')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 09:48:41  +0800">4 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3839625165769224?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              泰国寻求6月底前与美国达成贸易协议，目标关税为10%
-            </a>
+            <a href="https://36kr.com/newsflashes/3839625165769224?f&#x3D;rss" target="_blank" rel="noopener">泰国寻求6月底前与美国达成贸易协议，目标关税为10%</a>
           </h3>
 
           <p class="card-snippet">泰国正努力在6月底前与美国完成贸易谈判。泰国商业部长素塔攀表示，泰国正寻求与美国达成互惠贸易协定，可能有助于将拟议的关税税率降低至10%。他表示，泰国仍有约25个悬而未决的问题需要解决，才能达成协议。政府将派遣贸易代表前往华盛顿，密切关注谈判的最后阶段。（新浪财经）</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">1 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://36kr.com/newsflashes/3839625165769224?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-商业融资">商业融资</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/p/3839600052898054?f&#x3D;rss', '前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 09:23:23  +0800">4 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/p/3839600052898054?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发
-            </a>
+            <a href="https://36kr.com/p/3839600052898054?f&#x3D;rss" target="_blank" rel="noopener">前华为员工创业线控底盘，曾参编国标，获松禾、苏高新投资丨36氪首发</a>
           </h3>
 
           <p class="card-snippet">作者丨欧雪 编辑丨袁斯来 硬氪获悉，线控底盘核心零部件供应商毫秒智控已于近期完成数千万元天使+轮融资，本轮投资方为松禾资本和苏高新融晟。这也是公司成立仅一年以来，继获得厚雪资本天使轮独家投资后，接连完成的第二轮融资。 毫秒智控2025年4月成立于上海，专注于线控转向（SBW）系统及核心电控部件的研发</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">2 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz">商业融资</span>
+            </div>
             <a href="https://36kr.com/p/3839600052898054?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.leiphone.com/category/zaobao/HiubaQdZiMf44U3A.html', '小字不免责！因宣传语蹭LABUBU营销，奈雪赔偿泡泡玛特32万；iPhone改日期多出20G？苹果泼冷水；粉笔CEO张小龙辱骂学生：活该找不到工作')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#c62828"></span>
+              雷锋网
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="Fri, 05 Jun 2026 09:02:00 +0800">4 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.leiphone.com/category/zaobao/HiubaQdZiMf44U3A.html" target="_blank" rel="noopener" class="title-link">
-              小字不免责！因宣传语蹭LABUBU营销，奈雪赔偿泡泡玛特32万；iPhone改日期多出20G？苹果泼冷水；粉笔CEO张小龙辱骂学生：活该找不到工作
-            </a>
+            <a href="https://www.leiphone.com/category/zaobao/HiubaQdZiMf44U3A.html" target="_blank" rel="noopener">小字不免责！因宣传语蹭LABUBU营销，奈雪赔偿泡泡玛特32万；iPhone改日期多出20G？苹果泼冷水；粉笔CEO张小龙辱骂学生：活该找不到工作</a>
           </h3>
 
           <p class="card-snippet">要闻提示       1.小字不免责！因宣传语“蹭”LABUBU营销，奈雪赔偿泡泡玛特32万 2.手机厂商语音助手可直接调动微信？腾讯客服回应 3.改个日期iPhone多出20G！网友神操作火了，苹果：官方没这方法 4.粉笔CEO张小龙大学演讲公然辱骂台下学生：活该找不到工作 5.“加价两万可插队提</p>
 
-          <div class="card-footer">
-            <span class="source-name">雷锋网</span>
-            <span class="card-time">2 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://www.leiphone.com/category/zaobao/HiubaQdZiMf44U3A.html" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-商业融资">商业融资</span>
-              <span class="tag tag-大模型">大模型</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/p/3838835333253385?f&#x3D;rss', '硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 09:00:00  +0800">4 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/p/3838835333253385?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资
-            </a>
+            <a href="https://36kr.com/p/3838835333253385?f&#x3D;rss" target="_blank" rel="noopener">硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资</a>
           </h3>
 
           <p class="card-snippet">作者 | 邱晓芬 编辑 | 袁斯来 硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括智谱、阶跃星辰、商汤科技。此外，华勤、上汽恒旭等产业投资方持续加注。 「原力灵机」是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO唐文斌创立，团队核心创始成</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">2 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz">商业融资</span>
+              <span class="card-tag model">大模型</span>
+            </div>
             <a href="https://36kr.com/p/3838835333253385?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/p/3836116289877385?f&#x3D;rss', '为什么库里没有选择安踏？')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 08:49:39  +0800">5 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/p/3836116289877385?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              为什么库里没有选择安踏？
-            </a>
+            <a href="https://36kr.com/p/3836116289877385?f&#x3D;rss" target="_blank" rel="noopener">为什么库里没有选择安踏？</a>
           </h3>
 
           <p class="card-snippet">文｜贺哲馨 编辑｜乔芊 2026年6月2日，NBA现役金州勇士队球星斯蒂芬·库里（Stephen Curry）在其个人社交媒体上宣布，个人品牌“库里品牌”（Curry Brand）将与李宁正式签约。 ESPN援引知情人士称，这份合同有效期长达十年，内容涵盖篮球产品、运动休闲服饰、库里以个人品牌签约运</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">2 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/p/3836116289877385?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-商业融资">商业融资</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/p/3835460873385348?f&#x3D;rss', '国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 08:30:00  +0800">5 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/p/3835460873385348?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发
-            </a>
+            <a href="https://36kr.com/p/3835460873385348?f&#x3D;rss" target="_blank" rel="noopener">国家队下场做AI虚拟细胞，「百曜科技」完成数千万元新一轮融资｜36氪首发</a>
           </h3>
 
           <p class="card-snippet">文｜胡香赟 编辑｜海若镜 36氪获悉，AI虚拟细胞（AIVC）平台公司「百曜科技」近期已完成数千万元新一轮融资。本轮融资由国家级国有资本运营平台中国国新旗下的国新创投基金领投，道彤资本和云启资本跟投，老股东峰瑞资本和百度风投追加投资。募集资金将主要用于全新一代虚拟细胞算法模型迭代、独家数据收集平台建</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">3 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz">商业融资</span>
+            </div>
             <a href="https://36kr.com/p/3835460873385348?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://36kr.com/p/3839505332161026?f&#x3D;rss', '8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="2026-06-05 07:46:55  +0800">6 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://36kr.com/p/3839505332161026?f&#x3D;rss" target="_blank" rel="noopener" class="title-link">
-              8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉
-            </a>
+            <a href="https://36kr.com/p/3839505332161026?f&#x3D;rss" target="_blank" rel="noopener">8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉</a>
           </h3>
 
           <p class="card-snippet">今日热点导览 微信正与手机厂商合作推出Agent-to-Agent助手能力 擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万 腾讯客服回应与华为、小米等合作 神农旅游集团就国道收费进行道歉 苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出 TOP 3 大新闻 分析</p>
 
-          <div class="card-footer">
-            <span class="source-name">36氪</span>
-            <span class="card-time">3 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://36kr.com/p/3839505332161026?f&#x3D;rss" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-商业融资">商业融资</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/', 'Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 22:43:26 +0000">7 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/" target="_blank" rel="noopener" class="title-link">
-              Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/" target="_blank" rel="noopener">Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns</a>
           </h3>
 
           <p class="card-snippet">Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">4 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz">商业融资</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-大模型">大模型</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/', 'Airbnb’s Brian Chesky plans to launch a new AI lab')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 22:29:50 +0000">7 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/" target="_blank" rel="noopener" class="title-link">
-              Airbnb’s Brian Chesky plans to launch a new AI lab
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/" target="_blank" rel="noopener">Airbnb’s Brian Chesky plans to launch a new AI lab</a>
           </h3>
 
           <p class="card-snippet">The Airbnb CEO said last year it hasn&#x27;t struck an LLM partnership because existing products weren&#x27;t quite ready.</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">5 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+              <span class="card-tag model">大模型</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-学术研究">学术研究</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.marktechpost.com/2026/06/04/building-a-semantic-search-engine-and-open-status-classifier-over-the-researchmath-14k-dataset/', 'Building a Semantic Search Engine and Open-Status Classifier over the ResearchMath-14k Dataset')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 22:24:10 +0000">7 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/06/04/building-a-semantic-search-engine-and-open-status-classifier-over-the-researchmath-14k-dataset/" target="_blank" rel="noopener" class="title-link">
-              Building a Semantic Search Engine and Open-Status Classifier over the ResearchMath-14k Dataset
-            </a>
+            <a href="https://www.marktechpost.com/2026/06/04/building-a-semantic-search-engine-and-open-status-classifier-over-the-researchmath-14k-dataset/" target="_blank" rel="noopener">Building a Semantic Search Engine and Open-Status Classifier over the ResearchMath-14k Dataset</a>
           </h3>
 
           <p class="card-snippet">This tutorial walks through a complete NLP pipeline for research-level mathematics. Using the ResearchMath-14k dataset, we extract field-specific keyw</p>
 
-          <div class="card-footer">
-            <span class="source-name">MarkTechPost</span>
-            <span class="card-time">5 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag research">学术研究</span>
+            </div>
             <a href="https://www.marktechpost.com/2026/06/04/building-a-semantic-search-engine-and-open-status-classifier-over-the-researchmath-14k-dataset/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/', 'The skeptic’s guide to humanoid robots going viral on the Internet')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              Ars Technica
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 22:23:36 +0000">7 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/" target="_blank" rel="noopener" class="title-link">
-              The skeptic’s guide to humanoid robots going viral on the Internet
-            </a>
+            <a href="https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/" target="_blank" rel="noopener">The skeptic’s guide to humanoid robots going viral on the Internet</a>
           </h3>
 
           <p class="card-snippet">Robot demonstrations can distort public perceptions of robotic capabilities.</p>
 
-          <div class="card-footer">
-            <span class="source-name">Ars Technica</span>
-            <span class="card-time">5 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-大模型">大模型</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.marktechpost.com/2026/06/04/nvidia-ai-releases-nemotron-3-ultra-an-open-550b-mixture-of-experts-hybrid-mamba-transformer-for-long-running-agents/', 'NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 21:42:28 +0000">8 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/06/04/nvidia-ai-releases-nemotron-3-ultra-an-open-550b-mixture-of-experts-hybrid-mamba-transformer-for-long-running-agents/" target="_blank" rel="noopener" class="title-link">
-              NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents
-            </a>
+            <a href="https://www.marktechpost.com/2026/06/04/nvidia-ai-releases-nemotron-3-ultra-an-open-550b-mixture-of-experts-hybrid-mamba-transformer-for-long-running-agents/" target="_blank" rel="noopener">NVIDIA AI Releases Nemotron 3 Ultra: An Open 550B Mixture-of-Experts Hybrid Mamba-Transformer for Long-Running Agents</a>
           </h3>
 
           <p class="card-snippet">NVIDIA has released Nemotron 3 Ultra, a 550B total (55B active) open Mixture-of-Experts hybrid Mamba-Transformer for long-running agents. It pairs a 1</p>
 
-          <div class="card-footer">
-            <span class="source-name">MarkTechPost</span>
-            <span class="card-time">5 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model">大模型</span>
+            </div>
             <a href="https://www.marktechpost.com/2026/06/04/nvidia-ai-releases-nemotron-3-ultra-an-open-550b-mixture-of-experts-hybrid-mamba-transformer-for-long-running-agents/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/', 'Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 21:30:00 +0000">8 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/" target="_blank" rel="noopener" class="title-link">
-              Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/" target="_blank" rel="noopener">Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18</a>
           </h3>
 
           <p class="card-snippet">On Thursday, June 18, at The Aerospace Corporation Campus, investors, founders, and tech leaders will gather for an evening of conversation exploring</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">6 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-大模型">大模型</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/', 'These LLMs are the best at resisting Russian propaganda')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              Ars Technica
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 20:44:31 +0000">9 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/" target="_blank" rel="noopener" class="title-link">
-              These LLMs are the best at resisting Russian propaganda
-            </a>
+            <a href="https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/" target="_blank" rel="noopener">These LLMs are the best at resisting Russian propaganda</a>
           </h3>
 
           <p class="card-snippet">Estonian government benchmark shows how dozens of models combat Russia&#x27;s &quot;strategic narratives.&quot;</p>
 
-          <div class="card-footer">
-            <span class="source-name">Ars Technica</span>
-            <span class="card-time">6 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model">大模型</span>
+            </div>
             <a href="https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-政策监管">政策监管</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/', 'Elon Musk tries again to escape FTC audits of X data handling')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              Ars Technica
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 19:49:12 +0000">10 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/" target="_blank" rel="noopener" class="title-link">
-              Elon Musk tries again to escape FTC audits of X data handling
-            </a>
+            <a href="https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/" target="_blank" rel="noopener">Elon Musk tries again to escape FTC audits of X data handling</a>
           </h3>
 
           <p class="card-snippet">Musk can&#x27;t be trusted to protect X user privacy, public commenters warn FTC.</p>
 
-          <div class="card-footer">
-            <span class="source-name">Ars Technica</span>
-            <span class="card-time">7 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag policy">政策监管</span>
+            </div>
             <a href="https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/', 'Meta steals a tactic from Tesla and builds data centers in tents')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 19:33:09 +0000">10 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/" target="_blank" rel="noopener" class="title-link">
-              Meta steals a tactic from Tesla and builds data centers in tents
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/" target="_blank" rel="noopener">Meta steals a tactic from Tesla and builds data centers in tents</a>
           </h3>
 
           <p class="card-snippet">Meta may have found one way to slash its massive data center bill: tents.</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">8 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/meta-steals-a-tactic-from-tesla-and-builds-data-centers-in-tents/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/', 'Apple approves Poke as the first AI agent on its Messages for Business platform')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 19:20:58 +0000">10 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/" target="_blank" rel="noopener" class="title-link">
-              Apple approves Poke as the first AI agent on its Messages for Business platform
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/" target="_blank" rel="noopener">Apple approves Poke as the first AI agent on its Messages for Business platform</a>
           </h3>
 
           <p class="card-snippet">Poke, the startup that lets people use AI agents through simple text messages, has become the first AI agent approved for Apple’s Messages for Busines</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">8 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/apple-approves-poke-as-the-first-ai-agent-on-its-messages-for-business-platform/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center', 'Kevin O’Leary agrees to downsize massive Utah data center')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#7b2ff0"></span>
+              The Verge
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="2026-06-04T18:38:04.000Z">11 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center" target="_blank" rel="noopener" class="title-link">
-              Kevin O’Leary agrees to downsize massive Utah data center
-            </a>
+            <a href="https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center" target="_blank" rel="noopener">Kevin O’Leary agrees to downsize massive Utah data center</a>
           </h3>
 
           <p class="card-snippet">Kevin O&#x27;Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported</p>
 
-          <div class="card-footer">
-            <span class="source-name">The Verge</span>
-            <span class="card-time">8 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/', 'Meta rolls out a new AI creator assistant on Facebook')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 16:32:48 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/" target="_blank" rel="noopener" class="title-link">
-              Meta rolls out a new AI creator assistant on Facebook
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/" target="_blank" rel="noopener">Meta rolls out a new AI creator assistant on Facebook</a>
           </h3>
 
           <p class="card-snippet">Creators often have to parse through charts and dashboards to understand their performance, but with the new AI assistant, they can get quick answers</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">11 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/meta-rolls-out-a-new-ai-creator-assistant-on-facebook/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/', 'What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 16:31:12 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" target="_blank" rel="noopener" class="title-link">
-              What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" target="_blank" rel="noopener">What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates</a>
           </h3>
 
           <p class="card-snippet">Apple&#x27;s WWDC nears: Here&#x27;s what you can look forward to.</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">11 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
       </div>
     </section>
-    <section class="date-section">
-      <h2 class="date-heading">
-        📆 昨天
-        <span class="count-badge">11 条</span>
-      </h2>
+    <section class="date-section" data-date="昨天">
+      <div class="date-heading">
+        <span class="date-icon">📆</span>
+        <span class="date-label">昨天</span>
+        <span class="date-count">11 篇</span>
+      </div>
 
       <div class="news-grid">
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/', 'Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 15:05:00 +0000">14 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/" target="_blank" rel="noopener" class="title-link">
-              Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/" target="_blank" rel="noopener">Is Silicon Valley ready to put robots in people’s homes? Hello Robot is.</a>
           </h3>
 
           <p class="card-snippet">The California startup released the fourth-generation of its home assistance robot, Stretch.</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">12 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles', 'TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#7b2ff0"></span>
+              The Verge
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="2026-06-04T14:15:44.000Z">15 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles" target="_blank" rel="noopener" class="title-link">
-              TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;
-            </a>
+            <a href="https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles" target="_blank" rel="noopener">TSMC struggles to keep up with AI demand: &amp;#8216;We can only support so much&amp;#8217;</a>
           </h3>
 
           <p class="card-snippet">Taiwan Semiconductor Manufacturing Co. - the world&#x27;s biggest semiconductor-maker - is struggling to meet demands from American customers even with its</p>
 
-          <div class="card-footer">
-            <span class="source-name">The Verge</span>
-            <span class="card-time">13 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/', 'How some data center operators are tackling their water use problems')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              Ars Technica
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 14:11:32 +0000">15 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/" target="_blank" rel="noopener" class="title-link">
-              How some data center operators are tackling their water use problems
-            </a>
+            <a href="https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/" target="_blank" rel="noopener">How some data center operators are tackling their water use problems</a>
           </h3>
 
           <p class="card-snippet">Hyperscalers have come under scrutiny for their impact on water quality and availability.</p>
 
-          <div class="card-footer">
-            <span class="source-name">Ars Technica</span>
-            <span class="card-time">13 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://arstechnica.com/ai/2026/06/how-data-center-operators-are-tackling-their-water-use-problems/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/', 'Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 14:05:58 +0000">15 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/" target="_blank" rel="noopener" class="title-link">
-              Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission
-            </a>
+            <a href="https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/" target="_blank" rel="noopener">Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission</a>
           </h3>
 
           <p class="card-snippet">Apple&#x27;s App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.</p>
 
-          <div class="card-footer">
-            <span class="source-name">TechCrunch</span>
-            <span class="card-time">13 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+            </div>
             <a href="https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds', 'Elon Musk is steamrolling Wall Street to become a trillionaire')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#7b2ff0"></span>
+              The Verge
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="2026-06-04T14:00:00.000Z">15 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds" target="_blank" rel="noopener" class="title-link">
-              Elon Musk is steamrolling Wall Street to become a trillionaire
-            </a>
+            <a href="https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds" target="_blank" rel="noopener">Elon Musk is steamrolling Wall Street to become a trillionaire</a>
           </h3>
 
           <p class="card-snippet">Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Mu</p>
 
-          <div class="card-footer">
-            <span class="source-name">The Verge</span>
-            <span class="card-time">13 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-AI应用">AI应用</span>
-              <span class="tag tag-开源工具">开源工具</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.leiphone.com/category/ai/cPAorDy6hbflU7fy.html', '全球首个！材科源图发布有机高分子应用智能体')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#c62828"></span>
+              雷锋网
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 21:38:00 +0800">16 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.leiphone.com/category/ai/cPAorDy6hbflU7fy.html" target="_blank" rel="noopener" class="title-link">
-              全球首个！材科源图发布有机高分子应用智能体
-            </a>
+            <a href="https://www.leiphone.com/category/ai/cPAorDy6hbflU7fy.html" target="_blank" rel="noopener">全球首个！材科源图发布有机高分子应用智能体</a>
           </h3>
 
           <p class="card-snippet">在人工智能重塑科研范式的科技浪潮中，因体系复杂、配方变量多，长期面临高度依赖专家经验、试错成本高、知识难以沉淀复用等行业瓶颈，研发效率提升亟待突破。 近日，据雷峰网了解，苏州材科源图（MatSource)正式发布全球首个有机高分子材料研发应用智能体（Organic Polymer Agent）。该智</p>
 
-          <div class="card-footer">
-            <span class="source-name">雷锋网</span>
-            <span class="card-time">13 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app">AI应用</span>
+              <span class="card-tag opensrc">开源工具</span>
+            </div>
             <a href="https://www.leiphone.com/category/ai/cPAorDy6hbflU7fy.html" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.qbitai.com/2026/06/429192.html', '重估比亚迪，从智驾开始')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 13:10:19 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/06/429192.html" target="_blank" rel="noopener" class="title-link">
-              重估比亚迪，从智驾开始
-            </a>
+            <a href="https://www.qbitai.com/2026/06/429192.html" target="_blank" rel="noopener">重估比亚迪，从智驾开始</a>
           </h3>
 
           <p class="card-snippet"></p>
 
-          <div class="card-footer">
-            <span class="source-name">量子位</span>
-            <span class="card-time">14 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://www.qbitai.com/2026/06/429192.html" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card ">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🇨🇳</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.qbitai.com/2026/06/429186.html', '中国足球小将夺冠，比亚迪携手足球少年走向世界')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="zh">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 13:00:31 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/06/429186.html" target="_blank" rel="noopener" class="title-link">
-              中国足球小将夺冠，比亚迪携手足球少年走向世界
-            </a>
+            <a href="https://www.qbitai.com/2026/06/429186.html" target="_blank" rel="noopener">中国足球小将夺冠，比亚迪携手足球少年走向世界</a>
           </h3>
 
           <p class="card-snippet"></p>
 
-          <div class="card-footer">
-            <span class="source-name">量子位</span>
-            <span class="card-time">14 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://www.qbitai.com/2026/06/429186.html" target="_blank" rel="noopener" class="read-link">
               阅读原文 →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok', 'Let us filter AI slop, you cowards')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#7b2ff0"></span>
+              The Verge
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="2026-06-04T12:30:00.000Z">17 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok" target="_blank" rel="noopener" class="title-link">
-              Let us filter AI slop, you cowards
-            </a>
+            <a href="https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok" target="_blank" rel="noopener">Let us filter AI slop, you cowards</a>
           </h3>
 
           <p class="card-snippet">Nobody should be subjected to seeing shrimp Jesus all over their social feeds. | Image: Cath Virginia / The Verge, Getty Images	  It&#x27;s almost impossib</p>
 
-          <div class="card-footer">
-            <span class="source-name">The Verge</span>
-            <span class="card-time">15 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-综合">综合</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress', 'AI leaders call for tougher protections against AI-aided bioweapons')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#7b2ff0"></span>
+              The Verge
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="2026-06-04T12:12:12.000Z">17 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress" target="_blank" rel="noopener" class="title-link">
-              AI leaders call for tougher protections against AI-aided bioweapons
-            </a>
+            <a href="https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress" target="_blank" rel="noopener">AI leaders call for tougher protections against AI-aided bioweapons</a>
           </h3>
 
           <p class="card-snippet">Some of the AI industry&#x27;s biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their techn</p>
 
-          <div class="card-footer">
-            <span class="source-name">The Verge</span>
-            <span class="card-time">15 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general">综合</span>
+            </div>
             <a href="https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
-        <article class="news-card en-card">
-          <div class="card-header">
-            <div class="tags">
-              <span class="tag tag-政策监管">政策监管</span>
-              <span class="tag tag-lang">🌐 EN</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/', 'The Download: AI-generated lawsuits and virtual power plants for data centers')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="en">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#b91c1c"></span>
+              MIT Tech Review
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" title="Thu, 04 Jun 2026 12:10:00 +0000">17 小时前</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/" target="_blank" rel="noopener" class="title-link">
-              The Download: AI-generated lawsuits and virtual power plants for data centers
-            </a>
+            <a href="https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/" target="_blank" rel="noopener">The Download: AI-generated lawsuits and virtual power plants for data centers</a>
           </h3>
 
           <p class="card-snippet">This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How courts a</p>
 
-          <div class="card-footer">
-            <span class="source-name">MIT Tech Review</span>
-            <span class="card-time">15 小时前</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag policy">政策监管</span>
+            </div>
             <a href="https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/" target="_blank" rel="noopener" class="read-link">
-              Read more →
+              Read →
             </a>
           </div>
         </article>
@@ -1559,19 +1433,50 @@
 </main>
 
 <footer class="site-footer">
-  <div class="container">
-    <p>🕐 更新于 2026/6/5 11:35:44</p>
-    <p>AI 新闻日报 — 每日自动更新 · 免费 · 开源</p>
-  </div>
+  <p class="footer-brand">🤖 AI 新闻日报</p>
+  <p>每日 8:00 自动更新 · 免费 · 开源</p>
+  <p>更新于 2026/6/5 11:35:44</p>
 </footer>
 
+<button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回到顶部">↑</button>
+
 <script>
+// Filter tabs
+function filterNews(lang, btn) {
+  document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.news-card').forEach(card => {
+    if (lang === 'all' || card.dataset.lang === lang) {
+      card.style.display = '';
+    } else {
+      card.style.display = 'none';
+    }
+  });
+  // Hide empty date sections
+  document.querySelectorAll('.date-section').forEach(section => {
+    const visible = section.querySelectorAll('.news-card[style*="display: none"]').length;
+    const total = section.querySelectorAll('.news-card').length;
+    section.style.display = visible === total ? 'none' : '';
+  });
+}
+
+// Back to top visibility
+const btn = document.getElementById('backToTop');
+window.addEventListener('scroll', () => {
+  btn.classList.toggle('visible', window.scrollY > 400);
+});
+
+// Share function
 function shareArticle(url, title) {
   if (navigator.share) {
     navigator.share({ title, url }).catch(() => {});
   } else {
     navigator.clipboard.writeText(url).then(() => {
-      alert('链接已复制到剪贴板！');
+      const toast = document.createElement('div');
+      toast.textContent = '链接已复制 ✓';
+      toast.style.cssText = 'position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#1a1a2e;color:#fff;padding:8px 20px;border-radius:20px;font-size:13px;z-index:999;animation:fadeInUp 0.3s ease';
+      document.body.appendChild(toast);
+      setTimeout(() => { toast.remove(); }, 2000);
     });
   }
 }

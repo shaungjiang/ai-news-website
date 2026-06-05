@@ -33,6 +33,39 @@ Handlebars.registerHelper('eq', (a, b) => a === b);
 
 Handlebars.registerHelper('json', (obj) => JSON.stringify(obj));
 
+// Source-specific colors for the dot indicator
+Handlebars.registerHelper('sourceColor', (sourceId) => {
+  const colors = {
+    'qbitai': '#e65100',
+    '36kr-ai': '#1976d2',
+    'leiphone': '#c62828',
+    'itjuzi-ai': '#6d28d9',
+    'techcrunch-ai': '#0a9e4a',
+    'theverge-ai': '#7b2ff0',
+    'mit-tr': '#b91c1c',
+    'venturebeat-ai': '#2e7d32',
+    'arstechnica-ai': '#e65100',
+    'openai-blog': '#10a37f',
+    'huggingface-blog': '#f5a623',
+    'marktechpost': '#3b6df0',
+  };
+  return colors[sourceId] || '#8e8ea8';
+});
+
+// Tag CSS class mapping
+Handlebars.registerHelper('tagClass', (tag) => {
+  const map = {
+    '大模型': 'model',
+    'AI应用': 'app',
+    '政策监管': 'policy',
+    '学术研究': 'research',
+    '开源工具': 'opensrc',
+    '商业融资': 'biz',
+    '综合': 'general',
+  };
+  return map[tag] || 'general';
+});
+
 // ====== Group articles by date ======
 function groupByDate(articles) {
   const groups = {};

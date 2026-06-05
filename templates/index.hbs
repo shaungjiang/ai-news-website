@@ -4,9 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>AI 新闻日报 — {{nowDate}}</title>
-  <meta name="description" content="每日 AI 新闻聚合，汇集国内外人工智能最新资讯">
+  <meta name="description" content="每日 AI 新闻聚合，汇集国内外人工智能最新资讯。自动更新，免费阅读。">
   <link rel="stylesheet" href="style.css">
-  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%233b6df0'/><stop offset='100%' stop-color='%237b2ff0'/></linearGradient></defs><rect width='100' height='100' rx='22' fill='url(%23g)'/><text x='50' y='68' text-anchor='middle' font-size='48'>🤖</text></svg>">
 </head>
 <body>
 
@@ -16,57 +16,77 @@
       <span class="logo-icon">🤖</span>
       <span class="logo-text">AI 新闻日报</span>
     </a>
-    <div class="header-info">
-      <span class="date-badge">{{nowDate}}</span>
-      <span class="header-stats">
-        今日 {{stats.today}} 条 · 共 {{stats.total}} 条
-        （🇨🇳 {{stats.chinese}} · 🌐 {{stats.english}}）
-      </span>
+    <div class="header-stats">
+      今日 <strong>{{stats.today}} 条</strong> · 共 {{stats.total}} 条
     </div>
   </div>
 </header>
 
+<section class="hero">
+  <div class="container">
+    <h1 class="hero-title">{{nowDate}} · <span>AI 资讯速览</span></h1>
+    <p class="hero-subtitle">汇聚国内外人工智能前沿动态，每日 8:00 自动更新</p>
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="hero-stat-icon">📰</span>
+        <span>今日 <strong>{{stats.today}}</strong> 篇</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-icon">🇨🇳</span>
+        <span>中文 <strong>{{stats.chinese}}</strong> 篇</span>
+      </div>
+      <div class="hero-stat">
+        <span class="hero-stat-icon">🌐</span>
+        <span>英文 <strong>{{stats.english}}</strong> 篇</span>
+      </div>
+    </div>
+  </div>
+</section>
+
 <main class="content">
   <div class="container">
+    <div class="filter-bar">
+      <button class="filter-tab active" onclick="filterNews('all', this)">全部<span class="filter-count">{{stats.total}}</span></button>
+      <button class="filter-tab" onclick="filterNews('zh', this)">🇨🇳 中文<span class="filter-count">{{stats.chinese}}</span></button>
+      <button class="filter-tab" onclick="filterNews('en', this)">🌐 English<span class="filter-count">{{stats.english}}</span></button>
+    </div>
 
     {{#each dateGroups}}
-    <section class="date-section">
-      <h2 class="date-heading">
-        {{#if (eq label "今日")}}📅 今日{{else if (eq label "昨天")}}📆 昨天{{else}}📅 {{label}}{{/if}}
-        <span class="count-badge">{{items.length}} 条</span>
-      </h2>
+    <section class="date-section" data-date="{{label}}">
+      <div class="date-heading">
+        <span class="date-icon">{{#if (eq label "今日")}}📅{{else if (eq label "昨天")}}📆{{else}}📋{{/if}}</span>
+        <span class="date-label">{{label}}</span>
+        <span class="date-count">{{items.length}} 篇</span>
+      </div>
 
       <div class="news-grid">
         {{#each items}}
-        <article class="news-card {{#if (eq lang "en")}}en-card{{/if}}">
-          <div class="card-header">
-            <div class="tags">
-              {{#each tags}}
-              <span class="tag tag-{{this}}">{{this}}</span>
-              {{/each}}
-              <span class="tag tag-lang">{{#if (eq lang "zh")}}🇨🇳{{else}}🌐 EN{{/if}}</span>
-            </div>
-            <button class="share-btn" onclick="shareArticle('{{link}}', '{{title}}')" title="分享">
-              <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                <circle cx="18" cy="5" r="3"/><circle cx="6" cy="12" r="3"/><circle cx="18" cy="19" r="3"/>
-                <path d="M8.59 13.51l6.83 3.98M15.41 6.51l-6.82 3.98"/>
-              </svg>
-            </button>
+        <article class="news-card" data-lang="{{lang}}">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:{{sourceColor sourceId}}"></span>
+              {{sourceName}}
+            </span>
+            <span class="card-lang-tag {{#if (eq lang "zh")}}zh{{else}}en{{/if}}">
+              {{#if (eq lang "zh")}}中{{else}}EN{{/if}}
+            </span>
+            <span class="card-time" title="{{pubDate}}">{{formatDate pubDate}}</span>
           </div>
 
           <h3 class="card-title">
-            <a href="{{link}}" target="_blank" rel="noopener" class="title-link">
-              {{title}}
-            </a>
+            <a href="{{link}}" target="_blank" rel="noopener">{{title}}</a>
           </h3>
 
           <p class="card-snippet">{{snippet}}</p>
 
-          <div class="card-footer">
-            <span class="source-name">{{sourceName}}</span>
-            <span class="card-time">{{formatDate pubDate}}</span>
+          <div class="card-ft">
+            <div class="card-tags">
+              {{#each tags}}
+              <span class="card-tag {{tagClass this}}">{{this}}</span>
+              {{/each}}
+            </div>
             <a href="{{link}}" target="_blank" rel="noopener" class="read-link">
-              {{#if (eq lang "zh")}}阅读原文 →{{else}}Read more →{{/if}}
+              {{#if (eq lang "zh")}}阅读原文 →{{else}}Read →{{/if}}
             </a>
           </div>
         </article>
@@ -75,23 +95,60 @@
     </section>
     {{/each}}
 
+    {{#unless dateGroups.length}}
+    <div class="empty-state">
+      <div class="empty-state-icon">📭</div>
+      <p>暂无新闻，请稍后再来</p>
+    </div>
+    {{/unless}}
   </div>
 </main>
 
 <footer class="site-footer">
-  <div class="container">
-    <p>🕐 更新于 {{generatedAt}}</p>
-    <p>AI 新闻日报 — 每日自动更新 · 免费 · 开源</p>
-  </div>
+  <p class="footer-brand">🤖 AI 新闻日报</p>
+  <p>每日 8:00 自动更新 · 免费 · 开源</p>
+  <p>更新于 {{generatedAt}}</p>
 </footer>
 
+<button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回到顶部">↑</button>
+
 <script>
+// Filter tabs
+function filterNews(lang, btn) {
+  document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.news-card').forEach(card => {
+    if (lang === 'all' || card.dataset.lang === lang) {
+      card.style.display = '';
+    } else {
+      card.style.display = 'none';
+    }
+  });
+  // Hide empty date sections
+  document.querySelectorAll('.date-section').forEach(section => {
+    const visible = section.querySelectorAll('.news-card[style*="display: none"]').length;
+    const total = section.querySelectorAll('.news-card').length;
+    section.style.display = visible === total ? 'none' : '';
+  });
+}
+
+// Back to top visibility
+const btn = document.getElementById('backToTop');
+window.addEventListener('scroll', () => {
+  btn.classList.toggle('visible', window.scrollY > 400);
+});
+
+// Share function
 function shareArticle(url, title) {
   if (navigator.share) {
     navigator.share({ title, url }).catch(() => {});
   } else {
     navigator.clipboard.writeText(url).then(() => {
-      alert('链接已复制到剪贴板！');
+      const toast = document.createElement('div');
+      toast.textContent = '链接已复制 ✓';
+      toast.style.cssText = 'position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#1a1a2e;color:#fff;padding:8px 20px;border-radius:20px;font-size:13px;z-index:999;animation:fadeInUp 0.3s ease';
+      document.body.appendChild(toast);
+      setTimeout(() => { toast.remove(); }, 2000);
     });
   }
 }
