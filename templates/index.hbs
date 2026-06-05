@@ -61,7 +61,7 @@
 
       <div class="news-grid">
         {{#each items}}
-        <article class="news-card" data-lang="{{lang}}">
+        <article class="news-card" data-lang="{{lang}}" data-url="{{link}}">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:{{sourceColor sourceId}}"></span>
@@ -85,8 +85,8 @@
               <span class="card-tag {{tagClass this}}">{{this}}</span>
               {{/each}}
             </div>
-            <a href="{{link}}" target="_blank" rel="noopener" class="read-link">
-              {{#if (eq lang "zh")}}阅读原文 →{{else}}Read →{{/if}}
+            <a href="{{link}}" target="_blank" rel="noopener" class="read-btn">
+              📖 {{#if (eq lang "zh")}}阅读原文{{else}}Read Article{{/if}}
             </a>
           </div>
         </article>
@@ -113,6 +113,16 @@
 <button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回到顶部">↑</button>
 
 <script>
+// Click card to open article (except when clicking read button)
+document.querySelectorAll('.news-card').forEach(card => {
+  card.addEventListener('click', (e) => {
+    // Don't trigger if clicking the read button or tags
+    if (e.target.closest('.read-btn') || e.target.closest('.card-tag')) return;
+    const url = card.dataset.url;
+    if (url) window.open(url, '_blank', 'noopener');
+  });
+});
+
 // Filter tabs
 function filterNews(lang, btn) {
   document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
