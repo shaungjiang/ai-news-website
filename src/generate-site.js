@@ -91,12 +91,18 @@ function main() {
   console.log('🎨 Generating website...\n');
 
   const newsPath = path.join(DATA_DIR, 'news.json');
+  let data;
   if (!fs.existsSync(newsPath)) {
-    console.error('❌ news.json not found! Run process-news.js first.');
-    process.exit(1);
+    console.warn('⚠️ news.json not found, using empty data');
+    data = { generatedAt: new Date().toISOString(), stats: { total: 0, shown: 0, chinese: 0, english: 0, today: 0 }, articles: [] };
+  } else {
+    try {
+      data = JSON.parse(fs.readFileSync(newsPath, 'utf-8'));
+    } catch (err) {
+      console.warn('⚠️ news.json parse error, using empty data');
+      data = { generatedAt: new Date().toISOString(), stats: { total: 0, shown: 0, chinese: 0, english: 0, today: 0 }, articles: [] };
+    }
   }
-
-  const data = JSON.parse(fs.readFileSync(newsPath, 'utf-8'));
   const dateGroups = groupByDate(data.articles);
 
   // Build template context

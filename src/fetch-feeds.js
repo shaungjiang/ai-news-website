@@ -73,7 +73,7 @@ async function main() {
     await new Promise(r => setTimeout(r, 500));
   }
 
-  // Save raw results
+  // Always save results (even empty)
   fs.mkdirSync(DATA_DIR, { recursive: true });
   fs.writeFileSync(RAW_OUTPUT, JSON.stringify(allItems, null, 2), 'utf-8');
 
@@ -81,4 +81,15 @@ async function main() {
   console.log(`📁 Saved to: ${RAW_OUTPUT}`);
 }
 
-main().catch(console.error);
+main().catch(err => {
+  console.error('❌ Fatal fetch error:', err.message);
+  // Write empty array so downstream steps don't crash
+  try {
+    fs.mkdirSync(DATA_DIR, { recursive: true });
+    fs.writeFileSync(RAW_OUTPUT, '[]', 'utf-8');
+    console.log('📁 Wrote empty fallback raw-news.json');
+  } catch (e) {
+    console.error('Could not write fallback:', e.message);
+  }
+  process.exit(0); // Don't fail the workflow
+});

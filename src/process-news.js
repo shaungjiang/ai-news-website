@@ -58,16 +58,40 @@ function deduplicate(articles) {
   return result;
 }
 
+// ====== Helpers ======
+function writeEmptyNews() {
+  const result = {
+    generatedAt: new Date().toISOString(),
+    stats: { total: 0, shown: 0, chinese: 0, english: 0, today: 0 },
+    articles: []
+  };
+  fs.writeFileSync(NEWS_OUTPUT, JSON.stringify(result, null, 2), 'utf-8');
+  console.log('📁 Wrote empty news.json');
+}
+
 // ====== Main ======
 function main() {
   console.log('🔍 Processing news...\n');
 
   if (!fs.existsSync(RAW_INPUT)) {
-    console.error('❌ raw-news.json not found!');
-    process.exit(1);
+    console.warn('⚠️ No raw data found, creating empty result');
+    writeEmptyNews();
+    return;
   }
 
-  const rawArticles = JSON.parse(fs.readFileSync(RAW_INPUT, 'utf-8'));
+  let rawArticles;
+  try {
+    rawArticles = JSON.parse(fs.readFileSync(RAW_INPUT, 'utf-8'));
+    if (!Array.isArray(rawArticles) || rawArticles.length === 0) {
+      console.warn('⚠️ Raw data empty, creating empty result');
+      writeEmptyNews();
+      return;
+    }
+  } catch (err) {
+    console.error('❌ Failed to parse raw-news.json:', err.message);
+    writeEmptyNews();
+    return;
+  }
 
   // Deduplicate
   const unique = deduplicate(rawArticles);
