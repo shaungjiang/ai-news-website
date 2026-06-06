@@ -9,7 +9,7 @@ const SOURCES_FILE = path.join(DATA_DIR, 'sources.json');
 const RAW_OUTPUT = path.join(DATA_DIR, 'raw-news.json');
 
 const parser = new Parser({
-  timeout: 15000,
+  timeout: 8000,  // 8s per source (reduced from 15s)
   headers: {
     'User-Agent': 'AI-News-Aggregator/1.0 (RSS Reader Bot)',
     'Accept': 'application/rss+xml, application/xml, text/xml, */*'
@@ -70,7 +70,7 @@ async function main() {
     const items = await fetchSource(source);
     allItems.push(...items);
     // Small delay between requests to be polite
-    await new Promise(r => setTimeout(r, 500));
+    await new Promise(r => setTimeout(r, 200));
   }
 
   // Always save results (even empty)
