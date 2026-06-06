@@ -18,17 +18,20 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
-      - run: npm install
+      - name: Install deps
+        run: npm install
 
-      - run: npm run fetch
-        timeout-minutes: 12
+      - name: Fetch news (with hard timeout)
+        run: timeout 600 npm run fetch
         continue-on-error: true
 
-      - run: npm run process
+      - name: Process news
+        run: npm run process
 
-      - run: npm run build
+      - name: Build site
+        run: npm run build
 
       - name: Push changes
         env:
