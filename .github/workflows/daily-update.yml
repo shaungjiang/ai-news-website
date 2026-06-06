@@ -37,15 +37,11 @@ jobs:
       - name: Generate static site
         run: npm run build
 
-      - name: Commit and push if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git"
-          git add data/ public/
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "📰 Daily news update $(TZ='Asia/Shanghai' date +'%Y-%m-%d')"
-            git push
-          fi
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📰 Daily news update"
+          file_pattern: 'data/ public/'
+          commit_user_name: "github-actions[bot]"
+          commit_user_email: "github-actions[bot]@users.noreply.github.com"
+          commit_author: "github-actions[bot] <github-actions[bot]@users.noreply.github.com>"
