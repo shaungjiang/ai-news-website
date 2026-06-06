@@ -6,10 +6,13 @@ on:
     - cron: '0 0 * * *'
   workflow_dispatch:  # Allows manual trigger from GitHub UI
 
+permissions:
+  contents: write  # Needed to push changes back to repo
+
 jobs:
   update-news:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repo
@@ -25,7 +28,8 @@ jobs:
 
       - name: Fetch news from RSS feeds
         run: npm run fetch
-        timeout-minutes: 5
+        timeout-minutes: 8
+        continue-on-error: true  # Individual source failures are OK
 
       - name: Process and deduplicate
         run: npm run process
@@ -41,6 +45,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "📰 Daily news update $(date +'%Y-%m-%d')"
+            git commit -m "📰 Daily news update $(TZ='Asia/Shanghai' date +'%Y-%m-%d')"
             git push
           fi
