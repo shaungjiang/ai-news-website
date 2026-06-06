@@ -6,9 +6,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 
 jobs:
   update-news:
@@ -17,6 +15,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-node@v4
         with:
@@ -24,7 +24,7 @@ jobs:
 
       - run: npm install
 
-      - name: Fetch news
+      - name: Fetch
         run: timeout 600 npm run fetch
         continue-on-error: true
 
@@ -34,10 +34,14 @@ jobs:
       - name: Build
         run: npm run build
 
-      - uses: actions/configure-pages@v4
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-
-      - uses: actions/deploy-pages@v4
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json public/index.html
+          if git diff --staged --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "📰 Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d')"
+          git push origin HEAD:main
