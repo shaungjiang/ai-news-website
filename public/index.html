@@ -583,7 +583,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" title="2026-06-07 14:32:59  +0800">5 小时前</span>
+            <span class="card-time" title="2026-06-07 14:32:59  +0800">6 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1458,7 +1458,7 @@
 </main>
 
 <!-- ====== Pagination ====== -->
-<div class="pagination" id="pagination" style="display:none">
+<div class="pagination" id="pagination">
   <div class="pagination-inner">
     <button class="page-btn" id="prevPage" onclick="goToPage(currentPage - 1)" disabled>‹ 上一页</button>
     <div class="page-numbers" id="pageNumbers"></div>
@@ -1477,10 +1477,10 @@
 
 <script>
 // ====== State ======
-const filterState = { lang: 'all', time: 'all', cat: 'all' };
-const PER_PAGE = 15;
-let currentPage = 1;
-let totalPages = 0;
+var filterState = { lang: 'all', time: 'all', cat: 'all' };
+var PER_PAGE = 15;
+var currentPage = 1;
+var totalPages = 0;
 
 // ====== Click card to open article ======
 document.querySelectorAll('.news-card').forEach(card => {
