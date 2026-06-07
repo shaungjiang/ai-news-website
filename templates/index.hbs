@@ -89,7 +89,7 @@
 
       <div class="news-grid">
         {{#each items}}
-        <article class="news-card" data-lang="{{lang}}" data-url="{{link}}" data-date="{{dateLabel}}" data-tags='{{json tags}}'>
+        <article class="news-card" data-lang="{{lang}}" data-url="{{link}}" data-date="{{dateLabel}}" data-tags='{{json tags}}' data-pubdate="{{pubDate}}">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:{{sourceColor sourceId}}"></span>
@@ -98,7 +98,7 @@
             <span class="card-lang-tag {{#if (eq lang "zh")}}zh{{else}}en{{/if}}">
               {{#if (eq lang "zh")}}中{{else}}EN{{/if}}
             </span>
-            <span class="card-time" title="{{pubDate}}">{{formatDate pubDate}}</span>
+            <span class="card-time" data-pubdate="{{pubDate}}" title="{{pubDate}}">{{formatDate pubDate}}</span>
           </div>
 
           <h3 class="card-title">
@@ -146,7 +146,7 @@
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
   <p>每日 8:00 自动更新 · 免费 · 开源</p>
-  <p>更新于 {{generatedAt}}</p>
+  <p>更新于 {{generatedAt}} <span class="live-badge" id="liveBadge">🟢 实时</span></p>
 </footer>
 
 <button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回到顶部">↑</button>
@@ -318,6 +318,48 @@ const backToTopBtn = document.getElementById('backToTop');
 window.addEventListener('scroll', () => {
   backToTopBtn.classList.toggle('visible', window.scrollY > 400);
 });
+
+// ====== Real-time timestamp update ======
+function relativeTime(dateStr) {
+  const date = new Date(dateStr);
+  if (isNaN(date.getTime())) return dateStr;
+  const now = new Date();
+  const diffMs = now - date;
+  const diffSec = Math.floor(diffMs / 1000);
+  const diffMin = Math.floor(diffSec / 60);
+  const diffH = Math.floor(diffMin / 60);
+  const diffD = Math.floor(diffH / 24);
+
+  if (diffSec < 10) return '刚刚';
+  if (diffMin < 1) return diffSec + ' 秒前';
+  if (diffMin < 60) return diffMin + ' 分钟前';
+  if (diffH < 24) return diffH + ' 小时前';
+  if (diffD < 2) return '昨天';
+  if (diffD < 7) return diffD + ' 天前';
+  return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
+}
+
+function updateTimestamps() {
+  document.querySelectorAll('.card-time[data-pubdate]').forEach(el => {
+    const oldText = el.textContent;
+    const newText = relativeTime(el.dataset.pubdate);
+    if (oldText !== newText) {
+      el.textContent = newText;
+    }
+  });
+}
+
+// Update every 60 seconds
+setInterval(updateTimestamps, 60000);
+
+// Pulse the live badge occasionally to show it's alive
+const liveBadge = document.getElementById('liveBadge');
+if (liveBadge) {
+  setInterval(() => {
+    liveBadge.style.opacity = '0.6';
+    setTimeout(() => { liveBadge.style.opacity = '1'; }, 200);
+  }, 10000);
+}
 
 // ====== Initialize on page load ======
 applyFilters();
