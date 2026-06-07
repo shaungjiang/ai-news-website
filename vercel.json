@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "buildCommand": "npm run all",
+  "buildCommand": "npm run build",
   "outputDirectory": "public",
   "cleanUrls": true
 }
