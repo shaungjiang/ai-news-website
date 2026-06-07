@@ -71,6 +71,7 @@ function groupByDate(articles) {
   const groups = {};
   const today = new Date().toDateString();
   const yesterday = new Date(Date.now() - 86400000).toDateString();
+  const ORDER = { '今日': 0, '昨天': 1 };
 
   for (const article of articles) {
     const date = new Date(article.pubDate).toDateString();
@@ -79,11 +80,16 @@ function groupByDate(articles) {
     else if (date === yesterday) label = '昨天';
     else label = new Date(article.pubDate).toLocaleDateString('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' });
 
+    // Attach date label to each article for per-card data attributes
+    article.dateLabel = label;
+
     if (!groups[label]) groups[label] = [];
     groups[label].push(article);
   }
 
-  return Object.entries(groups).map(([label, items]) => ({ label, items }));
+  return Object.entries(groups)
+    .map(([label, items]) => ({ label, items }))
+    .sort((a, b) => (ORDER[a.label] ?? 2) - (ORDER[b.label] ?? 2));
 }
 
 // ====== Render ======

@@ -45,10 +45,38 @@
 
 <main class="content">
   <div class="container">
+
+    <!-- ====== Language Filter ====== -->
     <div class="filter-bar">
-      <button class="filter-tab active" onclick="filterNews('all', this)">全部<span class="filter-count">{{stats.total}}</span></button>
-      <button class="filter-tab" onclick="filterNews('zh', this)">🇨🇳 中文<span class="filter-count">{{stats.chinese}}</span></button>
-      <button class="filter-tab" onclick="filterNews('en', this)">🌐 English<span class="filter-count">{{stats.english}}</span></button>
+      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">{{stats.total}}</span></button>
+      <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">{{stats.chinese}}</span></button>
+      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">{{stats.english}}</span></button>
+    </div>
+
+    <!-- ====== Time Filter ====== -->
+    <div class="filter-bar filter-bar-secondary">
+      <button class="filter-tab active" data-filter-group="time" data-filter-value="all" onclick="setFilter('time', 'all', this)">📅 全部时间</button>
+      <button class="filter-tab" data-filter-group="time" data-filter-value="今日" onclick="setFilter('time', '今日', this)">📌 今日</button>
+      <button class="filter-tab" data-filter-group="time" data-filter-value="昨天" onclick="setFilter('time', '昨天', this)">📌 昨天</button>
+      <button class="filter-tab" data-filter-group="time" data-filter-value="earlier" onclick="setFilter('time', 'earlier', this)">📌 更早</button>
+    </div>
+
+    <!-- ====== Category Filter ====== -->
+    <div class="filter-bar filter-bar-tertiary">
+      <button class="filter-tab active" data-filter-group="cat" data-filter-value="all" onclick="setFilter('cat', 'all', this)">🏷️ 全部分类</button>
+      <button class="filter-tab" data-filter-group="cat" data-filter-value="大模型" onclick="setFilter('cat', '大模型', this)">大模型</button>
+      <button class="filter-tab" data-filter-group="cat" data-filter-value="AI应用" onclick="setFilter('cat', 'AI应用', this)">AI应用</button>
+      <button class="filter-tab" data-filter-group="cat" data-filter-value="政策监管" onclick="setFilter('cat', '政策监管', this)">政策监管</button>
+      <button class="filter-tab" data-filter-group="cat" data-filter-value="学术研究" onclick="setFilter('cat', '学术研究', this)">学术研究</button>
+      <button class="filter-tab" data-filter-group="cat" data-filter-value="开源工具" onclick="setFilter('cat', '开源工具', this)">开源工具</button>
+      <button class="filter-tab" data-filter-group="cat" data-filter-value="商业融资" onclick="setFilter('cat', '商业融资', this)">商业融资</button>
+      <button class="filter-tab" data-filter-group="cat" data-filter-value="综合" onclick="setFilter('cat', '综合', this)">综合</button>
+    </div>
+
+    <!-- ====== Active Filter Indicator ====== -->
+    <div class="filter-active" id="filterActive" style="display:none">
+      <span id="filterActiveText"></span>
+      <button class="filter-clear" onclick="clearAllFilters()">✕ 清除筛选</button>
     </div>
 
     {{#each dateGroups}}
@@ -61,7 +89,7 @@
 
       <div class="news-grid">
         {{#each items}}
-        <article class="news-card" data-lang="{{lang}}" data-url="{{link}}">
+        <article class="news-card" data-lang="{{lang}}" data-url="{{link}}" data-date="{{dateLabel}}" data-tags='{{json tags}}'>
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:{{sourceColor sourceId}}"></span>
@@ -82,7 +110,7 @@
           <div class="card-ft">
             <div class="card-tags">
               {{#each tags}}
-              <span class="card-tag {{tagClass this}}">{{this}}</span>
+              <span class="card-tag {{tagClass this}}" onclick="event.stopPropagation(); filterByTag('{{this}}')">{{this}}</span>
               {{/each}}
             </div>
             <a href="{{link}}" target="_blank" rel="noopener" class="read-btn">
@@ -101,8 +129,19 @@
       <p>暂无新闻，请稍后再来</p>
     </div>
     {{/unless}}
+
   </div>
 </main>
+
+<!-- ====== Pagination ====== -->
+<div class="pagination" id="pagination" style="display:none">
+  <div class="pagination-inner">
+    <button class="page-btn" id="prevPage" onclick="goToPage(currentPage - 1)" disabled>‹ 上一页</button>
+    <div class="page-numbers" id="pageNumbers"></div>
+    <button class="page-btn" id="nextPage" onclick="goToPage(currentPage + 1)" disabled>下一页 ›</button>
+    <span class="page-info" id="pageInfo"></span>
+  </div>
+</div>
 
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
@@ -113,55 +152,175 @@
 <button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回到顶部">↑</button>
 
 <script>
-// Click card to open article (except when clicking read button)
+// ====== State ======
+const filterState = { lang: 'all', time: 'all', cat: 'all' };
+const PER_PAGE = 15;
+let currentPage = 1;
+let totalPages = 0;
+
+// ====== Click card to open article ======
 document.querySelectorAll('.news-card').forEach(card => {
   card.addEventListener('click', (e) => {
-    // Don't trigger if clicking the read button or tags
     if (e.target.closest('.read-btn') || e.target.closest('.card-tag')) return;
     const url = card.dataset.url;
     if (url) window.open(url, '_blank', 'noopener');
   });
 });
 
-// Filter tabs
-function filterNews(lang, btn) {
-  document.querySelectorAll('.filter-tab').forEach(t => t.classList.remove('active'));
+// ====== Combined filter + pagination ======
+function setFilter(group, value, btn) {
+  filterState[group] = value;
+
+  // Update active tab within the same group
+  const groupBtns = btn.parentElement.querySelectorAll('[data-filter-group="' + group + '"]');
+  groupBtns.forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  document.querySelectorAll('.news-card').forEach(card => {
-    if (lang === 'all' || card.dataset.lang === lang) {
-      card.style.display = '';
+
+  currentPage = 1;
+  applyFilters();
+}
+
+function applyFilters() {
+  const { lang, time, cat } = filterState;
+
+  // --- Step 1: Determine which cards pass the filters ---
+  const allCards = document.querySelectorAll('.news-card');
+  const matched = [];
+
+  allCards.forEach(card => {
+    let match = true;
+
+    if (lang !== 'all' && card.dataset.lang !== lang) match = false;
+    if (match && time !== 'all') {
+      if (time === 'earlier') {
+        if (card.dataset.date === '今日' || card.dataset.date === '昨天') match = false;
+      } else {
+        if (card.dataset.date !== time) match = false;
+      }
+    }
+    if (match && cat !== 'all') {
+      let tags = [];
+      try { tags = JSON.parse(card.dataset.tags); } catch(e) {}
+      if (!tags.includes(cat)) match = false;
+    }
+
+    if (match) matched.push(card);
+    // Hide all cards initially; we'll reveal the right ones below
+  });
+
+  // --- Step 2: Pagination math ---
+  totalPages = Math.max(1, Math.ceil(matched.length / PER_PAGE));
+  if (currentPage > totalPages) currentPage = totalPages;
+
+  const start = (currentPage - 1) * PER_PAGE;
+  const end = start + PER_PAGE;
+  const pageSlice = matched.slice(start, end);
+  const pageSet = new Set(pageSlice);
+
+  // --- Step 3: Show/hide each card ---
+  allCards.forEach(card => {
+    card.style.display = pageSet.has(card) ? '' : 'none';
+  });
+
+  // --- Step 4: Hide empty date sections ---
+  document.querySelectorAll('.date-section').forEach(section => {
+    const hiddenCards = section.querySelectorAll('.news-card[style*="display: none"]').length;
+    const total = section.querySelectorAll('.news-card').length;
+    section.style.display = hiddenCards === total ? 'none' : '';
+  });
+
+  // --- Step 5: Update filter indicator ---
+  const activeEl = document.getElementById('filterActive');
+  const activeText = document.getElementById('filterActiveText');
+  const nonDefaultFilters = [];
+  if (lang !== 'all') nonDefaultFilters.push('语言: ' + (lang === 'zh' ? '中文' : 'English'));
+  if (time !== 'all') nonDefaultFilters.push('时间: ' + (time === 'earlier' ? '更早' : time));
+  if (cat !== 'all') nonDefaultFilters.push('分类: ' + cat);
+
+  activeEl.style.display = nonDefaultFilters.length > 0 ? 'flex' : 'none';
+  activeText.textContent = '筛选: ' + nonDefaultFilters.join(' · ');
+
+  // --- Step 6: Update pagination UI ---
+  renderPagination(matched.length);
+}
+
+// ====== Pagination rendering ======
+function renderPagination(totalFiltered) {
+  const pagination = document.getElementById('pagination');
+  const pageNumbers = document.getElementById('pageNumbers');
+  const prevBtn = document.getElementById('prevPage');
+  const nextBtn = document.getElementById('nextPage');
+  const pageInfo = document.getElementById('pageInfo');
+
+  if (totalFiltered === 0 || totalPages <= 1) {
+    pagination.style.display = 'none';
+    return;
+  }
+
+  pagination.style.display = 'block';
+  pageInfo.textContent = '共 ' + totalFiltered + ' 条，第 ' + currentPage + '/' + totalPages + ' 页';
+
+  prevBtn.disabled = currentPage <= 1;
+  nextBtn.disabled = currentPage >= totalPages;
+
+  // Build page number buttons
+  let html = '';
+  const range = 2; // show 2 pages before and after current
+
+  for (let i = 1; i <= totalPages; i++) {
+    if (i === 1 || i === totalPages || (i >= currentPage - range && i <= currentPage + range)) {
+      html += '<button class="page-num' + (i === currentPage ? ' active' : '') + '" onclick="goToPage(' + i + ')">' + i + '</button>';
+    } else if (html.slice(-6) !== '…</button>' && html.slice(-1) !== '…') {
+      html += '<span class="page-ellipsis">…</span>';
+    }
+  }
+
+  pageNumbers.innerHTML = html;
+}
+
+function goToPage(page) {
+  if (page < 1 || page > totalPages) return;
+  currentPage = page;
+  applyFilters();
+  // Scroll to top of content
+  document.querySelector('.content').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// ====== Category tag click ======
+function filterByTag(tag) {
+  const catBtns = document.querySelectorAll('[data-filter-group="cat"]');
+  catBtns.forEach(b => {
+    b.classList.toggle('active', b.dataset.filterValue === tag);
+  });
+  filterState.cat = tag;
+  currentPage = 1;
+  applyFilters();
+  document.querySelector('.filter-bar').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+// ====== Clear all filters ======
+function clearAllFilters() {
+  document.querySelectorAll('[data-filter-group]').forEach(btn => {
+    const group = btn.dataset.filterGroup;
+    if (btn.dataset.filterValue === 'all') {
+      btn.classList.add('active');
+      filterState[group] = 'all';
     } else {
-      card.style.display = 'none';
+      btn.classList.remove('active');
     }
   });
-  // Hide empty date sections
-  document.querySelectorAll('.date-section').forEach(section => {
-    const visible = section.querySelectorAll('.news-card[style*="display: none"]').length;
-    const total = section.querySelectorAll('.news-card').length;
-    section.style.display = visible === total ? 'none' : '';
-  });
+  currentPage = 1;
+  applyFilters();
 }
 
-// Back to top visibility
-const btn = document.getElementById('backToTop');
+// ====== Back to top ======
+const backToTopBtn = document.getElementById('backToTop');
 window.addEventListener('scroll', () => {
-  btn.classList.toggle('visible', window.scrollY > 400);
+  backToTopBtn.classList.toggle('visible', window.scrollY > 400);
 });
 
-// Share function
-function shareArticle(url, title) {
-  if (navigator.share) {
-    navigator.share({ title, url }).catch(() => {});
-  } else {
-    navigator.clipboard.writeText(url).then(() => {
-      const toast = document.createElement('div');
-      toast.textContent = '链接已复制 ✓';
-      toast.style.cssText = 'position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:#1a1a2e;color:#fff;padding:8px 20px;border-radius:20px;font-size:13px;z-index:999;animation:fadeInUp 0.3s ease';
-      document.body.appendChild(toast);
-      setTimeout(() => { toast.remove(); }, 2000);
-    });
-  }
-}
+// ====== Initialize on page load ======
+applyFilters();
 </script>
 
 </body>
