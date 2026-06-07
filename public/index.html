@@ -19,6 +19,10 @@
     <div class="header-stats">
       今日 <strong>32 条</strong> · 共 142 条
     </div>
+    <div class="header-live" id="headerLive">
+      <span class="live-dot"></span>
+      <span class="live-clock" id="liveClock"></span>
+    </div>
   </div>
 </header>
 
@@ -96,7 +100,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-06-07T12:00:00.000Z" title="2026-06-07T12:00:00.000Z">刚刚</span>
+            <span class="card-time" data-pubdate="2026-06-07T12:00:00.000Z" title="2026-06-07T12:00:00.000Z">1 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -150,7 +154,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="2026-06-07 18:00:15  +0800" title="2026-06-07 18:00:15  +0800">2 小时前</span>
+            <span class="card-time" data-pubdate="2026-06-07 18:00:15  +0800" title="2026-06-07 18:00:15  +0800">3 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -259,7 +263,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="2026-06-07 17:00:01  +0800" title="2026-06-07 17:00:01  +0800">3 小时前</span>
+            <span class="card-time" data-pubdate="2026-06-07 17:00:01  +0800" title="2026-06-07 17:00:01  +0800">4 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -529,7 +533,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="2026-06-07 14:59:44  +0800" title="2026-06-07 14:59:44  +0800">5 小时前</span>
+            <span class="card-time" data-pubdate="2026-06-07 14:59:44  +0800" title="2026-06-07 14:59:44  +0800">6 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -692,7 +696,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="2026-06-07 14:00:11  +0800" title="2026-06-07 14:00:11  +0800">6 小时前</span>
+            <span class="card-time" data-pubdate="2026-06-07 14:00:11  +0800" title="2026-06-07 14:00:11  +0800">7 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -999,7 +1003,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-06-06T14:00:00.000Z" title="2026-06-06T14:00:00.000Z">22 小时前</span>
+            <span class="card-time" data-pubdate="2026-06-06T14:00:00.000Z" title="2026-06-06T14:00:00.000Z">23 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1470,7 +1474,7 @@
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
   <p>每日 8:00 自动更新 · 免费 · 开源</p>
-  <p>更新于 2026/6/7 20:10:52 <span class="live-badge" id="liveBadge">🟢 实时</span></p>
+  <p>更新于 2026/6/7 20:10:52 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
 </footer>
 
 <button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回到顶部">↑</button>
@@ -1643,47 +1647,76 @@ window.addEventListener('scroll', () => {
   backToTopBtn.classList.toggle('visible', window.scrollY > 400);
 });
 
-// ====== Real-time timestamp update ======
-function relativeTime(dateStr) {
-  const date = new Date(dateStr);
-  if (isNaN(date.getTime())) return dateStr;
-  const now = new Date();
-  const diffMs = now - date;
-  const diffSec = Math.floor(diffMs / 1000);
-  const diffMin = Math.floor(diffSec / 60);
-  const diffH = Math.floor(diffMin / 60);
-  const diffD = Math.floor(diffH / 24);
+// ====== Real-time system ======
+var realtimeInterval;
 
-  if (diffSec < 10) return '刚刚';
+// Relative time with "秒前" granularity
+function relativeTime(dateStr) {
+  var date = new Date(dateStr);
+  if (isNaN(date.getTime())) return dateStr;
+  var now = new Date();
+  var diffMs = now - date;
+  var diffSec = Math.floor(diffMs / 1000);
+  var diffMin = Math.floor(diffSec / 60);
+  var diffH = Math.floor(diffMin / 60);
+  var diffD = Math.floor(diffH / 24);
+
+  if (diffSec < 5) return '刚刚';
   if (diffMin < 1) return diffSec + ' 秒前';
+  if (diffMin === 1) return '1 分钟前';
   if (diffMin < 60) return diffMin + ' 分钟前';
+  if (diffH === 1) return '1 小时前';
   if (diffH < 24) return diffH + ' 小时前';
   if (diffD < 2) return '昨天';
   if (diffD < 7) return diffD + ' 天前';
   return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
 }
 
+// Update all card timestamps with flash effect
 function updateTimestamps() {
-  document.querySelectorAll('.card-time[data-pubdate]').forEach(el => {
-    const oldText = el.textContent;
-    const newText = relativeTime(el.dataset.pubdate);
+  var changed = false;
+  document.querySelectorAll('.card-time[data-pubdate]').forEach(function(el) {
+    var oldText = el.textContent;
+    var newText = relativeTime(el.dataset.pubdate);
     if (oldText !== newText) {
       el.textContent = newText;
+      el.classList.remove('time-flash');
+      // Force reflow for animation restart
+      void el.offsetWidth;
+      el.classList.add('time-flash');
+      changed = true;
     }
   });
+  if (changed) {
+    var badge = document.getElementById('liveBadge');
+    if (badge) {
+      badge.classList.remove('badge-pulse');
+      void badge.offsetWidth;
+      badge.classList.add('badge-pulse');
+    }
+  }
 }
 
-// Update every 60 seconds
-setInterval(updateTimestamps, 60000);
-
-// Pulse the live badge occasionally to show it's alive
-const liveBadge = document.getElementById('liveBadge');
-if (liveBadge) {
-  setInterval(() => {
-    liveBadge.style.opacity = '0.6';
-    setTimeout(() => { liveBadge.style.opacity = '1'; }, 200);
-  }, 10000);
+// Live clock
+function updateClock() {
+  var now = new Date();
+  var h = String(now.getHours()).padStart(2, '0');
+  var m = String(now.getMinutes()).padStart(2, '0');
+  var s = String(now.getSeconds()).padStart(2, '0');
+  var clock = document.getElementById('liveClock');
+  if (clock) clock.textContent = h + ':' + m + ':' + s;
 }
+
+function startRealtime() {
+  updateClock();
+  updateTimestamps();
+  // Live clock every second
+  setInterval(updateClock, 1000);
+  // Update timestamps every 10 seconds
+  realtimeInterval = setInterval(updateTimestamps, 10000);
+}
+
+startRealtime();
 
 // ====== Initialize on page load ======
 applyFilters();
