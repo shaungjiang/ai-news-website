@@ -1,187 +1,492 @@
 {
-  "generatedAt": "2026-06-06T09:48:58.469Z",
+  "generatedAt": "2026-06-07T04:55:14.771Z",
   "stats": {
-    "total": 142,
+    "total": 132,
     "shown": 50,
     "chinese": 58,
-    "english": 84,
-    "today": 35
+    "english": 74,
+    "today": 21
   },
   "articles": [
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "吴清：过去五年公募基金投资于先进制造和科创领域股票超过6万亿元",
-      "link": "https://36kr.com/newsflashes/3841477677451778?f=rss",
-      "snippet": "证监会主席吴清在中国证券投资基金业协会第四届会员代表大会上致辞。吴清表示，过去五年，私募股权创投基金为未上市未挂牌企业注入5.25万亿元创新资本，相当于同期境内企业股票融资规模的90%，公募基金投资于先进制造和科创领域股票超过6万亿元，有力促进了社会资本向产业资本的转化，有效带动了要素资源加快向创新",
-      "pubDate": "2026-06-06 17:13:10  +0800",
+      "title": "聚杰微纤：已着手建设纱线测试生产线，计划逐步实现原料自给",
+      "link": "https://36kr.com/newsflashes/3842589307423235?f=rss",
+      "snippet": "关于“原料供应与自给能力及Q纱等特种原料采购情况”，聚杰微纤在机构电话会议表示，公司已着手建设纱线测试生产线，计划逐步实现原料自给，保障未来产能的稳定供应。目前公司主要是通过外采原料来满足织机测试之用。（e公司）",
+      "pubDate": "2026-06-07 12:45:51  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Moonshot AI Releases Kimi Code CLI: A Terminal AI Coding Agent Built in TypeScript for Next-Gen Agents",
-      "link": "https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/",
-      "snippet": "Kimi Code CLI is Moonshot AI's open-source terminal coding agent, written in TypeScript with subagents and MCP configuration. The post Moonshot AI Rel",
-      "pubDate": "Sat, 06 Jun 2026 09:11:08 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-06-06T09:43:27.259Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "聚杰微纤：无尘面料市场需求持续旺盛 业务增长态势良好",
-      "link": "https://36kr.com/newsflashes/3841456953755913?f=rss",
-      "snippet": "聚杰微纤近日在机构调研时介绍了主营业务现状，公司主要业务为超细纤维面料的研发、生产与销售，产品应用领域涵盖服饰、汽车内饰、电子产品外包及无尘制品等。鉴于传统服饰面料业务增长乏力甚至面临下滑压力，公司正实施战略转型，加大产业面料的研发、生产与销售投入。其中，汽车内饰面料已通过多家知名汽车企业的认证，是",
-      "pubDate": "2026-06-06 16:52:05  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "特锐德：推出算力中心供电站“算电岛” Token成本可降低30%",
-      "link": "https://36kr.com/newsflashes/3841455348746496?f=rss",
-      "snippet": "特锐德推出算力中心高压交直流预制舱供电站“算电岛”，重构智算中心供电底层架构，设备工厂模块化预制，可直入110/220kV高压，800V直流直供机房。建设周期缩至150天；依托碳化硅SST技术，供电效率98.5%；依托算电协同AI平台优化调度，Token用电成本下降约30%；800V母线直挂储能，实",
-      "pubDate": "2026-06-06 16:50:27  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "刘伟担任中基协新一届监事长",
-      "link": "https://36kr.com/newsflashes/3841428159301893?f=rss",
-      "snippet": "上证报记者6月6日从中国证券投资基金业协会（下称“中基协”）第四届会员代表大会上获悉，刘伟担任中基协新一届监事长。（上海证券报）",
-      "pubDate": "2026-06-06 16:22:47  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "2026年第二批医保参照药预沟通论证顺利实施",
-      "link": "https://36kr.com/newsflashes/3841423767603465?f=rss",
-      "snippet": "据国家医保局消息，近期，国家医疗保障局收到了企业提交的第二批28个参照药预沟通申报信息。经形式审查、信息公示后，来自中华医学会、中国医疗保险研究会、部分医疗机构、高校的临床、药学、药物经济学专家以及医保管理专家，对第二批申报药品进行了论证，结果已正式反馈各申报企业。目前2026年医保药品目录申报工作",
-      "pubDate": "2026-06-06 16:18:19  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "5日国际金价和银价显著下跌 全周均累计大幅下跌",
-      "link": "https://36kr.com/newsflashes/3841422772455689?f=rss",
-      "snippet": "受美债收益率和美元指数上涨、主要黄金消费国印度实物黄金需求低迷等因素拖累，国际金价几乎抹去了年内全部涨幅，银价跌至年内低点。截至收盘，纽约商品交易所8月交割的黄金期价报每盎司4365.30美元，跌幅为3.10%；7月交割的白银期价报每盎司69.103美元，跌幅为6.58%。本周，纽约黄金期货主力合约",
-      "pubDate": "2026-06-06 16:17:19  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "尚太科技：原材料价格存在不同程度增长 公司多角度综合应对",
-      "link": "https://36kr.com/newsflashes/3841419758192900?f=rss",
-      "snippet": "尚太科技在互动平台表示，受宏观经济形势，相关行业需求情况，公司原材料价格存在不同程度的增长，公司多种角度综合应对原材料价格波动的挑战，应对措施包含积极与下游客户开展磋商，建立科学有效的定价机制，进行合理适度的价格传导。需要注意的是，原材料价格波动能否通过产品定价向下游传导，取决于市场环境等多重因素。",
-      "pubDate": "2026-06-06 16:14:15  +0800",
+      "title": "算力普惠再提速 全球首个“预制算力中心底座”正式投用",
+      "link": "https://36kr.com/newsflashes/3842587763493382?f=rss",
+      "snippet": "昨天（6日），全球首个预制算力中心底座在山东青岛正式启用。相较于传统算力中心节约施工周期近70%，为当前算力基础设施建设提供更高效、更低碳的新方案。算力中心底座，简单来说就是算力中心的能源枢纽和电力堡垒，也可以称为算力中心的“心脏”，为算力中心提供持续稳定的电力。而底座的供电稳定性、能效利用率则直接",
+      "pubDate": "2026-06-07 12:28:16  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "OpenAI芯片元老“002号员工”转投Anthropic",
+      "link": "https://36kr.com/newsflashes/3842586501466625?f=rss",
+      "snippet": "OpenAI自研芯片项目的“002号员工”Clive Chan在X平台发文宣布，自己已离开OpenAI，并于本周正式加入Anthropic。这一消息迅速引发业界广泛关注，被视为AI领域大模型竞争从模型、产品层面向芯片和算力基础设施层延伸的又一信号。Chan的履历令人瞩目，曾在OpenAI、特斯拉、谷",
+      "pubDate": "2026-06-07 12:15:56  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "2026年度电影总票房已突破160亿元",
+      "link": "https://36kr.com/newsflashes/3842558673242628?f=rss",
+      "snippet": "据网络平台数据，截至目前，2026年度电影总票房已突破160亿元。《飞驰人生3》《给阿嬷的情书》《镖人》暂列前三位。其中，影片《给阿嬷的情书》票房已超15.87亿元（含预售），并将于6月18日在中国香港、中国澳门、新加坡、马来西亚、文莱上映。同时，2026年暑期档已全面开启，目前已有超60部影片锁定",
+      "pubDate": "2026-06-07 12:00:42  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "多家低成本航空公司对登机箱登机收费",
+      "link": "https://36kr.com/newsflashes/3842556634778113?f=rss",
+      "snippet": "近期，不少民航旅客反映自己携带20英寸“登机箱”乘坐飞机，却在登机口被拦，航空公司要求支付相应的行李费用才能把行李箱带上飞机，而且不同的航空公司执行的标准还不一样。记者搜索发现，旅客反映的情况主要集中在春秋、祥鹏、首都航空等低成本航空公司。业内人士介绍，目前我国航空公司大致分为全服务航空公司和低成本",
+      "pubDate": "2026-06-07 11:45:37  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "韩国今年1至5月化妆品出口额突破56亿美元",
+      "link": "https://36kr.com/newsflashes/3842527743052037?f=rss",
+      "snippet": "据韩国产业部周日发布的数据，今年前五个月，韩国化妆品出口同比大幅增长，美妆产品一跃成为韩国第一大消费类出口商品。韩国产业部数据显示，1至5月韩国化妆品出口总额达56亿美元，去年同期为46亿美元。韩国化妆品出口额在2024年首次突破100亿美元，2025年更是创下114亿美元的历史新高。（新浪财经）",
+      "pubDate": "2026-06-07 11:37:10  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "经济日报：共享单车不能重收费轻服务",
+      "link": "https://36kr.com/newsflashes/3842488832199170?f=rss",
+      "snippet": "经济日报发文称，10年间，共享单车价格从半小时0.5元涨至如今部分城市1小时约6元，骑行周卡、月卡价格同样在上涨。然而，价格上去了，用户体验却在滑坡。今年“五一”假期，上海消保委受理的共享单车计费投诉占到出行类投诉的七成以上，反映问题包括未骑行被扣费、故障车辆无法锁车持续计费等。面对盈利压力和存量博",
+      "pubDate": "2026-06-07 11:20:37  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "link": "https://www.qbitai.com/2026/06/431487.html",
+      "snippet": "花旗美银都是客户",
+      "pubDate": "Sun, 07 Jun 2026 03:10:13 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "克雷西",
+      "fetchedAt": "2026-06-07T04:46:18.820Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国家外汇局：截至5月末我国外汇储备规模为34422亿美元，升幅0.93%",
+      "link": "https://36kr.com/newsflashes/3842487443507458?f=rss",
+      "snippet": "国家外汇管理局统计数据显示，截至2026年5月末，我国外汇储备规模为34422亿美元，较4月末上升317亿美元，升幅为0.93%。  2026年5月，受全球宏观经济环境、主要经济体货币政策预期等因素影响，美元指数上升，全球主要金融资产价格总体上涨。汇率折算和资产价格变化等因素综合作用，当月外汇储备规",
+      "pubDate": "2026-06-07 11:05:13  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "中国央行连续第19个月增持黄金",
+      "link": "https://36kr.com/newsflashes/3842485376584196?f=rss",
+      "snippet": "据央行数据，中国5月末黄金储备报7496万盎司（约2331.52吨），环比增加32万盎司（约9.95吨），4月末为7464万盎司（约2321.56吨），为连续第19个月增持黄金。国家外汇管理局统计数据显示，截至2026年5月末，我国外汇储备规模为34422亿美元，较4月末上升317亿美元，升幅为0.",
+      "pubDate": "2026-06-07 10:53:07  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "崔东树：2025年以来全国乘用车行业促销与降级均回归理性",
+      "link": "https://36kr.com/newsflashes/3842463782390272?f=rss",
+      "snippet": "乘联分会崔东树发文称，2025年以来全国乘用车行业促销与降级均回归理性，市场秩序明显改善。由于新能源车购税恢复征收，指导价对消费者购车交税影响体现。2026年5月降价规模20款，较同期多7款。其中纯燃油车型7款，较同期多5款；插混车型7款，较同期多4款。燃油车和狭义插混的压力太大，价格调整可以理解。",
+      "pubDate": "2026-06-07 10:45:02  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "百度成立数字人创新业务部",
+      "link": "https://36kr.com/newsflashes/3842464225921536?f=rss",
+      "snippet": "36氪获悉，日前，百度MEG进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。 此前5月13日Create 2026百度AI开发者大会上，百度正式宣布旗下数字人品牌慧播星升级为百度一镜，推出全球首个全场景多智能体数字人平台——集数字人直播、数字人视频",
+      "pubDate": "2026-06-07 10:30:36  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "易方达董事长刘晓艳担任中基协新一届理事会兼职会长",
-      "link": "https://36kr.com/newsflashes/3841417483995656?f=rss",
-      "snippet": "上证报记者6月6日从中国证券投资基金业协会（下称“中基协”）第四届会员代表大会上获悉，易方达董事长刘晓艳担任中基协新一届理事会兼职会长。（上证时报）",
-      "pubDate": "2026-06-06 16:11:56  +0800",
+      "title": "广州南沙与深圳宝安拟启动住房公积金异地使用",
+      "link": "https://36kr.com/newsflashes/3842447807645952?f=rss",
+      "snippet": "近日，广州南沙区政府与宝安区政府签署战略合作框架协议。两地将在产业协作、科技创新、人才交流、基础设施、优质生活圈等多个领域推进全面合作，联手打造大湾区协同发展新典范，共同支撑“黄金内湾”高质量发展脊梁。在民生领域，两地将在优质教育资源共享、跨区域医疗协作、社保权益互认互通、住房公积金异地使用等方面先",
+      "pubDate": "2026-06-07 10:14:51  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "比特币升破61000美元，日内涨0.34%",
+      "link": "https://36kr.com/newsflashes/3842435675932928?f=rss",
+      "snippet": "比特币升破61000美元，日内涨0.34%。（新浪财经）",
+      "pubDate": "2026-06-07 09:58:35  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "韩国投资者持续买入中国硬科技",
+      "link": "https://36kr.com/newsflashes/3842433670941190?f=rss",
+      "snippet": "近期，韩国投资者正持续加码布局中国硬科技资产。数据显示，过去1个月，寒武纪、麦格米特、机器人ETF华夏、宁德时代等成为最受韩国投资者青睐的A股投资标的，AI芯片龙头寒武纪更是获得近2000万美元净买入。此外，多只在美上市的海外中国科技ETF也迎来资金显著净流入。多家外资机构认为，中国科技领域兼具高增",
+      "pubDate": "2026-06-07 09:47:31  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
       "tags": [
         "商业融资"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases Nemotron 3.5 ASR: A 600M-Parameter Cache-Aware Streaming Model Transcribing 40 Language-Locales in Real Time",
-      "link": "https://www.marktechpost.com/2026/06/06/nvidia-releases-nemotron-3-5-asr-a-600m-parameter-cache-aware-streaming-model-transcribing-40-language-locales-in-real-time/",
-      "snippet": "NVIDIA released Nemotron 3.5 ASR, a cache-aware 600M streaming model transcribing 40 language-locales in real time from one checkpoint. The post NVIDI",
-      "pubDate": "Sat, 06 Jun 2026 07:55:40 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-06T09:43:27.259Z",
+      "id": "MzZrci1haTpodHRw",
+      "title": "我国乘用车12年胖了近400公斤 我国新能源车要减肥了",
+      "link": "https://36kr.com/newsflashes/3842413796624905?f=rss",
+      "snippet": "数据显示，2024年，我国乘用车平均整备质量达1704公斤，比2012年足足“胖”了近400公斤。此外，2000年前后，市场常见的家用新能源汽车，车宽多在1.7米。2015年，宽度增加到1.8米。本周，动辄接近2吨重的家用车，正因为变大变胖，引发大家讨论。车企工程师表示，新能源汽车车身每增加10毫米",
+      "pubDate": "2026-06-07 09:32:18  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国开行：前4月发放4406亿元贷款支持基础设施建设",
+      "link": "https://36kr.com/newsflashes/3842411503192576?f=rss",
+      "snippet": "今年以来，国开行全面支持交通、物流、能源、水利、城市、信息、科技等领域基础设施建设，加力支持基础设施数字化、网络化、智能化发展，加强全生命周期金融服务。1—4月，共发放基础设施贷款4406亿元，有力支持了扩大有效投资。（央视新闻）",
+      "pubDate": "2026-06-07 09:15:54  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "link": "https://www.qbitai.com/2026/06/431401.html",
+      "snippet": "高一致性、低延迟、实时超分全梭哈",
+      "pubDate": "Sun, 07 Jun 2026 01:13:21 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦瑶",
+      "fetchedAt": "2026-06-07T04:46:18.820Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "2026年全国统一高考今天开考",
+      "link": "https://36kr.com/newsflashes/3842409471429125?f=rss",
+      "snippet": "2026年全国统一高考今天开考，今年高考报名总人数为1290万人，全国共设7981个考点，34.8万个考场。高考首日的考试科目是语文和数学。根据安排，全国统一高考科目为语文、数学、外语3门，考试时间为6月7日至8日。目前，共有29个省份落地实施高考综合改革，这些地方的考生在结束语数外统考科目后，还将",
+      "pubDate": "2026-06-07 09:08:54  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "富途老虎长桥之后，未被“点名”的华盛证券也将清理内地业务",
-      "link": "https://36kr.com/newsflashes/3841373065791747?f=rss",
-      "snippet": "继富途、老虎、长桥之后，又一家跨境券商宣布清理内地存量业务。华盛证券于6月6日上午向客户发布的通知称，自北京时间6月15日起，华盛证券将对存量投资者账户在中国内地的服务进行相应调整：一是在中国内地交易服务：暂停股票等所有品种的新开仓、加仓交易，仅支持卖出、平仓操作；二是在中国内地资金划转服务：暂停资",
-      "pubDate": "2026-06-06 15:26:45  +0800",
+      "title": "包钢股份：成功研发并批量生产超高强稀土耐磨钢",
+      "link": "https://36kr.com/newsflashes/3842412186142985?f=rss",
+      "snippet": "据包钢股份消息，近日，包钢股份成功研发并批量生产超高强稀土耐磨钢，打破了国外企业在该领域的技术垄断。目前，这款极寒超高强度稀土耐磨钢已完成工业化生产，首批订单经性能检测各项指标表现优异，即将交付客户投入实际应用。（界面）",
+      "pubDate": "2026-06-07 09:03:48  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "我国清洁低碳氢煤混烧技术取得重大突破",
+      "link": "https://36kr.com/newsflashes/3842408617658885?f=rss",
+      "snippet": "记者今天（7日）从国家能源集团获悉，我国自主研发的氢煤混烧技术首次实现了50%绿氢大比例掺烧以及100%纯氢燃烧，标志着我国清洁低碳氢煤混烧技术取得重大突破。这项技术采用完全自主研发的氢煤混燃低氮燃烧器，构建了从氢气输送到炉膛燃烧的全流程安全防护系统，使氢与煤粉在锅炉内充分混合燃烧，并在该试验装置上",
+      "pubDate": "2026-06-07 09:00:10  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+      "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+      "snippet": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets sha",
+      "pubDate": "Sat, 06 Jun 2026 20:32:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
+      "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
+      "snippet": "Apple's WWDC nears: Here's what you can look forward to.",
+      "pubDate": "Sat, 06 Jun 2026 18:13:36 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Sriram Krishnan is leaving his role as White House AI advisor",
+      "link": "https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/",
+      "snippet": "Krishnan is reportedly starting a new institution to continue shaping Trump's AI policy.",
+      "pubDate": "Sat, 06 Jun 2026 17:42:15 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The Trump administration might take an equity stake in OpenAI",
+      "link": "https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/",
+      "snippet": "President Donald Trump said he's discussing deals \"where the American people can benefit from the success of AI.\"",
+      "pubDate": "Sat, 06 Jun 2026 16:17:21 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center",
+      "snippet": "A proposed $2 billion data center has become a political flashpoint in the small city of Shelbyville, Indiana. And the controversy has only grown more",
+      "pubDate": "2026-06-06T15:05:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:25.202Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta made its own AI-generated clickbait news feed",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles",
+      "snippet": "An AI-generated image of the royal family featuring two Queen Elizabeth IIs. | ﻿Image: Meta AI\t  Facebook has long been filled with feeds of clickbait",
+      "pubDate": "2026-06-06T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:25.202Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Here comes new Siri again",
+      "link": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "snippet": "Our first glimpse of the new AI Siri came all the way back at WWDC 2024.\t  Apple has been on its back foot, AI-wise, for the past few years. But in a",
+      "pubDate": "2026-06-06T12:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:25.202Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "蜂巢能源1-4月动力电池装车量同比增长37.2%，排名升至全球第九",
+      "link": "https://36kr.com/newsflashes/3841563903740162?f=rss",
+      "snippet": "日前，SNE Research发布2026年1-4月全球动力电池装车量数据。1-4月全球装机总量352.7GWh，同比增长13.8%。蜂巢能源装车量9.3GWh，同比增长37.2%，增速在TOP10中位列第二，排名升至全球第九。蜂巢能源叠片短刀累计出货超百万套，混合固液电池三季度达成量产。公司已进入",
+      "pubDate": "2026-06-06 18:40:53  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "link": "https://www.qbitai.com/2026/06/431371.html",
+      "snippet": "造火箭的正在批量造巨富",
+      "pubDate": "Sat, 06 Jun 2026 10:14:54 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "听雨",
+      "fetchedAt": "2026-06-07T04:46:18.820Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -195,7 +500,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-06-06T09:43:09.651Z",
+      "fetchedAt": "2026-06-07T04:46:18.820Z",
       "tags": [
         "大模型"
       ]
@@ -211,43 +516,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-06-06T09:43:09.651Z",
+      "fetchedAt": "2026-06-07T04:46:18.820Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "证监会主席吴清：坚决遏制概念炒作、复杂嵌套、过度投机、通道空转等伪创新、乱创新",
-      "link": "https://36kr.com/newsflashes/3841354006645248?f=rss",
-      "snippet": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，随着人工智能等前沿技术蓬勃发展，基金行业经营模式和发展生态正在发生深刻变革。行业机构要持续提升产品、服务、业务、组织等方面创新的广度和深度，更加全面、更加有效对接市场需求。要加强科技赋能，稳妥有序探索运用人工智能、大",
-      "pubDate": "2026-06-06 15:07:22  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "证监会主席吴清：提升投资运作稳健性 努力为投资者创造更可持续的中长期收益",
-      "link": "https://36kr.com/newsflashes/3841347938388227?f=rss",
-      "snippet": "证监会官网发布吴清主席在中国证券投资基金业协会第四届会员代表大会上的致辞。吴清表示，要坚持客户为本，始终注重投资者利益优先。无论是公募基金还是私募基金，都要坚守“受人之托、代客理财”的信义义务，持续强化制度约束和利益重构，加快实现从“重规模”向“重回报”的转型。当前公募基金改革迎来了“棋至中盘”的关",
-      "pubDate": "2026-06-06 15:01:11  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
       ]
     },
     {
@@ -261,139 +532,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-06-06T09:43:09.651Z",
+      "fetchedAt": "2026-06-07T04:46:18.820Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "银之杰：“被立案调查”等传闻不实 公司已报案追究造谣者法律责任",
-      "link": "https://36kr.com/newsflashes/3841346737768712?f=rss",
-      "snippet": "银之杰6月6日发布严正声明称，近日，网络平台出现关于公司“被立案调查”等不实传闻。对此，公司已于6月3日发布澄清公告。经核实，公司、公司各子公司以及公司主要股东、董事、监事、高级管理人员均不存在被任何有权机关立案调查的情况。上述传闻内容与事实严重不符，属于不实信息。为维护公司合法权益及正常市场秩序。",
-      "pubDate": "2026-06-06 14:59:58  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "证监会主席吴清：持续完善程序化交易监管的机制安排 坚决打击操纵市场、扰乱市场秩序等违法违规行为",
-      "link": "https://36kr.com/newsflashes/3841345628424452?f=rss",
-      "snippet": "6月6日，证监会官网发布吴清主席在中国证券投资基���业协会第四届会员代表大会上的致辞。吴清表示，近年来，程序化交易已成为包括我国在内的全球各主要资本市场的重要交易方式。除了大家熟知的量化私募外，外资、公募及其他专业机构投资者，甚至一些个人投资者，都不同程度采用程序化交易的方式。充分考虑个人投资者占",
-      "pubDate": "2026-06-06 14:58:50  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "安科生物：全球首款CD7 CAR-T儿童适应症一期临床启动",
-      "link": "https://36kr.com/newsflashes/3841294657964544?f=rss",
-      "snippet": "据安科生物消息，复发难治T淋巴母细胞白血病/淋巴瘤是儿童血液肿瘤中极具侵袭性的恶性疾病。患儿在常规化疗、造血干细胞移植失败后，临床可选方案寥寥。6月4日，安科生物参股公司博生吉医药自主研发的全球首款进入临床阶段的靶向CD7自体CAR-T产品PA3-17儿童适应症临床试验启动会在组长单位中国医学科学院",
-      "pubDate": "2026-06-06 14:06:59  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "中国能建：科特迪瓦松贡372兆瓦燃机投资项目融资主协议签署",
-      "link": "https://36kr.com/newsflashes/3841290346924552?f=rss",
-      "snippet": "据中国能建消息，当地时间6月1日，中国能建松贡项目公司与由渣打银行、南非标准银行、泛非银行和大西洋银行牵头，共11家银行和多边机构组成的银团签署了科特迪瓦松贡372兆瓦燃机投资项目融资主协议，开创了中资企业非洲项目融资由纯国际银团主导的行业先例。松贡燃机电站项目由中国能建海投公司投资，总投资规模约6",
-      "pubDate": "2026-06-06 14:02:36  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "深圳科学家领衔发布亚洲首个合成细胞技术路线图",
-      "link": "https://36kr.com/newsflashes/3841269285128711?f=rss",
-      "snippet": "据深圳发布6月6日消息，由中国科学院深圳先进技术研究院刘陈立研究员领衔，来自中国、日本、韩国、新加坡、马来西亚、泰国等六国的科学家近日联合在国际学术期刊《自然·生物技术》上发表文章，发布亚洲首个合成细胞10年技术路线图。文章聚焦“人工合成单细胞生命”这一科学前沿问题，规划了亚洲未来10年攻关合成细胞",
-      "pubDate": "2026-06-06 13:41:11  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国际金价跌破4400美元/盎司关口，金饰克价一夜大降近40元",
-      "link": "https://36kr.com/newsflashes/3841258653649156?f=rss",
-      "snippet": "当地时间6月5日，国际金价明显回调，跌破4400美元/盎司关口。受国际金价下行影响，国内品牌金饰价格同步回落。6月6日，周大福足金饰品价格报1323元/克，相较于昨日1360元/克下跌37元；周生生报1315元/克，相较于昨日1354元/克下跌39元；老凤祥报1316元/克，相较于昨日1352元/克",
-      "pubDate": "2026-06-06 13:30:22  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
-      "link": "https://36kr.com/newsflashes/3841255177079303?f=rss",
-      "snippet": "由中国科学院海洋研究所自主研发的全球海洋现象智能预报大模型——“琅琊”2.0今日发布。该海洋预报大模型将为海洋防灾减灾、航运安全保障等提供智能化科技支撑。“琅琊”2.0把多源观测、机理认知和人工智能推理连接起来，推动海洋预报向更快速、更精细、更可交互方向发展。它的发布标志着“琅琊”系列大模型在全球海",
-      "pubDate": "2026-06-06 13:26:49  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "政策监管",
-        "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "字节跳动：没有造车或推出汽车品牌的计划",
-      "link": "https://36kr.com/newsflashes/3841237523859972?f=rss",
-      "snippet": "6月6日，字节跳动官微发布声明，我们注意到，近期有部分报道将“赛豆”解读为“豆包汽车品牌”或“字节跳动造车”：1.相关说法不准确，字节跳动没有造车或推出汽车品牌的计划。2.赛豆不是字节跳动或豆包推出的汽车品牌，字节和赛豆没有股权合作。3.豆包、火山引擎与汽车行业伙伴的合作，主要是给行业伙伴提供豆包大",
-      "pubDate": "2026-06-06 13:08:52  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     },
     {
@@ -407,25 +548,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-06-06T09:43:09.651Z",
+      "fetchedAt": "2026-06-07T04:46:18.820Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "淘宝闪购“冰冰节”全面开启，联合百万商家共拓即时零售夏日增量市场",
-      "link": "https://36kr.com/newsflashes/3841144920459784?f=rss",
-      "snippet": "淘宝闪购数据显示，品牌商家门店数量较去年同比增长近四成。除了盒马、沃尔玛等大型商超外，平台还吸引了赵一鸣、好想来、丝芙兰等上万家涵盖零食、美妆、个护等领域的头部品牌入驻，并进一步拓展了防晒、宠物消暑等细分场景。此外，美的、海尔等家电品牌也跨界入局，不仅提供产品直供，更配套提供空调上门安装服务，为消费",
-      "pubDate": "2026-06-06 11:34:40  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -439,26 +564,10 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
       "tags": [
         "AI应用",
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment",
-      "link": "https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/",
-      "snippet": "Set up Qualcomm AI Hub Models to run MobileNet-V2 inference, YOLOv7 detection, and compile models on real devices. The post A Hands-On Coding Tutorial",
-      "pubDate": "Fri, 05 Jun 2026 22:32:51 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-06-06T09:43:27.259Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -472,23 +581,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-06-06T09:43:12.663Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory",
-      "link": "https://www.marktechpost.com/2026/06/05/google-deepmind-releases-gemma-4-qat-checkpoints-q4_0-and-a-new-mobile-format-cut-on-device-memory/",
-      "snippet": "Compare Gemma 4 edge formats: BF16, Q4_0 QAT, and mobile QAT, on published memory numbers and design tradeoffs. The post Google DeepMind Releases Gemm",
-      "pubDate": "Fri, 05 Jun 2026 18:59:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-06T09:43:27.259Z",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
       "tags": [
         "AI应用"
       ]
@@ -504,7 +597,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-06-06T09:43:12.663Z",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
       "tags": [
         "AI应用"
       ]
@@ -520,7 +613,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-06-06T09:43:21.652Z",
+      "fetchedAt": "2026-06-07T04:46:26.469Z",
       "tags": [
         "商业融资"
       ]
@@ -536,7 +629,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-06-06T09:43:21.652Z",
+      "fetchedAt": "2026-06-07T04:46:26.469Z",
       "tags": [
         "综合"
       ]
@@ -552,7 +645,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-06-06T09:43:12.663Z",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
       "tags": [
         "商业融资"
       ]
@@ -568,7 +661,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:13.400Z",
+      "fetchedAt": "2026-06-07T04:46:25.202Z",
       "tags": [
         "学术研究"
       ]
@@ -584,7 +677,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-06-06T09:43:21.652Z",
+      "fetchedAt": "2026-06-07T04:46:26.469Z",
       "tags": [
         "综合"
       ]
@@ -600,7 +693,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:13.400Z",
+      "fetchedAt": "2026-06-07T04:46:25.202Z",
       "tags": [
         "政策监管"
       ]
@@ -616,7 +709,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-06-06T09:43:12.663Z",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
       "tags": [
         "综合"
       ]
@@ -632,7 +725,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-06-06T09:43:12.663Z",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
       "tags": [
         "商业融资"
       ]
@@ -648,7 +741,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:13.400Z",
+      "fetchedAt": "2026-06-07T04:46:25.202Z",
       "tags": [
         "开源工具"
       ]
@@ -664,7 +757,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-06-06T09:43:09.651Z",
+      "fetchedAt": "2026-06-07T04:46:18.820Z",
       "tags": [
         "综合"
       ]
@@ -680,7 +773,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-06-06T09:43:12.663Z",
+      "fetchedAt": "2026-06-07T04:46:24.886Z",
       "tags": [
         "综合"
       ]
@@ -696,7 +789,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:11.501Z",
+      "fetchedAt": "2026-06-07T04:46:24.565Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -713,106 +806,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-06T09:43:10.414Z",
+      "fetchedAt": "2026-06-07T04:46:21.081Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "他用WPS笔记，把AI报错变成了可复用的“避坑指南”",
-      "link": "https://www.leiphone.com/category/industrynews/my3uIlmkVcHIKgu3.html",
-      "snippet": "“AI Coding 最大的风险不是写不出代码，而是忘记了自己为什么做出某个判断。” 这不是一句抽象判断，而是工程师曹健在反复处理 AI 报错后得到的真实体会。6月5日，在金山办公旗下「WPS AI Next」活动现场，他从自己的 AI Coding 工作流讲起，分享了使用 WPS 笔记沉淀技术经验",
-      "pubDate": "Fri, 05 Jun 2026 20:13:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:11.501Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "link": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Meta hac",
-      "pubDate": "Fri, 05 Jun 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-06T09:43:15.471Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "NTU 曹子昂教授团队：破解 3D 标注成本难题，只需一张图片丨CVPR 2026",
-      "link": "https://www.leiphone.com/category/ai/gOCTM6K2fNwaBttQ.html",
-      "snippet": "PhysX-Anythingt：可从一张照片自动生成可用于机器人训练的物理 3D资产。          作者丨郑佳美、樊天骄      编辑丨郑佳美",
-      "pubDate": "Fri, 05 Jun 2026 19:02:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:11.501Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "从 INSPIRE 创想者大会看华为云：它正在 AI 时代给自己找一个更清晰的位置",
-      "link": "https://www.leiphone.com/category/CorporateServices/93NsFoqxglrbXa26.html",
-      "snippet": "今年上半年，外界看华为云在AI上的战略，常常会有一种模糊感。 过去6个月，云厂商的AI叙事变得越来越具体：阿里云、火山引擎都在讲模型调用量，讲MaaS收入，腾讯云目前在讲爆款应用。相比之下，华为云在AI时代究竟要把自己的核心位置放在哪里，外界此前并不总是看得很清楚。 这一次华为云INSPIRE创想者",
-      "pubDate": "Fri, 05 Jun 2026 18:58:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:11.501Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
-      "link": "https://www.qbitai.com/2026/06/431033.html",
-      "snippet": "研究表明，睡眠中的记忆重激活参与调控睡眠动态，为理解“记忆-睡眠”双向作用机制提供了新的实验证据。",
-      "pubDate": "Fri, 05 Jun 2026 10:53:01 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-06T09:43:09.651Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Coding 能力，正在颠覆大模型的估值逻辑",
-      "link": "https://www.leiphone.com/category/industrynews/bwyozCVtFIOJynck.html",
-      "snippet": "大模型赛道的估值逻辑，正在被一个变量粗暴重构。 它不是参数，不是月活，不是多模态，是你能不能做好Coding。 把四家中国大模型公司的数据拉出来，这条线清晰得不需要统计检验： Coding 能力突出的 DeepSeek 正在洽谈国内 AI 公司史上最大单笔融资 70 亿美元，估值或达 590亿美元。",
-      "pubDate": "Fri, 05 Jun 2026 18:53:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-06T09:43:11.501Z",
-      "tags": [
-        "商业融资",
-        "大模型"
       ]
     }
   ]
