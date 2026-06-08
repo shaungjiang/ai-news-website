@@ -44,4 +44,6 @@ jobs:
             exit 0
           fi
           git commit -m "📰 Update $(TZ='Asia/Shanghai' date +'%Y-%m-%d')"
+          # Pull latest and rebase to handle race with manual pushes
+          git pull --rebase origin main
           git push origin HEAD:main
