@@ -3,41 +3,59 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>AI 新闻日报 — 2026年6月7日</title>
+  <title>AI 新闻日报 — 2026年6月8日</title>
   <meta name="description" content="每日 AI 新闻聚合，汇集国内外人工智能最新资讯。自动更新，免费阅读。">
   <link rel="stylesheet" href="style.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><defs><linearGradient id='g' x1='0%' y1='0%' x2='100%' y2='100%'><stop offset='0%' stop-color='%233b6df0'/><stop offset='100%' stop-color='%237b2ff0'/></linearGradient></defs><rect width='100' height='100' rx='22' fill='url(%23g)'/><text x='50' y='68' text-anchor='middle' font-size='48'>🤖</text></svg>">
 </head>
 <body>
 
+<!-- ====== Reading Progress Bar ====== -->
+<div class="progress-bar" id="progressBar"></div>
+
+<!-- ====== Live Update Toast ====== -->
+<button class="live-toast" id="liveToast" onclick="showNewArticles()">
+  <span class="toast-icon">🆕</span>
+  <span id="toastMsg">发现新文章</span>
+  <span class="toast-count" id="toastCount">0</span>
+</button>
+
 <header class="site-header">
   <div class="header-inner">
-    <a href="/" class="logo">
-      <span class="logo-icon">🤖</span>
-      <span class="logo-text">AI 新闻日报</span>
-    </a>
-    <div class="header-stats">
-      今日 <strong>32 条</strong> · 共 142 条
+    <div class="header-left">
+      <a href="/" class="logo">
+        <span class="logo-icon">🤖</span>
+        <span class="logo-text">AI 新闻日报</span>
+      </a>
+      <div class="header-stats">
+        今日 <strong>26 条</strong> · 共 144 条
+      </div>
     </div>
-    <div class="header-live" id="headerLive">
-      <span class="live-dot"></span>
-      <span class="live-clock" id="liveClock"></span>
+    <div class="header-right">
+      <div class="header-live" id="headerLive">
+        <span class="live-dot"></span>
+        <span class="live-clock" id="liveClock"></span>
+      </div>
+      <button class="theme-toggle" id="themeToggle" title="切换深色模式" aria-label="切换深色模式">
+        <span class="icon-sun">☀️</span>
+        <span class="icon-moon">🌙</span>
+      </button>
     </div>
   </div>
 </header>
 
 <section class="hero">
   <div class="container">
-    <h1 class="hero-title">2026年6月7日 · <span>AI 资讯速览</span></h1>
-    <p class="hero-subtitle">汇聚国内外人工智能前沿动态，每日 8:00 自动更新</p>
+    <h1 class="hero-title">2026年6月8日 · <span>AI 资讯速览</span></h1>
+    <p class="hero-subtitle">汇聚国内外人工智能前沿动态，每日 8:00 自动更新<span class="live-pulse-indicator" id="livePulse"><span class="pulse-dot"></span> 实时</span></p>
     <div class="hero-stats">
       <div class="hero-stat">
         <span class="hero-stat-icon">📰</span>
-        <span>今日 <strong>32</strong> 篇</span>
+        <span>今日 <strong>26</strong> 篇</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🇨🇳</span>
-        <span>中文 <strong>58</strong> 篇</span>
+        <span>中文 <strong>60</strong> 篇</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🌐</span>
@@ -50,10 +68,20 @@
 <main class="content">
   <div class="container">
 
+    <!-- ====== Search Bar ====== -->
+    <div class="search-bar">
+      <div class="search-wrapper">
+        <span class="search-icon">🔍</span>
+        <input type="text" class="search-input" id="searchInput" placeholder="搜索新闻标题或摘要…" autocomplete="off">
+        <button class="search-clear" id="searchClear" onclick="clearSearch()" title="清除搜索">✕</button>
+        <span class="search-hint">/</span>
+      </div>
+    </div>
+
     <!-- ====== Language Filter ====== -->
     <div class="filter-bar">
-      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">142</span></button>
-      <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">58</span></button>
+      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">144</span></button>
+      <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">60</span></button>
       <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">84</span></button>
     </div>
 
@@ -83,15 +111,818 @@
       <button class="filter-clear" onclick="clearAllFilters()">✕ 清除筛选</button>
     </div>
 
+    <!-- ====== No Results ====== -->
+    <div class="no-results" id="noResults">
+      <div class="no-results-icon">🔍</div>
+      <p>没有匹配的新闻</p>
+    </div>
+
     <section class="date-section" data-date="今日">
       <div class="date-heading">
         <span class="date-icon">📅</span>
         <span class="date-label">今日</span>
-        <span class="date-count">32 篇</span>
+        <span class="date-count">26 篇</span>
       </div>
 
       <div class="news-grid">
-        <article class="news-card" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-07T12:00:00.000Z">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843906554677769?f&#x3D;rss" data-date="今日" data-tags='[&quot;政策监管&quot;]' data-pubdate="2026-06-08 10:23:57  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 10:23:57  +0800" title="2026-06-08 10:23:57  +0800">刚刚</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843906554677769?f&#x3D;rss" target="_blank" rel="noopener">住建部：“十五五”时期将继续建设改造城市地下管网约77万公里</a>
+          </h3>
+
+          <p class="card-snippet">6月8日，住房城乡建设部建筑节能与科技司司长陈少鹏在国务院政策例行吹风会上表示，目前我国城市地下管网总长度约390万公里，累计建成地下综合管廊约7700公里。“十五五”时期将继续建设改造城市地下管网约77万公里，其中燃气管网约20万公里、排水管网约17.5万公里、供水管网约17.5万公里、污水管网约</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag policy" onclick="event.stopPropagation(); filterByTag('政策监管')">政策监管</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843906554677769?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843903707187464?f&#x3D;rss" data-date="今日" data-tags='[&quot;政策监管&quot;]' data-pubdate="2026-06-08 10:21:03  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 10:21:03  +0800" title="2026-06-08 10:21:03  +0800">刚刚</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843903707187464?f&#x3D;rss" target="_blank" rel="noopener">住建部：各地将细化本地区城市更新的目标指标、任务措施</a>
+          </h3>
+
+          <p class="card-snippet">6月8日，住房城乡建设部副部长秦海翔在国务院政策例行吹风会上表示，《城市更新“十五五”规划》是我国城市更新领域的第一部国家级专项规划，明确“十五五”时期的目标指标、重点任务和重大工程。接下来，各地还要按照《规划》部署细化本地区城市更新的目标指标、任务措施，一件事情接着一件事情办。（证券时报）</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag policy" onclick="event.stopPropagation(); filterByTag('政策监管')">政策监管</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843903707187464?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843894496528897?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;,&quot;AI应用&quot;]' data-pubdate="2026-06-08 10:11:41  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 10:11:41  +0800" title="2026-06-08 10:11:41  +0800">刚刚</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843894496528897?f&#x3D;rss" target="_blank" rel="noopener">“绿色康成”完成数千万元pre-A轮融资</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，近日，生物制造企业“绿色康成”宣布完成数千万元pre-A轮融资。本轮由北京国管旗下的北京市绿色能源和低碳产业投资基金、以及未来科学城集团旗下的北京未来星科创业投资中心和北京昌建发投资管理中心联合投资。本轮融资将主要用于：加速高价值产品管线的工艺放大与产能建设；推进核心原料的国际认证及全球</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843894496528897?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843891718687240?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 10:08:51  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 10:08:51  +0800" title="2026-06-08 10:08:51  +0800">刚刚</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843891718687240?f&#x3D;rss" target="_blank" rel="noopener">南向资金净买入额达20亿港元</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，南向资金净买入额达20亿港元。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843891718687240?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843877373200896?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-08 09:54:16  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:54:16  +0800" title="2026-06-08 09:54:16  +0800">刚刚</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843877373200896?f&#x3D;rss" target="_blank" rel="noopener">京东旅行上线“宠物出行”专区</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，京东旅行正式上线“宠物出行”专区，成为国内首家宠物机酒门票一站式预订平台。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843877373200896?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843869387376901?f&#x3D;rss" data-date="今日" data-tags='[&quot;政策监管&quot;]' data-pubdate="2026-06-08 09:46:08  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:46:08  +0800" title="2026-06-08 09:46:08  +0800">刚刚</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843869387376901?f&#x3D;rss" target="_blank" rel="noopener">韩国宣布针对性措施遏制韩元跌势，并抑制投机行为</a>
+          </h3>
+
+          <p class="card-snippet">韩元跌至2009年以来最低水平后，韩国政府公布针对性措施来支撑韩元，承诺对投机交易和其他被视为加剧近期波动性的活动采取有力行动。韩国财政部在与央行行长和金融监管机构负责人举行紧急会议后周日表示，首尔制定了一项应对计划，其中包括加强对离岸货币衍生品的监管、对涉嫌市场不当行为进行检查，以及调查潜在的非法</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag policy" onclick="event.stopPropagation(); filterByTag('政策监管')">政策监管</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843869387376901?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843863897246210?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 09:40:33  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:40:33  +0800" title="2026-06-08 09:40:33  +0800">刚刚</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843863897246210?f&#x3D;rss" target="_blank" rel="noopener">恒生指数日内跌幅扩大至2%</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，香港恒生指数日内跌幅扩大至2%。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843863897246210?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843850724592130?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-08 09:27:09  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:27:09  +0800" title="2026-06-08 09:27:09  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843850724592130?f&#x3D;rss" target="_blank" rel="noopener">A股三大指数集体低开，半导体板块跌幅居前</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，A股三大指数集体低开，沪指低开2.21%，深成指低开3.13%，创业板指低开3.48%；电脑硬件、通信设备、半导体板块跌幅居前，江波龙跌超9%，华虹宏力、长飞光纤跌超8%；摩托车、工程机械板块领涨，隆鑫通用涨超3%，三一重工涨超1%。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843850724592130?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843846588942592?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 09:22:57  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:22:57  +0800" title="2026-06-08 09:22:57  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843846588942592?f&#x3D;rss" target="_blank" rel="noopener">恒指开盘跌1.52%，恒生科技指数跌2.43%</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，恒指开盘跌1.52%，恒生科技指数跌2.43%；煤炭、国防军工板块领涨，大陆航空科技控股涨超14%，中煤能源涨近1%；半导体、硬件设备板块跌幅居前，剑桥科技跌超8%，华虹宏力跌超6%。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843846588942592?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843842709031428?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 09:19:00  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:19:00  +0800" title="2026-06-08 09:19:00  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843842709031428?f&#x3D;rss" target="_blank" rel="noopener">6月8日人民币对美元中间价调贬41个基点</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，6月8日，人民币对美元中间价调贬41个基点，报6.8198，上一交易日中间价6.8157。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843842709031428?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843840328485380?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 09:16:35  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:16:35  +0800" title="2026-06-08 09:16:35  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843840328485380?f&#x3D;rss" target="_blank" rel="noopener">消息称三星晶圆代工事业部最快Q3扭亏为盈</a>
+          </h3>
+
+          <p class="card-snippet">三星电子晶圆代工事业部最快有望在今年第三季度实现扭亏为盈。据业内消息，受良率提升和大型订单带动，三星电子晶圆代工事业部此前设定的扭亏时间点，有望从原先的“今年年底至明年”提前至今年第三季度。自2022年开始出现以万亿韩元计的营业亏损以来，这将是时隔约4年的业绩复苏。（财联社）</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843840328485380?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843838744463625?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 09:14:58  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:14:58  +0800" title="2026-06-08 09:14:58  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843838744463625?f&#x3D;rss" target="_blank" rel="noopener">日经225指数跌幅扩大至4%</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，日经225指数日内跌幅扩大至4%。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843838744463625?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843831257467394?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-08 09:07:21  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:07:21  +0800" title="2026-06-08 09:07:21  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843831257467394?f&#x3D;rss" target="_blank" rel="noopener">“题渊科技”完成近千万元天使轮融资</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，“题渊科技”已于近日完成近千万元天使轮融资，投资方为宏泰智慧谷，本轮资金将主要用于市场推广和教育agent平台的持续技术研发。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843831257467394?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843826848794883?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 09:02:52  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 09:02:52  +0800" title="2026-06-08 09:02:52  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843826848794883?f&#x3D;rss" target="_blank" rel="noopener">全国小麦收获进度过六成</a>
+          </h3>
+
+          <p class="card-snippet">农业农村部最新小麦机收进度显示，目前，全国小麦收获进度已过六成。山西夏粮小麦即将进入集中收获。（央视新闻）</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843826848794883?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843821102237952?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-08 08:57:01  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 08:57:01  +0800" title="2026-06-08 08:57:01  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843821102237952?f&#x3D;rss" target="_blank" rel="noopener">深交所：深港通下的港股通标的调入鸣鸣很忙、智谱等6股</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，深交所发布深港通下的港股通标的证券名单调整的公告。根据《深圳证券交易所深港通业务实施办法》的有关规定，港股通标的证券名单发生调整并自2026年6月8日起生效，调入鸣鸣很忙、智谱、精锋医疗－Ｂ、海致科技集团、壁仞科技、天数智芯。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843821102237952?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843816861944327?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-08 08:52:42  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 08:52:42  +0800" title="2026-06-08 08:52:42  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843816861944327?f&#x3D;rss" target="_blank" rel="noopener">两市融资余额减少140.42亿元</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，截至6月5日，上交所融资余额报14654.47亿元，较前一交易日减少112.97亿元；深交所融资余额报14114.03亿元，较前一交易日减少27.45亿元；两市合计28768.5亿元，较前一交易日减少140.42亿元。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843816861944327?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843814134647044?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 08:49:56  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 08:49:56  +0800" title="2026-06-08 08:49:56  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843814134647044?f&#x3D;rss" target="_blank" rel="noopener">黄仁勋：与SK海力士的合作期限将超过两年</a>
+          </h3>
+
+          <p class="card-snippet">英伟达首席执行官黄仁勋：我们每年已经从SK海力士采购数十亿美元的芯片，今年采购额将大幅增长。与SK海力士的合作期限将超过两年，且我们有能力不断延长合作期限。（新浪财经）</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843814134647044?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843805375793409?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;,&quot;AI应用&quot;]' data-pubdate="2026-06-08 08:41:01  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 08:41:01  +0800" title="2026-06-08 08:41:01  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843805375793409?f&#x3D;rss" target="_blank" rel="noopener">“华超神控”完成亿元人民币级天使轮系列融资</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，近日，AI超声脑机公司“华超神控”（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843805375793409?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843802724731139?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-08 08:38:19  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 08:38:19  +0800" title="2026-06-08 08:38:19  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843802724731139?f&#x3D;rss" target="_blank" rel="noopener">科技创新50强出炉，今年以来平均涨幅超30%</a>
+          </h3>
+
+          <p class="card-snippet">从国际投行研判到主流国际指数调仓，不难窥见，全球长线资本正形成共识，持续加码A股科技赛道，对国内硬科技创新成长前景寄予高预期。根据研报，以华创科技创新1000指数成份股为样本，按照以下条件遴选科技创新50强，上市公司属于细分领域龙头（根据研报获取），2024年及2025年资本开支、研发投入连续增加，</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843802724731139?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/newsflashes/3843802029639939?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-08 08:37:37  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 08:37:37  +0800" title="2026-06-08 08:37:37  +0800">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/newsflashes/3843802029639939?f&#x3D;rss" target="_blank" rel="noopener">华泰证券港股策略：港股或继续跑出相对收益</a>
+          </h3>
+
+          <p class="card-snippet">36氪获悉，华泰证券研报称，海外流动性风险显现的背景下，短期视角，建议关注前期调整中沽空压力较重，同时盈利预期企稳的品种，如可选零售、传媒，以及高股息防御品种，如银行等。对于AI硬件链，华泰证券认为，短期不具备强绝对收益和超额收益的条件，下一个关键窗口在7月的美股财报季，因此，建议根据浮盈程度对应调</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://36kr.com/newsflashes/3843802029639939?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/p/3841459663030532?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;,&quot;AI应用&quot;]' data-pubdate="2026-06-08 08:30:00  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 08:30:00  +0800" title="2026-06-08 08:30:00  +0800">2 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/p/3841459663030532?f&#x3D;rss" target="_blank" rel="noopener">「华超神控」获亿元天使系列融资，加速打造新一代AI超声脑机接口平台 | 36氪首发</a>
+          </h3>
+
+          <p class="card-snippet">文｜胡香赟 编辑｜海若镜 36氪获悉，近日，新一代AI超声脑机公司华超神控（BCI-Sonics）已完成亿元人民币级天使轮系列融资。天使轮融资由经纬创投领投，天使+轮由德联资本、道远资本联合领投，循光资本持续担任独家财务顾问。募集资金将用于推动公司的技术验证与产业化落地。 华超神控于2025年创立，</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://36kr.com/p/3841459663030532?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://36kr.com/p/3843764238174729?f&#x3D;rss" data-date="今日" data-tags='[&quot;大模型&quot;,&quot;商业融资&quot;]' data-pubdate="2026-06-08 08:01:39  +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#1976d2"></span>
+              36氪
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="2026-06-08 08:01:39  +0800" title="2026-06-08 08:01:39  +0800">2 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://36kr.com/p/3843764238174729?f&#x3D;rss" target="_blank" rel="noopener">8点1氪丨八家上市公司集中公告“补税”；ChatGPT将迎来史上最大幅度升级；高考新增AI监考员，自动截取异常录像</a>
+          </h3>
+
+          <p class="card-snippet">今日热点导览 AI等机器网络请求量首超人类 瑞幸咖啡回应拿铁去冰仅半杯 宗馥莉自有品牌KELLYONE回归 多家低成本航空公司对登机箱登机收费 黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案 TOP3大新闻 八家上市公司集中公告“补税”  6月1日至6日，不到一周内，八家A股上市公司先后披露补缴税</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://36kr.com/p/3843764238174729?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 07 Jun 2026 20:26:13 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 20:26:13 +0000" title="Sun, 07 Jun 2026 20:26:13 +0000">6 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/" target="_blank" rel="noopener">Is this the dawn of the Tokenpocalypse?</a>
+          </h3>
+
+          <p class="card-snippet">We&#x27;re likely to see more price increases as the big AI companies plan to go public.</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://techcrunch.com/2026/06/07/is-this-the-dawn-of-the-tokenpocalypse/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sun, 07 Jun 2026 17:56:22 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 17:56:22 +0000" title="Sun, 07 Jun 2026 17:56:22 +0000">8 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/" target="_blank" rel="noopener">Notion restores access to Anthropic after service disruption</a>
+          </h3>
+
+          <p class="card-snippet">Notion&#x27;s head of product said he was &quot;astonished&quot; at “the amount of people RT-ing this.&quot;</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/06/07/building-reflective-prompt-optimization-with-gepa-multi-component-prompts-structured-feedback-and-held-out-validation/" data-date="今日" data-tags='[&quot;开源工具&quot;]' data-pubdate="Sun, 07 Jun 2026 17:05:04 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 17:05:04 +0000" title="Sun, 07 Jun 2026 17:05:04 +0000">9 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/06/07/building-reflective-prompt-optimization-with-gepa-multi-component-prompts-structured-feedback-and-held-out-validation/" target="_blank" rel="noopener">Building Reflective Prompt Optimization with GEPA: Multi-Component Prompts, Structured Feedback, and Held-Out Validation</a>
+          </h3>
+
+          <p class="card-snippet">In this tutorial, we use GEPA as a reflective prompt-evolution framework to improve how a small language model solves multi-step arithmetic word probl</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag opensrc" onclick="event.stopPropagation(); filterByTag('开源工具')">开源工具</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/06/07/building-reflective-prompt-optimization-with-gepa-multi-component-prompts-structured-feedback-and-held-out-validation/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sun, 07 Jun 2026 16:23:22 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 16:23:22 +0000" title="Sun, 07 Jun 2026 16:23:22 +0000">10 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/" target="_blank" rel="noopener">OpenAI is still working on that ‘super app’</a>
+          </h3>
+
+          <p class="card-snippet">&quot;Chat is dead&quot; — at least, according to a senior OpenAI employee.</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+      </div>
+    </section>
+    <section class="date-section" data-date="昨天">
+      <div class="date-heading">
+        <span class="date-icon">📆</span>
+        <span class="date-label">昨天</span>
+        <span class="date-count">15 篇</span>
+      </div>
+
+      <div class="news-grid">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431931.html" data-date="昨天" data-tags='[&quot;商业融资&quot;]' data-pubdate="Sun, 07 Jun 2026 12:43:08 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 12:43:08 +0000" title="Sun, 07 Jun 2026 12:43:08 +0000">13 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/06/431931.html" target="_blank" rel="noopener">有余凯不投的地平线离职创业员工吗？</a>
+          </h3>
+
+          <p class="card-snippet">「放任」人才外流的反常操作，只是格局使然吗？</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/06/431931.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431694.html" data-date="昨天" data-tags='[&quot;商业融资&quot;]' data-pubdate="Sun, 07 Jun 2026 12:13:16 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 12:13:16 +0000" title="Sun, 07 Jun 2026 12:13:16 +0000">14 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/06/431694.html" target="_blank" rel="noopener">马斯克39页SpaceX计划，人类史上最伟大的PPT</a>
+          </h3>
+
+          <p class="card-snippet">人类历史最大规模的IPO招股开始了！</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/06/431694.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431499.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 07 Jun 2026 12:07:44 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 12:07:44 +0000" title="Sun, 07 Jun 2026 12:07:44 +0000">14 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/06/431499.html" target="_blank" rel="noopener">OpenAI芯片核心叛逃Anthropic！就在量产前夜</a>
+          </h3>
+
+          <p class="card-snippet">帮OpenAI从零造出第一颗芯片的人，转投Anthropic了</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/06/431499.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-07T12:00:00.000Z">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#7b2ff0"></span>
@@ -100,7 +931,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-06-07T12:00:00.000Z" title="2026-06-07T12:00:00.000Z">1 小时前</span>
+            <span class="card-time" data-pubdate="2026-06-07T12:00:00.000Z" title="2026-06-07T12:00:00.000Z">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -118,7 +949,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 07 Jun 2026 11:08:30 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 07 Jun 2026 11:08:30 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#e65100"></span>
@@ -127,7 +958,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 11:08:30 +0000" title="Sun, 07 Jun 2026 11:08:30 +0000">1 小时前</span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 11:08:30 +0000" title="Sun, 07 Jun 2026 11:08:30 +0000">15 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -145,170 +976,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842867898157316?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;,&quot;开源工具&quot;]' data-pubdate="2026-06-07 18:00:15  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 18:00:15  +0800" title="2026-06-07 18:00:15  +0800">3 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842867898157316?f&#x3D;rss" target="_blank" rel="noopener">泰坦股份：公司电子布织机仍处于研发阶段，不会对公司近期经营业绩产生任何影响</a>
-          </h3>
-
-          <p class="card-snippet">泰坦股份6月7日发布公告，股票交易价格连续2个交易日（2026年6月4日、6月5日）收盘价格涨幅偏离值累计超过20%，根据《深圳证券交易所交易规则》的相关规定，属于股票交易异常波动情形。公司关注到近期“电子布织机”概念受到市场高度关注，但需明确提示：高端电子布对产品性能要求严苛，生产技术迭代速度快，</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-              <span class="card-tag opensrc" onclick="event.stopPropagation(); filterByTag('开源工具')">开源工具</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842867898157316?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842866662230275?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-07 17:45:00  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 17:45:00  +0800" title="2026-06-07 17:45:00  +0800">3 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842866662230275?f&#x3D;rss" target="_blank" rel="noopener">东诚药业：注射用甲磺酸萘莫司他上市许可申请获受理</a>
-          </h3>
-
-          <p class="card-snippet">东诚药业6月7日公告，近日，全资子公司烟台东诚北方制药有限公司收到国家药品监督管理局核准签发的关于注射用甲磺酸萘莫司他上市许可申请的《受理通知书》。目前国内仅有1家首仿上市，国外已有同类产品上市，根据魔熵医药销售数据查询系统得知，注射用甲磺酸萘莫司他2025年前三个季度二级以上医院销售额为4.42亿</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842866662230275?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842865935796488?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-07 17:30:15  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 17:30:15  +0800" title="2026-06-07 17:30:15  +0800">3 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842865935796488?f&#x3D;rss" target="_blank" rel="noopener">新宙邦：与宁德时代签订电解液合作协议 预计2026-2028年采购量合计30万吨</a>
-          </h3>
-
-          <p class="card-snippet">新宙邦公告称，公司与宁德时代签订《电解液合作协议》，约定2026年至2028年期间，宁德时代预计向公司采购电解液量分别为5万吨、10万吨和15万吨，合计30万吨。协议有效期至2028年12月31日，具体采购以实际订单为准。若违约，需赔偿2500万元。该协议预计对公司2026-2028年经营成果产生积</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842865935796488?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842804170918147?f&#x3D;rss" data-date="今日" data-tags='[&quot;政策监管&quot;]' data-pubdate="2026-06-07 17:15:24  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 17:15:24  +0800" title="2026-06-07 17:15:24  +0800">3 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842804170918147?f&#x3D;rss" target="_blank" rel="noopener">派瑞股份：公司股票被实施其他风险警示 6月9日起简称变更为“ST派瑞”</a>
-          </h3>
-
-          <p class="card-snippet">派瑞股份公告称，公司收到证监会陕西监管局下发的《行政处罚事先告知书》，因公司2024年年度报告和2025年半年度报告存在虚假记载，根据相关规定，公司股票交易将被实施其他风险警示。公司股票自2026年6月8日开市起停牌一天，将于6月9日开市起复牌，股票简称由“派瑞股份”变更为“ST派瑞”，日涨跌幅限制</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag policy" onclick="event.stopPropagation(); filterByTag('政策监管')">政策监管</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842804170918147?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842802928306434?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-07 17:00:01  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 17:00:01  +0800" title="2026-06-07 17:00:01  +0800">4 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842802928306434?f&#x3D;rss" target="_blank" rel="noopener">金时科技：控股子公司拟投建千吨级多孔炭产线项目</a>
-          </h3>
-
-          <p class="card-snippet">6月7日，金时科技(002951.SZ)公告称，控股子公司金时新能拟投资建设“千吨级多孔炭产线建设项目”，预计总投资2.30亿元，建成后将形成年产1000吨多孔炭的生产能力。（每经网）</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842802928306434?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842801849076233?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-07 16:45:05  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 16:45:05  +0800" title="2026-06-07 16:45:05  +0800">4 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842801849076233?f&#x3D;rss" target="_blank" rel="noopener">孚能科技：股东拟合计减持不超2%公司股份</a>
-          </h3>
-
-          <p class="card-snippet">孚能科技(688567)6月7日公告，合计持股3.5843%的股东江西立达新材料产业创业投资中心（有限合伙）北京立达高新创业投资中心（有限合伙）、共青城立达投资管理合伙企业（有限合伙）、深圳立达新能源和先进制造创业投资合伙企业（有限合伙）计划通过大宗交易方式和/或集中竞价方式减持其持有的公司股份，拟</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842801849076233?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://www.marktechpost.com/2026/06/07/best-21-low-code-and-no-code-ai-tools-in-2026/" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sun, 07 Jun 2026 08:40:25 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/06/07/best-21-low-code-and-no-code-ai-tools-in-2026/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sun, 07 Jun 2026 08:40:25 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#3b6df0"></span>
@@ -317,7 +985,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 08:40:25 +0000" title="Sun, 07 Jun 2026 08:40:25 +0000">4 小时前</span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 08:40:25 +0000" title="Sun, 07 Jun 2026 08:40:25 +0000">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -335,305 +1003,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842801052174601?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-07 16:30:13  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 16:30:13  +0800" title="2026-06-07 16:30:13  +0800">4 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842801052174601?f&#x3D;rss" target="_blank" rel="noopener">华恒生物：香港联交所审议公司发行H股并在主板挂牌上市申请</a>
-          </h3>
-
-          <p class="card-snippet">6月7日，华恒生物发布公告，公司正在进行申请发行境外上市股份（H股）并在香港联合交易所有限公司主板挂牌上市的相关工作。香港联交所上市委员会于2026年6月4日举行上市聆讯，审议公司本次发行上市的申请。公司本次发行上市的保荐人已于2026年6月5日收到香港联交所向其发出的信函，其中指出香港联交所上市委</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842801052174601?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842800238692609?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-07 16:15:25  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 16:15:25  +0800" title="2026-06-07 16:15:25  +0800">4 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842800238692609?f&#x3D;rss" target="_blank" rel="noopener">优必选：优世界超仿生人形机器人首发预订单量累计超2110台</a>
-          </h3>
-
-          <p class="card-snippet">6月7日，优必选科技宣布，旗下消费级人形机器人品牌优世界超仿生人形机器人首发预订单量6天累计达2110+台。（界面）</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842800238692609?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842799319435784?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-07 15:58:28  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 15:58:28  +0800" title="2026-06-07 15:58:28  +0800">5 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842799319435784?f&#x3D;rss" target="_blank" rel="noopener">沪市公司将密集分红 未来一周A股分红近千亿元</a>
-          </h3>
-
-          <p class="card-snippet">记者从上交所了解到，统计显示，未来一周（6月8日至6月12日），共有近200家公司将实施2025年度期末分红，合计对应年度分红金额919亿元，其中，中国平安、中信银行A股派现额近187亿元、79亿元，均将于6月10日“到账”。近期，沪市上市公司2025年年报现金分红进入密集实施期，沪市公司以真金白银</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842799319435784?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842798722812164?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-07 15:44:59  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 15:44:59  +0800" title="2026-06-07 15:44:59  +0800">5 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842798722812164?f&#x3D;rss" target="_blank" rel="noopener">百度成立数字人创新业务部</a>
-          </h3>
-
-          <p class="card-snippet">6月7日消息，百度MEG（移动生态事业群组）进行了新的一轮组织调整：合并商业部与电商事业部，成立大商业事业部，数字人创新业务部也升级为独立部门。（北京商报）</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842798722812164?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842764594792708?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-07 15:30:10  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 15:30:10  +0800" title="2026-06-07 15:30:10  +0800">5 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842764594792708?f&#x3D;rss" target="_blank" rel="noopener">黄仁勋会见韩国两大游戏商代表共商游戏AI合作方案</a>
-          </h3>
-
-          <p class="card-snippet">据报道，英伟达首席执行官（CEO）黄仁勋7日在首尔江南区的网吧先后会见韩国游戏公司KRAFTON创始人兼董事长蔣柄圭和游戏开发商NCSOFT代表金泽辰。据悉，当天黄仁勋和蔣柄圭可能就物理AI等人形机器人，以及基于英伟达近期发布的首款AI笔记本电脑系列“RTX Spark”的游戏领域合作等进行讨论。K</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842764594792708?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842735724333569?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-07 15:15:01  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 15:15:01  +0800" title="2026-06-07 15:15:01  +0800">5 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842735724333569?f&#x3D;rss" target="_blank" rel="noopener">京东方A：布局玻璃基封装载板、钙钛矿和MicroLED光互联相关应用作为未来业务发展的重要方向】</a>
-          </h3>
-
-          <p class="card-snippet">京东方A在机构调研时表示，围绕公司多年来积累的显示技术、玻璃基加工能力和大规模集成智造能力三大核心优势，根据“第N曲线”理论指导下的“屏之物联”战略，公司通过相关能力的复用，布局玻璃基封装载板、钙钛矿和MicroLED光互联相关应用作为未来业务发展的重要方向。（财联社）</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842735724333569?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842734592346633?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-07 15:07:38  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 15:07:38  +0800" title="2026-06-07 15:07:38  +0800">5 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842734592346633?f&#x3D;rss" target="_blank" rel="noopener">京东方A：随着体育赛事与促销季备货收尾，五月份主流尺寸TV价格持稳</a>
-          </h3>
-
-          <p class="card-snippet">京东方A在机构调研时表示，根据咨询机构数据及分析，受体育赛事备货拉动、成本风险驱动、行业坚持“按需生产”等因素影响，2026年1月至4月各主流尺寸TV产品价格全面上涨；随着体育赛事与促销季备货收尾，五月份主流尺寸TV价格持稳。IT方面，主流尺寸MNT延续微幅上涨态势，NB面板价格持续平稳。（第一财经</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842734592346633?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842708490799369?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-07 14:59:44  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 14:59:44  +0800" title="2026-06-07 14:59:44  +0800">6 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842708490799369?f&#x3D;rss" target="_blank" rel="noopener">京东方A回应存储涨价对显示行业的影响</a>
-          </h3>
-
-          <p class="card-snippet">关于“存储涨价对显示行业的影响”的问题，京东方A在机构调研时表示，受存储涨价对消费电子冲击的影响，根据咨询机构预计，终端厂商与面板厂商在部分产品类别将承受一定压力。分产品类别来看，对笔记本电脑和智能手机终端需求有可能产生一定程度的影响；综合考虑TV面积需求增长等因素，对电视终端需求影响有限。（华尔街</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842708490799369?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842695260768775?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-07 14:45:35  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 14:45:35  +0800" title="2026-06-07 14:45:35  +0800">6 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842695260768775?f&#x3D;rss" target="_blank" rel="noopener">《给阿���的情书》票房突破16亿</a>
-          </h3>
-
-          <p class="card-snippet">据网络平台数据，截至6月7日，由大麦娱乐出品的影片《给阿嬷的情书》票房突破16亿。</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842695260768775?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842711379446018?f&#x3D;rss" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-07 14:32:59  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 14:32:59  +0800" title="2026-06-07 14:32:59  +0800">6 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842711379446018?f&#x3D;rss" target="_blank" rel="noopener">中际旭创：公司产能在持续扩建中</a>
-          </h3>
-
-          <p class="card-snippet">中际旭创6月7日在互动平台表示，公司产能在持续扩建中。（人民财讯）</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842711379446018?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842694357092869?f&#x3D;rss" data-date="今日" data-tags='[&quot;政策监管&quot;,&quot;AI应用&quot;]' data-pubdate="2026-06-07 14:31:42  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 14:31:42  +0800" title="2026-06-07 14:31:42  +0800">6 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842694357092869?f&#x3D;rss" target="_blank" rel="noopener">AI等机器网络请求量首超人类</a>
-          </h3>
-
-          <p class="card-snippet">全球最大的互联网托管服务商之一——云网络安全服务公司发布的最新数据显示，在其托管网站收到的网络访问请求中，约57.4%来自人工智能和自动化程序，42.6%来自人类用户。该公司称，这是互联网历史上来自人类的网络访问请求数量首次被机器超越。 (央视新闻)</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag policy" onclick="event.stopPropagation(); filterByTag('政策监管')">政策监管</span>
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842694357092869?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/" data-date="今日" data-tags='[&quot;大模型&quot;]' data-pubdate="Sun, 07 Jun 2026 06:25:18 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/meet-harness-1-a-20b-retrieval-subagent-trained-with-reinforcement-learning-inside-a-stateful-search-harness-on-gpt-oss-20b/" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Sun, 07 Jun 2026 06:25:18 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#3b6df0"></span>
@@ -642,7 +1012,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 06:25:18 +0000" title="Sun, 07 Jun 2026 06:25:18 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 06:25:18 +0000" title="Sun, 07 Jun 2026 06:25:18 +0000">20 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -660,88 +1030,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842691789654273?f&#x3D;rss" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-07 14:14:07  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 14:14:07  +0800" title="2026-06-07 14:14:07  +0800">6 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842691789654273?f&#x3D;rss" target="_blank" rel="noopener">中国银河证券：非农走强并不意味着美联储年内加息</a>
-          </h3>
-
-          <p class="card-snippet">中国银河宏观研报认为，非农走强并不意味着美联储年内加息。总体上，5月劳动市场数据表明，就业情况整体依然好于市场预期，美联储短期缺乏支持降息的理由和数据；不过，结构仍然显示劳动市场并没有明显加速的风险，也不会推升通胀形成螺旋，无需过度定价年内加息的风险。尽管3月以来的非农数据表现偏强，短期来看也仅是增</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842691789654273?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842626008647945?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-07 14:00:11  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 14:00:11  +0800" title="2026-06-07 14:00:11  +0800">7 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842626008647945?f&#x3D;rss" target="_blank" rel="noopener">多家供给方下调算力价格 算力普惠再提速</a>
-          </h3>
-
-          <p class="card-snippet">随着全国算力基建规模化、标准化不断提速，多家算力价格也迎来持续普惠。让曾经昂贵的“高端稀缺资源”变身为各行各业可普惠使用的“数字水电”。前不久，多家模型厂商宣布永久下调算力价格，其中DeepSeek与小米MiMo降价尤为显著，最高降幅接近99%。极大降低了用户日常高频问答、网页设计、代码编程等多场景</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842626008647945?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/newsflashes/3842624097569288?f&#x3D;rss" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-07 13:44:14  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-07 13:44:14  +0800" title="2026-06-07 13:44:14  +0800">7 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/newsflashes/3842624097569288?f&#x3D;rss" target="_blank" rel="noopener">小米机器人或将亮相小米17T发布会</a>
-          </h3>
-
-          <p class="card-snippet">卢伟冰发布视频，探班小米17T发布会主讲人TJ的彩排，还送上保温杯和润喉糖。视频中出现了小米机器人的手臂，他们还一起碰拳加油，疑似小米机器人也将在发布会中亮相。（新浪财经）</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://36kr.com/newsflashes/3842624097569288?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/" data-date="今日" data-tags='[&quot;大模型&quot;]' data-pubdate="Sun, 07 Jun 2026 05:11:09 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/nvidia-garak-tutorial-build-a-complete-defensive-llm-red-teaming-workflow-with-custom-probes-and-detectors/" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Sun, 07 Jun 2026 05:11:09 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#3b6df0"></span>
@@ -750,7 +1039,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 05:11:09 +0000" title="Sun, 07 Jun 2026 05:11:09 +0000">7 小时前</span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 05:11:09 +0000" title="Sun, 07 Jun 2026 05:11:09 +0000">21 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -768,7 +1057,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431487.html" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 07 Jun 2026 03:10:13 +0000">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431487.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 07 Jun 2026 03:10:13 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#e65100"></span>
@@ -777,7 +1066,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 03:10:13 +0000" title="Sun, 07 Jun 2026 03:10:13 +0000">9 小时前</span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 03:10:13 +0000" title="Sun, 07 Jun 2026 03:10:13 +0000">23 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -795,7 +1084,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431401.html" data-date="今日" data-tags='[&quot;开源工具&quot;]' data-pubdate="Sun, 07 Jun 2026 01:13:21 +0000">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431401.html" data-date="昨天" data-tags='[&quot;开源工具&quot;]' data-pubdate="Sun, 07 Jun 2026 01:13:21 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#e65100"></span>
@@ -804,7 +1093,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 01:13:21 +0000" title="Sun, 07 Jun 2026 01:13:21 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Sun, 07 Jun 2026 01:13:21 +0000" title="Sun, 07 Jun 2026 01:13:21 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -822,7 +1111,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 06 Jun 2026 22:07:34 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/googles-new-colab-cli-lets-developers-and-ai-agents-run-python-on-remote-colab-gpus-and-tpus-from-the-terminal/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 06 Jun 2026 22:07:34 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#3b6df0"></span>
@@ -831,7 +1120,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 22:07:34 +0000" title="Sat, 06 Jun 2026 22:07:34 +0000">14 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 22:07:34 +0000" title="Sat, 06 Jun 2026 22:07:34 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -849,7 +1138,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/" data-date="今日" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 06 Jun 2026 20:32:24 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 06 Jun 2026 20:32:24 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#0a9e4a"></span>
@@ -858,7 +1147,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 20:32:24 +0000" title="Sat, 06 Jun 2026 20:32:24 +0000">16 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 20:32:24 +0000" title="Sat, 06 Jun 2026 20:32:24 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -876,7 +1165,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 06 Jun 2026 18:13:36 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 06 Jun 2026 18:13:36 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#0a9e4a"></span>
@@ -885,7 +1174,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 18:13:36 +0000" title="Sat, 06 Jun 2026 18:13:36 +0000">18 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 18:13:36 +0000" title="Sat, 06 Jun 2026 18:13:36 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -903,7 +1192,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/" data-date="今日" data-tags='[&quot;政策监管&quot;]' data-pubdate="Sat, 06 Jun 2026 17:42:15 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/06/06/sriram-krishnan-is-leaving-his-role-as-white-house-ai-advisor/" data-date="昨天" data-tags='[&quot;政策监管&quot;]' data-pubdate="Sat, 06 Jun 2026 17:42:15 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#0a9e4a"></span>
@@ -912,7 +1201,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 17:42:15 +0000" title="Sat, 06 Jun 2026 17:42:15 +0000">19 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 17:42:15 +0000" title="Sat, 06 Jun 2026 17:42:15 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -930,7 +1219,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Sat, 06 Jun 2026 16:17:21 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/06/06/the-trump-administration-might-take-an-equity-stake-in-openai/" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Sat, 06 Jun 2026 16:17:21 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#0a9e4a"></span>
@@ -939,7 +1228,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 16:17:21 +0000" title="Sat, 06 Jun 2026 16:17:21 +0000">20 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 16:17:21 +0000" title="Sat, 06 Jun 2026 16:17:21 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -959,15 +1248,15 @@
         </article>
       </div>
     </section>
-    <section class="date-section" data-date="昨天">
+    <section class="date-section" data-date="6月6日星期六">
       <div class="date-heading">
-        <span class="date-icon">📆</span>
-        <span class="date-label">昨天</span>
-        <span class="date-count">18 篇</span>
+        <span class="date-icon">📋</span>
+        <span class="date-label">6月6日星期六</span>
+        <span class="date-count">9 篇</span>
       </div>
 
       <div class="news-grid">
-        <article class="news-card" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center" data-date="昨天" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-06T15:05:00.000Z">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/944984/shelbyville-indiana-mayor-shitty-houses-data-center" data-date="6月6日星期六" data-tags='[&quot;商业融资&quot;]' data-pubdate="2026-06-06T15:05:00.000Z">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#7b2ff0"></span>
@@ -976,7 +1265,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-06-06T15:05:00.000Z" title="2026-06-06T15:05:00.000Z">21 小时前</span>
+            <span class="card-time" data-pubdate="2026-06-06T15:05:00.000Z" title="2026-06-06T15:05:00.000Z">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -994,7 +1283,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-06T14:00:00.000Z">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/944235/meta-app-ai-clickbait-articles" data-date="6月6日星期六" data-tags='[&quot;综合&quot;]' data-pubdate="2026-06-06T14:00:00.000Z">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#7b2ff0"></span>
@@ -1003,7 +1292,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-06-06T14:00:00.000Z" title="2026-06-06T14:00:00.000Z">23 小时前</span>
+            <span class="card-time" data-pubdate="2026-06-06T14:00:00.000Z" title="2026-06-06T14:00:00.000Z">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1021,7 +1310,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-06T12:00:00.000Z">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini" data-date="6月6日星期六" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-06-06T12:00:00.000Z">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#7b2ff0"></span>
@@ -1048,7 +1337,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431371.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Sat, 06 Jun 2026 10:14:54 +0000">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431371.html" data-date="6月6日星期六" data-tags='[&quot;综合&quot;]' data-pubdate="Sat, 06 Jun 2026 10:14:54 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#e65100"></span>
@@ -1075,7 +1364,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 06 Jun 2026 09:11:08 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/moonshot-ai-releases-kimi-code-cli-a-terminal-ai-coding-agent-built-in-typescript-for-next-gen-agents/" data-date="6月6日星期六" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 06 Jun 2026 09:11:08 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#3b6df0"></span>
@@ -1102,7 +1391,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/nvidia-releases-nemotron-3-5-asr-a-600m-parameter-cache-aware-streaming-model-transcribing-40-language-locales-in-real-time/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 06 Jun 2026 07:55:40 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/06/06/nvidia-releases-nemotron-3-5-asr-a-600m-parameter-cache-aware-streaming-model-transcribing-40-language-locales-in-real-time/" data-date="6月6日星期六" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 06 Jun 2026 07:55:40 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#3b6df0"></span>
@@ -1129,7 +1418,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431287.html" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 06 Jun 2026 07:15:13 +0000">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431287.html" data-date="6月6日星期六" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 06 Jun 2026 07:15:13 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#e65100"></span>
@@ -1156,7 +1445,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431349.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Sat, 06 Jun 2026 07:08:15 +0000">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431349.html" data-date="6月6日星期六" data-tags='[&quot;综合&quot;]' data-pubdate="Sat, 06 Jun 2026 07:08:15 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#e65100"></span>
@@ -1183,7 +1472,7 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431186.html" data-date="昨天" data-tags='[&quot;学术研究&quot;]' data-pubdate="Sat, 06 Jun 2026 07:00:06 +0000">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431186.html" data-date="6月6日星期六" data-tags='[&quot;学术研究&quot;]' data-pubdate="Sat, 06 Jun 2026 07:00:06 +0000">
           <div class="card-hd">
             <span class="card-source">
               <span class="card-source-dot" style="background:#e65100"></span>
@@ -1210,250 +1499,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card" data-lang="zh" data-url="https://www.qbitai.com/2026/06/431056.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Sat, 06 Jun 2026 03:35:47 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Sat, 06 Jun 2026 03:35:47 +0000" title="Sat, 06 Jun 2026 03:35:47 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/06/431056.html" target="_blank" rel="noopener">港股鞋王千百度，一夜完成AI数据公司转型</a>
-          </h3>
-
-          <p class="card-snippet">形成「鞋履+人工智能数据」双主业</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/06/431056.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="zh" data-url="https://36kr.com/p/3840996342073604?f&#x3D;rss" data-date="昨天" data-tags='[&quot;AI应用&quot;,&quot;商业融资&quot;]' data-pubdate="2026-06-06 09:07:19  +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#1976d2"></span>
-              36氪
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="2026-06-06 09:07:19  +0800" title="2026-06-06 09:07:19  +0800">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://36kr.com/p/3840996342073604?f&#x3D;rss" target="_blank" rel="noopener">9点1氪｜豆包推出付费后月活减少610万；Anthropic呼吁全球放缓AI开发，警告AI“自我改进”风险；罗永浩卸任锤子软件公司执行董事</a>
-          </h3>
-
-          <p class="card-snippet">今日热点导览 SpaceX据悉将其IPO的日本融资目标提高至25亿美元 二手房挂牌量回落新房库存下降，楼市供需关系向好 B站宣布启动AI创造公开赛 TOP3大新闻 数据显示，豆包推出付费后月活减少610万  据全球人工智能市场追踪机构Aicpb.com周三发布的数据显示，在豆包推出订阅选项后，该应用</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://36kr.com/p/3840996342073604?f&#x3D;rss" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 05 Jun 2026 22:32:51 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#3b6df0"></span>
-              MarkTechPost
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 05 Jun 2026 22:32:51 +0000" title="Fri, 05 Jun 2026 22:32:51 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/" target="_blank" rel="noopener">A Hands-On Coding Tutorial on Qualcomm AI Hub Models for Classification, Object Detection, and Hardware-Aware Deployment</a>
-          </h3>
-
-          <p class="card-snippet">Set up Qualcomm AI Hub Models to run MobileNet-V2 inference, YOLOv7 detection, and compile models on real devices. The post A Hands-On Coding Tutorial</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.marktechpost.com/2026/06/05/a-hands-on-coding-tutorial-on-qualcomm-ai-hub-models-for-classification-object-detection-and-hardware-aware-deployment/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Fri, 05 Jun 2026 20:00:00 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#0a9e4a"></span>
-              TechCrunch
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 05 Jun 2026 20:00:00 +0000" title="Fri, 05 Jun 2026 20:00:00 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/" target="_blank" rel="noopener">Startup Battlefield 200 applications officially close in 3 days</a>
-          </h3>
-
-          <p class="card-snippet">Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don&#x27;t wait any longer. Secure your shot at competing on the Disrup</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://www.marktechpost.com/2026/06/05/google-deepmind-releases-gemma-4-qat-checkpoints-q4_0-and-a-new-mobile-format-cut-on-device-memory/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Fri, 05 Jun 2026 18:59:38 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#3b6df0"></span>
-              MarkTechPost
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 05 Jun 2026 18:59:38 +0000" title="Fri, 05 Jun 2026 18:59:38 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/06/05/google-deepmind-releases-gemma-4-qat-checkpoints-q4_0-and-a-new-mobile-format-cut-on-device-memory/" target="_blank" rel="noopener">Google DeepMind Releases Gemma 4 QAT Checkpoints: Q4_0 and a New Mobile Format Cut On-Device Memory</a>
-          </h3>
-
-          <p class="card-snippet">Compare Gemma 4 edge formats: BF16, Q4_0 QAT, and mobile QAT, on published memory numbers and design tradeoffs. The post Google DeepMind Releases Gemm</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://www.marktechpost.com/2026/06/05/google-deepmind-releases-gemma-4-qat-checkpoints-q4_0-and-a-new-mobile-format-cut-on-device-memory/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Fri, 05 Jun 2026 18:57:20 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#0a9e4a"></span>
-              TechCrunch
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 05 Jun 2026 18:57:20 +0000" title="Fri, 05 Jun 2026 18:57:20 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/" target="_blank" rel="noopener">Google will pay SpaceX $920M per month for compute</a>
-          </h3>
-
-          <p class="card-snippet">In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/" data-date="昨天" data-tags='[&quot;商业融资&quot;]' data-pubdate="Fri, 05 Jun 2026 18:45:20 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              Ars Technica
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 05 Jun 2026 18:45:20 +0000" title="Fri, 05 Jun 2026 18:45:20 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/" target="_blank" rel="noopener">S&amp;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic</a>
-          </h3>
-
-          <p class="card-snippet">SpaceX won’t get easy access to billions of dollars from passive investors.</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 05 Jun 2026 18:23:00 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              Ars Technica
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 05 Jun 2026 18:23:00 +0000" title="Fri, 05 Jun 2026 18:23:00 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/" target="_blank" rel="noopener">&quot;We pissed off a lot of people&quot;: Giant data center plan cut 50% amid protests</a>
-          </h3>
-
-          <p class="card-snippet">Developer felt &quot;beaten up,&quot; with &quot;no choice&quot; but to shrink data center.</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://arstechnica.com/tech-policy/2026/06/we-pissed-off-a-lot-of-people-giant-data-center-plan-cut-50-amid-protests/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card" data-lang="en" data-url="https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/" data-date="昨天" data-tags='[&quot;商业融资&quot;]' data-pubdate="Fri, 05 Jun 2026 17:17:06 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#0a9e4a"></span>
-              TechCrunch
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 05 Jun 2026 17:17:06 +0000" title="Fri, 05 Jun 2026 17:17:06 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/" target="_blank" rel="noopener">The most interesting startups right now want to get you off your phone</a>
-          </h3>
-
-          <p class="card-snippet">While the AI fundraising machine keeps breaking its own records, some founders are building in the other direction.  Mirror founder Brynn Putnam just</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
       </div>
     </section>
 
@@ -1474,111 +1519,198 @@
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
   <p>每日 8:00 自动更新 · 免费 · 开源</p>
-  <p>更新于 2026/6/7 20:10:52 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
+  <p>更新于 2026/6/8 10:32:40 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
 </footer>
 
-<button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回到顶部">↑</button>
+<!-- ====== Back to Top ====== -->
+<button class="back-to-top" id="backToTop" onclick="window.scrollTo({top:0,behavior:'smooth'})" title="回到顶部" aria-label="回到顶部">
+  <svg viewBox="0 0 44 44">
+    <circle class="ring-bg" cx="22" cy="22" r="18"/>
+    <circle class="ring-fg" id="ringFg" cx="22" cy="22" r="18"
+            stroke-dasharray="113.1" stroke-dashoffset="113.1"/>
+  </svg>
+  <span class="arrow">↑</span>
+</button>
 
 <script>
 // ====== State ======
 var filterState = { lang: 'all', time: 'all', cat: 'all' };
+var searchQuery = '';
 var PER_PAGE = 15;
 var currentPage = 1;
 var totalPages = 0;
+var keyFocusIndex = -1;
+
+// ====== Dark Mode ======
+(function() {
+  var toggle = document.getElementById('themeToggle');
+  var html = document.documentElement;
+
+  function setTheme(isDark) {
+    html.setAttribute('data-theme', isDark ? 'dark' : '');
+    try { localStorage.setItem('theme', isDark ? 'dark' : 'light'); } catch(e) {}
+  }
+
+  function getPreferredTheme() {
+    try {
+      var saved = localStorage.getItem('theme');
+      if (saved === 'dark') return true;
+      if (saved === 'light') return false;
+    } catch(e) {}
+    return window.matchMedia('(prefers-color-scheme: dark)').matches;
+  }
+
+  var isDark = getPreferredTheme();
+  setTheme(isDark);
+
+  toggle.addEventListener('click', function() {
+    html.classList.add('theme-transition');
+    isDark = !isDark;
+    setTheme(isDark);
+    setTimeout(function() { html.classList.remove('theme-transition'); }, 400);
+  });
+
+  // Listen for system theme changes
+  window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', function(e) {
+    if (!localStorage.getItem('theme')) {
+      html.classList.add('theme-transition');
+      setTheme(e.matches);
+      setTimeout(function() { html.classList.remove('theme-transition'); }, 400);
+    }
+  });
+})();
 
 // ====== Click card to open article ======
-document.querySelectorAll('.news-card').forEach(card => {
-  card.addEventListener('click', (e) => {
+document.querySelectorAll('.news-card').forEach(function(card) {
+  card.addEventListener('click', function(e) {
     if (e.target.closest('.read-btn') || e.target.closest('.card-tag')) return;
-    const url = card.dataset.url;
+    var url = card.dataset.url;
     if (url) window.open(url, '_blank', 'noopener');
   });
 });
+
+// ====== Search ======
+var searchInput = document.getElementById('searchInput');
+var searchClear = document.getElementById('searchClear');
+
+searchInput.addEventListener('input', function() {
+  searchQuery = this.value.trim().toLowerCase();
+  searchClear.classList.toggle('visible', searchQuery.length > 0);
+  currentPage = 1;
+  keyFocusIndex = -1;
+  clearKeyFocus();
+  applyFilters();
+});
+
+function clearSearch() {
+  searchInput.value = '';
+  searchQuery = '';
+  searchClear.classList.remove('visible');
+  currentPage = 1;
+  applyFilters();
+  searchInput.focus();
+}
 
 // ====== Combined filter + pagination ======
 function setFilter(group, value, btn) {
   filterState[group] = value;
 
   // Update active tab within the same group
-  const groupBtns = btn.parentElement.querySelectorAll('[data-filter-group="' + group + '"]');
-  groupBtns.forEach(b => b.classList.remove('active'));
+  var groupBtns = btn.parentElement.querySelectorAll('[data-filter-group="' + group + '"]');
+  groupBtns.forEach(function(b) { b.classList.remove('active'); });
   btn.classList.add('active');
 
   currentPage = 1;
+  keyFocusIndex = -1;
+  clearKeyFocus();
   applyFilters();
 }
 
+function cardMatchesFilters(card) {
+  var lang = filterState.lang;
+  var time = filterState.time;
+  var cat = filterState.cat;
+
+  if (lang !== 'all' && card.dataset.lang !== lang) return false;
+  if (time !== 'all') {
+    if (time === 'earlier') {
+      if (card.dataset.date === '今日' || card.dataset.date === '昨天') return false;
+    } else {
+      if (card.dataset.date !== time) return false;
+    }
+  }
+  if (cat !== 'all') {
+    var tags = [];
+    try { tags = JSON.parse(card.dataset.tags); } catch(e) {}
+    if (!tags.includes(cat)) return false;
+  }
+  if (searchQuery) {
+    var title = (card.querySelector('.card-title') || {}).textContent || '';
+    var snippet = (card.querySelector('.card-snippet') || {}).textContent || '';
+    if (title.toLowerCase().indexOf(searchQuery) === -1 && snippet.toLowerCase().indexOf(searchQuery) === -1) {
+      return false;
+    }
+  }
+  return true;
+}
+
 function applyFilters() {
-  const { lang, time, cat } = filterState;
+  var allCards = document.querySelectorAll('.news-card');
+  var matched = [];
 
-  // --- Step 1: Determine which cards pass the filters ---
-  const allCards = document.querySelectorAll('.news-card');
-  const matched = [];
-
-  allCards.forEach(card => {
-    let match = true;
-
-    if (lang !== 'all' && card.dataset.lang !== lang) match = false;
-    if (match && time !== 'all') {
-      if (time === 'earlier') {
-        if (card.dataset.date === '今日' || card.dataset.date === '昨天') match = false;
-      } else {
-        if (card.dataset.date !== time) match = false;
-      }
+  allCards.forEach(function(card) {
+    if (cardMatchesFilters(card)) {
+      matched.push(card);
     }
-    if (match && cat !== 'all') {
-      let tags = [];
-      try { tags = JSON.parse(card.dataset.tags); } catch(e) {}
-      if (!tags.includes(cat)) match = false;
-    }
-
-    if (match) matched.push(card);
-    // Hide all cards initially; we'll reveal the right ones below
   });
 
-  // --- Step 2: Pagination math ---
+  // Pagination
   totalPages = Math.max(1, Math.ceil(matched.length / PER_PAGE));
   if (currentPage > totalPages) currentPage = totalPages;
 
-  const start = (currentPage - 1) * PER_PAGE;
-  const end = start + PER_PAGE;
-  const pageSlice = matched.slice(start, end);
-  const pageSet = new Set(pageSlice);
+  var start = (currentPage - 1) * PER_PAGE;
+  var end = start + PER_PAGE;
+  var pageSlice = matched.slice(start, end);
+  var pageSet = new Set(pageSlice);
 
-  // --- Step 3: Show/hide each card ---
-  allCards.forEach(card => {
+  allCards.forEach(function(card) {
     card.style.display = pageSet.has(card) ? '' : 'none';
   });
 
-  // --- Step 4: Hide empty date sections ---
-  document.querySelectorAll('.date-section').forEach(section => {
-    const hiddenCards = section.querySelectorAll('.news-card[style*="display: none"]').length;
-    const total = section.querySelectorAll('.news-card').length;
+  // Hide empty date sections
+  document.querySelectorAll('.date-section').forEach(function(section) {
+    var hiddenCards = section.querySelectorAll('.news-card[style*="display: none"]').length;
+    var total = section.querySelectorAll('.news-card').length;
     section.style.display = hiddenCards === total ? 'none' : '';
   });
 
-  // --- Step 5: Update filter indicator ---
-  const activeEl = document.getElementById('filterActive');
-  const activeText = document.getElementById('filterActiveText');
-  const nonDefaultFilters = [];
-  if (lang !== 'all') nonDefaultFilters.push('语言: ' + (lang === 'zh' ? '中文' : 'English'));
-  if (time !== 'all') nonDefaultFilters.push('时间: ' + (time === 'earlier' ? '更早' : time));
-  if (cat !== 'all') nonDefaultFilters.push('分类: ' + cat);
+  // No results
+  var noResults = document.getElementById('noResults');
+  noResults.classList.toggle('visible', matched.length === 0);
+
+  // Filter indicator
+  var activeEl = document.getElementById('filterActive');
+  var activeText = document.getElementById('filterActiveText');
+  var nonDefaultFilters = [];
+  if (filterState.lang !== 'all') nonDefaultFilters.push('语言: ' + (filterState.lang === 'zh' ? '中文' : 'English'));
+  if (filterState.time !== 'all') nonDefaultFilters.push('时间: ' + (filterState.time === 'earlier' ? '更早' : filterState.time));
+  if (filterState.cat !== 'all') nonDefaultFilters.push('分类: ' + filterState.cat);
+  if (searchQuery) nonDefaultFilters.push('搜索: ' + searchQuery);
 
   activeEl.style.display = nonDefaultFilters.length > 0 ? 'flex' : 'none';
   activeText.textContent = '筛选: ' + nonDefaultFilters.join(' · ');
 
-  // --- Step 6: Update pagination UI ---
+  // Pagination UI
   renderPagination(matched.length);
 }
 
 // ====== Pagination rendering ======
 function renderPagination(totalFiltered) {
-  const pagination = document.getElementById('pagination');
-  const pageNumbers = document.getElementById('pageNumbers');
-  const prevBtn = document.getElementById('prevPage');
-  const nextBtn = document.getElementById('nextPage');
-  const pageInfo = document.getElementById('pageInfo');
+  var pagination = document.getElementById('pagination');
+  var pageNumbers = document.getElementById('pageNumbers');
+  var prevBtn = document.getElementById('prevPage');
+  var nextBtn = document.getElementById('nextPage');
+  var pageInfo = document.getElementById('pageInfo');
 
   if (totalFiltered === 0 || totalPages <= 1) {
     pagination.style.display = 'none';
@@ -1591,11 +1723,10 @@ function renderPagination(totalFiltered) {
   prevBtn.disabled = currentPage <= 1;
   nextBtn.disabled = currentPage >= totalPages;
 
-  // Build page number buttons
-  let html = '';
-  const range = 2; // show 2 pages before and after current
+  var html = '';
+  var range = 2;
 
-  for (let i = 1; i <= totalPages; i++) {
+  for (var i = 1; i <= totalPages; i++) {
     if (i === 1 || i === totalPages || (i >= currentPage - range && i <= currentPage + range)) {
       html += '<button class="page-num' + (i === currentPage ? ' active' : '') + '" onclick="goToPage(' + i + ')">' + i + '</button>';
     } else if (html.slice(-6) !== '…</button>' && html.slice(-1) !== '…') {
@@ -1609,27 +1740,30 @@ function renderPagination(totalFiltered) {
 function goToPage(page) {
   if (page < 1 || page > totalPages) return;
   currentPage = page;
+  keyFocusIndex = -1;
+  clearKeyFocus();
   applyFilters();
-  // Scroll to top of content
   document.querySelector('.content').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 // ====== Category tag click ======
 function filterByTag(tag) {
-  const catBtns = document.querySelectorAll('[data-filter-group="cat"]');
-  catBtns.forEach(b => {
+  var catBtns = document.querySelectorAll('[data-filter-group="cat"]');
+  catBtns.forEach(function(b) {
     b.classList.toggle('active', b.dataset.filterValue === tag);
   });
   filterState.cat = tag;
   currentPage = 1;
+  keyFocusIndex = -1;
+  clearKeyFocus();
   applyFilters();
   document.querySelector('.filter-bar').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 // ====== Clear all filters ======
 function clearAllFilters() {
-  document.querySelectorAll('[data-filter-group]').forEach(btn => {
-    const group = btn.dataset.filterGroup;
+  document.querySelectorAll('[data-filter-group]').forEach(function(btn) {
+    var group = btn.dataset.filterGroup;
     if (btn.dataset.filterValue === 'all') {
       btn.classList.add('active');
       filterState[group] = 'all';
@@ -1637,20 +1771,166 @@ function clearAllFilters() {
       btn.classList.remove('active');
     }
   });
+  clearSearch();
   currentPage = 1;
+  keyFocusIndex = -1;
+  clearKeyFocus();
   applyFilters();
 }
 
-// ====== Back to top ======
-const backToTopBtn = document.getElementById('backToTop');
-window.addEventListener('scroll', () => {
-  backToTopBtn.classList.toggle('visible', window.scrollY > 400);
+// ====== Keyboard Navigation ======
+function getVisibleCards() {
+  var cards = document.querySelectorAll('.news-card');
+  var visible = [];
+  cards.forEach(function(card) {
+    if (card.style.display !== 'none') visible.push(card);
+  });
+  return visible;
+}
+
+function clearKeyFocus() {
+  document.querySelectorAll('.news-card.key-focus').forEach(function(c) {
+    c.classList.remove('key-focus');
+  });
+  keyFocusIndex = -1;
+}
+
+function focusCard(index) {
+  clearKeyFocus();
+  var visible = getVisibleCards();
+  if (visible.length === 0) return;
+  if (index < 0) index = 0;
+  if (index >= visible.length) index = visible.length - 1;
+  keyFocusIndex = index;
+  var card = visible[index];
+  card.classList.add('key-focus');
+  card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+}
+
+document.addEventListener('keydown', function(e) {
+  // Don't intercept when typing in input fields
+  if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.isContentEditable) {
+    if (e.key === 'Escape') {
+      e.target.blur();
+      clearSearch();
+    }
+    return;
+  }
+
+  // j — next card
+  if (e.key === 'j' || e.key === 'J') {
+    e.preventDefault();
+    var visible = getVisibleCards();
+    if (visible.length === 0) return;
+    if (keyFocusIndex < 0) keyFocusIndex = 0;
+    else keyFocusIndex = Math.min(keyFocusIndex + 1, visible.length - 1);
+    focusCard(keyFocusIndex);
+    return;
+  }
+
+  // k — previous card
+  if (e.key === 'k' || e.key === 'K') {
+    e.preventDefault();
+    var visible = getVisibleCards();
+    if (visible.length === 0) return;
+    if (keyFocusIndex < 0) keyFocusIndex = visible.length - 1;
+    else keyFocusIndex = Math.max(keyFocusIndex - 1, 0);
+    focusCard(keyFocusIndex);
+    return;
+  }
+
+  // / — focus search
+  if (e.key === '/') {
+    e.preventDefault();
+    searchInput.focus();
+    return;
+  }
+
+  // Escape — clear search, clear focus
+  if (e.key === 'Escape') {
+    e.preventDefault();
+    clearSearch();
+    clearKeyFocus();
+    return;
+  }
+
+  // Enter — open focused card
+  if (e.key === 'Enter' && keyFocusIndex >= 0) {
+    e.preventDefault();
+    var visible = getVisibleCards();
+    if (visible[keyFocusIndex]) {
+      var url = visible[keyFocusIndex].dataset.url;
+      if (url) window.open(url, '_blank', 'noopener');
+    }
+  }
 });
+
+// ====== Reading Progress Bar ======
+(function() {
+  var bar = document.getElementById('progressBar');
+  window.addEventListener('scroll', function() {
+    var scrollY = window.scrollY || document.documentElement.scrollTop;
+    var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    if (docHeight <= 0) { bar.style.width = '0%'; return; }
+    var pct = Math.min(100, Math.max(0, (scrollY / docHeight) * 100));
+    bar.style.width = pct + '%';
+  });
+})();
+
+// ====== Back to Top + Scroll Ring ======
+(function() {
+  var btn = document.getElementById('backToTop');
+  var ring = document.getElementById('ringFg');
+  var circumference = 2 * Math.PI * 18; // ~113.1
+
+  window.addEventListener('scroll', function() {
+    var scrollY = window.scrollY || document.documentElement.scrollTop;
+    var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+
+    // Visibility
+    btn.classList.toggle('visible', scrollY > 300);
+
+    // Ring fill
+    if (docHeight > 0 && ring) {
+      var pct = Math.min(1, Math.max(0, scrollY / docHeight));
+      var offset = circumference * (1 - pct);
+      ring.setAttribute('stroke-dasharray', circumference);
+      ring.setAttribute('stroke-dashoffset', offset);
+    }
+  });
+})();
+
+// ====== Scroll-Reveal via Intersection Observer ======
+(function() {
+  var observer = new IntersectionObserver(function(entries) {
+    entries.forEach(function(entry, i) {
+      if (entry.isIntersecting) {
+        var card = entry.target;
+        // Stagger within the same grid
+        var siblings = Array.from(card.parentElement.children).filter(function(c) {
+          return c.classList.contains('scroll-hidden');
+        });
+        var idx = siblings.indexOf(card);
+        var delay = Math.min(idx * 50, 300);
+
+        setTimeout(function() {
+          card.classList.remove('scroll-hidden');
+          card.classList.add('scroll-revealed');
+        }, delay);
+
+        observer.unobserve(card);
+      }
+    });
+  }, { threshold: 0.1, rootMargin: '0px 0px -30px 0px' });
+
+  document.querySelectorAll('.news-card.scroll-hidden').forEach(function(card) {
+    observer.observe(card);
+  });
+})();
 
 // ====== Real-time system ======
 var realtimeInterval;
 
-// Relative time with "秒前" granularity
 function relativeTime(dateStr) {
   var date = new Date(dateStr);
   if (isNaN(date.getTime())) return dateStr;
@@ -1672,7 +1952,6 @@ function relativeTime(dateStr) {
   return date.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric' });
 }
 
-// Update all card timestamps with flash effect
 function updateTimestamps() {
   var changed = false;
   document.querySelectorAll('.card-time[data-pubdate]').forEach(function(el) {
@@ -1681,7 +1960,6 @@ function updateTimestamps() {
     if (oldText !== newText) {
       el.textContent = newText;
       el.classList.remove('time-flash');
-      // Force reflow for animation restart
       void el.offsetWidth;
       el.classList.add('time-flash');
       changed = true;
@@ -1697,7 +1975,6 @@ function updateTimestamps() {
   }
 }
 
-// Live clock
 function updateClock() {
   var now = new Date();
   var h = String(now.getHours()).padStart(2, '0');
@@ -1710,13 +1987,294 @@ function updateClock() {
 function startRealtime() {
   updateClock();
   updateTimestamps();
-  // Live clock every second
   setInterval(updateClock, 1000);
-  // Update timestamps every 10 seconds
   realtimeInterval = setInterval(updateTimestamps, 10000);
 }
 
 startRealtime();
+
+// ====== Live Polling for New Articles ======
+var knownArticleUrls = [];
+var pendingNewArticles = [];
+var LIVE_POLL_INTERVAL = 120000; // 2 minutes
+
+// Source color mapping (matches server-side sourceColor helper)
+var SOURCE_COLORS = {
+  'qbitai': '#e65100', '36kr-ai': '#1976d2', 'leiphone': '#c62828',
+  'itjuzi-ai': '#6d28d9', 'techcrunch-ai': '#0a9e4a', 'theverge-ai': '#7b2ff0',
+  'mit-tr': '#b91c1c', 'venturebeat-ai': '#2e7d32', 'arstechnica-ai': '#e65100',
+  'openai-blog': '#10a37f', 'huggingface-blog': '#f5a623', 'marktechpost': '#3b6df0'
+};
+
+// Tag → CSS class mapping
+var TAG_CLASSES = {
+  '大模型': 'model', 'AI应用': 'app', '政策监管': 'policy',
+  '学术研究': 'research', '开源工具': 'opensrc', '商业融资': 'biz', '综合': 'general'
+};
+
+// Collect existing article URLs
+document.querySelectorAll('.news-card').forEach(function(card) {
+  var url = card.dataset.url;
+  if (url) knownArticleUrls.push(url);
+});
+
+// Build card HTML for a new article
+function buildCardHTML(article) {
+  var lang = article.lang || 'en';
+  var dateLabel = getDateLabel(article.pubDate);
+  var langTag = lang === 'zh' ? '中' : 'EN';
+  var langClass = lang === 'zh' ? 'zh' : 'en';
+  var sourceColor = SOURCE_COLORS[article.sourceId] || '#8e8ea8';
+  var readLabel = lang === 'zh' ? '阅读原文' : 'Read Article';
+  var timeStr = relativeTime(article.pubDate);
+
+  var tagsHTML = '';
+  if (article.tags && article.tags.length) {
+    article.tags.forEach(function(tag) {
+      var cls = TAG_CLASSES[tag] || 'general';
+      tagsHTML += '<span class="card-tag ' + cls + '" onclick="event.stopPropagation(); filterByTag(\'' + escapeHTML(tag) + '\')">' + escapeHTML(tag) + '</span>';
+    });
+  }
+
+  return '<article class="news-card card-new" data-lang="' + lang + '" data-url="' + escapeHTML(article.link) + '" data-date="' + dateLabel + '" data-tags=\'' + JSON.stringify(article.tags || []) + '\' data-pubdate="' + escapeHTML(article.pubDate) + '">' +
+    '<div class="card-hd">' +
+      '<span class="card-source">' +
+        '<span class="card-source-dot" style="background:' + sourceColor + '"></span>' +
+        escapeHTML(article.sourceName || '') +
+      '</span>' +
+      '<span class="card-lang-tag ' + langClass + '">' + langTag + '</span>' +
+      '<span class="card-time" data-pubdate="' + escapeHTML(article.pubDate) + '" title="' + escapeHTML(article.pubDate) + '">' + timeStr + '</span>' +
+    '</div>' +
+    '<h3 class="card-title"><a href="' + escapeHTML(article.link) + '" target="_blank" rel="noopener">' + escapeHTML(article.title || '') + '</a></h3>' +
+    '<p class="card-snippet">' + escapeHTML(article.snippet || '') + '</p>' +
+    '<div class="card-ft">' +
+      '<div class="card-tags">' + tagsHTML + '</div>' +
+      '<a href="' + escapeHTML(article.link) + '" target="_blank" rel="noopener" class="read-btn">📖 ' + readLabel + '</a>' +
+    '</div>' +
+  '</article>';
+}
+
+function escapeHTML(str) {
+  if (!str) return '';
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
+
+function getDateLabel(pubDate) {
+  if (!pubDate) return '';
+  var d = new Date(pubDate);
+  if (isNaN(d.getTime())) return '';
+  var today = new Date().toDateString();
+  var yesterday = new Date(Date.now() - 86400000).toDateString();
+  var dateStr = d.toDateString();
+  if (dateStr === today) return '今日';
+  if (dateStr === yesterday) return '昨天';
+  return d.toLocaleDateString('zh-CN', { month: 'long', day: 'numeric', weekday: 'long' });
+}
+
+// Insert new articles into the DOM
+function insertNewArticles(articles) {
+  // Find or create the "今日" section (new articles are always "today")
+  var todaySection = document.querySelector('.date-section[data-date="今日"]');
+  var contentContainer = document.querySelector('.content .container');
+
+  if (!todaySection) {
+    // Create a new "今日" section
+    var sectionHTML = '<section class="date-section" data-date="今日">' +
+      '<div class="date-heading">' +
+        '<span class="date-icon">📅</span>' +
+        '<span class="date-label">今日</span>' +
+        '<span class="date-count" id="todayCount">0 篇</span>' +
+      '</div>' +
+      '<div class="news-grid" id="todayGrid"></div>' +
+    '</section>';
+    var noResults = document.getElementById('noResults');
+    if (noResults) {
+      noResults.insertAdjacentHTML('beforebegin', sectionHTML);
+    } else {
+      contentContainer.insertAdjacentHTML('beforeend', sectionHTML);
+    }
+    todaySection = document.querySelector('.date-section[data-date="今日"]');
+  }
+
+  var grid = todaySection.querySelector('.news-grid');
+  if (!grid) return;
+
+  // Build and insert cards in reverse order (oldest first, newest on top)
+  var htmlFrag = '';
+  for (var i = articles.length - 1; i >= 0; i--) {
+    htmlFrag += buildCardHTML(articles[i]);
+  }
+  grid.insertAdjacentHTML('afterbegin', htmlFrag);
+
+  // Attach click handlers to new cards
+  grid.querySelectorAll('.news-card.card-new').forEach(function(card) {
+    card.addEventListener('click', function(e) {
+      if (e.target.closest('.read-btn') || e.target.closest('.card-tag')) return;
+      var url = card.dataset.url;
+      if (url) window.open(url, '_blank', 'noopener');
+    });
+  });
+
+  // Observe new cards for scroll-reveal
+  if (typeof IntersectionObserver !== 'undefined') {
+    var observer = new IntersectionObserver(function(entries) {
+      entries.forEach(function(entry) {
+        if (entry.isIntersecting) {
+          entry.target.classList.remove('scroll-hidden');
+          entry.target.classList.add('scroll-revealed');
+          observer.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.1 });
+
+    grid.querySelectorAll('.news-card.card-new').forEach(function(card) {
+      card.classList.add('scroll-hidden');
+      observer.observe(card);
+    });
+  }
+}
+
+// Update all counters on the page
+function updateAllCounters() {
+  var allCards = document.querySelectorAll('.news-card');
+  var totalCount = allCards.length;
+  var zhCount = document.querySelectorAll('.news-card[data-lang="zh"]').length;
+  var enCount = document.querySelectorAll('.news-card[data-lang="en"]').length;
+  var today = new Date().toDateString();
+  var todayCount = 0;
+  allCards.forEach(function(card) {
+    var d = new Date(card.dataset.pubdate);
+    if (!isNaN(d.getTime()) && d.toDateString() === today) todayCount++;
+  });
+
+  // Header stats
+  var headerStats = document.querySelector('.header-stats');
+  if (headerStats) {
+    headerStats.innerHTML = '今日 <strong>' + todayCount + ' 条</strong> · 共 ' + totalCount + ' 条';
+  }
+
+  // Hero stats
+  var heroToday = document.querySelector('.hero-stat:nth-child(1) strong');
+  var heroZh = document.querySelector('.hero-stat:nth-child(2) strong');
+  var heroEn = document.querySelector('.hero-stat:nth-child(3) strong');
+  if (heroToday) heroToday.textContent = todayCount;
+  if (heroZh) heroZh.textContent = zhCount;
+  if (heroEn) heroEn.textContent = enCount;
+
+  // Filter counts
+  var langAll = document.querySelector('[data-filter-group="lang"][data-filter-value="all"] .filter-count');
+  var langZh = document.querySelector('[data-filter-group="lang"][data-filter-value="zh"] .filter-count');
+  var langEn = document.querySelector('[data-filter-group="lang"][data-filter-value="en"] .filter-count');
+  if (langAll) langAll.textContent = totalCount;
+  if (langZh) langZh.textContent = zhCount;
+  if (langEn) langEn.textContent = enCount;
+
+  // Date section counts
+  document.querySelectorAll('.date-section').forEach(function(section) {
+    var label = section.dataset.date;
+    var count = section.querySelectorAll('.news-card').length;
+    var countEl = section.querySelector('.date-count');
+    if (countEl) countEl.textContent = count + ' 篇';
+  });
+}
+
+// Show toast notification
+function showToast(icon, msg, count) {
+  var toast = document.getElementById('liveToast');
+  document.getElementById('toastMsg').textContent = msg;
+  var countEl = document.getElementById('toastCount');
+  if (count) {
+    countEl.textContent = count;
+    countEl.style.display = '';
+  } else {
+    countEl.style.display = 'none';
+  }
+  toast.classList.add('visible');
+  // Auto-hide after 8s
+  clearTimeout(toast._hideTimeout);
+  toast._hideTimeout = setTimeout(function() {
+    toast.classList.remove('visible');
+  }, 8000);
+}
+
+function showNewArticles() {
+  var toast = document.getElementById('liveToast');
+  toast.classList.remove('visible');
+  // Scroll to the first new card
+  var firstNew = document.querySelector('.news-card.card-new');
+  if (firstNew) {
+    firstNew.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    firstNew.classList.add('key-focus');
+    setTimeout(function() { firstNew.classList.remove('key-focus'); }, 3000);
+  }
+}
+
+// Poll the API
+function pollForUpdates() {
+  fetch('/api/news', { cache: 'no-cache' })
+    .then(function(r) {
+      if (!r.ok) throw new Error('HTTP ' + r.status);
+      return r.json();
+    })
+    .then(function(data) {
+      if (!data.articleIds || !data.articleIds.length) return;
+
+      // Find new articles (not in our known list)
+      var newArticles = (data.digest || []).filter(function(a) {
+        return knownArticleUrls.indexOf(a.link) === -1;
+      });
+
+      if (newArticles.length > 0) {
+        // Add to known URLs
+        newArticles.forEach(function(a) { knownArticleUrls.push(a.link); });
+
+        // Insert into DOM
+        insertNewArticles(newArticles);
+
+        // Update counters
+        updateAllCounters();
+
+        // Reset to page 1 and re-apply filters
+        currentPage = 1;
+        keyFocusIndex = -1;
+        clearKeyFocus();
+        applyFilters();
+
+        // Show toast
+        var msg = newArticles.length === 1
+          ? '发现 1 篇新文章'
+          : '发现 ' + newArticles.length + ' 篇新文章';
+        showToast('🆕', msg, newArticles.length);
+
+        // Remove highlight from old "new" cards after animation
+        setTimeout(function() {
+          document.querySelectorAll('.news-card.card-new').forEach(function(c) {
+            c.classList.remove('card-new');
+          });
+        }, 3000);
+      }
+
+      // Update live pulse indicator timestamp
+      var pulse = document.getElementById('livePulse');
+      if (pulse && data.generatedAt) {
+        pulse.title = '数据更新于 ' + new Date(data.generatedAt).toLocaleTimeString('zh-CN');
+      }
+    })
+    .catch(function(err) {
+      // Silent failure — don't bother the user
+      console.log('Live poll: ' + err.message);
+    });
+}
+
+// Start polling
+livePollTimer = setInterval(pollForUpdates, LIVE_POLL_INTERVAL);
+// Also poll once after a short initial delay (let the page settle)
+setTimeout(pollForUpdates, 30000);
 
 // ====== Initialize on page load ======
 applyFilters();
