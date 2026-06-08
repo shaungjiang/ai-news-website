@@ -117,12 +117,23 @@ async function liveFetchArticles() {
 }
 
 function readCachedNews() {
+  // Priority 1: /tmp/news.json (updated every 30 min by cron-refresh)
+  const tmpPath = '/tmp/news.json';
+  if (fs.existsSync(tmpPath)) {
+    try {
+      const data = JSON.parse(fs.readFileSync(tmpPath, 'utf-8'));
+      const ageMs = Date.now() - new Date(data.generatedAt).getTime();
+      return { data, ageMs, source: 'tmp' };
+    } catch {}
+  }
+
+  // Priority 2: data/news.json (from GitHub Actions deploy)
   const newsPath = path.join(process.cwd(), 'data', 'news.json');
   if (!fs.existsSync(newsPath)) return null;
   try {
     const data = JSON.parse(fs.readFileSync(newsPath, 'utf-8'));
     const ageMs = Date.now() - new Date(data.generatedAt).getTime();
-    return { data, ageMs };
+    return { data, ageMs, source: 'deploy' };
   } catch {
     return null;
   }
@@ -139,7 +150,7 @@ export default async function handler(req, res) {
     return res.status(200).end();
   }
 
-  const STALE_THRESHOLD = 2 * 60 * 60 * 1000; // 2 hours
+  const STALE_THRESHOLD = 60 * 60 * 1000; // 1 hour (cron runs every 30 min)
   const cached = readCachedNews();
 
   // If data is fresh, return immediately
