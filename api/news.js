@@ -106,28 +106,26 @@ async function liveFetchArticles() {
     articles: limited
   };
 
-  // Save to disk so subsequent requests hit cache
+  // Save to /tmp so warm invocations hit cache (Vercel project dir is read-only)
   try {
-    const dataDir = path.join(process.cwd(), 'data');
-    if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
-    fs.writeFileSync(path.join(dataDir, 'news.json'), JSON.stringify(result, null, 2), 'utf-8');
+    fs.writeFileSync('/tmp/news.json', JSON.stringify(result, null, 2), 'utf-8');
   } catch {}
 
   return result;
 }
 
 function readCachedNews() {
-  // Priority 1: /tmp/news.json (updated every 30 min by cron-refresh)
+  // Priority 1: /tmp/news.json (cached from our own previous live fetch on warm instance)
   const tmpPath = '/tmp/news.json';
   if (fs.existsSync(tmpPath)) {
     try {
       const data = JSON.parse(fs.readFileSync(tmpPath, 'utf-8'));
       const ageMs = Date.now() - new Date(data.generatedAt).getTime();
-      return { data, ageMs, source: 'tmp' };
+      return { data, ageMs, source: 'warm-cache' };
     } catch {}
   }
 
-  // Priority 2: data/news.json (from GitHub Actions deploy)
+  // Priority 2: data/news.json (from GitHub Actions deploy — cold start fallback)
   const newsPath = path.join(process.cwd(), 'data', 'news.json');
   if (!fs.existsSync(newsPath)) return null;
   try {
@@ -150,7 +148,7 @@ export default async function handler(req, res) {
     return res.status(200).end();
   }
 
-  const STALE_THRESHOLD = 60 * 60 * 1000; // 1 hour (cron runs every 30 min)
+  const STALE_THRESHOLD = 30 * 60 * 1000; // 30 min — stale → live fetch
   const cached = readCachedNews();
 
   // If data is fresh, return immediately
