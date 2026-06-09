@@ -1,25 +1,137 @@
 {
-  "generatedAt": "2026-06-09T18:17:35.796Z",
+  "generatedAt": "2026-06-09T21:57:30.180Z",
   "stats": {
-    "total": 140,
+    "total": 121,
     "shown": 50,
-    "chinese": 60,
-    "english": 80,
-    "today": 67
+    "chinese": 40,
+    "english": 81,
+    "today": 70
   },
   "articles": [
     {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech",
+      "link": "https://www.theverge.com/transportation/946820/gm-energy-ev-v2g-storage-sodium-ion",
+      "snippet": "At an event in San Francisco today, General Motors made a series of announcements around EV batteries, energy storage, and grid resiliency in the face",
+      "pubDate": "2026-06-09T21:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
+      "title": "Hey Siri, here’s what I actually want from AI",
+      "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+      "snippet": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my",
+      "pubDate": "Tue, 09 Jun 2026 20:50:17 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+      "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+      "snippet": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders.",
+      "pubDate": "Tue, 09 Jun 2026 20:37:49 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Microsoft AI head calls out Anthropic for acting like Claude is conscious",
+      "link": "https://www.theverge.com/tech/947197/microsoft-ai-mustafa-suleyman-anthropic-claude-conscious",
+      "snippet": "Microsoft AI CEO Mustafa Suleyman says it's \"really, really dangerous\" for Anthropic to speculate about Claude's consciousness inside its \"constitutio",
+      "pubDate": "2026-06-09T20:24:25.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Anthropic says these topics are too dangerous to let its Fable 5 model talk about",
+      "link": "https://arstechnica.com/ai/2026/06/anthropic-says-these-topics-are-too-dangerous-to-let-its-fable-5-model-talk-about/",
+      "snippet": "New frontier model refuses cybersecurity, biology, and chemistry queries.",
+      "pubDate": "Tue, 09 Jun 2026 19:20:25 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-06-09T21:48:41.916Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google announces Gemini 3.5 Live Translate for instant voice-to-voice translation",
+      "link": "https://arstechnica.com/ai/2026/06/google-announces-gemini-3-5-live-translate-for-instant-voice-to-voice-translation/",
+      "snippet": "Voice translations preserve speaker's tone, pacing, pitch—with SynthID watermarks for security.",
+      "pubDate": "Tue, 09 Jun 2026 18:57:25 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-06-09T21:48:41.916Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Can tech companies learn to love cheaper AI models?",
+      "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+      "snippet": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+      "pubDate": "Tue, 09 Jun 2026 18:56:09 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
       "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-      "snippet": "Apple primarily made the case for an improved experience with its longstanding Siri assistant, which like most other announcements had a hefty helping",
+      "snippet": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helpin",
       "pubDate": "Tue, 09 Jun 2026 18:04:24 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Morgan Little, Aisha Malik",
-      "fetchedAt": "2026-06-09T18:07:42.979Z",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +147,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-09T18:07:45.767Z",
+      "fetchedAt": "2026-06-09T21:48:43.298Z",
       "tags": [
         "大模型"
       ]
@@ -43,7 +155,7 @@
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
-      "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+      "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
       "snippet": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in h",
       "pubDate": "Tue, 09 Jun 2026 17:00:00 +0000",
       "sourceName": "TechCrunch",
@@ -51,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-06-09T18:07:42.979Z",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
       "tags": [
         "大模型"
       ]
@@ -67,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:43.272Z",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
       "tags": [
         "大模型"
       ]
@@ -83,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:43.272Z",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-06-09T18:07:42.979Z",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +227,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:43.272Z",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
       "tags": [
         "政策监管"
       ]
@@ -131,7 +243,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +259,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:43.272Z",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +275,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-06-09T18:07:42.979Z",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
       "tags": [
         "商业融资"
       ]
@@ -179,7 +291,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-06-09T18:07:37.625Z",
+      "fetchedAt": "2026-06-09T21:48:30.028Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +307,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:43.272Z",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +323,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-06-09T18:07:37.625Z",
+      "fetchedAt": "2026-06-09T21:48:30.028Z",
       "tags": [
         "商业融资"
       ]
@@ -227,7 +339,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Andrew Cunningham\n                ",
-      "fetchedAt": "2026-06-09T18:07:44.416Z",
+      "fetchedAt": "2026-06-09T21:48:41.916Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +355,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-06-09T18:07:42.979Z",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
       "tags": [
         "商业融资"
       ]
@@ -259,7 +371,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:43.272Z",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
       "tags": [
         "AI应用"
       ]
@@ -275,7 +387,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +403,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +419,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +435,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "商业融资"
       ]
@@ -339,7 +451,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +467,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "商业融资"
       ]
@@ -371,7 +483,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -387,7 +499,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "商业融资"
       ]
@@ -403,7 +515,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -419,7 +531,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -435,7 +547,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-09T18:07:43.524Z",
+      "fetchedAt": "2026-06-09T21:48:41.058Z",
       "tags": [
         "综合"
       ]
@@ -451,7 +563,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "商业融资"
       ]
@@ -467,7 +579,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "商业融资"
       ]
@@ -483,7 +595,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -499,10 +611,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-06-09T18:07:42.979Z",
+      "fetchedAt": "2026-06-09T21:48:40.496Z",
       "tags": [
         "商业融资",
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How engineers at Nextdoor use Codex to build without limits",
+      "link": "https://openai.com/index/nextdoor",
+      "snippet": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+      "pubDate": "Tue, 09 Jun 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-06-09T21:48:42.633Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -516,7 +644,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -532,7 +660,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -549,7 +677,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +693,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +709,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -598,7 +726,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +742,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "商业融资"
       ]
@@ -623,14 +751,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "我国在全球LNG船市场占有率突破30%，国产LNG船订单排到2030年后",
       "link": "https://36kr.com/newsflashes/3845853260073218?f=rss",
-      "snippet": "今天，世界最大的27.1万立方米超大型LNG运输船在中船集团沪东中华造船正式开工建造。总长344米，配套国产最���薄膜围护系统，载货容积、节能环保、航行安全等关键性能实现全方位迭代升级，与市面主流17.4万立方米传统LNG运输船相比，船舶载货量提升57%，综合性能位居行业顶尖。目前，我国在全球LN",
+      "snippet": "今天，世界最大的27.1万立方米超大型LNG运输船在中船集团沪东中华造船正式开工建造。总长344米，配套国产最新薄膜围护系统，载货容积、节能环保、航行安全等关键性能实现全方位迭代升级，与市面主流17.4万立方米传统LNG运输船相比，船舶载货量提升57%，综合性能位居行业顶尖。目前，我国在全球LNG船",
       "pubDate": "2026-06-09 19:24:14  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "政策监管"
       ]
@@ -646,7 +774,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
+      "fetchedAt": "2026-06-09T21:48:32.064Z",
       "tags": [
         "商业融资"
       ]
@@ -662,7 +790,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-06-09T18:07:43.524Z",
+      "fetchedAt": "2026-06-09T21:48:41.058Z",
       "tags": [
         "综合"
       ]
@@ -678,140 +806,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-09T18:07:43.272Z",
+      "fetchedAt": "2026-06-09T21:48:40.732Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-      "link": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
-      "snippet": "The outspoken longevity scientist David Sinclair has been predicting that one day, you’ll go to the doctor and get a prescription that will make you 1",
-      "pubDate": "Tue, 09 Jun 2026 10:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Antonio Regalado",
-      "fetchedAt": "2026-06-09T18:07:43.524Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Five things you need to know about AI",
-      "link": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "snippet": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI rig",
-      "pubDate": "Tue, 09 Jun 2026 09:16:45 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-06-09T18:07:43.524Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-      "link": "https://www.qbitai.com/2026/06/433517.html",
-      "snippet": "祝大家都能找到，属于自己的驱动力",
-      "pubDate": "Tue, 09 Jun 2026 09:12:19 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-06-09T18:07:37.625Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "美团发布AI浏览器Tabbit 1.0，可自动执行各类任务",
-      "link": "https://www.leiphone.com/category/industrynews/l1NRaMPNtbIamRZp.html",
-      "snippet": "6月9日，美团旗下GN06团队宣布AI原生浏览器Tabbit 1.0正式上线。Tabbit是浏览器形式的AI入口，内置多款头部大模型，用户输入需求后，Tabbit可自动执行跨软件、跨网页等各类复杂任务。据介绍，Tabbit标准版永久免费，Windows、macOS同步上架，移动端也已开启测试。用户可",
-      "pubDate": "Tue, 09 Jun 2026 16:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-09T18:07:42.725Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "NVIDIA cuTile Python Tutorial: Building Tiled GPU Kernels for Vector Addition, Matrix Addition, and Matrix Multiplication in Colab",
-      "link": "https://www.marktechpost.com/2026/06/09/nvidia-cutile-python-tutorial-building-tiled-gpu-kernels-for-vector-addition-matrix-addition-and-matrix-multiplication-in-colab/",
-      "snippet": "In this tutorial, we implement a hands-on workflow for NVIDIA cuTile Python, a tile-based GPU programming interface for CUDA-style kernels in Python.",
-      "pubDate": "Tue, 09 Jun 2026 08:37:48 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-06-09T18:07:45.767Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "登顶GitHub Hacker News，这个开源项目让AI编程成本降低 98%｜涌现新项目",
-      "link": "https://36kr.com/p/3845645258541319?f=rss",
-      "snippet": "文｜李嘉星 编辑｜周鑫雨 一句话介绍 context-mode 是一款专为 AI 编程打造的上下文优化 MCP（Anthropic 发布的模型上下文协议）插件。 它解决了开发者在长周期开发中遭遇的“模型失忆”与“Token 过多消耗”的核心痛点。 据团队表示，在编程场景下，context-mode",
-      "pubDate": "2026-06-09 15:53:19  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-09T18:07:39.758Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "从诺奖项目到生成式药物设计，Latent Labs 创始人 Simon Kohl：AI 正在让生物学进入「可编程时代」 | CVPR 2026",
-      "link": "https://www.leiphone.com/category/ai/KDFY44S9EzFIKxVD.html",
-      "snippet": "作者｜吴思梦 编辑｜岑峰   2026年6月3日，计算机视觉与模式识别顶级会议（CVPR）在美国丹佛举行。在大会特邀演讲环节，前 DeepMind 蛋白质设计团队核心成员、2024年诺贝尔化学奖获奖项目 AlphaFold 核心研究员，Latent Labs 创始人兼 CEO Simon Kohl",
-      "pubDate": "Tue, 09 Jun 2026 15:49:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-09T18:07:42.725Z",
-      "tags": [
-        "学术研究",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-      "link": "https://www.qbitai.com/2026/06/433508.html",
-      "snippet": "",
-      "pubDate": "Tue, 09 Jun 2026 07:11:48 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-09T18:07:37.625Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
