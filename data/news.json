@@ -1,27 +1,43 @@
 {
-  "generatedAt": "2026-06-12T21:56:41.017Z",
+  "generatedAt": "2026-06-12T23:28:29.776Z",
   "stats": {
-    "total": 142,
+    "total": 115,
     "shown": 50,
     "chinese": 60,
-    "english": 82,
-    "today": 78
+    "english": 55,
+    "today": 69
   },
   "articles": [
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google Releases Gemini-SQL2: Gemini 3.1 Pro Text-to-SQL Scores 80.04% on BIRD Single-Model Leaderboard",
-      "link": "https://www.marktechpost.com/2026/06/12/google-releases-gemini-sql2-gemini-3-1-pro-text-to-sql-scores-80-04-on-bird-single-model-leaderboard/",
-      "snippet": "We look at Gemini-SQL2, the text-to-SQL capability Google Research announced on June 12, 2026. Powered by Gemini 3.1 Pro, it posted 80.04% execution a",
-      "pubDate": "Fri, 12 Jun 2026 21:04:11 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "SpaceX IPO: Live updates on everything you need to know",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+      "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX",
+      "pubDate": "Fri, 12 Jun 2026 23:15:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
       "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-12T21:46:52.468Z",
+      "category": "商业",
+      "creator": "Kirsten Korosec, Russell Brandom",
+      "fetchedAt": "2026-06-12T23:18:35.586Z",
       "tags": [
-        "大模型"
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+      "link": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+      "snippet": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+      "pubDate": "Fri, 12 Jun 2026 23:00:54 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-06-12T23:18:35.586Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,57 +51,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lorenzo Franceschi-Bicchierai",
-      "fetchedAt": "2026-06-12T21:46:47.970Z",
+      "fetchedAt": "2026-06-12T23:18:35.586Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "SpaceX IPO: Live updates on everything you need to know",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
-      "snippet": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX",
-      "pubDate": "Fri, 12 Jun 2026 20:04:38 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec, Russell Brandom",
-      "fetchedAt": "2026-06-12T21:46:47.970Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Here's what Jeff Bezos' new startup Prometheus will do",
-      "link": "https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/",
-      "snippet": "It isn't the only startup tackling physical AI, but it's one of the best-funded.",
-      "pubDate": "Fri, 12 Jun 2026 18:45:40 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-06-12T21:46:50.117Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Ukraine's one-time test used fully autonomous drones to kill Russian soldiers",
-      "link": "https://arstechnica.com/ai/2026/06/ukraines-one-time-test-used-fully-autonomous-drones-to-kill-russian-soldiers/",
-      "snippet": "Full autonomy is rare, but Ukraine is installing AI modules on drones and robots.",
-      "pubDate": "Fri, 12 Jun 2026 18:03:29 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-06-12T21:46:50.117Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -99,23 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-06-12T21:46:47.970Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "$130 billion in data center projects blocked by protests so far this year",
-      "link": "https://arstechnica.com/tech-policy/2026/06/130-billion-in-data-center-projects-blocked-by-protests-so-far-this-year/",
-      "snippet": "Winning fight against AI data centers gives people a \"taste of political power.\"",
-      "pubDate": "Fri, 12 Jun 2026 17:18:49 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-06-12T21:46:50.117Z",
+      "fetchedAt": "2026-06-12T23:18:35.586Z",
       "tags": [
         "商业融资"
       ]
@@ -131,23 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:48.405Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "When it comes to total water use, AI data centers are a drop in the bucket",
-      "link": "https://arstechnica.com/ai/2026/06/when-it-comes-to-total-water-use-ai-data-centers-are-a-drop-in-the-bucket/",
-      "snippet": "Even moderately sized data centers can have an outsized local impact.",
-      "pubDate": "Fri, 12 Jun 2026 16:51:38 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-06-12T21:46:50.117Z",
+      "fetchedAt": "2026-06-12T23:18:35.818Z",
       "tags": [
         "综合"
       ]
@@ -163,25 +99,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-06-12T21:46:42.521Z",
+      "fetchedAt": "2026-06-12T23:18:30.954Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Google sues Chinese cybercrime network that used Gemini to automate scams",
-      "link": "https://arstechnica.com/google/2026/06/google-sues-chinese-cybercrime-network-that-used-gemini-to-automate-scams/",
-      "snippet": "The fraudsters allegedly targeted hundreds of thousands of people with Gemini-coded scams sites.",
-      "pubDate": "Fri, 12 Jun 2026 16:34:36 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-06-12T21:46:50.117Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -195,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:48.405Z",
+      "fetchedAt": "2026-06-12T23:18:35.818Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-06-12T21:46:47.970Z",
+      "fetchedAt": "2026-06-12T23:18:35.586Z",
       "tags": [
         "商业融资"
       ]
@@ -227,7 +147,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -243,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
-      "fetchedAt": "2026-06-12T21:46:47.970Z",
+      "fetchedAt": "2026-06-12T23:18:35.586Z",
       "tags": [
         "商业融资"
       ]
@@ -259,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:48.405Z",
+      "fetchedAt": "2026-06-12T23:18:35.818Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:48.405Z",
+      "fetchedAt": "2026-06-12T23:18:35.818Z",
       "tags": [
         "商业融资"
       ]
@@ -291,7 +211,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -307,7 +227,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.436Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -324,7 +244,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:47.659Z",
+      "fetchedAt": "2026-06-12T23:18:35.326Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -357,7 +277,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +293,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +309,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +325,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -421,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -437,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +373,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -469,7 +389,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-12T21:46:48.751Z",
+      "fetchedAt": "2026-06-12T23:18:36.113Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -494,14 +414,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "川润股份：孙公司签署液冷系统关键零部件产业化建设项目投资协议",
       "link": "https://36kr.com/newsflashes/3850142164784134?f=rss",
-      "snippet": "36氪获悉，川润股份公告，公司全资孙公司���苏川润欧盛液压有限公司与江苏省启东经济开发区管理委员会签署投资协议，拟建设液冷系统关键零部件产业化基地。项目用地约150亩，一期约80亩，二期适时启动。该协议系围绕公司2026年向特定对象发行股票募投项目实施，募集资金总额不超过9.5亿元。项目尚需取得建",
+      "snippet": "36氪获悉，川润股份公告，公司全资孙公司江苏川润欧盛液压有限公司与江苏省启东经济开发区管理委员会签署投资协议，拟建设液冷系统关键零部件产业化基地。项目用地约150亩，一期约80亩，二期适时启动。该协议系围绕公司2026年向特定对象发行股票募投项目实施，募集资金总额不超过9.5亿元。项目尚需取得建设用",
       "pubDate": "2026-06-12 20:07:08  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -517,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:47.659Z",
+      "fetchedAt": "2026-06-12T23:18:35.326Z",
       "tags": [
         "商业融资"
       ]
@@ -533,7 +453,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +469,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:47.659Z",
+      "fetchedAt": "2026-06-12T23:18:35.326Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +501,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -597,7 +517,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -613,7 +533,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +549,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -645,7 +565,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.367Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
       ]
@@ -661,25 +581,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:44.368Z",
+      "fetchedAt": "2026-06-12T23:18:32.437Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Pokémon Go players unwittingly contributed to tech with military drone uses",
-      "link": "https://arstechnica.com/ai/2026/06/pokemon-go-players-unwittingly-contributed-to-tech-with-military-drone-uses/",
-      "snippet": "The repurposing of Pokémon Go data for AI training continues to draw scrutiny.",
-      "pubDate": "Fri, 12 Jun 2026 11:15:41 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-06-12T21:46:50.117Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -693,7 +597,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Elizabeth Bear",
-      "fetchedAt": "2026-06-12T21:46:48.751Z",
+      "fetchedAt": "2026-06-12T23:18:36.113Z",
       "tags": [
         "开源工具"
       ]
@@ -709,23 +613,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:50.953Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Moonshot AI Launches Kimi Work, a Local Desktop Agent Reportedly Running on Kimi K2.6 With a 300-Sub-Agent Agent Swarm",
-      "link": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
-      "snippet": "Moonshot AI's Kimi Work is a local desktop agent for macOS and Windows. It runs a 300-sub-agent swarm, drives your logged-in browser via WebBridge, an",
-      "pubDate": "Fri, 12 Jun 2026 09:37:30 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-12T21:46:52.468Z",
+      "fetchedAt": "2026-06-12T23:18:37.346Z",
       "tags": [
         "AI应用"
       ]
@@ -741,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:47.659Z",
+      "fetchedAt": "2026-06-12T23:18:35.326Z",
       "tags": [
         "商业融资"
       ]
@@ -757,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-06-12T21:46:42.521Z",
+      "fetchedAt": "2026-06-12T23:18:30.954Z",
       "tags": [
         "商业融资"
       ]
@@ -773,7 +661,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-06-12T21:46:48.751Z",
+      "fetchedAt": "2026-06-12T23:18:36.113Z",
       "tags": [
         "AI应用"
       ]
@@ -789,7 +677,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Katherine W. Isaacs",
-      "fetchedAt": "2026-06-12T21:46:48.751Z",
+      "fetchedAt": "2026-06-12T23:18:36.113Z",
       "tags": [
         "综合"
       ]
@@ -805,7 +693,119 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-12T21:46:47.659Z",
+      "fetchedAt": "2026-06-12T23:18:35.326Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "大疆起诉影石，指控其Luna相机侵犯多项核心专利",
+      "link": "https://www.leiphone.com/category/industrynews/0E1x4k13oxtgKl0K.html",
+      "snippet": "[2026年6月12日] 据最新消息，大疆（DJI）及大疆灵眸（Osmo）已于当地时间6月10日和11日，向美国德州东区联邦地区法院对影石创新（Insta360）及其关联公司提起专利侵权诉讼。  诉状显示，本次诉讼直指影石于6月9日刚在美国首发的Luna系列手持云台相机。大疆指控该产品涉嫌侵犯大疆持",
+      "pubDate": "Fri, 12 Jun 2026 16:23:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-12T23:18:35.326Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
+      "link": "https://www.qbitai.com/2026/06/435192.html",
+      "snippet": "助力LP与GP高效合",
+      "pubDate": "Fri, 12 Jun 2026 07:31:55 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-06-12T23:18:30.954Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
+      "link": "https://www.qbitai.com/2026/06/433717.html",
+      "snippet": "那位被OpenAI开除的股神",
+      "pubDate": "Fri, 12 Jun 2026 07:29:59 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "闻乐",
+      "fetchedAt": "2026-06-12T23:18:30.954Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "2026奇点智能产品大会首批嘉宾官宣：在 AI 的“可交付的时代”，看一线专家如何拆解真实落地闭环！",
+      "link": "https://www.qbitai.com/2026/06/435105.html",
+      "snippet": "7 月 17-18 日",
+      "pubDate": "Fri, 12 Jun 2026 07:27:14 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-06-12T23:18:30.954Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "中科院物理研究所黄学杰 ：全固态电池掀桌子前，必须做好固液混合电池丨大湾区车展观察",
+      "link": "https://www.leiphone.com/category/transportation/xRrGlFlEHbWMo9SL.html",
+      "snippet": "2026 年是固液混合电池量产元年。           作者 | 马诗晴  编辑 | 李雨晨               【编者按】黄学杰是中国锂电池行业领军科学家之一。现任中科院物理研究所储能材料与器件方向召集人、《节能与新能源汽车》路线图动力电池路线图专家组长，曾发起及推动星恒电源等多家锂电企",
+      "pubDate": "Fri, 12 Jun 2026 15:11:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-12T23:18:35.326Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Siri won’t be your AI girlfriend",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "snippet": "‘Listen, that's not what I'm here for.' | Image: Apple\t  Our early testing has already shown that Siri AI knows when to shut up, and that's very much",
+      "pubDate": "2026-06-12T07:00:31.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-12T23:18:35.818Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "中科大&智象未来：强模型打底、轻模型精修，重塑视频超分体验丨CVPR 2026",
+      "link": "https://www.leiphone.com/category/ai/qDR8TrUNjdEVUrWa.html",
+      "snippet": "PS-SR：兼顾速度、细节与稳定性，让低清画面更可信。          作者丨郑佳美      编辑丨马晓宁",
+      "pubDate": "Fri, 12 Jun 2026 14:28:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-12T23:18:35.326Z",
       "tags": [
         "AI应用"
       ]
