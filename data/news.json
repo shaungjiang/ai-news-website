@@ -1,13 +1,335 @@
 {
-  "generatedAt": "2026-06-15T12:22:44.441Z",
+  "generatedAt": "2026-06-15T18:32:22.056Z",
   "stats": {
-    "total": 141,
+    "total": 129,
     "shown": 50,
     "chinese": 60,
-    "english": 81,
-    "today": 48
+    "english": 69,
+    "today": 61
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Trump’s Anthropic shutdown just made the case for non-American AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "snippet": "At Washington's request, Anthropic suddenly took its newest and most powerful AI models offline over the weekend. The American company said it had lit",
+      "pubDate": "2026-06-15T18:10:27.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:55.630Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Big Tech’s desperate last push at AI regulation",
+      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "snippet": "U.S. Sen. Marsha Blackburn (R-TN) and Majority Leader Chuck Schumer (D-NY) arrive for a news conference with bipartisan senators on passage of the Onl",
+      "pubDate": "2026-06-15T17:44:10.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:55.630Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
+      "link": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
+      "snippet": "A group made up of dozens of cybersecurity experts urged the White House to remove export control restrictions on Anthropic’s models Fable and Mythos,",
+      "pubDate": "Mon, 15 Jun 2026 15:29:51 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lorenzo Franceschi-Bicchierai",
+      "fetchedAt": "2026-06-15T18:27:55.360Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "link": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+      "snippet": "Casey Harrell has had a set of electrodes embedded in his brain for almost three years. Harrell, who has amyotrophic lateral sclerosis (ALS) and is pa",
+      "pubDate": "Mon, 15 Jun 2026 15:12:28 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jessica Hamzelou",
+      "fetchedAt": "2026-06-15T18:27:55.933Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Salesforce acquires AI customer service platform Fin for $3.6 billion",
+      "link": "https://techcrunch.com/2026/06/15/salesforce-acquires-ai-customer-service-platform-fin-for-3-6b/",
+      "snippet": "Salesforce says it wants to use Fin's team and technology to improve Agentforce, its existing enterprise platform that businesses can use to build cus",
+      "pubDate": "Mon, 15 Jun 2026 14:34:45 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-06-15T18:27:55.360Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "Pocket 4P双摄来了：手机影像之外，大疆正在重做一台“口袋电影机”",
+      "link": "https://36kr.com/p/3854510160549124?f=rss",
+      "snippet": "在手机影像能力不断逼近专业设备的今天，一个问题变得越来越尖锐：独立影像设备，还有存在的必要吗？ 6月15日，大疆正式发布 Osmo Pocket 4P，将这台口袋云台相机推向更专业的创作场景。作为 Pocket 系列的新一代旗舰产品，Pocket 4P 定位为“装进口袋里的电影机”，搭载双摄系统、1",
+      "pubDate": "2026-06-15 22:13:11  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Skydio CEO Adam Bry on why Silicon Valley shouldn’t draw red lines for drone use",
+      "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "snippet": "Today, I’m talking with Adam Bry, who is CEO of Skydio, the leading US maker of autonomous drones. Before we recorded this episode, I actually got to",
+      "pubDate": "2026-06-15T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:55.630Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "氪星晚报 ｜我国成功发射吉星高分07C04星等8颗卫星；小红书或已准备好本月在香港提交IPO申请；智谱：公司已推出最新一代旗舰模型GLM-5.2",
+      "link": "https://36kr.com/p/3854486447510535?f=rss",
+      "snippet": "大公司： 支付宝：政务AI助手“晓政”服务突破1亿次 36氪获悉，支付宝宣布，旗下政务AI助手“晓政”累计服务次数突破1亿次。截至目前，“晓政”服务已覆盖16000项服务事项，成功落地助力70余家部委及省级政务机构，业务场景全面覆盖公积金、人社、公安、不动产等民生领域。 小雨智造与地瓜机器人正式宣布",
+      "pubDate": "2026-06-15 21:48:20  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "AI应用",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "对话它石智航丁文超：具身智能，如何迈进「2.0时代」？| ICRA 2026",
+      "link": "https://www.leiphone.com/category/robot/CphF1Mc5RZX5xaWN.html",
+      "snippet": "基座模型、数据飞轮与末端执行缺一不可。          作者丨高景辉      编辑丨马晓宁",
+      "pubDate": "Mon, 15 Jun 2026 21:47:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Sarvam becomes India’s newest AI unicorn with $234 million funding round led by HCLTech",
+      "link": "https://techcrunch.com/2026/06/15/sarvam-becomes-indias-newest-ai-unicorn-with-234-million-funding-round-led-by-hcltech/",
+      "snippet": "Indian IT services company HCLTech is investing $150 million in the Bengaluru startup.",
+      "pubDate": "Mon, 15 Jun 2026 13:46:08 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-06-15T18:27:55.360Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "对话速腾聚创杨先声：机器人的通用智能，先从一双「不骗人」的眼睛开始 | ICRA 2026",
+      "link": "https://www.leiphone.com/category/robot/04blpoyMgJFliCK9.html",
+      "snippet": "机器人不仅要看得见，还要看得远、看得稳、看得全。          作者丨高景辉      编辑丨马晓宁",
+      "pubDate": "Mon, 15 Jun 2026 21:44:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
+      "link": "https://techcrunch.com/2026/06/15/ai-agents-are-becoming-employees-newcore-emerges-with-66m-to-give-them-identities/",
+      "snippet": "NewCore argues the next challenge in enterprise security will be managing AI agents, not people.",
+      "pubDate": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-06-15T18:27:55.360Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+      "link": "https://www.qbitai.com/2026/06/435848.html",
+      "snippet": "",
+      "pubDate": "Mon, 15 Jun 2026 12:57:10 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-06-15T18:27:48.963Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "Salesforce将斥资近36亿美元收购客户代理公司Fin",
+      "link": "https://36kr.com/newsflashes/3854431418782729?f=rss",
+      "snippet": "当地时间6月15日，美国CRM软件服务提供商Salesforce宣布签署最终协议，将斥资近36亿美元收购客户代理公司Fin。（界面）",
+      "pubDate": "2026-06-15 20:56:15  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "东百集团：全资子公司拟转让东百红星100%股权",
+      "link": "https://36kr.com/newsflashes/3854428377060359?f=rss",
+      "snippet": "36氪获悉，东百集团公告，为持续推进公司商业零售业务轻资产转型，进一步优化公司资源配置和整体资产结构，降低经营风险，公司全资子公司福建东方百货管理有限公司拟转让其持有的福建东百红星商业广场有限公司（简称“东百红星”）100%股权，暂定股权转让价格为182.78万元。经初步测算，此次股权转让交易预计将",
+      "pubDate": "2026-06-15 20:47:18  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "热门中概股美股盘前涨多跌少，理想汽车涨超1%",
+      "link": "https://36kr.com/newsflashes/3854426273273095?f=rss",
+      "snippet": "36氪获悉，热门中概股美股盘前涨多跌少，截至发稿，百度、网易、B站、理想汽车涨超1%，蔚来、京东涨近1%，腾讯音乐涨0.64%；爱奇艺跌近1%，小鹏集团跌0.28%。",
+      "pubDate": "2026-06-15 20:45:09  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美股大型科技股盘前普涨，SpaceX涨超6%",
+      "link": "https://36kr.com/newsflashes/3854424886547720?f=rss",
+      "snippet": "36氪获悉，美股大型科技股盘前普涨，截至发稿，SpaceX涨超6%，亚马逊涨超2%，特斯拉、微软、谷歌、Meta、Arm、英伟达涨超1%，苹果涨0.58%，奈飞涨0.14%。",
+      "pubDate": "2026-06-15 20:43:45  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "儒意电影：拟8000万元至1.5亿元回购公司股份",
+      "link": "https://36kr.com/newsflashes/3854416540783872?f=rss",
+      "snippet": "36氪获悉，儒意电影公告，公司拟以不低于8000万元（含）且不超过1.5亿元（含），通过集中竞价交易方式回购公司股份，并在未来适宜时机将回购股份用于实施公司股权激励计划或员工持股计划，回购价格不超过13.8元/股。",
+      "pubDate": "2026-06-15 20:35:15  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "蓝筹控股收购新加坡DCF未来数据中心",
+      "link": "https://36kr.com/newsflashes/3854411116057856?f=rss",
+      "snippet": "36氪获悉，蓝筹控股正式公布，公司与新加坡数字基础设施服务商Datacenter Future Pte. Ltd.（简称DCF未来数据中心）签署合并协议。本次跨境收购采用换股方式完成对价结算，协议自签署当日正式生效。",
+      "pubDate": "2026-06-15 20:29:44  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "爱迪特：持股5%以上股东拟减持不超3%股份",
+      "link": "https://36kr.com/newsflashes/3854405392307462?f=rss",
+      "snippet": "36氪获悉，爱迪特公告，公司股东君联欣康及HAL计划自公告日起15个交易日后的3个月内，通过集中竞价或大宗交易方式减持公司股份合计不超过447.57万股（占公司总股本的3%）。其中，集中竞价减持不超过149.19万股（占1%），大宗交易减持不超过298.38万股（占2%）。减持原因为股东自身资金需求",
+      "pubDate": "2026-06-15 20:23:55  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "MzZrci1haTpodHRw",
       "title": "英伟达计划通过发行高等级债券筹资至少200亿美元",
@@ -19,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "综合"
       ]
@@ -28,16 +350,32 @@
       "id": "MzZrci1haTpodHRw",
       "title": "欧洲央行扩大私募信贷关联调查范围，所覆盖银行数量翻番",
       "link": "https://36kr.com/newsflashes/3854391903048713?f=rss",
-      "snippet": "据报道，在私募信贷行业面临投资者信心下滑之际，欧洲央行已将一项针对银行与私募信贷关联的调查所覆盖的银行数量扩大一倍。知情人士透露，欧洲央行今年要求20多家银行提供更多有关其敞口的细节，高于先前评估的十几家。据了解，与私募信贷有实质性关联的银行将必须每年报告相关细节。（界面）",
+      "snippet": "据报道，在私募信贷行业面临投资者信心下滑之际，欧洲央���已将一项针对银行与私募信贷关联的调查所覆盖的银行数量扩大一倍。知情人士透露，欧洲央行今年要求20多家银行提供更多有关其敞口的细节，高于先前评估的十几家。据了解，与私募信贷有实质性关联的银行将必须每年报告相关细节。（界面）",
       "pubDate": "2026-06-15 20:10:12  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "link": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These new so",
+      "pubDate": "Mon, 15 Jun 2026 12:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-06-15T18:27:55.933Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -51,7 +389,23 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "A satellite just learned to find things on its own — here’s what that means",
+      "link": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+      "snippet": "In April, for the first time ever, an Earth observation satellite found what it was looking for, all on its own.",
+      "pubDate": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-06-15T18:27:55.360Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +421,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +437,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -100,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "AI应用"
       ]
@@ -116,9 +470,26 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "腾讯AI下半场，智能体加速场景落地",
+      "link": "https://www.leiphone.com/category/industrynews/Zlsk48Iv88fVZ3N9.html",
+      "snippet": "中国互联网公司的AI竞争中，腾讯真的慢了吗？   从大模型竞争开始，腾讯并不是走的最快的，但到场景落地，腾讯变得尤为激进。春节前对于元宝的大规模投入，再到“养虾”热潮，腾讯反应变得很快，积极的投入其中，这也让外界看到了腾讯的另一面。   互联网公司中，做产品一直腾讯最擅长的事情，在AI浪潮中，腾讯各",
+      "pubDate": "Mon, 15 Jun 2026 19:32:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
+      "tags": [
+        "AI应用",
+        "大模型"
       ]
     },
     {
@@ -132,7 +503,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +519,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +535,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +551,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +567,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "综合"
       ]
@@ -212,121 +583,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "小雨智造与地瓜机器人正式宣布达成战略合作",
-      "link": "https://36kr.com/newsflashes/3854300006913289?f=rss",
-      "snippet": "36氪获悉，6月12日，小雨智造与地瓜机器人正式宣布达成战略合作，双方将围绕“工业具身大脑+端侧大算力”展开深度协同，推动具身智能技术从实验室走向工业产线，共同打造面向工业制造的高性能软硬一体化解决方案，助力智能制造迈向新阶段。",
-      "pubDate": "2026-06-15 18:36:43  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "亿纬锂能：预计2026年半年度净利润同比增长95%-110%",
-      "link": "https://36kr.com/newsflashes/3854298591270151?f=rss",
-      "snippet": "36氪获悉，亿纬锂能公告，预计2026年半年度归属于上市公司股东的净利润为31.30亿元-33.71亿元，同比增长95%-110%。业绩变动主要系公司坚持产品迭代与服务升级，把握市场增长机遇，营业收入同比增长约60%，并通过供应链多元化布局和战略性采购有效缓冲成本上涨压力。",
-      "pubDate": "2026-06-15 18:35:16  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "小红书或已准备好本月在香港提交IPO申请",
-      "link": "https://36kr.com/newsflashes/3854294340686851?f=rss",
-      "snippet": "据透露，小红书科技有限公司正准备在本月底前秘密向香港提交首次公开募股（IPO）申请。（新浪财经）",
-      "pubDate": "2026-06-15 18:30:57  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "赛分科技：拟投资3亿元建设规模化蛋白生产和色谱填料扩产项目",
-      "link": "https://36kr.com/newsflashes/3854291085038599?f=rss",
-      "snippet": "36氪获悉，赛分科技公告，公司全资子公司扬州赛分拟投资约3亿元建设规模化蛋白生产和色谱填料扩产项目，资金来源包括自有资金、银行贷款等。项目位于扬州高新技术产业开发区生物健康产业园，设计产能为年产蛋白3000公斤与硅胶基质填料18吨，建设期预计24个月。本次投资已获董事会审议通过，无需提交股东会审议，",
-      "pubDate": "2026-06-15 18:27:38  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "*ST仕净：法院决定启动预重整并通知债权申报",
-      "link": "https://36kr.com/newsflashes/3854290087466242?f=rss",
-      "snippet": "36氪获悉，*ST仕净公告，公司收到苏州中院决定书，法院决定对公司启动预重整，并指定清算组担任临时管理人。临时管理人通知债权人于公告之日起30日内(截至2026年7月9日)通过“破栗子”平台线上申报债权。预重整不代表正式受理重整，公司能否进入重整程序存在不确定性。若法院受理重整，公司股票将被实施退市",
-      "pubDate": "2026-06-15 18:26:37  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "中交地产：证券简称变更为“中交发展”",
-      "link": "https://36kr.com/newsflashes/3854285925307397?f=rss",
-      "snippet": "36氪获悉，中交地产公告，公司证券简称自2026年6月16日起由“中交地产”变更为“中交发展”，证券代码保持不变。公司已完成向轻资产运营模式的战略转型，专注于物业服务、资产管理与运营等业务，新简称与主营业务及战略方向一致。",
-      "pubDate": "2026-06-15 18:22:23  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "强生将投资超10亿美元扩建美国视力保健产品生产设施",
-      "link": "https://36kr.com/newsflashes/3854274386449415?f=rss",
-      "snippet": "强生公司6月15日宣布将投资超10亿美元，扩建位于美国佛罗里达州杰克逊维尔的视力保健产品生产基地，以提升ACUVUE隐形眼镜的产能。该投资项目涵盖新建配送中心及引入先进制造技术。（财联社）",
-      "pubDate": "2026-06-15 18:10:39  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -340,7 +599,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
+      "fetchedAt": "2026-06-15T18:27:51.215Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -357,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林樾",
-      "fetchedAt": "2026-06-15T12:18:10.962Z",
+      "fetchedAt": "2026-06-15T18:27:48.963Z",
       "tags": [
         "学术研究"
       ]
@@ -373,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
       "tags": [
         "商业融资"
       ]
@@ -389,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
       "tags": [
         "大模型"
       ]
@@ -405,7 +664,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
       "tags": [
         "综合"
       ]
@@ -421,25 +680,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-06-15T12:18:10.962Z",
+      "fetchedAt": "2026-06-15T18:27:48.963Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Flash-KMeans: An IO-Aware, Exact K-Means That Runs Over 200× Faster Than FAISS on GPUs",
-      "link": "https://www.marktechpost.com/2026/06/15/meet-flash-kmeans-an-io-aware-exact-k-means-that-runs-over-200x-faster-than-faiss-on-gpus/",
-      "snippet": "Flash-KMeans is an open-source, IO-aware implementation of standard Lloyd's k-means in Triton GPU kernels. It does not change the math or approximate.",
-      "pubDate": "Mon, 15 Jun 2026 09:16:09 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-15T12:18:21.332Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -453,7 +696,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sara Kiley Watson",
-      "fetchedAt": "2026-06-15T12:18:19.228Z",
+      "fetchedAt": "2026-06-15T18:27:55.933Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -486,7 +729,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
       "tags": [
         "学术研究"
       ]
@@ -495,14 +738,14 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "The AI layoff wave is becoming a powder keg",
       "link": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-      "snippet": "What makes this combustible: at the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming",
+      "snippet": "At the very moment that tens of thousands of workers are being shown the door, a small cohort of AI insiders is becoming wealthy on a scale that's har",
       "pubDate": "Mon, 15 Jun 2026 07:25:41 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-06-15T12:18:18.597Z",
+      "fetchedAt": "2026-06-15T18:27:55.360Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +761,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-15T12:18:10.962Z",
+      "fetchedAt": "2026-06-15T18:27:48.963Z",
       "tags": [
         "商业融资"
       ]
@@ -534,7 +777,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-06-15T12:18:10.962Z",
+      "fetchedAt": "2026-06-15T18:27:48.963Z",
       "tags": [
         "大模型"
       ]
@@ -550,25 +793,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
+      "fetchedAt": "2026-06-15T18:27:55.138Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Z.ai Launches GLM-5.2 With a Usable 1M-Token Context, Two Thinking-Effort Levels, and No Benchmarks at Launch",
-      "link": "https://www.marktechpost.com/2026/06/14/z-ai-launches-glm-5-2-with-a-usable-1m-token-context-two-thinking-effort-levels-and-no-benchmarks-at-launch/",
-      "snippet": "Z.ai launched GLM-5.2 on June 13, 2026, across every GLM Coding Plan tier. The headline is a usable 1-million-token context window plus High and Max e",
-      "pubDate": "Mon, 15 Jun 2026 06:10:23 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-06-15T12:18:21.332Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -582,235 +809,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-06-15T12:18:10.962Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "低成本复刻Fable 5的路子找到了：OrcaRouter多模型组队，性能反超",
-      "link": "https://www.qbitai.com/2026/06/435558.html",
-      "snippet": "原来最强AI不是一个AI",
-      "pubDate": "Mon, 15 Jun 2026 05:43:15 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-06-15T12:18:10.962Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "魔法原子上交会首秀VLA K02大模型，完成具身智能从“执行”到“理解”的能力跃迁",
-      "link": "https://www.leiphone.com/category/industrynews/id1HKgC0ahWZduWb.html",
-      "snippet": "6月13日，第十二届中国（上海）国际技术进出口交易会（CSITF）在上海圆满闭幕。此次盛会，作为全球具身智能领域的领军企业，魔法原子（MagicLab）携全栈技术矩阵重磅亮相。 展会现场，魔法原子不仅带来了全家族明星产品的沉浸式动态展示，更首次在国内公开发布两大核心技术成果：自研Magic-VLA",
-      "pubDate": "Mon, 15 Jun 2026 13:37:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "世航智能完成超 10 亿元 A 轮融资，创全球海洋机器人单轮融资纪录",
-      "link": "https://www.leiphone.com/category/robot/FufjKCluRRyP0ye4.html",
-      "snippet": "雷峰网获悉，6 月 15 日海洋具身智能公司世航智能宣布完成超 10 亿元 A 轮融资，为目前全球海洋机器人领域规模最大的单轮融资。 雷峰网了解到，该轮新投资方包括上河动量基金、新加坡淡马锡旗下 Vertex Growth、中信集团农业产业基金、誉尊资本、上市公司大洋电机；老股东金沙江创投、祥峰中国",
-      "pubDate": "Mon, 15 Jun 2026 12:32:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Agent时代，华为云开始重新造地基了",
-      "link": "https://www.qbitai.com/2026/06/435531.html",
-      "snippet": "Agentic新基建",
-      "pubDate": "Mon, 15 Jun 2026 03:40:26 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦晨",
-      "fetchedAt": "2026-06-15T12:18:10.962Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "智源大会 | 天工AI重新定义世界模型，公布Matrix-Game 3.5 最新技术突破",
-      "link": "https://www.qbitai.com/2026/06/435520.html",
-      "snippet": "昆仑万维将持续深耕，步履不停",
-      "pubDate": "Mon, 15 Jun 2026 03:24:30 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-15T12:18:10.962Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "健康AI阿福测试“医生把关”新功能：打开“AI+医生”协作想象空间",
-      "link": "https://www.leiphone.com/category/industrynews/d1EqrpsXBW4c1JjR.html",
-      "snippet": "6月15日，健康AI应用\"蚂蚁阿福\"宣布“拍皮肤”功能升级：可识别皮肤病种类从50种增至100多种，覆盖99%的线上就医常见皮肤问题。同时，阿福还上线了“医生把关”这一新服务：用户获得阿福的解答后，可选择邀请三甲医院的医生对阿福的分析结果进行复核并补充意见。这也是国内首个落地\"AI问答+医生把关\"协",
-      "pubDate": "Mon, 15 Jun 2026 10:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "首发丨家庭柔性机器人公司「SoulX」获高瓴投资，首款「拥抱机器人」年内上市",
-      "link": "https://www.leiphone.com/category/weiwu/NmG4PGKLNQreYKmk.html",
-      "snippet": "陪你睡觉的机器人来了。 作者丨姚单  编辑丨董子博         雷峰网·鲸犀获悉，家庭柔性机器人公司弘火智能「SoulX」已完成天使轮融资，由高瓴创投投资，向阳资本担任独家财务顾问。本轮融资将用于首款睡眠安抚机器人MoYa的量产和推广。这款产品预计2026年年内在北美率先上市。 SoulX创始人",
-      "pubDate": "Mon, 15 Jun 2026 10:05:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "硬氪专访 | 智源研究院院长王仲远：VLA不会死，但世界模型是未来",
-      "link": "https://36kr.com/p/3853016586359817?f=rss",
-      "snippet": "作者 | 邱晓芬 编辑 | 袁斯来 过去几个月，“世界模型”（World Model）从学术黑话迅速膨胀成AI和机器人行业里的关键词。 行业的目光转向背后是切实的焦虑。 一方面，经过了过去两年的野蛮生长，具身智能暴露了当前AI在物理世界中的短板——机器人能识别物体，却不懂“推杯子会掉”；能听懂指令，",
-      "pubDate": "2026-06-15 09:50:00  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "硬氪首发 | 海洋具身智能公司「世航智能」拿下创纪录10亿融资，朱啸虎押注",
-      "link": "https://36kr.com/p/3853011900142848?f=rss",
-      "snippet": "作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，海洋具身智能公司「世航智能」完成A轮融资，融资金额超过10亿元，这也是目前全球海洋机器人领域规模最大的单轮融资。本轮融资由两家芯片公司「摩尔线程」和「昆仑芯」的产业投资方上河动量基金、新加坡国有投资平台Vertex Growth 、上市公司大洋电机等资方",
-      "pubDate": "2026-06-15 09:50:00  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "36氪首发 | EBike变速器供应商打破海外巨头垄断，获国泰、达晨参与新一轮数千万元融资",
-      "link": "https://36kr.com/p/3853252135654660?f=rss",
-      "snippet": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能短出行核心零部件供应商洛梵狄智能科技（以下简称“洛梵狄”）已完成新一轮数千万元B+融资。本轮投资方包括国泰海通、达晨财智、以及广州黄埔科创母基金，老股东达晨财智在本轮中继续追加投资。 据悉，本轮融资资金将主要用于持续的研发投入、产能扩张、全球销售网络",
-      "pubDate": "2026-06-15 09:30:46  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Claude Code Guide 2026: 25 Features with Examples + Demo",
-      "link": "https://www.marktechpost.com/2026/06/14/claude-code-guide-2026-25-features-with-examples-demo/",
-      "snippet": "Claude Code is a layered agentic coding tool, not a single chat prompt. This guide breaks down 25 features, from CLAUDE.md, skills, subagents, and hoo",
-      "pubDate": "Mon, 15 Jun 2026 01:04:53 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-06-15T12:18:21.332Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "网件反咬TP-Link：「美国公司」是骗局，本质仍是中国企业；乌克兰使用AI无人机自主猎杀俄士兵；山姆客服回应极速达买到临期商品",
-      "link": "https://www.leiphone.com/category/zaobao/z1REYcEDmooLjV3S.html",
-      "snippet": "要闻提示       1.网件反诉TP-Link：宣称 “美国公司” 是虚假宣传，本质仍是中国企业 2.百度搜索疑似调整AI结果权重，网页链接重新优先 3.只能第一！余承东：鸿蒙彻底告别安卓、华为突破封锁麒麟芯全面回归 4.携程被罚 1000 万：未落实数据出境安全评估要求、违法出境个人信息 5.山",
-      "pubDate": "Mon, 15 Jun 2026 08:27:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:18.247Z",
-      "tags": [
-        "政策监管",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "8点1氪丨诺奖得主称马斯克是庞氏骗局；SK海力士去年新增员工超2000人；人形机器人U1仅限成人购买",
-      "link": "https://36kr.com/p/3853670570743040?f=rss",
-      "snippet": "今日热点导览 加拿大母亲起诉奥特曼与OpenAI，指控ChatGPT诱导女儿自杀 A股10家退市公司波及超25万股民 SK海力士去年新增员工超2000人 H&M重组全球架构，大中华区降级 世界杯期间英格兰队装备遭窃，大部分已被追回 TOP 3 大新闻 诺奖得主称马斯克是庞氏骗局，SpaceX上市让普",
-      "pubDate": "2026-06-15 07:57:48  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-15T12:18:14.276Z",
-      "tags": [
-        "大模型",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "A Coding Hands-On on FineWeb for Streaming, Filtering, Deduplication, Tokenization, and Large-Scale Web Corpus Analytics",
-      "link": "https://www.marktechpost.com/2026/06/14/a-coding-hands-on-on-fineweb-for-streaming-filtering-deduplication-tokenization-and-large-scale-web-corpus-analytics/",
-      "snippet": "In this tutorial, we explore the FineWeb dataset through an advanced hands-on workflow. We stream a manageable sample of the dataset without downloadi",
-      "pubDate": "Sun, 14 Jun 2026 20:45:32 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-06-15T12:18:21.332Z",
+      "fetchedAt": "2026-06-15T18:27:48.963Z",
       "tags": [
         "综合"
       ]
