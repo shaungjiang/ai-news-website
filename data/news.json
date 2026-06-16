@@ -1,32 +1,97 @@
 {
-  "generatedAt": "2026-06-16T17:03:57.373Z",
+  "generatedAt": "2026-06-16T21:02:30.447Z",
   "stats": {
-    "total": 136,
+    "total": 111,
     "shown": 50,
     "chinese": 60,
-    "english": 76,
-    "today": 71
+    "english": 51,
+    "today": 69
   },
   "articles": [
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Qwen-RobotSuite: Three Embodied AI Models for VLA Manipulation, Video World Modeling, and Navigation",
-      "link": "https://www.marktechpost.com/2026/06/16/meet-qwen-robotsuite-three-embodied-ai-models-for-vla-manipulation-video-world-modeling-and-navigation/",
-      "snippet": "We break down Qwen-RobotSuite, the Qwen team's three new embodied AI models. We cover RobotManip, a Vision-Language-Action model built on Qwen3.5-4B f",
-      "pubDate": "Tue, 16 Jun 2026 16:51:19 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "link": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+      "snippet": "A collection of stories about how militaries are using AI models to make decisions. This subscriber-only eBook is a package of six stories that were o",
+      "pubDate": "Tue, 16 Jun 2026 20:35:02 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
       "lang": "en",
       "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-16T16:55:11.299Z",
+      "creator": "MIT Technology Review",
+      "fetchedAt": "2026-06-16T20:53:41.355Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Sixty percent of U.S. consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
+      "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+      "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+      "snippet": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+      "pubDate": "Tue, 16 Jun 2026 20:11:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sean O'Kane",
+      "fetchedAt": "2026-06-16T20:53:40.729Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
+      "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
+      "snippet": "Google has released Android 17 and Wear OS 7, introducing new multitasking features, parental controls, security tools, and smartwatch upgrades. The l",
+      "pubDate": "Tue, 16 Jun 2026 18:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-06-16T20:53:40.729Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Apple 2027 rumors: AirPods with cameras for AI and the second folding iPhone",
+      "link": "https://www.theverge.com/tech/950826/apple-airpod-camera-ai-foldable-iphone-rumor",
+      "snippet": "AirPods Pro 3 shown with an iPhone and live translation features. | Photo by Amelia Holowaty Krales / The Verge\t  Now that we're clear of WWDC and all",
+      "pubDate": "2026-06-16T17:04:05.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-16T20:53:41.084Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Qualcomm’s latest chip hints that more powerful smart glasses could be on the way",
+      "link": "https://www.theverge.com/gadgets/950229/qualcomm-snapdragon-reality-elite-xr-smart-glasses-wearables",
+      "snippet": "Smart glasses are still a nascent category, but chipmaker Qualcomm is hard at work upgrading the silicon to power the next wave of XR devices: the Sna",
+      "pubDate": "2026-06-16T17:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-16T20:53:41.084Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
       "link": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
       "snippet": "WordPress VIP’s latest survey suggests consumers are wary of AI-generated answers even as companies increasingly view AI search as an important referr",
       "pubDate": "Tue, 16 Jun 2026 16:49:44 +0000",
@@ -35,41 +100,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-06-16T16:55:07.677Z",
+      "fetchedAt": "2026-06-16T20:53:40.729Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "SpaceX acquires AI coding platform Cursor for $60 billion",
-      "link": "https://arstechnica.com/ai/2026/06/spacex-will-acquire-coding-tool-cursor-to-compete-with-anthropic-openai/",
-      "snippet": "Separately, neither could compete. Now they hope they can.",
-      "pubDate": "Tue, 16 Jun 2026 16:37:45 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-06-16T16:55:09.157Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "link": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-      "snippet": "Audited accounting shows growing revenues being dwarfed by R&D, other expenses.",
-      "pubDate": "Tue, 16 Jun 2026 16:18:07 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-06-16T16:55:09.157Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -83,7 +116,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec, Russell Brandom",
-      "fetchedAt": "2026-06-16T16:55:07.677Z",
+      "fetchedAt": "2026-06-16T20:53:40.729Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-06-16T16:55:07.677Z",
+      "fetchedAt": "2026-06-16T20:53:40.729Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-06-16T16:55:07.677Z",
+      "fetchedAt": "2026-06-16T20:53:40.730Z",
       "tags": [
         "综合"
       ]
@@ -131,25 +164,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-06-16T16:55:07.677Z",
+      "fetchedAt": "2026-06-16T20:53:40.730Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "SpaceX passes Amazon as valuation balloons to $2.7T",
-      "link": "https://techcrunch.com/2026/06/16/spacex-passes-amazon-as-valuation-balloons-to-2-7t/",
-      "snippet": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-      "pubDate": "Tue, 16 Jun 2026 13:48:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sean O'Kane",
-      "fetchedAt": "2026-06-16T16:55:07.677Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -163,7 +180,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-06-16T16:54:58.820Z",
+      "fetchedAt": "2026-06-16T20:53:33.846Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-06-16T16:55:07.677Z",
+      "fetchedAt": "2026-06-16T20:53:40.730Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-06-16T16:54:58.820Z",
+      "fetchedAt": "2026-06-16T20:53:33.846Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +244,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -236,14 +253,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "美股大型科技股盘前多数下跌，SpaceX涨超5%",
       "link": "https://36kr.com/newsflashes/3855850043446277?f=rss",
-      "snippet": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英特尔跌超2%，特斯拉跌超1%，英伟达跌0.64%，微软跌0.63%，奈飞跌0.22%，谷歌跌0.18%，苹果跌0.15%，Meta跌0.11%；SpaceX涨超5%，亚马��涨0.4%。",
+      "snippet": "36氪获悉，美股大型科技股盘前多数下跌，截至发稿，英特尔跌超2%，特斯拉跌超1%，英伟达跌0.64%，微软跌0.63%，奈飞跌0.22%，谷歌跌0.18%，苹果跌0.15%，Meta跌0.11%；SpaceX涨超5%，亚马逊涨0.4%。",
       "pubDate": "2026-06-16 20:53:29  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +276,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +292,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "商业融资"
       ]
@@ -291,7 +308,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +340,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +356,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "AI应用"
       ]
@@ -355,7 +372,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-16T16:55:08.251Z",
+      "fetchedAt": "2026-06-16T20:53:41.355Z",
       "tags": [
         "综合"
       ]
@@ -371,7 +388,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "商业融资"
       ]
@@ -387,7 +404,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "商业融资"
       ]
@@ -403,7 +420,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -419,7 +436,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -435,7 +452,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -451,7 +468,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -467,7 +484,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:07.973Z",
+      "fetchedAt": "2026-06-16T20:53:41.084Z",
       "tags": [
         "商业融资"
       ]
@@ -483,7 +500,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "AI应用"
       ]
@@ -499,7 +516,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "AI应用"
       ]
@@ -515,7 +532,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "商业融资"
       ]
@@ -531,7 +548,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:07.427Z",
+      "fetchedAt": "2026-06-16T20:53:40.479Z",
       "tags": [
         "商业融资"
       ]
@@ -547,7 +564,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
       ]
@@ -563,7 +580,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-06-16T16:55:07.677Z",
+      "fetchedAt": "2026-06-16T20:53:40.730Z",
       "tags": [
         "商业融资"
       ]
@@ -579,7 +596,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "AI应用"
       ]
@@ -595,25 +612,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Critical Copilot vulnerability allowed hackers to steal 2FA code from users",
-      "link": "https://arstechnica.com/security/2026/06/critical-copilot-vulnerability-allowed-hackers-to-seal-2fa-code-from-users/",
-      "snippet": "SearchLeak exploit shows why the industry's approach to LLM security fails over and over.",
-      "pubDate": "Tue, 16 Jun 2026 11:15:46 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-06-16T16:55:09.157Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -627,9 +628,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-16T16:54:58.820Z",
+      "fetchedAt": "2026-06-16T20:53:33.846Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "ChatGPT’s market share slips below 50% for first time",
+      "link": "https://techcrunch.com/2026/06/16/chatgpts-market-share-slips-below-50-for-first-time/",
+      "snippet": "The chatbot still remains the most popular AI assistant worldwide with over 1.1 billion monthly users, followed by Gemini with 662 million and Claude",
+      "pubDate": "Tue, 16 Jun 2026 10:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-06-16T20:53:40.730Z",
+      "tags": [
+        "大模型",
+        "商业融资"
       ]
     },
     {
@@ -643,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:07.427Z",
+      "fetchedAt": "2026-06-16T20:53:40.479Z",
       "tags": [
         "商业融资"
       ]
@@ -659,7 +677,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "商业融资"
       ]
@@ -675,25 +693,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-06-16T16:54:58.820Z",
+      "fetchedAt": "2026-06-16T20:53:33.846Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Hermes Agent Adds Asynchronous Subagents, So Delegated Work No Longer Blocks the Parent Chat",
-      "link": "https://www.marktechpost.com/2026/06/16/hermes-agent-adds-asynchronous-subagents-so-delegated-work-no-longer-blocks-the-parent-chat/",
-      "snippet": "We look at Hermes Agent's new asynchronous subagents from Nous Research. The delegate tool can now spawn background agents that no longer block the pa",
-      "pubDate": "Tue, 16 Jun 2026 09:21:12 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-06-16T16:55:11.299Z",
-      "tags": [
-        "学术研究"
       ]
     },
     {
@@ -707,25 +709,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Amos Zeeberg",
-      "fetchedAt": "2026-06-16T16:55:08.251Z",
+      "fetchedAt": "2026-06-16T20:53:41.355Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Atoms: A Vibe Coding Tool That Uses AI Agents to Build, Deploy, and Market Your App (No Code)",
-      "link": "https://www.marktechpost.com/2026/06/16/meet-atoms-a-vibe-coding-tool-that-uses-ai-agents-to-build-deploy-and-market-your-app-no-code/",
-      "snippet": "The concept of vibe coding is interesting; you don’t need to be a developer or software engineer to build your own applications. You can describe your",
-      "pubDate": "Tue, 16 Jun 2026 08:50:17 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-06-16T16:55:11.299Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -739,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:07.427Z",
+      "fetchedAt": "2026-06-16T20:53:40.479Z",
       "tags": [
         "AI应用"
       ]
@@ -755,7 +741,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "AI应用"
       ]
@@ -771,25 +757,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:01.011Z",
+      "fetchedAt": "2026-06-16T20:53:35.943Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google Cloud Introduces Open Knowledge Format (OKF): A Vendor-Neutral Markdown Spec for Giving AI Agents Curated Context",
-      "link": "https://www.marktechpost.com/2026/06/16/google-cloud-introduces-open-knowledge-format-okf-a-vendor-neutral-markdown-spec-for-giving-ai-agents-curated-context/",
-      "snippet": "We break down Google Cloud's new Open Knowledge Format (OKF), an open spec that formalizes the LLM-wiki pattern. We explain how a bundle works: a dire",
-      "pubDate": "Tue, 16 Jun 2026 08:18:58 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-16T16:55:11.299Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -803,10 +773,42 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-16T16:55:07.427Z",
+      "fetchedAt": "2026-06-16T20:53:40.479Z",
       "tags": [
         "学术研究",
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "港中文（深圳）人工智能学院：荆炳义、尹峰、贺品嘉教授团队的6篇论文被ICML 2026接收",
+      "link": "https://www.leiphone.com/category/private/WZsNRnSvF79csCDM.html",
+      "snippet": "原文作者：公众号“香港中文大学深圳人工智能学院” 原文链接：https://mp.weixin.qq.com/s/5EiYIXjB9mPusjCEvdr7xA   近日，香港中文大学（深圳）人工智能学院荆炳义、尹峰教授和数据科学学院、人工智能学院双聘助理教授贺品嘉教授团队的6篇论文被机器学习领域顶级",
+      "pubDate": "Tue, 16 Jun 2026 15:25:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-16T20:53:40.479Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "深圳市大数据研究院4项科研成果被ICML 2026录用",
+      "link": "https://www.leiphone.com/category/private/haovJSw5s9MS2aUM.html",
+      "snippet": "原文作者：公众号“深圳市大数据研究院” 原文链接：https://mp.weixin.qq.com/s/ex36drATo7qIy_MwFFp5hA     近日，深圳市大数据研究院四项科研成果同时发表于第43届国际机器学习大会（International Conference on Machine",
+      "pubDate": "Tue, 16 Jun 2026 15:08:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-16T20:53:40.479Z",
+      "tags": [
+        "学术研究"
       ]
     }
   ]
