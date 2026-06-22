@@ -1,16 +1,112 @@
 {
-  "generatedAt": "2026-06-22T17:19:37.304Z",
+  "generatedAt": "2026-06-22T20:59:28.348Z",
   "stats": {
     "total": 121,
     "shown": 50,
     "chinese": 59,
     "english": 62,
-    "today": 53
+    "today": 60
   },
   "articles": [
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "SpaceX inks compute deal with Reflection AI, an open-source AI lab",
+      "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "snippet": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+      "pubDate": "Mon, 22 Jun 2026 20:13:58 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-06-22T20:50:38.352Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "snippet": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel",
+      "pubDate": "Mon, 22 Jun 2026 20:08:15 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim De Chant",
+      "fetchedAt": "2026-06-22T20:50:38.352Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "AI is cursing renters with the promise of impossible homes",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "snippet": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After l",
+      "pubDate": "2026-06-22T20:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-22T20:50:38.786Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "snippet": "Google DeepMind and A24 are teaming up to build AI filmmaking tools.",
+      "pubDate": "Mon, 22 Jun 2026 18:49:44 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Dominic-Madori Davis",
+      "fetchedAt": "2026-06-22T20:50:38.352Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "link": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. For those of",
+      "pubDate": "Mon, 22 Jun 2026 18:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "James O'Donnell",
+      "fetchedAt": "2026-06-22T20:50:39.111Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "link": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "snippet": "Amazon is planning to increase the footprint of its new conversational AI assistant Alexa+ to India and is inviting users in the country to test out a",
+      "pubDate": "Mon, 22 Jun 2026 17:31:29 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-06-22T20:50:38.352Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
       "link": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
       "snippet": "Reflection AI will pay $150 million a month beginning July 1, 2026 through 2029 for immediate access to Nvidia's latest GB300 AI chips and supporting",
       "pubDate": "Mon, 22 Jun 2026 16:51:29 +0000",
@@ -19,9 +115,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-06-22T17:09:45.287Z",
+      "fetchedAt": "2026-06-22T20:50:38.352Z",
       "tags": [
-        "商业融资"
+        "开源工具"
       ]
     },
     {
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-06-22T17:09:45.287Z",
+      "fetchedAt": "2026-06-22T20:50:38.352Z",
       "tags": [
         "学术研究"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Clara Murray, Financial Times\n                ",
-      "fetchedAt": "2026-06-22T17:09:46.757Z",
+      "fetchedAt": "2026-06-22T20:50:40.051Z",
       "tags": [
         "政策监管"
       ]
@@ -67,7 +163,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -84,7 +180,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资"
       ]
@@ -100,7 +196,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +212,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "AI应用"
       ]
@@ -132,7 +228,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +244,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资"
       ]
@@ -164,7 +260,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资"
       ]
@@ -180,7 +276,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +292,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资"
       ]
@@ -212,7 +308,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资"
       ]
@@ -244,7 +340,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +356,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资"
       ]
@@ -276,7 +372,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资"
       ]
@@ -292,7 +388,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +404,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-22T17:09:45.817Z",
+      "fetchedAt": "2026-06-22T20:50:39.111Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +420,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "大模型"
       ]
@@ -340,7 +436,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "AI应用"
       ]
@@ -356,7 +452,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +468,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "商业融资"
       ]
@@ -388,7 +484,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +500,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.531Z",
+      "fetchedAt": "2026-06-22T20:50:38.786Z",
       "tags": [
         "AI应用"
       ]
@@ -420,7 +516,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.034Z",
+      "fetchedAt": "2026-06-22T20:50:38.022Z",
       "tags": [
         "综合"
       ]
@@ -436,25 +532,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-      "link": "https://openai.com/index/patch-the-planet",
-      "snippet": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert r",
-      "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-06-22T17:09:47.241Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -468,9 +548,25 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:47.241Z",
+      "fetchedAt": "2026-06-22T20:50:40.713Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "link": "https://openai.com/index/patch-the-planet",
+      "snippet": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert r",
+      "pubDate": "Mon, 22 Jun 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-06-22T20:50:40.713Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -484,7 +580,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.034Z",
+      "fetchedAt": "2026-06-22T20:50:38.022Z",
       "tags": [
         "大模型"
       ]
@@ -500,7 +596,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "大模型",
         "商业融资"
@@ -517,7 +613,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "学术研究"
       ]
@@ -533,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.034Z",
+      "fetchedAt": "2026-06-22T20:50:38.022Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +645,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Niall Firth",
-      "fetchedAt": "2026-06-22T17:09:45.817Z",
+      "fetchedAt": "2026-06-22T20:50:39.111Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +661,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "开源工具"
       ]
@@ -581,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-22T17:09:38.748Z",
+      "fetchedAt": "2026-06-22T20:50:29.675Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -598,7 +694,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "开源工具"
       ]
@@ -614,7 +710,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "AI应用"
       ]
@@ -630,7 +726,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "开源工具"
       ]
@@ -646,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-06-22T17:09:38.748Z",
+      "fetchedAt": "2026-06-22T20:50:29.675Z",
       "tags": [
         "综合"
       ]
@@ -662,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.034Z",
+      "fetchedAt": "2026-06-22T20:50:38.022Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -679,7 +775,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
         "开源工具"
       ]
@@ -695,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-06-22T17:09:38.748Z",
+      "fetchedAt": "2026-06-22T20:50:29.675Z",
       "tags": [
         "综合"
       ]
@@ -711,106 +807,8 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
+      "fetchedAt": "2026-06-22T20:50:31.624Z",
       "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "36氪首发 | 核心团队曾攻关国家重点大飞机装配，航空航天智能装备商完成数千万元融资",
-      "link": "https://36kr.com/p/3863883390194692?f=rss",
-      "snippet": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，大飞机智能装配装备企业大连坤达自动化有限公司（以下简称“大连坤达”）今日完成数千万元A轮融资，投资方为泰州永鑫融堰创业投资合伙企业（有限合伙）（以下简称“永鑫方舟”），大桉资本担任独家财务顾问。本轮资金将主要用于新一代智能装配系统研发、核心产品产能扩充及",
-      "pubDate": "2026-06-22 13:06:22  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-22T17:09:41.293Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Robotaxi匍匐前进十年：烧掉千亿后，终于要赚钱了？",
-      "link": "https://www.leiphone.com/category/transportation/pb4PRACFvXFd32lY.html",
-      "snippet": "过去几年，Robotaxi一度是自动驾驶行业最尴尬的赛道。它长期站在资本聚光灯下，也曾被视为无人驾驶商业化的终极答案，但高成本和难以规模复制的商业模型，始终没有被真正解决。随着资本热度退潮，Robotaxi也一度进入寒潮期。 但到了2025年，这个被反复质疑的赛道又重新热了起来。 小马智行宣布广州、",
-      "pubDate": "Mon, 22 Jun 2026 12:43:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.034Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "入选ECCV 2026！清华开源空间模型打败Gemini：真正的空间智能是在世界变化中持续学习",
-      "link": "https://www.qbitai.com/2026/06/437235.html",
-      "snippet": "120分钟长视频一边看一边记",
-      "pubDate": "Mon, 22 Jun 2026 03:48:38 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-06-22T17:09:38.748Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "拼多多常态化生态治理见实效：半年出台70余项举措 图书治理关店4000多家",
-      "link": "https://www.leiphone.com/category/industrynews/6piq1fYo2SlpNR7E.html",
-      "snippet": "“我们以前是自产自销，卖父母种的杨梅，这几年在拼多多上做得还不错，就开始收周边一些农户的果子。去年底，平台小二提醒我们办理市场主体登记，我们就注册了个体工商户营业执照。现在大家开网店卖农货，基本上都知道要‘持证’。” “我们今年4月获得了‘洛川苹果’的地理标志产品经营许可，在平台提交资质后，商品详情",
-      "pubDate": "Mon, 22 Jun 2026 11:28:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.034Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "LiblibAI 母公司完成近 3 亿美元融资：AI 应用层开始进入「收入说话」的阶段",
-      "link": "https://www.leiphone.com/category/ai/M6tymyAI0col1cpj.html",
-      "snippet": "演语科技，正在成为这一轮变化中最值得观察的中国样本之一。          作者丨郑佳美      编辑丨马晓宁",
-      "pubDate": "Mon, 22 Jun 2026 11:00:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.034Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Claude Code 修了几个小 bug，却揭开了 Agent 落地的大麻烦",
-      "link": "https://www.leiphone.com/category/ai/Fkjtf266Ai0l43XB.html",
-      "snippet": "工具状态、权限边界和后台任务，正在成为 AI 编程产品的新考验。          作者丨郑佳美      编辑丨马晓宁",
-      "pubDate": "Mon, 22 Jun 2026 10:58:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-22T17:09:45.034Z",
-      "tags": [
-        "AI应用",
         "大模型"
       ]
     }
