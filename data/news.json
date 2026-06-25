@@ -1,25 +1,153 @@
 {
-  "generatedAt": "2026-06-25T14:40:11.213Z",
+  "generatedAt": "2026-06-25T18:15:48.709Z",
   "stats": {
     "total": 127,
     "shown": 50,
     "chinese": 60,
     "english": 67,
-    "today": 65
+    "today": 73
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Anthropic claims Alibaba defied Trump to attack Claude and steal capabilities",
+      "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
+      "snippet": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
+      "pubDate": "Thu, 25 Jun 2026 18:01:48 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-06-25T18:11:27.942Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "snippet": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+      "pubDate": "Thu, 25 Jun 2026 17:38:27 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds",
+      "link": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
+      "snippet": "DeepReinforce released Ornith-1.0, an open-source coding model family built on Gemma 4 and Qwen 3.5. Instead of a fixed harness, the model learns its",
+      "pubDate": "Thu, 25 Jun 2026 17:11:37 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-25T18:11:29.119Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "snippet": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something clos",
+      "pubDate": "Thu, 25 Jun 2026 16:55:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "snippet": "Un-0 is an image-generation system tool that shows for the first time how the company's technology can replicate conventional AI systems.",
+      "pubDate": "Thu, 25 Jun 2026 16:48:11 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "这次是阿里！中国的大模型团队快被 Anthropic 告完了",
+      "link": "https://www.leiphone.com/category/yanxishe/vzVNtknYIRqTX0Wv.html",
+      "snippet": "这是Anthropic迄今控诉的最大规模“模型蒸馏”案。          作者丨高允毅      编辑丨马晓宁",
+      "pubDate": "Thu, 25 Jun 2026 23:02:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-25T18:11:26.256Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "snippet": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+      "pubDate": "Thu, 25 Jun 2026 14:55:38 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ram Iyer",
+      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Repositioning retail for the AI era",
+      "link": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+      "snippet": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be fla",
+      "pubDate": "Thu, 25 Jun 2026 14:22:59 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review Insights",
+      "fetchedAt": "2026-06-25T18:11:27.080Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
       "link": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-      "snippet": "2 days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. Reg",
+      "snippet": "Two days left to lock in your spot at TechCrunch Founder Summit 2026 and save up to $190 before Early Bird rates expire on June 26 at 11:59 p.m. PT. R",
       "pubDate": "Thu, 25 Jun 2026 14:00:00 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-06-25T14:35:30.130Z",
+      "fetchedAt": "2026-06-25T18:11:26.479Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +163,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "政策监管"
       ]
@@ -51,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-06-25T14:35:30.130Z",
+      "fetchedAt": "2026-06-25T18:11:26.479Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +195,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +211,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +227,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +243,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +259,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +275,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +291,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +307,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -195,7 +323,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +339,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "AI应用"
       ]
@@ -227,7 +355,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -244,7 +372,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-25T14:35:31.622Z",
+      "fetchedAt": "2026-06-25T18:11:27.080Z",
       "tags": [
         "政策监管"
       ]
@@ -260,7 +388,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -277,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -293,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-06-25T14:35:30.130Z",
+      "fetchedAt": "2026-06-25T18:11:26.479Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +437,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:30.398Z",
+      "fetchedAt": "2026-06-25T18:11:26.760Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +453,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -341,7 +469,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -357,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "AI应用"
       ]
@@ -373,7 +501,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "AI应用"
       ]
@@ -389,7 +517,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -406,7 +534,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +550,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资"
       ]
@@ -438,7 +566,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "AI应用"
       ]
@@ -454,7 +582,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:29.711Z",
+      "fetchedAt": "2026-06-25T18:11:26.256Z",
       "tags": [
         "AI应用"
       ]
@@ -486,7 +614,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-06-25T14:35:32.503Z",
+      "fetchedAt": "2026-06-25T18:11:27.942Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +630,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-06-25T14:35:31.622Z",
+      "fetchedAt": "2026-06-25T18:11:27.080Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +646,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sophia Chen",
-      "fetchedAt": "2026-06-25T14:35:31.622Z",
+      "fetchedAt": "2026-06-25T18:11:27.080Z",
       "tags": [
         "政策监管"
       ]
@@ -534,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T14:35:22.542Z",
+      "fetchedAt": "2026-06-25T18:11:19.998Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T14:35:22.542Z",
+      "fetchedAt": "2026-06-25T18:11:19.998Z",
       "tags": [
         "AI应用"
       ]
@@ -566,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:29.711Z",
+      "fetchedAt": "2026-06-25T18:11:26.256Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:29.711Z",
+      "fetchedAt": "2026-06-25T18:11:26.256Z",
       "tags": [
         "大模型"
       ]
@@ -598,7 +726,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -615,7 +743,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:30.398Z",
+      "fetchedAt": "2026-06-25T18:11:26.760Z",
       "tags": [
         "AI应用"
       ]
@@ -631,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T14:35:22.542Z",
+      "fetchedAt": "2026-06-25T18:11:19.998Z",
       "tags": [
         "AI应用"
       ]
@@ -647,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:29.711Z",
+      "fetchedAt": "2026-06-25T18:11:26.256Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -664,7 +792,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-06-25T14:35:22.542Z",
+      "fetchedAt": "2026-06-25T18:11:19.998Z",
       "tags": [
         "综合"
       ]
@@ -680,138 +808,10 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
+      "fetchedAt": "2026-06-25T18:11:22.217Z",
       "tags": [
         "大模型",
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
-      "link": "https://www.qbitai.com/2026/06/438365.html",
-      "snippet": "Claude已经，俨然成为了新一代电子老公。",
-      "pubDate": "Thu, 25 Jun 2026 07:02:16 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-06-25T14:35:22.542Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "央视起底高报乱象，千问吴嘉发声：免费志愿服务不应被高价倒卖",
-      "link": "https://www.leiphone.com/category/industrynews/aLhjASxiKohg7Fuf.html",
-      "snippet": "6月25日，央视关于高考志愿填报行业乱象的调查报道引发全网关注。这些机构通过虚构资历、夸大宣传、制造焦虑等方式，向考生和家长售卖高价志愿填报服务；其所谓“一对一定制方案”，大量依赖千问的免费AI服务生成，再经过包装后，以数千元甚至上万元的价格转卖给家长。 千问总裁吴嘉在采访中回应，千问连续提供免费的",
-      "pubDate": "Thu, 25 Jun 2026 14:49:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-25T14:35:29.711Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "GAIR Paper 106｜追踪视觉 Token 的演化轨迹，实现无损压缩与 60% 推理加速｜CVPR 2026",
-      "link": "https://www.leiphone.com/category/private/9IjCJPRm9ILMDOSE.html",
-      "snippet": "从“谁被关注”到“谁在变化”，重新定义Token的重要性。          作者丨李傲 中国人民大学",
-      "pubDate": "Thu, 25 Jun 2026 14:45:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-25T14:35:29.711Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "GAIR Paper 105｜离线强化学习新突破——ROMI：破解对抗式模型学习「过保守、训不稳」深层困局｜ICLR 2026",
-      "link": "https://www.leiphone.com/category/private/wq3t2DJ8GSWtIl9w.html",
-      "snippet": "ROMI：离线强化学习新突破，探索对抗式模型学习范式全新实现路径，破解保守性难控与训练不稳的深层困局。            作者丨乔钟健",
-      "pubDate": "Thu, 25 Jun 2026 14:42:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-25T14:35:29.711Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "科氪 | 雷鸟创新 618 持续领跑 AR+智能眼镜品类，Q1 全球出货量再度登顶",
-      "link": "https://36kr.com/p/3868204527457287?f=rss",
-      "snippet": "2026 年上半年，全球智能眼镜市场迎来爆发式增长。IDC 数据显示全球 AR 市场（含 ER）同比增长 168.6%。国内市场的强劲增势同样印证了这一行业趋势，商务部大数据显示，2026 年 1 至 3 月，中国智能眼镜网络零售销售额同比增长 161.9%，AR 眼镜的受众圈层持续拓宽，正稳步渗透",
-      "pubDate": "2026-06-25 14:21:18  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Baidu Releases Unlimited OCR, a 3B Model That Keeps the KV Cache Flat for Long-Document Parsing",
-      "link": "https://www.marktechpost.com/2026/06/24/baidu-releases-unlimited-ocr-a-3b-model-that-keeps-the-kv-cache-flat-for-long-document-parsing/",
-      "snippet": "Baidu open-sourced Unlimited OCR, a 3B-parameter MoE model that parses dozens of document pages in a single forward pass. Its Reference Sliding Window",
-      "pubDate": "Thu, 25 Jun 2026 05:39:53 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-25T14:35:33.872Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "峰瑞资本创始合伙人李丰：从资本与流动性视角，看当前AI产业所处周期阶段",
-      "link": "https://36kr.com/p/3868045479711745?f=rss",
-      "snippet": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落",
-      "pubDate": "2026-06-25 13:23:29  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T14:35:25.606Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "马斯克预测GLM明年Q1追平Fable，智谱唐杰：没那么久",
-      "link": "https://www.qbitai.com/2026/06/438351.html",
-      "snippet": "互利共赢的生态繁荣",
-      "pubDate": "Thu, 25 Jun 2026 04:35:18 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-06-25T14:35:22.542Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
