@@ -1,16 +1,64 @@
 {
-  "generatedAt": "2026-06-25T18:15:48.709Z",
+  "generatedAt": "2026-06-25T21:49:15.818Z",
   "stats": {
-    "total": 127,
+    "total": 118,
     "shown": 50,
     "chinese": 60,
-    "english": 67,
-    "today": 73
+    "english": 58,
+    "today": 74
   },
   "articles": [
     {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "snippet": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+      "pubDate": "Thu, 25 Jun 2026 20:19:25 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-06-25T21:44:31.670Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
       "id": "YXJzdGVjaG5pY2Et",
-      "title": "Anthropic claims Alibaba defied Trump to attack Claude and steal capabilities",
+      "title": "Notion killing Skiff-influenced email app since most users use AI agents instead",
+      "link": "https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/",
+      "snippet": "Notion is \"going all in on using agents to run your inbox.\"",
+      "pubDate": "Thu, 25 Jun 2026 19:04:57 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Scharon Harding\n                ",
+      "fetchedAt": "2026-06-25T21:44:33.401Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google finally releases a Finance Android app, promises iOS version later in 2026",
+      "link": "https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/",
+      "snippet": "It took 20 years, but the Finance app arrives just in time to be packed full of AI.",
+      "pubDate": "Thu, 25 Jun 2026 18:38:51 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-06-25T21:44:33.401Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Anthropic says Alibaba must be punished for largest Claude cloning attack",
       "link": "https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/",
       "snippet": "Alibaba allegedly used 25,000 accounts to mine Claude over 28.8 million exchanges.",
       "pubDate": "Thu, 25 Jun 2026 18:01:48 +0000",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-06-25T18:11:27.942Z",
+      "fetchedAt": "2026-06-25T21:44:33.401Z",
       "tags": [
         "大模型"
       ]
@@ -35,25 +83,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "fetchedAt": "2026-06-25T21:44:31.670Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "DeepReinforce Releases Ornith-1.0: An Open-Source Coding Model Family That Learns Its Own RL Scaffolds",
-      "link": "https://www.marktechpost.com/2026/06/25/deepreinforce-releases-ornith-1-0-an-open-source-coding-model-family-that-learns-its-own-rl-scaffolds/",
-      "snippet": "DeepReinforce released Ornith-1.0, an open-source coding model family built on Gemma 4 and Qwen 3.5. Instead of a fixed harness, the model learns its",
-      "pubDate": "Thu, 25 Jun 2026 17:11:37 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-25T18:11:29.119Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -67,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "fetchedAt": "2026-06-25T21:44:31.670Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "fetchedAt": "2026-06-25T21:44:31.670Z",
       "tags": [
         "开源工具"
       ]
@@ -99,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:26.256Z",
+      "fetchedAt": "2026-06-25T21:44:31.378Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "fetchedAt": "2026-06-25T21:44:31.670Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +163,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-06-25T18:11:27.080Z",
+      "fetchedAt": "2026-06-25T21:44:32.405Z",
       "tags": [
         "开源工具"
       ]
@@ -147,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "fetchedAt": "2026-06-25T21:44:31.670Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +195,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "政策监管"
       ]
@@ -179,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "fetchedAt": "2026-06-25T21:44:31.670Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +227,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +243,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +259,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +275,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -259,7 +291,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +307,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -291,7 +323,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +339,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -323,7 +355,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -339,7 +371,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "AI应用"
       ]
@@ -355,7 +387,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -372,7 +404,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-25T18:11:27.080Z",
+      "fetchedAt": "2026-06-25T21:44:32.405Z",
       "tags": [
         "政策监管"
       ]
@@ -388,7 +420,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -405,7 +437,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -421,7 +453,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-06-25T18:11:26.479Z",
+      "fetchedAt": "2026-06-25T21:44:31.670Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +469,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:26.760Z",
+      "fetchedAt": "2026-06-25T21:44:32.005Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -469,7 +501,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -485,7 +517,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "AI应用"
       ]
@@ -501,7 +533,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "AI应用"
       ]
@@ -510,14 +542,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "氪星晚报 ｜阿福“科学减重1亿斤”行动正式上线；B站：预计到明年，视频播客日均播放时长有望达到3亿分钟",
       "link": "https://36kr.com/p/3868502221018370?f=rss",
-      "snippet": "大公司： 百度：已有1500万人使用百度AI志愿助手填报 36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用了百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。 名创优品寇维宣：乐园系门店年内破百家 36氪获悉，名创优品集团全球副总裁兼首",
+      "snippet": "大公司： 百度：已有1500万人使用百度AI志愿助手填报 36氪获悉，6月25日，百度官方发布数据：截至目前，今年高考期间累计约有2.5亿用户、超12亿人次使用��百度高考服务，其中1500万人使用百度AI志愿助手填报志愿。 名创优品寇维宣：乐园系门店年内破百家 36氪获悉，名创优品集团全球副总裁兼",
       "pubDate": "2026-06-25 19:44:15  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -534,7 +566,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +582,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资"
       ]
@@ -559,14 +591,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "外资看好中国，中国词元调用量连续7周霸榜全球",
       "link": "https://36kr.com/newsflashes/3868497171109126?f=rss",
-      "snippet": "今年的夏季达沃斯会场，处处都能感受到科技创新的气息，诸多创新技术正走出实验室，渗透进制造业、能源系统、医疗体系乃至日常生活中。参会嘉宾也表示，中国企业在AI应用方面领跑全球。 德勤中国首席执行官刘明华表示，中国token（词元）调用量连续7周霸榜全球。麦肯锡中国区主席倪以理表示：“为什么中国公司走得",
+      "snippet": "今年的夏季达沃斯会场，处处都能感受到科技创新的气息，诸多创新技术正走出实验室，渗透进制造业、能源系统、医疗体系乃至日常生活中。参会嘉宾也表示，中国企业在AI应用方面领跑全球。 德勤中国首席执行官刘明华表示，中��token（词元）调用量连续7周霸榜全球。麦肯锡中国区主席倪以理表示：“为什么中国公司走",
       "pubDate": "2026-06-25 19:35:41  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +614,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:26.256Z",
+      "fetchedAt": "2026-06-25T21:44:31.378Z",
       "tags": [
         "AI应用"
       ]
@@ -614,7 +646,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-06-25T18:11:27.942Z",
+      "fetchedAt": "2026-06-25T21:44:33.401Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +662,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-06-25T18:11:27.080Z",
+      "fetchedAt": "2026-06-25T21:44:32.405Z",
       "tags": [
         "综合"
       ]
@@ -646,7 +678,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sophia Chen",
-      "fetchedAt": "2026-06-25T18:11:27.080Z",
+      "fetchedAt": "2026-06-25T21:44:32.405Z",
       "tags": [
         "政策监管"
       ]
@@ -662,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T18:11:19.998Z",
+      "fetchedAt": "2026-06-25T21:44:25.194Z",
       "tags": [
         "综合"
       ]
@@ -678,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T18:11:19.998Z",
+      "fetchedAt": "2026-06-25T21:44:25.194Z",
       "tags": [
         "AI应用"
       ]
@@ -694,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:26.256Z",
+      "fetchedAt": "2026-06-25T21:44:31.378Z",
       "tags": [
         "AI应用"
       ]
@@ -710,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:26.256Z",
+      "fetchedAt": "2026-06-25T21:44:31.378Z",
       "tags": [
         "大模型"
       ]
@@ -726,7 +758,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
+      "fetchedAt": "2026-06-25T21:44:27.281Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -743,7 +775,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:26.760Z",
+      "fetchedAt": "2026-06-25T21:44:32.005Z",
       "tags": [
         "AI应用"
       ]
@@ -759,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T18:11:19.998Z",
+      "fetchedAt": "2026-06-25T21:44:25.194Z",
       "tags": [
         "AI应用"
       ]
@@ -775,43 +807,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T18:11:26.256Z",
+      "fetchedAt": "2026-06-25T21:44:31.378Z",
       "tags": [
         "AI应用",
         "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "4秒出百万面！突破千万面精度+12K高清贴图，手握数亿的3D生成公司下一局怎么打？",
-      "link": "https://www.qbitai.com/2026/06/438468.html",
-      "snippet": "3D生成领域的Anthropic",
-      "pubDate": "Thu, 25 Jun 2026 08:00:24 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-06-25T18:11:19.998Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "RoboScience机器科学发布Visics通用具身大模型，实现跨本体、跨物体、跨任务｜最前线",
-      "link": "https://36kr.com/p/3868276479710466?f=rss",
-      "snippet": "作者｜黄楠 编辑｜袁斯来 6月24日，通用具身智能企业RoboScience机器科学通用具身大模型发布，首次完整披露自研Visics大模型的技术架构VLOA（Vision-Language-Object-Action），并展示了模型在家具拼装、灵巧抓取、动态流水线等多项真实场景的应用。 大语言模型有",
-      "pubDate": "2026-06-25 15:42:21  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T18:11:22.217Z",
-      "tags": [
-        "大模型",
-        "AI应用"
       ]
     }
   ]
