@@ -1,156 +1,466 @@
 {
-  "generatedAt": "2026-06-25T23:24:11.024Z",
+  "generatedAt": "2026-06-26T03:56:26.169Z",
   "stats": {
     "total": 128,
     "shown": 50,
     "chinese": 60,
     "english": 68,
-    "today": 76
+    "today": 25
   },
   "articles": [
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "美国政府据悉要求OpenAI分阶段发布最新模型GPT-5.6",
-      "link": "https://36kr.com/newsflashes/3869182982591751?f=rss",
-      "snippet": "据一位知情人士透露，特朗普政府要求OpenAI分阶段发布即将推出的一款强大人工智能模型。而就在不到两周前，该公司的竞争对手Anthropic PBC迫于监管压力暂停了对其尖端模型的访问。因讨论未公开消息而要求匿名的这位知情人士表示，OpenAI首席执行官Sam Altman周三告诉员工，美国政府要求",
-      "pubDate": "2026-06-26 07:19:17  +0800",
+      "title": "“深度机智”再获数亿元融资",
+      "link": "https://36kr.com/newsflashes/3869464585442305?f=rss",
+      "snippet": "36氪获悉，近日，“深度机智”宣布完成新一轮数亿元融资。本轮由国寿长三角科创基金领投，老股东普华资本、诚通科创基金持续加注，蓝湖资本、博彦科技、磐谷创投、朝晖资本、财鑫资本、道禾长期投资、易高资本、明德资本等多家市场化与产业资本共同参与。目前下一轮融资已进入收尾阶段。此前深度机智全产品线均已实现商业",
+      "pubDate": "2026-06-26 11:42:55  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "“木头姐”出售阿里巴巴股票",
+      "link": "https://36kr.com/newsflashes/3869447714493444?f=rss",
+      "snippet": "凯茜·伍德（Cathie Wood）旗下的基金周四抛售了阿里巴巴的美国存托凭证（ADR），而就在三周前，这些基金刚刚增持了阿里巴巴的股票。根据周四发布的交易公告，ARK旗下的三只基金共计抛售了176004股阿里巴巴股票。（新浪财经）",
+      "pubDate": "2026-06-26 11:36:34  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "A股三大指数午间休盘集体下跌，沪深京三市近4600股飘绿",
+      "link": "https://36kr.com/newsflashes/3869455948403720?f=rss",
+      "snippet": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌22.14%，深成指跌3.04%，创业板指跌3.72%；CPO、半导体领跌，太辰光、仕佳光子跌超10%，新易盛跌超8%，中际旭创跌超5%；玻璃纤维、玻璃基板概念逆势走强，卓郎智能、五方光电涨停；个股呈现普跌态势，沪深京三市近4600股飘绿。",
+      "pubDate": "2026-06-26 11:34:08  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "中半协：一季度集成电路产业偏离传统周期特征",
+      "link": "https://36kr.com/newsflashes/3869439942415362?f=rss",
+      "snippet": "6月26日，中国半导体行业协会执行秘书长王俊杰在2026中国（深圳）集成电路峰会上表示，今年一季度中国集成电路产业偏离传统周期特征，2026年起步就是高潮，出货量几乎与去年第四季度持平。据统计，一季度国内集成电路制造业增长罕见领跑行业增速；机构最新预计全球半导体产业年内有望突破1.5万亿美元。另一方",
+      "pubDate": "2026-06-26 11:17:51  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "腾讯云助力印尼XLSMART实现AI全链路云转型",
+      "link": "https://36kr.com/newsflashes/3869433547216130?f=rss",
+      "snippet": "36氪获悉，6月26日，印尼运营商XLSMART宣布完成大规模公有云转型。基于XLSMART的长期数字化战略，腾讯云作为其核心云战略合作伙伴，将AI融入迁移全链路，助力项目4.5个月完成平稳迁移。迁移过程中，腾讯云团队也基于代码助手CodeBuddy和效率智能体WorkBuddy，开发了20多个云迁",
+      "pubDate": "2026-06-26 11:11:21  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国家能源局：未来西部地区不仅要向外送电、送煤、送气，还要向外送产品、送Token（词元）",
+      "link": "https://36kr.com/newsflashes/3869422174737672?f=rss",
+      "snippet": "6月26日，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“十五五”时期加快新型能源体系建设有关规划情况。国家能源局新闻发言人、副局长万劲松表示，“十五五”时期将切实保障东中部地区用能需求，同时还将推动东中部重点用能地区挖掘潜力，加强本地非化石能源的就近开发利用，合理布局新增支撑",
+      "pubDate": "2026-06-26 10:59:47  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
       "tags": [
         "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+      "link": "https://www.qbitai.com/2026/06/438698.html",
+      "snippet": "",
+      "pubDate": "Fri, 26 Jun 2026 02:58:50 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-06-26T03:51:59.984Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "创业板指跌超4%",
+      "link": "https://36kr.com/newsflashes/3869418654520328?f=rss",
+      "snippet": "36氪获悉，创业板指跌超4%，深成指跌3.4%，沪指跌2.5%，科创50指数跌超4%。全市场下跌个股超4700只。",
+      "pubDate": "2026-06-26 10:56:12  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "沪深两市成交额突破2万亿元",
+      "link": "https://36kr.com/newsflashes/3869418277245956?f=rss",
+      "snippet": "36氪获悉，沪深两市成交额突破2万亿元，较上一日此时缩量超800亿元。",
+      "pubDate": "2026-06-26 10:55:49  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "现货黄金再度失守4000美元/盎司",
+      "link": "https://36kr.com/newsflashes/3869413587473409?f=rss",
+      "snippet": "36氪获悉，现货黄金再度失守4000美元/盎司，日内跌幅0.68%。",
+      "pubDate": "2026-06-26 10:51:02  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "沪指跌超2%",
+      "link": "https://36kr.com/newsflashes/3869412898215171?f=rss",
+      "snippet": "36氪获悉，沪指跌超2%，深成指跌超2.7%，创业板指跌3.3%。全市场下跌个股超4500只。",
+      "pubDate": "2026-06-26 10:50:20  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国家能源局：“十五五”时期预计全国年均用电增量将达6000亿度左右",
+      "link": "https://36kr.com/newsflashes/3869409424823299?f=rss",
+      "snippet": "国家能源局电力司司长杜忠明在国新办新闻发布会上表示，“十五五”时期，随着算力用电的激增，电动充电设施的需求快速增加，以及其他行业和居民生活用电的刚性增长，预计全国年均用电增量将达到6000亿度左右，相当于每年新增一个中等经济体量国家的用电水平。（证券时报）",
+      "pubDate": "2026-06-26 10:46:48  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国家能源局：“十五五”时期将做好化石能源“开发”和“储备”，显著提升非化石能源供给",
+      "link": "https://36kr.com/newsflashes/3869401539335426?f=rss",
+      "snippet": "国家发展改革委党组成员、国家能源局局长王宏志在国新办新闻发布会上表示，“十五五”时期能源需求还要持续增长。我们将始终把能源安全放在首要位置，坚持底线思维、系统思维，重点做好三个方面工作。第一，是做好化石能源的“开发”和“储备”。煤炭是我们稳定能源供应的最大底气，要立足这一国情做好煤炭基地建设。油气要",
+      "pubDate": "2026-06-26 10:38:47  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "政策监管",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国家能源局局长王宏志：预计2030年我国电力装机规模将达54亿千瓦",
+      "link": "https://36kr.com/newsflashes/3869400282895369?f=rss",
+      "snippet": "国家发展改革委党组成员、国家能源局局长王宏志在国新办新闻发布会上介绍，目前，我国电力装机规模已经突破40亿千瓦，预计2030年将达到54亿千瓦，其中，新能源装机比重超过50%、成为电力装机主体，非化石能源发电量比重达到50%、成为电量主体，煤炭和石油消费达峰。（证券时报）",
+      "pubDate": "2026-06-26 10:37:30  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "创业板指跌超3%",
+      "link": "https://36kr.com/newsflashes/3869393535816962?f=rss",
+      "snippet": "36氪获悉，创业板指跌超3%，深成指跌2.3%，沪指跌1.6%；游戏、影视传媒、医药医疗、保险等方向跌幅居前，沪深京三市下跌个股近4300只。",
+      "pubDate": "2026-06-26 10:30:39  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "博纳影业等在上海成立数字科技公司",
+      "link": "https://36kr.com/newsflashes/3869392920695808?f=rss",
+      "snippet": "36氪获悉，天眼查App显示，近日，博纳锦威（上海）数字科技有限公司成立，法定代表人为姜寨瑾，注册资本2000万人民币，经营范围包括数字文化创意内容应用服务，技术服务、技术开发、技术咨询、技术交流、技术转让、技术推广，组织文化艺术交流活动等。股东信息显示，该公司由博纳影业旗下上海博纳文化传媒有限公司",
+      "pubDate": "2026-06-26 10:30:01  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "AI应用",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "恒生科技指数跌超3%",
+      "link": "https://36kr.com/newsflashes/3869387185476866?f=rss",
+      "snippet": "36氪获悉，恒生科技指数跌超3%，恒生指数跌1.7%。",
+      "pubDate": "2026-06-26 10:24:11  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "年入27亿，一颗中国糖果拿捏「美国味」",
+      "link": "https://36kr.com/p/3868550907237636?f=rss",
+      "snippet": "作者 | 谢芸子 编辑 | 张帆 在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。 走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回流”至国内。 打开中国",
+      "pubDate": "2026-06-26 10:23:48  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "北京头部大模型累计注册用户达到了20.5亿",
+      "link": "https://36kr.com/newsflashes/3869383394170112?f=rss",
+      "snippet": "36氪获悉，据网信北京消息，6月25日，北京市人民政府新闻办公室举行2026全球数字经济大会新闻发布会。会上介绍，截至目前，北京头部大模型累计注册用户达到了20.5亿，面向全国近5万家机构提供API的接口服务，龙头企业示范引领、辐射带动效应持续凸显。",
+      "pubDate": "2026-06-26 10:20:20  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "开源工具",
         "大模型"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "美媒：伊朗估计每年海峡服务收费将达400亿美元",
-      "link": "https://36kr.com/newsflashes/3868727613756425?f=rss",
-      "snippet": "美国《华尔街日报》6月25日援引消息人士的话报道说，伊朗方面估计，如果对霍尔木兹海峡涉安全、环境等服务收费，每年将为相关国家带来400亿美元收入。（新华社）",
-      "pubDate": "2026-06-26 07:17:04  +0800",
+      "title": "菜鸟成为宝洁全球自动化战略合作伙伴",
+      "link": "https://36kr.com/newsflashes/3869374053438729?f=rss",
+      "snippet": "36氪获悉，菜鸟成为宝洁全球自动化战略合作伙伴。菜鸟正在北美、欧洲和亚洲等多个国家为宝洁实施仓储自动化升级项目，其中广州自动化项目已经交付投产，加拿大自动化项目则正在入场施工。",
+      "pubDate": "2026-06-26 10:18:52  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "亚马逊计划到2030年在印度追加投资130亿美元",
-      "link": "https://36kr.com/newsflashes/3868723178116100?f=rss",
-      "snippet": "亚马逊（Amazon）计划到2030年在印度追加投资130亿美元，以扩展和支持该国的人工智能（AI）和云基础设施。这家美国科技公司周四表示，上述计划支出是在去年12月公布的对印度各项业务350亿美元投资计划的基础之上追加的。（新浪财经）",
-      "pubDate": "2026-06-26 07:14:34  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "苹果因内存短缺大幅涨价，Mac及iPad多款产品调价幅度达20%",
-      "link": "https://36kr.com/newsflashes/3869199173194760?f=rss",
-      "snippet": "苹果公司6月25日宣布上调Mac、iPad及家居设备价格，以应对AI数据中心扩张引发的内存芯片及存储器空前短缺所带来的成本压力。具体涨价幅度：MacBook Neo起售价从599美元升至699美元，MacBook Air从1099美元升至1299美元，14英寸入门款MacBook Pro从1699美",
-      "pubDate": "2026-06-26 07:12:56  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "霍尔木兹海峡通航量恢复至战事前近六成水平",
-      "link": "https://36kr.com/newsflashes/3868724219401224?f=rss",
-      "snippet": "标普全球能源公司6月25日发布报告说，24日共有78艘船舶通过霍尔木兹海峡，创下伊朗战事爆发以来单日最高通航纪录。本月霍尔木兹海峡的船舶日均通航量已恢复至冲突前水平的约57%。报告说，截至24日，本月累计有551艘船舶通过霍尔木兹海峡，有望成为战事爆发以来通航量最高的月份。（新华社）",
-      "pubDate": "2026-06-26 07:11:37  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "OpenAI倾向于等到明年再进行IPO",
-      "link": "https://36kr.com/newsflashes/3869173507806466?f=rss",
-      "snippet": "据报道，OpenAI倾向于等到明年再进行IPO。(财联社)",
-      "pubDate": "2026-06-26 07:09:36  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "DeepSeek计划将所有部门规模扩大至少一倍",
-      "link": "https://36kr.com/newsflashes/3868722221028610?f=rss",
-      "snippet": "6月25日，DeepSeek发布多个岗位招聘信息。公司表示，正努力将所有部门的规模扩大至少一倍。（证券时报）",
-      "pubDate": "2026-06-26 07:07:35  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "我国具身智能市场规模将突破万亿元",
-      "link": "https://36kr.com/newsflashes/3868721813001218?f=rss",
-      "snippet": "在今年的链博会上，具身智能产业链上下游企业组团亮相，完整呈现了从核心零部件到整机系统再到场景应用的产业闭环。而展馆之外，这条上下游协同、闭环创新的完整产业链路也正在加速成型。数据显示，2025年中国具身智能市场规模约9150亿元，预计2026年将达10904亿元。目前，全国具身智能相关企业数量已突破",
-      "pubDate": "2026-06-26 07:04:11  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美股三大指数收盘涨跌不一， 美光科技涨超15%",
-      "link": "https://36kr.com/newsflashes/3869177883464966?f=rss",
-      "snippet": "36氪获悉，6月25日收盘，美股三大指数涨跌不一，纳指跌0.46%，标普500指数收跌0.01%，道指涨0.14%。大型科技股涨跌不一芯片股上扬，闪迪涨超21%，美光科技涨超15%，苹果跌超6%，微软、亚马逊跌超3%，Meta跌超2%，英伟达跌超1%。热门中概股普跌，阿里巴巴、理想汽车跌超4%，拼多",
-      "pubDate": "2026-06-26 07:00:00  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "韩国交易所启动KOSPI临时停牌机制",
+      "link": "https://36kr.com/newsflashes/3869380850193669?f=rss",
+      "snippet": "韩国交易所因KOSPI 200期货下跌5%而启动KOSPI的临时停牌（Sidecar）机制，程序交易暂停5分钟。（财联社）",
+      "pubDate": "2026-06-26 10:17:44  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+      "link": "https://36kr.com/p/3869378164397313?f=rss",
+      "snippet": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落",
+      "pubDate": "2026-06-26 10:17:40  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "“十五五”能源重点项目和新业态投资总规模将超20万亿元",
+      "link": "https://36kr.com/newsflashes/3869373688648706?f=rss",
+      "snippet": "6月26日，国家能源局局长王宏志在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，预计“十五五”能源重点项目和新业态投资保持稳步增长态势，总规模超过20万亿元。（新华社）",
+      "pubDate": "2026-06-26 10:10:27  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+      "link": "https://www.qbitai.com/2026/06/438690.html",
+      "snippet": "Macbook涨了2500元",
+      "pubDate": "Fri, 26 Jun 2026 01:26:27 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-06-26T03:51:59.984Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "link": "https://36kr.com/p/3867943030395913?f=rss",
+      "snippet": "文｜胡香赟 编辑｜海若镜 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（s",
+      "pubDate": "2026-06-26 08:00:00  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+      "link": "https://36kr.com/p/3869243269387269?f=rss",
+      "snippet": "今日热点导览 Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名 建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能 马斯克曾直言混动车只是过渡阶段 韩国5200万人开了1.08亿股票账户，半年增超1000万 逾八成澳大利亚未成年人“绕过",
+      "pubDate": "2026-06-26 07:57:55  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "snippet": "penAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of to the broader public. The reason: the Trump adm",
+      "pubDate": "Thu, 25 Jun 2026 23:34:39 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI will delay GPT-5.6 after Trump administration request",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request",
+      "snippet": "The Trump administration, apprehensive of potential security issues, has reportedly asked OpenAI to stagger the release of its next big-ticket model,",
+      "pubDate": "2026-06-25T21:57:06.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-26T03:52:07.096Z",
+      "tags": [
+        "AI应用",
+        "大模型"
       ]
     },
     {
@@ -164,7 +474,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-06-25T23:19:41.085Z",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
       "tags": [
         "学术研究"
       ]
@@ -180,7 +490,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-06-25T23:19:42.569Z",
+      "fetchedAt": "2026-06-26T03:52:08.190Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +506,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-06-25T23:19:42.569Z",
+      "fetchedAt": "2026-06-26T03:52:08.190Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +522,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-06-25T23:19:42.569Z",
+      "fetchedAt": "2026-06-26T03:52:08.190Z",
       "tags": [
         "大模型"
       ]
@@ -228,7 +538,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-06-25T23:19:41.085Z",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
       "tags": [
         "大模型"
       ]
@@ -244,7 +554,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-25T23:19:44.033Z",
+      "fetchedAt": "2026-06-26T03:52:09.746Z",
       "tags": [
         "AI应用"
       ]
@@ -260,7 +570,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-06-25T23:19:41.085Z",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
       "tags": [
         "商业融资"
       ]
@@ -276,7 +586,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-06-25T23:19:41.085Z",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
       "tags": [
         "开源工具"
       ]
@@ -292,7 +602,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T23:19:40.863Z",
+      "fetchedAt": "2026-06-26T03:52:06.435Z",
       "tags": [
         "大模型"
       ]
@@ -308,7 +618,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-06-25T23:19:41.085Z",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
       "tags": [
         "商业融资"
       ]
@@ -324,7 +634,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-06-25T23:19:41.780Z",
+      "fetchedAt": "2026-06-26T03:52:07.392Z",
       "tags": [
         "开源工具"
       ]
@@ -340,7 +650,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-06-25T23:19:41.085Z",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +666,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
       "tags": [
         "政策监管"
       ]
@@ -372,186 +682,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-06-25T23:19:41.085Z",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "热门中概股美股盘前普跌，阿里巴巴跌超2%",
-      "link": "https://36kr.com/newsflashes/3868593864070402?f=rss",
-      "snippet": "36氪获悉，热门中概股美股盘前普跌，截至发稿，阿里巴巴、理想汽车跌超2%，京东、拼多多、哔哩哔哩、小鹏集团跌超1%，百度跌0.85%，蔚来涨0.18%。",
-      "pubDate": "2026-06-25 20:57:10  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美股大型科技股盘前涨跌不一，美光科技涨超18%",
-      "link": "https://36kr.com/newsflashes/3868590000706568?f=rss",
-      "snippet": "36氪获悉，美股大型科技股盘前涨跌不一，截至发稿，美光科技涨超18%，康宁、英特尔涨超6%，SpaceX涨超2%，英伟达涨超1%，特斯拉涨0.28%，谷歌跌超1%，苹果跌0.6%，微软跌0.59%，亚马逊跌0.44%。",
-      "pubDate": "2026-06-25 20:53:15  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "苹果公司：人工智能数据中心的快速扩张导致内存需求激增",
-      "link": "https://36kr.com/newsflashes/3868586020066566?f=rss",
-      "snippet": "苹果公司称，人工智能数据中心的快速扩张导致内存需求激增，从未见过某个零部件价格如此大幅快速上涨；电子产品行业面临前所未有的挑战。（财联社）",
-      "pubDate": "2026-06-25 20:49:12  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "零跑D99正式上市，售价24.98万起",
-      "link": "https://36kr.com/newsflashes/3868583964169477?f=rss",
-      "snippet": "36氪获悉，6月25日，零跑旗舰D平台首款MPV——零跑D99正式上市，售价24.98-31.98万元。零跑D99提供增程、纯电两套动力方案，增程版搭载80.3kWh增程专属宁德时代磷酸铁锂电池，CLTC纯电续航高达480km。",
-      "pubDate": "2026-06-25 20:47:06  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "大族激光：控股子公司拟共同投资不超过25.2亿元建设年产6000万芯公里光纤及预制棒项目",
-      "link": "https://36kr.com/newsflashes/3868580927935496?f=rss",
-      "snippet": "36氪获悉，大族激光公告，为进一步落实公司战略发展规划，推进公司产能布局，助力公司光纤业务协同发展，公司控股子公司永通智造及张家港大族拟以自有资金及自筹资金于江苏省张家港市投资建设年产6000万芯公里光纤及预制棒项目，项目总投资不超过人民币25.2亿元，将根据业务情况分二期建设，一期项目投入15.2",
-      "pubDate": "2026-06-25 20:44:01  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "铠侠据悉已开始挑选承销商，筹备赴美上市",
-      "link": "https://36kr.com/newsflashes/3868552672417028?f=rss",
-      "snippet": "6月25日，据报道，日本闪存制造商铠侠已经开始挑选合作银行，为其在美上市做准备。铠侠管理层在近日举行的年度股东大会上曾透露，公司计划在下一个财年初（即2027年春季的4月至6月期间）在美发行美国存托股票（ADS），以直接对接美国资本市场。（界面）",
-      "pubDate": "2026-06-25 20:39:26  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美国5月核心PCE同比上涨3.4%",
-      "link": "https://36kr.com/newsflashes/3868571583862018?f=rss",
-      "snippet": "美国商务部25日公布的数据显示，美国5月个人消费支出（PCE）价格指数同比上涨4.1%，高于4月的3.8%，剔除食品和能源价格后，5月核心PCE价格指数同比上涨3.4%。（央视财经）",
-      "pubDate": "2026-06-25 20:34:31  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "尊界S800 Grand Design典藏大观上市",
-      "link": "https://36kr.com/newsflashes/3868568646325252?f=rss",
-      "snippet": "36氪获悉，6月25日，尊界S800 Grand Design典藏大观上市，分为增程版、纯电版，138.8万元起售。车型全系标配全主动悬架、高阶辅助驾驶冗余架构、玄武车身、全新一代华为巨鲸电池等配置。该车型将在8月底正式交付。",
-      "pubDate": "2026-06-25 20:31:31  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "存储板块年内市值增长2.1万亿，兆易创新增超4000亿",
-      "link": "https://36kr.com/newsflashes/3868554337621249?f=rss",
-      "snippet": "6月25日，A股存储芯片板块全天强势领涨，多只个股股价集体刷新历史高点。截至收盘，普冉股份、兆易创新、德明利、江波龙、北京君正、佰维存储、东芯股份等16只存储概念股同步创出历史新高。存储板块正在成为继光通信之后又一个高价股高度聚集的赛道，4只龙头股股价突破700元，板块年内总市值增长2.1万亿元，其",
-      "pubDate": "2026-06-25 20:27:20  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "昀冢科技：股票价格多次触及股票交易异常波动，公司将就股票交易波动情况进行停牌核查",
-      "link": "https://36kr.com/newsflashes/3868531999659011?f=rss",
-      "snippet": "36氪获悉 ，昀冢科技公告，公司股票自2026年5月7日至6月25日期间多次触及异常波动及严重异常波动，累计上涨277.95%，显著偏离基本面。为维护投资者利益，公司股票将于2026年6月26日开市起停牌，预计停牌不超过3个交易日。公司基本面未发生重大变化，MLCC业务主要应用于消费电子领域，未涉及",
-      "pubDate": "2026-06-25 20:14:01  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美团LongCat开源 VitaBench2.0",
-      "link": "https://36kr.com/newsflashes/3868549148349700?f=rss",
-      "snippet": "36氪获悉，自去年10月发布了VitaBench 1.0，美团LongCat团队再次推出VitaBench 2.0。VitaBench 2.0是首个真实生活场景下面向长期动态用户建模的智能体评测基准，它系统性地评测大语言模型在长期、真实、动态的用户互动中个性化与主动性的能力。",
-      "pubDate": "2026-06-25 20:11:41  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     },
     {
@@ -565,7 +698,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-25T23:19:41.780Z",
+      "fetchedAt": "2026-06-26T03:52:07.392Z",
       "tags": [
         "政策监管"
       ]
@@ -581,7 +714,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-06-25T23:19:41.085Z",
+      "fetchedAt": "2026-06-26T03:52:06.745Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +730,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-25T23:19:41.464Z",
+      "fetchedAt": "2026-06-26T03:52:07.096Z",
       "tags": [
         "综合"
       ]
@@ -613,7 +746,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
       "tags": [
         "AI应用"
       ]
@@ -629,7 +762,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
+      "fetchedAt": "2026-06-26T03:52:02.048Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -646,7 +779,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-25T23:19:40.863Z",
+      "fetchedAt": "2026-06-26T03:52:06.435Z",
       "tags": [
         "AI应用"
       ]
@@ -662,7 +795,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-06-25T23:19:42.569Z",
+      "fetchedAt": "2026-06-26T03:52:08.190Z",
       "tags": [
         "综合"
       ]
@@ -678,138 +811,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-06-25T23:19:41.780Z",
+      "fetchedAt": "2026-06-26T03:52:07.392Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "link": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-      "snippet": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’",
-      "pubDate": "Thu, 25 Jun 2026 10:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sophia Chen",
-      "fetchedAt": "2026-06-25T23:19:41.780Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
-      "link": "https://www.qbitai.com/2026/06/438364.html",
-      "snippet": "7月17-7月20",
-      "pubDate": "Thu, 25 Jun 2026 09:59:40 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T23:19:34.404Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
-      "link": "https://www.qbitai.com/2026/06/438658.html",
-      "snippet": "",
-      "pubDate": "Thu, 25 Jun 2026 09:46:44 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T23:19:34.404Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "被遗忘十年的LPU翻红，一门新生意成立了吗？",
-      "link": "https://www.leiphone.com/category/chips/xz9nwscN1FmbKYiB.html",
-      "snippet": "当AI从训练走向推理时代之后，单一通用架构开始触及效率边界。变化由此发生——“只用GPU打天下”的故事难以延续，专业化分工逐渐成为芯片行业的共识。 越来越多企业尝试将不同计算任务拆解给不同类型芯片处理。 谷歌在新一代TPU上推进训推分离；Anthropic押注存内计算架构；SambaNova推出“C",
-      "pubDate": "Thu, 25 Jun 2026 17:45:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:40.863Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "商汤新模型 SenseNova-U1 Pro 曝光，对标 GPT-Image-2，瞄准「设计」赛道",
-      "link": "https://www.leiphone.com/category/industrynews/Eo7DuB7F8sHkRP3a.html",
-      "snippet": "在日前举办的股东大会上，商汤科技首次对外预告了其下一代旗舰多模态基座模型——商汤日日新 SenseNova-U1 Pro。它定位为业界首个以“理解·生成·行动”原生统一为内核的多模态智能体基座，预计将于2026年7月正式启动邀请测试。值得注意的是，此次商汤明确将全球顶尖模型 GPT-Image-2",
-      "pubDate": "Thu, 25 Jun 2026 17:40:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:40.863Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "开放麦 | 启明创投胡奇：从AI算法工程师到投资人，与AI一起走过的十年",
-      "link": "https://36kr.com/p/3868349472920576?f=rss",
-      "snippet": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以 ‘今年盛夏’ 为主题",
-      "pubDate": "2026-06-25 17:19:27  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:36.495Z",
-      "tags": [
-        "商业融资",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Facebook’s Creator Studio has been revived as an AI companion app",
-      "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "snippet": "This is what the new Creator Studio app looks like, after the original service was shuttered in 2023. | Image: Meta\t  Meta is bringing back the Facebo",
-      "pubDate": "2026-06-25T09:06:19.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-06-25T23:19:41.464Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "科大讯飞发布企业服务Claw平台：一句话搞定需求到方案全流程",
-      "link": "https://www.qbitai.com/2026/06/438638.html",
-      "snippet": "",
-      "pubDate": "Thu, 25 Jun 2026 08:32:00 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-25T23:19:34.404Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
