@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-06-27T19:32:21.412Z",
+  "generatedAt": "2026-06-27T21:13:47.601Z",
   "stats": {
-    "total": 121,
+    "total": 131,
     "shown": 50,
     "chinese": 60,
-    "english": 61,
-    "today": 40
+    "english": 71,
+    "today": 44
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "snippet": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "pubDate": "Sat, 27 Jun 2026 20:42:36 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-06-27T21:04:57.960Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Margaret Atwood says the problem with AI is &#8216;garbage in, garbage out&#8217;",
@@ -19,9 +35,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:29.173Z",
+      "fetchedAt": "2026-06-27T21:04:58.200Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1",
+      "link": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+      "snippet": "DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft",
+      "pubDate": "Sat, 27 Jun 2026 16:59:58 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-27T21:05:00.722Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -35,7 +67,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:28.566Z",
+      "fetchedAt": "2026-06-27T21:04:57.706Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -52,7 +84,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-06-27T19:22:28.866Z",
+      "fetchedAt": "2026-06-27T21:04:57.960Z",
       "tags": [
         "AI应用"
       ]
@@ -68,7 +100,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-06-27T19:22:28.866Z",
+      "fetchedAt": "2026-06-27T21:04:57.960Z",
       "tags": [
         "综合"
       ]
@@ -84,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:28.566Z",
+      "fetchedAt": "2026-06-27T21:04:57.706Z",
       "tags": [
         "大模型"
       ]
@@ -100,7 +132,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:29.173Z",
+      "fetchedAt": "2026-06-27T21:04:58.200Z",
       "tags": [
         "AI应用"
       ]
@@ -116,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-06-27T19:22:23.079Z",
+      "fetchedAt": "2026-06-27T21:04:51.913Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-06-27T19:22:23.079Z",
+      "fetchedAt": "2026-06-27T21:04:51.913Z",
       "tags": [
         "商业融资"
       ]
@@ -148,7 +180,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-06-27T19:22:23.079Z",
+      "fetchedAt": "2026-06-27T21:04:51.913Z",
       "tags": [
         "学术研究"
       ]
@@ -164,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-06-27T19:22:28.866Z",
+      "fetchedAt": "2026-06-27T21:04:57.960Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +212,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +228,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "商业融资"
       ]
@@ -212,7 +244,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "开源工具"
       ]
@@ -228,7 +260,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -245,7 +277,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +293,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +309,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "综合"
       ]
@@ -293,9 +325,25 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read",
+      "link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+      "snippet": "Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both eng",
+      "pubDate": "Sat, 27 Jun 2026 08:38:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-27T21:05:00.722Z",
+      "tags": [
         "AI应用"
       ]
     },
@@ -310,7 +358,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +374,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "综合"
       ]
@@ -342,7 +390,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -359,7 +407,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "综合"
       ]
@@ -375,7 +423,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "政策监管"
       ]
@@ -391,7 +439,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "商业融资"
       ]
@@ -407,7 +455,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "商业融资"
       ]
@@ -423,7 +471,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "商业融资"
       ]
@@ -439,7 +487,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -456,7 +504,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "综合"
       ]
@@ -472,7 +520,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用"
       ]
@@ -488,7 +536,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用"
       ]
@@ -504,7 +552,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.771Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用"
       ]
@@ -520,7 +568,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:28.566Z",
+      "fetchedAt": "2026-06-27T21:04:57.706Z",
       "tags": [
         "商业融资"
       ]
@@ -536,7 +584,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-06-27T19:22:23.079Z",
+      "fetchedAt": "2026-06-27T21:04:51.913Z",
       "tags": [
         "综合"
       ]
@@ -552,7 +600,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:28.566Z",
+      "fetchedAt": "2026-06-27T21:04:57.706Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -569,7 +617,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:28.566Z",
+      "fetchedAt": "2026-06-27T21:04:57.706Z",
       "tags": [
         "AI应用"
       ]
@@ -585,7 +633,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-06-27T19:22:23.079Z",
+      "fetchedAt": "2026-06-27T21:04:51.913Z",
       "tags": [
         "大模型"
       ]
@@ -601,7 +649,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -618,7 +666,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -635,7 +683,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-06-27T19:22:28.866Z",
+      "fetchedAt": "2026-06-27T21:04:57.960Z",
       "tags": [
         "AI应用"
       ]
@@ -651,9 +699,41 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:29.173Z",
+      "fetchedAt": "2026-06-27T21:04:58.200Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building Supervised Fine-Tuning Data from NVIDIA Open-SWE-Traces: Trajectory Parsing, Patch Analysis, Token Budgets, and Tool-Use Metrics",
+      "link": "https://www.marktechpost.com/2026/06/26/building-supervised-fine-tuning-data-from-nvidia-open-swe-traces-trajectory-parsing-patch-analysis-token-budgets-and-tool-use-metrics/",
+      "snippet": "In this tutorial, we work with NVIDIA's Open-SWE-Traces dataset to study agentic software-engineering trajectories for fine-tuning. We stream the data",
+      "pubDate": "Sat, 27 Jun 2026 00:02:33 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-06-27T21:05:00.722Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Cursor Study Finds Reward Hacking Inflates Coding-Agent Benchmark Scores on SWE-bench Pro",
+      "link": "https://www.marktechpost.com/2026/06/26/cursor-study-finds-reward-hacking-inflates-coding-agent-benchmark-scores-on-swe-bench-pro/",
+      "snippet": "A Cursor study shows coding agents retrieve known fixes instead of deriving them, inflating SWE-bench Pro scores through runtime contamination. The po",
+      "pubDate": "Fri, 26 Jun 2026 23:31:29 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-27T21:05:00.722Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -667,7 +747,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -684,7 +764,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-27T19:22:24.770Z",
+      "fetchedAt": "2026-06-27T21:04:53.903Z",
       "tags": [
         "大模型"
       ]
@@ -700,7 +780,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-06-27T19:22:30.474Z",
+      "fetchedAt": "2026-06-27T21:04:59.336Z",
       "tags": [
         "开源工具"
       ]
@@ -716,103 +796,23 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-06-27T19:22:30.475Z",
+      "fetchedAt": "2026-06-27T21:04:59.336Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "snippet": "“We don’t believe this kind of government access process should become the long-term default,” says OpenAI. “It keeps the best tools from users, devel",
-      "pubDate": "Fri, 26 Jun 2026 18:32:14 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Perplexity Launches Computer for Counsel: A Multi-Model Agentic Layer for Legal Workflows",
+      "link": "https://www.marktechpost.com/2026/06/26/perplexity-launches-computer-for-counsel-a-multi-model-agentic-layer-for-legal-workflows/",
+      "snippet": "Perplexity's Computer for Counsel extends Perplexity Computer to legal teams. It routes 20+ models across Midpage, MCP connectors, and Microsoft 365,",
+      "pubDate": "Fri, 26 Jun 2026 19:31:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
       "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-06-27T19:22:28.866Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI poaches Uber India chief to lead its biggest market outside the US",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "snippet": "The hire marks OpenAI's latest push into India, expanding offices, partnerships and hiring.",
-      "pubDate": "Fri, 26 Jun 2026 18:19:36 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-06-27T19:22:28.866Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "snippet": "Nvidia has dominated the AI chip market for years, but the era of total dependence might be ending.   OpenAI just shared its plans to spice things up",
-      "pubDate": "Fri, 26 Jun 2026 17:43:22 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-06-27T19:22:28.866Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "snippet": "Less than 24 hours after news broke that OpenAI would stagger its next model release at the request of the Trump administration, that model, GPT-5.6,",
-      "pubDate": "2026-06-26T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-06-27T19:22:29.173Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "snippet": "AI models have progressed to the point where their capabilities have real political consequences. Dealing with those consequences will require collect",
-      "pubDate": "Fri, 26 Jun 2026 16:24:47 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-06-27T19:22:28.866Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "两个月连获两轮数亿元融资 深度机智以全栈自主路线加速国产物理AI基座模型落地",
-      "link": "https://www.qbitai.com/2026/06/438887.html",
-      "snippet": "",
-      "pubDate": "Fri, 26 Jun 2026 15:45:43 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "智能车参考",
-      "fetchedAt": "2026-06-27T19:22:23.079Z",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-06-27T21:05:00.722Z",
       "tags": [
         "AI应用"
       ]
