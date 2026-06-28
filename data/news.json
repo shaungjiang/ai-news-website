@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-06-28T19:32:17.063Z",
+  "generatedAt": "2026-06-28T21:07:27.932Z",
   "stats": {
-    "total": 121,
+    "total": 131,
     "shown": 50,
     "chinese": 60,
-    "english": 61,
-    "today": 28
+    "english": 71,
+    "today": 32
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Suno launches Spark incubator program to feed independent artists to its AI machine",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "snippet": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to break new artists. Spark is the",
+      "pubDate": "2026-06-28T20:27:36.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-28T21:03:05.187Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
@@ -19,9 +35,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-06-28T19:22:25.322Z",
+      "fetchedAt": "2026-06-28T21:03:04.929Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "OCRmyPDF Tutorial: Convert Scanned Documents into Searchable PDF/A Files with Sidecar Text Extraction and Batch Processing",
+      "link": "https://www.marktechpost.com/2026/06/28/ocrmypdf-tutorial-convert-scanned-documents-into-searchable-pdf-a-files-with-sidecar-text-extraction-and-batch-processing/",
+      "snippet": "In this tutorial, we build a complete, self-contained OCRmyPDF pipeline in Python. We generate synthetic image-only PDFs so we can test OCR without ex",
+      "pubDate": "Sun, 28 Jun 2026 16:47:50 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-06-28T21:03:07.865Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-06-28T19:22:25.322Z",
+      "fetchedAt": "2026-06-28T21:03:04.929Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.586Z",
+      "fetchedAt": "2026-06-28T21:03:05.187Z",
       "tags": [
         "大模型"
       ]
@@ -67,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
+      "fetchedAt": "2026-06-28T21:02:58.697Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +115,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "政策监管",
         "学术研究"
@@ -100,7 +132,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "商业融资"
       ]
@@ -116,7 +148,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +164,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +180,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -165,7 +197,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -174,14 +206,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "特锐德：入选沙特国家能源公司合格制造商名录",
       "link": "https://36kr.com/newsflashes/3872573871215621?f=rss",
-      "snippet": "特锐德公告称，公司XBG系列380kV及以下高压预制舱变电站正式被纳入沙特国家能源公司(SE)合格制造商名录，取得SE核心供应商准入资格，成为SE经过测试和批准的材料名录（LOTAM）中，首家入围的380kV及以下高压预制舱变电站供应商。依托这一资格，公司可全面参与沙特国家电网高压变电站升级改造、新",
+      "snippet": "特锐德公告称，公司XBG系列380kV及以下高压预制舱变电站正式被纳入沙特国家能源公司(SE)合格制造商名录，取得SE核心供应商准入资格，成为SE经过测试和批准的材料名录（LOTAM）中，首���入围的380kV及以下高压预制舱变电站供应商。依托这一资格，公司可全面参与沙特国家电网高压变电站升级改造",
       "pubDate": "2026-06-28 17:07:39  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -197,7 +229,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "商业融资"
       ]
@@ -213,7 +245,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +261,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +277,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "商业融资"
       ]
@@ -261,7 +293,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +309,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
+      "fetchedAt": "2026-06-28T21:02:58.697Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "AI应用"
       ]
@@ -325,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
+      "fetchedAt": "2026-06-28T21:02:58.697Z",
       "tags": [
         "开源工具"
       ]
@@ -357,7 +389,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -374,7 +406,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "AI应用"
       ]
@@ -406,9 +438,25 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building a Stable Fable 5 Traces Workflow in Colab: Parsing Tool Calls, Auditing Data, and Training Baselines",
+      "link": "https://www.marktechpost.com/2026/06/28/building-a-stable-fable-5-traces-workflow-in-colab-parsing-tool-calls-auditing-data-and-training-baselines/",
+      "snippet": "In this tutorial, we build a stable workflow around the Fable 5 Traces dataset from Hugging Face. We avoid fragile dependencies and manually parse the",
+      "pubDate": "Sun, 28 Jun 2026 07:02:54 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-06-28T21:03:07.865Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -422,7 +470,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -438,9 +486,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林樾",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
+      "fetchedAt": "2026-06-28T21:02:58.697Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Ships LFM2.5-230M with llama.cpp, MLX, vLLM, SGLang, and ONNX Support for On-Device Inference",
+      "link": "https://www.marktechpost.com/2026/06/27/liquid-ai-ships-lfm2-5-230m-with-llama-cpp-mlx-vllm-sglang-and-onnx-support-for-on-device-inference/",
+      "snippet": "Liquid AI released LFM2.5-230M, its smallest model yet. The 230M-parameter, open-weight model runs on-device at 213 tok/s on a Galaxy S25 Ultra and 42",
+      "pubDate": "Sun, 28 Jun 2026 04:58:20 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-28T21:03:07.865Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -454,7 +518,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +534,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-06-28T19:22:25.322Z",
+      "fetchedAt": "2026-06-28T21:03:04.929Z",
       "tags": [
         "政策监管"
       ]
@@ -486,9 +550,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.586Z",
+      "fetchedAt": "2026-06-28T21:03:05.187Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "DeepSeek Releases DSpark, a Speculative Decoding Framework That Accelerates DeepSeek-V4 Per-User Generation 60–85% Over MTP-1",
+      "link": "https://www.marktechpost.com/2026/06/27/deepseek-releases-dspark-a-speculative-decoding-framework-that-accelerates-deepseek-v4-per-user-generation-60-85-over-mtp-1/",
+      "snippet": "DeepSeek open-sourced DSpark, a speculative decoding framework that attaches a draft module to existing DeepSeek-V4 weights. It pairs a parallel draft",
+      "pubDate": "Sat, 27 Jun 2026 16:59:58 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-28T21:03:07.865Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -502,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.069Z",
+      "fetchedAt": "2026-06-28T21:03:04.604Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -519,7 +599,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-06-28T19:22:25.322Z",
+      "fetchedAt": "2026-06-28T21:03:04.929Z",
       "tags": [
         "AI应用"
       ]
@@ -535,7 +615,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-06-28T19:22:25.322Z",
+      "fetchedAt": "2026-06-28T21:03:04.929Z",
       "tags": [
         "综合"
       ]
@@ -551,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.069Z",
+      "fetchedAt": "2026-06-28T21:03:04.604Z",
       "tags": [
         "大模型"
       ]
@@ -567,7 +647,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.586Z",
+      "fetchedAt": "2026-06-28T21:03:05.187Z",
       "tags": [
         "AI应用"
       ]
@@ -583,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
+      "fetchedAt": "2026-06-28T21:02:58.697Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
+      "fetchedAt": "2026-06-28T21:02:58.697Z",
       "tags": [
         "商业融资"
       ]
@@ -615,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
+      "fetchedAt": "2026-06-28T21:02:58.697Z",
       "tags": [
         "学术研究"
       ]
@@ -631,7 +711,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-06-28T19:22:25.322Z",
+      "fetchedAt": "2026-06-28T21:03:04.929Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meta’s Astryx Brings a CLI and MCP Server to an Open-Source React Design System Agents Can Read",
+      "link": "https://www.marktechpost.com/2026/06/27/metas-astryx-brings-a-cli-and-mcp-server-to-an-open-source-react-design-system-agents-can-read/",
+      "snippet": "Meta released Astryx, an open-source React design system built on StyleX. It pairs a CSS-variable theme cascade with a CLI and MCP server, so both eng",
+      "pubDate": "Sat, 27 Jun 2026 08:38:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-28T21:03:07.865Z",
       "tags": [
         "AI应用"
       ]
@@ -647,7 +743,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
+      "fetchedAt": "2026-06-28T21:03:00.491Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.069Z",
+      "fetchedAt": "2026-06-28T21:03:04.604Z",
       "tags": [
         "商业融资"
       ]
@@ -679,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
+      "fetchedAt": "2026-06-28T21:02:58.697Z",
       "tags": [
         "综合"
       ]
@@ -695,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.069Z",
+      "fetchedAt": "2026-06-28T21:03:04.604Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -712,108 +808,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.069Z",
+      "fetchedAt": "2026-06-28T21:03:04.604Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
-      "link": "https://www.qbitai.com/2026/06/438895.html",
-      "snippet": "一口气端出三款GPT 5.6系列模型",
-      "pubDate": "Sat, 27 Jun 2026 01:53:27 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦瑶",
-      "fetchedAt": "2026-06-28T19:22:19.074Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "G7易流发布货运行业首款穿戴式AI硬件「拍拍豆」，填平物流交付的“最后两米”｜最前线",
-      "link": "https://36kr.com/p/3869740772316162?f=rss",
-      "snippet": "作者｜黄楠 编辑｜袁斯来 6月25日，G7易流发布货运行业首款穿戴式AI硬件“拍拍豆”。这款产品克重仅30克，采用磁吸设计，当车辆熄火停稳后，司机可直接将设备从挡风玻璃底座取下，佩戴于胸前即可自动启动录制；放回底座瞬间，录制文件将自动同步上传云端存储。 从“看见车上”到“看见车下”，物流AI的应用场",
-      "pubDate": "2026-06-27 09:40:53  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
-      "link": "https://36kr.com/p/3870720040588295?f=rss",
-      "snippet": "今日热点导览 OpenAI官宣推出GPT-5.6 亚洲“果链”股价几乎全线大幅下跌 SpaceX计划为美国消费者推出新的星链移动服务 美团股价低迷，王兴回应 小鹏机器人调整：新设九部门，何小鹏兼任产品部负责人 微信回应朋友圈互动规则：单删原封不动，互删清空对方全部痕迹 TOP3大新闻 苹果涨价引山姆",
-      "pubDate": "2026-06-27 09:02:37  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "snippet": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
-      "pubDate": "Sat, 27 Jun 2026 01:01:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-06-28T19:22:25.322Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Anthropic&#8217;s Mythos 5 is back",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "snippet": "After a rollercoaster negotiation process with the Trump administration that dragged on for two weeks, Anthropic's Mythos 5 is finally back in action",
-      "pubDate": "2026-06-27T00:33:44.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-06-28T19:22:25.586Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "理想首谈电池品牌争议：不管谁家电池，都是理想汽车兜底",
-      "link": "https://36kr.com/p/3866946087867394?f=rss",
-      "snippet": "图源视觉中国 动力电池一直是新能源汽车里高频博弈的战场。 它通常占据一辆新能源车30%-40%的BOM（物料）成本；与此同时，作为电车心脏，又直接决定续航、补能效率、安全性和寿命等核心体验，是少数能够同时影响产品力与成本结构的零部件。 这意味着，围绕动力电池的博弈在车企与供应商之间，甚至电池产业内部",
-      "pubDate": "2026-06-27 07:31:16  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-28T19:22:21.077Z",
-      "tags": [
-        "AI应用",
-        "政策监管"
       ]
     }
   ]
