@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-06-29T21:33:43.716Z",
+  "generatedAt": "2026-06-29T23:04:41.724Z",
   "stats": {
-    "total": 119,
+    "total": 128,
     "shown": 50,
     "chinese": 60,
-    "english": 59,
-    "today": 74
+    "english": 68,
+    "today": 77
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "PyGraphistry Implementation Workflow for Interactive Graph Intelligence Pipelines in Security Analytics and Risk Investigation",
+      "link": "https://www.marktechpost.com/2026/06/29/pygraphistry-implementation-workflow-for-interactive-graph-intelligence-pipelines-in-security-analytics-and-risk-investigation/",
+      "snippet": "We build a Colab-ready PyGraphistry workflow for interactive graph analytics on enterprise access data. We generate a synthetic dataset of users, devi",
+      "pubDate": "Mon, 29 Jun 2026 21:34:42 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-06-29T23:00:00.390Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
@@ -19,7 +35,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-06-29T21:27:31.901Z",
+      "fetchedAt": "2026-06-29T22:59:59.092Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +51,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-06-29T21:27:30.250Z",
+      "fetchedAt": "2026-06-29T22:59:57.480Z",
       "tags": [
         "大模型"
       ]
@@ -51,9 +67,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:30.550Z",
+      "fetchedAt": "2026-06-29T22:59:57.779Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA BioNeMo Agent Toolkit Turns Biomolecular Models Into Callable Skills for AI Agents in Drug Discovery",
+      "link": "https://www.marktechpost.com/2026/06/29/nvidia-bionemo-agent-toolkit-turns-biomolecular-models-into-callable-skills-for-ai-agents-in-drug-discovery/",
+      "snippet": "NVIDIA's open-source BioNeMo Agent Toolkit turns biomolecular models like OpenFold3, DiffDock, and GenMol into documented, callable skills for AI agen",
+      "pubDate": "Mon, 29 Jun 2026 19:06:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-29T23:00:00.390Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -67,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:30.550Z",
+      "fetchedAt": "2026-06-29T22:59:57.779Z",
       "tags": [
         "开源工具"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-06-29T21:27:30.250Z",
+      "fetchedAt": "2026-06-29T22:59:57.480Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-06-29T21:27:30.250Z",
+      "fetchedAt": "2026-06-29T22:59:57.480Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +147,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-06-29T21:27:30.843Z",
+      "fetchedAt": "2026-06-29T22:59:58.044Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-06-29T21:27:30.250Z",
+      "fetchedAt": "2026-06-29T22:59:57.480Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-06-29T21:27:30.250Z",
+      "fetchedAt": "2026-06-29T22:59:57.480Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-06-29T21:27:30.250Z",
+      "fetchedAt": "2026-06-29T22:59:57.480Z",
       "tags": [
         "开源工具"
       ]
@@ -179,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:30.550Z",
+      "fetchedAt": "2026-06-29T22:59:57.779Z",
       "tags": [
         "政策监管"
       ]
@@ -195,7 +227,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-06-29T21:27:30.843Z",
+      "fetchedAt": "2026-06-29T22:59:58.044Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +243,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-06-29T21:27:24.151Z",
+      "fetchedAt": "2026-06-29T22:59:52.268Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-06-29T21:27:30.250Z",
+      "fetchedAt": "2026-06-29T22:59:57.480Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -244,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-06-29T21:27:30.250Z",
+      "fetchedAt": "2026-06-29T22:59:57.480Z",
       "tags": [
         "商业融资"
       ]
@@ -260,7 +292,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "商业融资"
       ]
@@ -276,7 +308,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用"
       ]
@@ -292,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +340,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +356,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "政策监管",
         "商业融资"
@@ -341,7 +373,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "商业融资"
       ]
@@ -357,7 +389,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "商业融资"
       ]
@@ -389,7 +421,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +437,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -422,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -439,7 +471,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-29T21:27:30.843Z",
+      "fetchedAt": "2026-06-29T22:59:58.044Z",
       "tags": [
         "综合"
       ]
@@ -455,7 +487,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "政策监管"
       ]
@@ -471,7 +503,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "政策监管",
         "商业融资"
@@ -488,7 +520,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "综合"
       ]
@@ -504,7 +536,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "政策监管"
       ]
@@ -520,7 +552,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用"
       ]
@@ -536,7 +568,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用"
       ]
@@ -552,7 +584,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -569,7 +601,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "商业融资"
       ]
@@ -585,7 +617,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "商业融资"
       ]
@@ -601,7 +633,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -618,7 +650,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -635,9 +667,25 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet EverOS: An Open Source Markdown-First Agent Memory Runtime With Hybrid BM25 + Vector Retrieval and Self-Evolving Skills",
+      "link": "https://www.marktechpost.com/2026/06/29/meet-everos-an-open-source-markdown-first-agent-memory-runtime-with-hybrid-bm25-vector-retrieval-and-self-evolving-skills/",
+      "snippet": "EverMind has open-sourced EverOS, a local-first memory runtime that stores AI agent memory as plain Markdown indexed by SQLite and LanceDB. It combine",
+      "pubDate": "Mon, 29 Jun 2026 10:42:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-06-29T23:00:00.390Z",
+      "tags": [
         "开源工具"
       ]
     },
@@ -652,7 +700,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-06-29T21:27:24.151Z",
+      "fetchedAt": "2026-06-29T22:59:52.268Z",
       "tags": [
         "大模型"
       ]
@@ -668,7 +716,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-29T21:27:24.151Z",
+      "fetchedAt": "2026-06-29T22:59:52.268Z",
       "tags": [
         "AI应用"
       ]
@@ -684,7 +732,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-29T21:27:24.151Z",
+      "fetchedAt": "2026-06-29T22:59:52.268Z",
       "tags": [
         "商业融资"
       ]
@@ -700,7 +748,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-06-29T21:27:24.151Z",
+      "fetchedAt": "2026-06-29T22:59:52.268Z",
       "tags": [
         "综合"
       ]
@@ -716,7 +764,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
+      "fetchedAt": "2026-06-29T22:59:54.061Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -733,7 +781,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:29.938Z",
+      "fetchedAt": "2026-06-29T22:59:57.228Z",
       "tags": [
         "综合"
       ]
@@ -749,7 +797,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:29.938Z",
+      "fetchedAt": "2026-06-29T22:59:57.228Z",
       "tags": [
         "开源工具"
       ]
@@ -765,57 +813,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-29T21:27:29.938Z",
+      "fetchedAt": "2026-06-29T22:59:57.228Z",
       "tags": [
         "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Karpathy 65 行文档狂砍 17.6 万星，阻止 Coding 犯大错只需这四点",
-      "link": "https://www.leiphone.com/category/ai/F04bdF68h7QJTFUl.html",
-      "snippet": "在 Github 上把 Anthropic 官方文档甩在身后，怪不得 Dario 要把他招回去。          作者丨樊天骄、郑佳美      编辑丨郑佳美",
-      "pubDate": "Mon, 29 Jun 2026 15:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-29T21:27:29.938Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "智能血糖管理需求旺盛，微泰医疗海外营收大增227.2%",
-      "link": "https://36kr.com/p/3873902389794053?f=rss",
-      "snippet": "继创新药之后，医疗器械出海正在迎来爆发期。据智研咨询数据，2026年1-4月，中国医疗仪器及器械出口金额达到70.90亿美元，同比上涨12.40%。 其中，动态血糖仪（CGM）品类的出海趋势可以看作一个从“进口替代”到全球突围的典型行业样本。CGM学名称作“持续葡萄糖监测系统”，能够连续监测人体血糖",
-      "pubDate": "2026-06-29 15:02:23  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-06-29T21:27:26.058Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "市场份额从41%掉到26%，Cursor凭什么还值600亿？",
-      "link": "https://www.leiphone.com/category/ai/IuG8AWhW3lhmQFPR.html",
-      "snippet": "“AI编程工具的决胜点不是谁的模型最强，而是谁能率先融入程序员的肌肉记忆，Cursor三年前就把这个坑给占了。” AI产品负责人马哲远告诉雷峰网，与其说Cursor是一个编程工具，不如说它是AI To B时代的关键入口。 这也是为什么马斯克在SpaceX上市后仅第四天，就迫不及待以 600 亿美元的",
-      "pubDate": "Mon, 29 Jun 2026 15:01:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-29T21:27:29.938Z",
-      "tags": [
         "AI应用"
       ]
     }
