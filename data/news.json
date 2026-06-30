@@ -1,27 +1,123 @@
 {
-  "generatedAt": "2026-06-30T18:06:03.307Z",
+  "generatedAt": "2026-06-30T20:13:15.893Z",
   "stats": {
-    "total": 130,
+    "total": 121,
     "shown": 50,
     "chinese": 60,
-    "english": 70,
-    "today": 69
+    "english": 61,
+    "today": 75
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "snippet": "Google's NotebookLM is adding a new way to catch up on your notes: TikTok-style AI videos. The new feature is rolling out to Google AI Ultra and Pro s",
+      "pubDate": "2026-06-30T19:24:51.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-06-30T20:03:22.920Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+      "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+      "snippet": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content.",
+      "pubDate": "Tue, 30 Jun 2026 19:02:38 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google's new Nano Banana 2 Lite image model is its fastest and cheapest yet",
+      "link": "https://arstechnica.com/ai/2026/06/googles-new-nano-banana-2-lite-image-model-is-its-fastest-and-cheapest-yet/",
+      "snippet": "They may not look as good, but Nano Banana 2 Lite images only take a few seconds to create.",
+      "pubDate": "Tue, 30 Jun 2026 18:36:10 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-06-30T20:03:24.100Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+      "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+      "snippet": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+      "pubDate": "Tue, 30 Jun 2026 18:13:02 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+      "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+      "snippet": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative t",
+      "pubDate": "Tue, 30 Jun 2026 18:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Acti puts AI agents directly into your smartphone keyboard",
       "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-      "snippet": "Startup Acti is betting the smartphone keyboard is the next home for AI assistants. Its new keyboard for iOS and Android works across apps and lets us",
+      "snippet": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets",
       "pubDate": "Tue, 30 Jun 2026 17:52:46 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-06-30T17:56:12.257Z",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Roundtables: Longevity’s Next Frontier: “Reprogramming” Your Body",
+      "link": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
+      "snippet": "Listen to the session or watch below Billions of dollars are flooding into efforts to reverse aging as scientists explore ways to return cells to a yo",
+      "pubDate": "Tue, 30 Jun 2026 17:36:48 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review",
+      "fetchedAt": "2026-06-30T20:03:23.186Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:12.601Z",
+      "fetchedAt": "2026-06-30T20:03:22.920Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-06-30T17:56:12.257Z",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
       "tags": [
         "大模型"
       ]
@@ -67,9 +163,26 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-06-30T17:56:13.697Z",
+      "fetchedAt": "2026-06-30T20:03:24.100Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从WorldArena榜首到1500+模型落地：跨维智能证明世界模型不是Demo是生意",
+      "link": "https://www.leiphone.com/category/industrynews/K3uywJRUmXoxm8YX.html",
+      "snippet": "AI科技评论获悉，跨维智能近日已完成B轮融资，融资金额10亿元人民币，投后估值超过百亿，成功跻身具身智能独角兽行列，踏入IPO的门槛。 这轮融资的投资方横跨几类资本：国家级母基金、头部国资创投、实体龙头产业资本和地方科创平台。深创投、贵阳数字经济基金是连续两轮下注；前海母基金、蓝思科技、工银资本、恒",
+      "pubDate": "Wed, 01 Jul 2026 00:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-06-30T20:03:22.428Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
       ]
     },
     {
@@ -83,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-06-30T17:56:13.697Z",
+      "fetchedAt": "2026-06-30T20:03:24.100Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:12.601Z",
+      "fetchedAt": "2026-06-30T20:03:22.920Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-06-30T17:56:12.257Z",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -132,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-06-30T17:56:12.257Z",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +261,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-06-30T17:56:12.257Z",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:11.955Z",
+      "fetchedAt": "2026-06-30T20:03:22.428Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -181,7 +294,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-06-30T17:56:12.257Z",
+      "fetchedAt": "2026-06-30T20:03:22.679Z",
       "tags": [
         "政策监管"
       ]
@@ -197,7 +310,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.579Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "开源工具"
       ]
@@ -213,7 +326,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.579Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +342,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.579Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
@@ -245,7 +358,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.579Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "商业融资"
       ]
@@ -261,7 +374,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.579Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
@@ -277,14 +390,14 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "比特币��破59000美元",
+      "title": "比特币跌破59000美元",
       "link": "https://36kr.com/newsflashes/3875641041957128?f=rss",
       "snippet": "36氪获悉，比特币跌至58967.8美元，过去24小时内跌2.78%。",
       "pubDate": "2026-06-30 20:25:56  +0800",
@@ -293,7 +406,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "商业融资"
       ]
@@ -325,7 +438,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "政策监管",
         "商业融资"
@@ -342,7 +455,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-06-30T17:56:12.824Z",
+      "fetchedAt": "2026-06-30T20:03:23.186Z",
       "tags": [
         "综合"
       ]
@@ -358,7 +471,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:12.601Z",
+      "fetchedAt": "2026-06-30T20:03:22.920Z",
       "tags": [
         "政策监管"
       ]
@@ -374,7 +487,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Carole Hill, Manish Sood",
-      "fetchedAt": "2026-06-30T17:56:12.824Z",
+      "fetchedAt": "2026-06-30T20:03:23.186Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +503,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:11.955Z",
+      "fetchedAt": "2026-06-30T20:03:22.428Z",
       "tags": [
         "AI应用"
       ]
@@ -406,7 +519,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.579Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "商业融资"
       ]
@@ -422,7 +535,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "政策监管"
       ]
@@ -438,7 +551,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "商业融资"
       ]
@@ -447,14 +560,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "北新路桥：联合体中标19.73亿元铁路项目",
       "link": "https://36kr.com/newsflashes/3875602203308289?f=rss",
-      "snippet": "36氪获悉，北新路桥公告，公司以及新疆兵团市政轨道交通（集团）有限公司组成的联合体，被确定为新建伊宁至阿克苏铁路施工总价��包S2标段中标人。中标金额为19.73亿元，中标金额占公司2025年度经审计营业收入的17.44%。",
+      "snippet": "36氪获悉，北新路桥公告，公司以及新疆兵团市政轨道交通（集团）有限公司组成的联合体，被确定为新建伊宁至阿克苏铁路施工总价承包S2标段中标人。中标金额为19.73亿元，中标金额占公司2025年度经审计营业收入的17.44%。",
       "pubDate": "2026-06-30 19:46:26  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +583,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "商业融资"
       ]
@@ -486,7 +599,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "AI应用"
       ]
@@ -502,7 +615,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +631,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +647,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +663,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "AI应用"
       ]
@@ -566,7 +679,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +695,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.580Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "AI应用"
       ]
@@ -598,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-06-30T17:56:05.399Z",
+      "fetchedAt": "2026-06-30T20:03:17.292Z",
       "tags": [
         "商业融资"
       ]
@@ -614,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:11.955Z",
+      "fetchedAt": "2026-06-30T20:03:22.428Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +743,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Greater Zurich Area",
-      "fetchedAt": "2026-06-30T17:56:12.824Z",
+      "fetchedAt": "2026-06-30T20:03:23.186Z",
       "tags": [
         "AI应用"
       ]
@@ -646,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-06-30T17:56:05.399Z",
+      "fetchedAt": "2026-06-30T20:03:17.292Z",
       "tags": [
         "综合"
       ]
@@ -662,7 +775,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:07.579Z",
+      "fetchedAt": "2026-06-30T20:03:19.057Z",
       "tags": [
         "AI应用"
       ]
@@ -678,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-06-30T17:56:11.955Z",
+      "fetchedAt": "2026-06-30T20:03:22.428Z",
       "tags": [
         "商业融资"
       ]
@@ -694,122 +807,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-06-30T17:56:05.399Z",
+      "fetchedAt": "2026-06-30T20:03:17.292Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨字节、大疆背景创业者入局AI运动训练，APP排名进入多国榜单前列",
-      "link": "https://www.leiphone.com/category/weiwu/jv7iAaM9GWqpKyre.html",
-      "snippet": "一位前自动驾驶工程师，把创业方向选在网球场上。 作者丨黄艳冰  编辑丨姚单         雷峰网·鲸犀独家获悉，AI体育创业项目“小球圈”已形成商业化与产品矩阵。目前小球圈APP已在全球上线，网球拍进入量产销售阶段，智能球拍、智能球搭子及球场摄像硬件处于原型机阶段，整体产品形态仍在迭代中，但已明确",
-      "pubDate": "Tue, 30 Jun 2026 17:53:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-30T17:56:11.955Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨前云鲸、安克两员强将联手创业，瞄准AI宠物健康硬件",
-      "link": "https://www.leiphone.com/category/weiwu/i9jJuFdnsqou2q5Q.html",
-      "snippet": "这支新消费电子团队，盯上了宠物饭碗。 作者丨黄艳冰  编辑丨姚单         雷峰网·鲸犀独家获悉，云鲸智能早期营销骨干冯杰已开启创业，目前已成立PetLive宠生创新（深圳市宠生创新科技有限公司），聚焦AI宠物赛道。公司创办于2026年3月，产品定位为全球首款AI定制主粮机，旨在围绕宠物饮食这",
-      "pubDate": "Tue, 30 Jun 2026 17:46:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-06-30T17:56:11.955Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
-      "link": "https://www.qbitai.com/2026/06/440599.html",
-      "snippet": "未来是属于这5种职业的",
-      "pubDate": "Tue, 30 Jun 2026 09:34:05 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-06-30T17:56:05.399Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
-      "link": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
-      "snippet": "OKX is bringing together payments, identity, and reputation into a marketplace for AI agents.",
-      "pubDate": "Tue, 30 Jun 2026 09:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-06-30T17:56:12.257Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How ChatGPT adoption has expanded",
-      "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-      "snippet": "New OpenAI Signals data shows how ChatGPT adoption is growing globally, with users increasing usage, exploring more capabilities, and driving growth a",
-      "pubDate": "Tue, 30 Jun 2026 09:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-06-30T17:56:14.467Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉",
-      "link": "https://www.qbitai.com/2026/06/440478.html",
-      "snippet": "真·有求必应·阿拉丁",
-      "pubDate": "Tue, 30 Jun 2026 08:46:19 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-06-30T17:56:05.399Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meta AI Releases Brain2Qwerty v2: A Non-Invasive MEG Brain-to-Text Pipeline Decoding Typed Sentences at 61% Word Accuracy",
-      "link": "https://www.marktechpost.com/2026/06/30/meta-ai-releases-brain2qwerty-v2-a-non-invasive-meg-brain-to-text-pipeline-decoding-typed-sentences-at-61-word-accuracy/",
-      "snippet": "Meta AI releases Brain2Qwerty v2, a non-invasive MEG brain-to-text pipeline reaching 61% word accuracy with open training code. The post Meta AI Relea",
-      "pubDate": "Tue, 30 Jun 2026 08:13:41 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-06-30T17:56:14.901Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
