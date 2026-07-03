@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-07-03T21:13:11.900Z",
+  "generatedAt": "2026-07-03T23:15:33.564Z",
   "stats": {
-    "total": 116,
+    "total": 125,
     "shown": 50,
     "chinese": 60,
-    "english": 56,
-    "today": 50
+    "english": 65,
+    "today": 55
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems",
+      "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+      "snippet": "Mistral AI released Leanstral 1.5, a free Apache-2.0 code agent model for Lean 4. It saturates miniF2F and solves 587 of 672 PutnamBench problems. The",
+      "pubDate": "Fri, 03 Jul 2026 22:20:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-03T23:05:41.764Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Designing a Schema-Guided Invoice Intelligence Pipeline with lift-pdf for Accounts-Payable Extraction, Validation, and Ledger Generation",
+      "link": "https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/",
+      "snippet": "In this tutorial, we build an end-to-end accounts-payable extraction pipeline with lift-pdf, using synthetic invoice PDFs as controlled test documents",
+      "pubDate": "Fri, 03 Jul 2026 21:25:33 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-03T23:05:41.764Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The only AI glossary you’ll need this year",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "snippet": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases yo",
+      "pubDate": "Fri, 03 Jul 2026 21:20:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
+      "fetchedAt": "2026-07-03T23:05:39.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-03T21:08:22.303Z",
+      "fetchedAt": "2026-07-03T23:05:39.525Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-03T21:08:22.856Z",
+      "fetchedAt": "2026-07-03T23:05:40.050Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "大模型"
       ]
@@ -67,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.052Z",
+      "fetchedAt": "2026-07-03T23:05:39.253Z",
       "tags": [
         "大模型",
         "商业融资"
@@ -84,7 +132,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.553Z",
+      "fetchedAt": "2026-07-03T23:05:39.771Z",
       "tags": [
         "大模型"
       ]
@@ -100,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.052Z",
+      "fetchedAt": "2026-07-03T23:05:39.253Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +164,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -132,7 +180,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.052Z",
+      "fetchedAt": "2026-07-03T23:05:39.253Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -165,7 +213,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -181,7 +229,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -197,7 +245,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.424Z",
+      "fetchedAt": "2026-07-03T23:05:36.401Z",
       "tags": [
         "商业融资"
       ]
@@ -213,7 +261,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "AI应用"
       ]
@@ -222,14 +270,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "国家电影局、市场监管总局联合印发《关于促进电影院多样化经营的通知》",
       "link": "https://36kr.com/newsflashes/3879884098384137?f=rss",
-      "snippet": "为贯彻落实党的二十届四中全会精神��以新需求引领新供给，以新供给创造新需求，进一步激发电影院经营活力，将电影院打造成为集观影、社交、娱乐、消费于一体的综合性文化体验空间，促进电影院文化繁荣，近日，国家电影局、市场监管总局联合印发《关于促进电影院多样化经营 繁荣发展电影院文化的通知》。《通知》围绕繁荣",
+      "snippet": "为贯彻落实党的二十届四中全会精神，以新需求引领新供给，以新供给创造新需求，进一步激发电影院经营活力，将电影院打造成为集观影、社交、娱乐、消费于一体的综合性文化体验空间，促进电影院文化繁荣，近日，国家电影局、市场监管总局联合印发《关于促进电影院多样化经营 繁荣发展电影院文化的通知》。《通知》围绕繁荣发",
       "pubDate": "2026-07-03 20:22:12  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +293,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -261,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +325,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +341,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-03T21:08:22.856Z",
+      "fetchedAt": "2026-07-03T23:05:40.050Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资",
         "政策监管"
@@ -326,7 +374,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -342,7 +390,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -351,14 +399,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "生数科技正式发布Vidu S1实时交互模型",
       "link": "https://36kr.com/newsflashes/3879857819201798?f=rss",
-      "snippet": "36氪获悉，生数科技正式发布Vidu S1实时交互模型，提供实时可交互的新一代视频生成能力，模型支持实时视频通话和语音控制视频走向。同时，Vidu S1支持540P（960x540）高清分辨率、25FPS帧率（最高支持42FPS），可基于真人、动漫、萌宠等任意初始形象及个性化音色，快速创建专属交互角",
+      "snippet": "36氪获悉，��数科技正式发布Vidu S1实时交互模型，提供实时可交互的新一代视频生成能力，模型支持实时视频通话和语音控制视频走向。同时，Vidu S1支持540P（960x540）高清分辨率、25FPS帧率（最高支持42FPS），可基于真人、动漫、萌宠等任意初始形象及个性化音色，快速创建专属交互",
       "pubDate": "2026-07-03 19:55:28  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "AI应用"
       ]
@@ -374,7 +422,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.553Z",
+      "fetchedAt": "2026-07-03T23:05:39.771Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +438,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -406,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -422,7 +470,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -438,7 +486,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -454,7 +502,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +518,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.401Z",
       "tags": [
         "AI应用"
       ]
@@ -486,7 +534,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "政策监管"
       ]
@@ -502,7 +550,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "商业融资"
       ]
@@ -511,14 +559,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "上交所：本周对中船特气、长盈通、昀冢科技等异常波动股票进行重点监控",
       "link": "https://36kr.com/newsflashes/3879803767844872?f=rss",
-      "snippet": "36氪获悉，据上交所发布，2026年6月29日至2026年7月3日，上交所对366起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对中船特气、长盈通、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控，对29起上市���司重大事项等进行专项核查，向证监会上",
+      "snippet": "36氪获悉，据上交所发布，2026年6月29日至2026年7月3日，上交所对366起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对中船特气、长盈通、昀冢科技等异常波动股票以及财通福鑫LOF、全球芯片LOF等溢价较高的基金进行重点监控，对29起上市公司重大事项等进行专项核查，向证监会上报涉",
       "pubDate": "2026-07-03 19:00:29  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.402Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +582,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.401Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "综合"
       ]
@@ -566,7 +614,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
+      "fetchedAt": "2026-07-03T23:05:36.401Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.052Z",
+      "fetchedAt": "2026-07-03T23:05:39.253Z",
       "tags": [
         "AI应用"
       ]
@@ -630,7 +678,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-03T21:08:22.856Z",
+      "fetchedAt": "2026-07-03T23:05:40.050Z",
       "tags": [
         "政策监管"
       ]
@@ -646,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "商业融资"
       ]
@@ -662,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "综合"
       ]
@@ -678,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "政策监管"
       ]
@@ -694,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.052Z",
+      "fetchedAt": "2026-07-03T23:05:39.253Z",
       "tags": [
         "商业融资"
       ]
@@ -710,9 +758,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.052Z",
+      "fetchedAt": "2026-07-03T23:05:39.253Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet WebBrain: An Open-Source, Local-First AI Browser Agent That Reads Pages and Automates Tasks in Chrome and Firefox",
+      "link": "https://www.marktechpost.com/2026/07/02/meet-webbrain-an-open-source-local-first-ai-browser-agent-that-reads-pages-and-automates-tasks-in-chrome-and-firefox/",
+      "snippet": "WebBrain is a free, MIT-licensed AI browser agent for Chrome and Firefox. It reads pages, extracts data, and automates multi-step tasks through Ask an",
+      "pubDate": "Fri, 03 Jul 2026 05:55:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-03T23:05:41.764Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -726,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
+      "fetchedAt": "2026-07-03T23:05:34.739Z",
       "tags": [
         "大模型"
       ]
@@ -742,76 +806,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-03T21:08:22.052Z",
+      "fetchedAt": "2026-07-03T23:05:39.253Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "基石筑底｜WAIC 2026算力：超节点与光互连，能否绕过单芯片的物理天花板？",
-      "link": "https://www.qbitai.com/2026/07/442167.html",
-      "snippet": "7月17-7月20",
-      "pubDate": "Fri, 03 Jul 2026 03:36:19 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-03T21:08:16.264Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "36氪首发 | 获宁德时代旗下基金领投数千万美元，智能出行公司上市首月已成印尼电摩品类订单第一",
-      "link": "https://36kr.com/p/3877990989819909?f=rss",
-      "snippet": "作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，智能两轮出行企业「OMOWAY」（目蔚科技）近期连续完成A轮和A+轮融资，单轮融资金额均为数千万美元。其中，A+轮由宁德时代支持设立的美元基金Lochpine Capital领投，A轮由Monolith领投，中金资本旗下基金及老股东真格基金跟投。 成立不",
-      "pubDate": "2026-07-03 10:26:11  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
-      "tags": [
-        "商业融资",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "36氪首发 | 省级实验室团队做电氢耦合解决方案，获厦门高新投领投",
-      "link": "https://36kr.com/p/3879274157928449?f=rss",
-      "snippet": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，厦门启航氢能技术有限公司（以下简称“启航氢能”）近日完成新一轮融资，本轮由厦门高新投领投，融资资金将主要用于电氢耦合关键装备及离网制氢相关核心技术的持续研发投入与产品迭代升级。 启航氢能成立于2024年4月，技术起源于嘉庚创新实验室电氢耦合研究团队。公司",
-      "pubDate": "2026-07-03 10:02:30  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "8点1氪丨“具身智能第一股” 宇树科技上市申请通过；SK海力士单日市值蒸发10000亿元；配置失误引发0元抢购潮，霸王茶姬致歉",
-      "link": "https://36kr.com/p/3879158039834629?f=rss",
-      "snippet": "今日热点导览 苹果拟于今明两年推出至少五款新iPhone AI版支付宝开放公测，上线72项办事技能 特朗普回应“利用职位牟利”：股市在涨，大家都在赚钱 LV起诉茉莉奶白，茉莉奶白被判赔1030万元 6月赴日航班取消1488个 安克创新港股上市首日破发 TOP3大新闻 证监会同意宇树科技科创板IPO注",
-      "pubDate": "2026-07-03 08:06:38  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-03T21:08:18.425Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
       ]
     }
   ]
