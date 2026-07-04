@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-07-04T10:20:54.425Z",
+  "generatedAt": "2026-07-04T13:45:39.178Z",
   "stats": {
-    "total": 115,
+    "total": 125,
     "shown": 50,
     "chinese": 60,
-    "english": 55,
-    "today": 24
+    "english": 65,
+    "today": 26
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "snippet": "Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge\t  Over the p",
+      "pubDate": "2026-07-04T12:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-04T13:35:47.713Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "MzZrci1haTpodHRw",
       "title": "总投资15亿元，常州三大项目正式签约",
@@ -19,7 +35,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +51,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "政策监管"
       ]
@@ -51,7 +67,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +83,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +99,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +115,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +131,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -132,7 +148,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +164,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -164,10 +180,26 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "AI应用",
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
+      "link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
+      "snippet": "NVIDIA's ASPIRE writes and refines robot control programs, then distills validated repairs into a reusable skill library. It gains up to 77 points on",
+      "pubDate": "Sat, 04 Jul 2026 06:32:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-04T13:35:50.377Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -181,7 +213,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -197,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
+      "fetchedAt": "2026-07-04T13:35:40.836Z",
       "tags": [
         "商业融资"
       ]
@@ -213,7 +245,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +261,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "学术研究"
       ]
@@ -245,7 +277,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "商业融资"
       ]
@@ -261,7 +293,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +309,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "政策监管"
       ]
@@ -293,7 +325,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -341,7 +373,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "商业融资"
       ]
@@ -357,7 +389,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "大模型"
       ]
@@ -389,9 +421,41 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems",
+      "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+      "snippet": "Mistral AI released Leanstral 1.5, a free Apache-2.0 code agent model for Lean 4. It saturates miniF2F and solves 587 of 672 PutnamBench problems. The",
+      "pubDate": "Fri, 03 Jul 2026 22:20:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-04T13:35:50.377Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Designing a Schema-Guided Invoice Intelligence Pipeline with lift-pdf for Accounts-Payable Extraction, Validation, and Ledger Generation",
+      "link": "https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/",
+      "snippet": "In this tutorial, we build an end-to-end accounts-payable extraction pipeline with lift-pdf, using synthetic invoice PDFs as controlled test documents",
+      "pubDate": "Fri, 03 Jul 2026 21:25:33 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-04T13:35:50.377Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -405,7 +469,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-      "fetchedAt": "2026-07-04T10:11:03.694Z",
+      "fetchedAt": "2026-07-04T13:35:47.440Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-04T10:11:03.694Z",
+      "fetchedAt": "2026-07-04T13:35:47.440Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +501,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-04T10:11:04.271Z",
+      "fetchedAt": "2026-07-04T13:35:48.027Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
+      "fetchedAt": "2026-07-04T13:35:40.836Z",
       "tags": [
         "大模型"
       ]
@@ -469,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:11:03.385Z",
+      "fetchedAt": "2026-07-04T13:35:47.139Z",
       "tags": [
         "大模型",
         "商业融资"
@@ -486,7 +550,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:11:03.951Z",
+      "fetchedAt": "2026-07-04T13:35:47.713Z",
       "tags": [
         "大模型"
       ]
@@ -502,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:11:03.385Z",
+      "fetchedAt": "2026-07-04T13:35:47.139Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:11:03.386Z",
+      "fetchedAt": "2026-07-04T13:35:47.139Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -535,7 +599,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "商业融资"
       ]
@@ -551,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
+      "fetchedAt": "2026-07-04T13:35:40.836Z",
       "tags": [
         "综合"
       ]
@@ -567,7 +631,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-04T10:11:04.271Z",
+      "fetchedAt": "2026-07-04T13:35:48.027Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +647,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:11:03.951Z",
+      "fetchedAt": "2026-07-04T13:35:47.713Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +663,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "AI应用"
       ]
@@ -615,7 +679,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
+      "fetchedAt": "2026-07-04T13:35:40.836Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +711,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:10:59.678Z",
+      "fetchedAt": "2026-07-04T13:35:43.476Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
+      "fetchedAt": "2026-07-04T13:35:40.836Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
+      "fetchedAt": "2026-07-04T13:35:40.836Z",
       "tags": [
         "综合"
       ]
@@ -695,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-04T10:11:03.386Z",
+      "fetchedAt": "2026-07-04T13:35:47.139Z",
       "tags": [
         "AI应用"
       ]
@@ -711,7 +775,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-04T10:11:04.271Z",
+      "fetchedAt": "2026-07-04T13:35:48.027Z",
       "tags": [
         "政策监管"
       ]
@@ -727,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
+      "fetchedAt": "2026-07-04T13:35:40.836Z",
       "tags": [
         "商业融资"
       ]
@@ -743,73 +807,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
+      "fetchedAt": "2026-07-04T13:35:40.836Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "WorldClaw与百度智能云达成战略合作，文心5.0系列登陆WorldRouter",
-      "link": "https://www.qbitai.com/2026/07/442447.html",
-      "snippet": "",
-      "pubDate": "Fri, 03 Jul 2026 07:12:27 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "AI基础设施的下一个千亿市场，为何藏在网络里？",
-      "link": "https://www.leiphone.com/category/chips/hNKPixxr0fUhIr0E.html",
-      "snippet": "过去六年，国产GPU公司一路站上AI风口，估值不断刷新，DPU却被忽略了。 这并不符合产业现实。 2020年英伟达完成收购Mellanox后，就已经明确了“GPU+CPU+DPU”的三芯战略。过去几年，英伟达也持续强化网络能力，黄仁勋在2026年CES展示“六芯组合”时，其中四款都与网络相关。 一个",
-      "pubDate": "Fri, 03 Jul 2026 14:35:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-04T10:11:03.386Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "算力之外的博弈：ICML 2026 透露了哪些学术硬通货？",
-      "link": "https://www.leiphone.com/category/private/AvP8p11JWo0fiWEl.html",
-      "snippet": "告别盲目刷榜，28页 PPT 带你摸透 ICML 新风向。          作者丨陈淑瑜      编辑丨岑峰",
-      "pubDate": "Fri, 03 Jul 2026 14:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-04T10:11:03.386Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
-      "link": "https://www.qbitai.com/2026/07/442311.html",
-      "snippet": "第三方测评超越OpenAI最强旗舰GPT-5.6 Sol",
-      "pubDate": "Fri, 03 Jul 2026 05:24:06 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "一水",
-      "fetchedAt": "2026-07-04T10:10:56.354Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
