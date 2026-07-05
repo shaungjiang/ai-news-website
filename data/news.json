@@ -1,13 +1,157 @@
 {
-  "generatedAt": "2026-07-04T23:04:16.599Z",
+  "generatedAt": "2026-07-05T03:42:26.604Z",
   "stats": {
-    "total": 115,
+    "total": 125,
     "shown": 50,
     "chinese": 60,
-    "english": 55,
-    "today": 29
+    "english": 65,
+    "today": 9
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Structured PDF-to-JSON: A Guide to Open-Source Extraction Models in 2026",
+      "link": "https://www.marktechpost.com/2026/07/04/structured-pdf-to-json-a-guide-to-open-source-extraction-models-in-2026/",
+      "snippet": "Most enterprise data still sits inside PDFs, scans, and slide decks. Large language models and agents cannot use that data until it becomes structured",
+      "pubDate": "Sun, 05 Jul 2026 03:02:08 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-05T03:32:38.099Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Qwen’s Former Lead on What Hybrid Thinking Got Wrong — and Why He Now Backs Agents",
+      "link": "https://www.marktechpost.com/2026/07/04/qwens-former-lead-on-what-hybrid-thinking-got-wrong-and-why-he-now-backs-agents/",
+      "snippet": "Junyang Lin, the former technical lead of Alibaba's Qwen, walked through the model family in a talk \"towards a generalist model / agent,\" then expande",
+      "pubDate": "Sun, 05 Jul 2026 02:31:14 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-05T03:32:38.099Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "华强北存储行情回升，多款固态硬盘、内存条价格上涨",
+      "link": "https://36kr.com/newsflashes/3882103742083074?f=rss",
+      "snippet": "记者近日在深圳华强北实探发现，华强北存储市场行情回升，内存条和固态硬盘价格有所上涨，三星、金士顿、闪迪相关产品价格上行。华强北商户称，一个三星990 Pro 1TB固态硬盘拿货价为1400元，其对外售价1420元至1450元。该商户坦言，三星这款产品定价偏高，虽然近几日价格上涨，但店铺该款产品出货低",
+      "pubDate": "2026-07-05 10:00:08  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "6月份中国物流业景气指数升至50.6%，各区域均衡增长",
+      "link": "https://36kr.com/newsflashes/3882100368011272?f=rss",
+      "snippet": "中国物流与采购联合会今天（5日）发布6月份中国物流业景气指数。指数在扩张区间继续加快，呈现各区域均衡回升的良好态势。6月份中国物流业景气指数为50.6%，较上月上升0.3个百分点。从分项指数看，12个分项指数中，有9项位于扩张区间。其中，业务总量指数和新订单指数均连续多月环比回升。6月份，业务总量指",
+      "pubDate": "2026-07-05 09:56:42  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "6月份中国大宗商品价格指数小幅回落",
+      "link": "https://36kr.com/newsflashes/3882068056076550?f=rss",
+      "snippet": "中国物流与采购联合会今天（5日）公布6月份中国大宗商品价格指数。6月份中国大宗商品价格指数为130.3点，环比回落1.7%，同比增长17.6%。在中国物流与采购联合会重点监测的50种大宗商品中，6月份价格环比上涨的大宗商品有11种。其中，焦煤、焦炭和瓦楞纸涨幅居前，环比分别上涨20.3%、11.2%",
+      "pubDate": "2026-07-05 09:23:50  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "光大证券：半导体与AI浪潮驱动含氟新材料进入高速成长期",
+      "link": "https://36kr.com/newsflashes/3882063262068998?f=rss",
+      "snippet": "7月5日消息，光大证券研报认为，国内氟化工领军企业正加速布局含氟新材料，聚焦打造第二成长曲线。在半导体领域，高纯度（如G5级）电子级氢氟酸作为芯片制造不可或缺的关键湿电子化学品，过去长期被日美企业垄断。近年来，国内企业凭借产业链一体化优势突破了超净高纯工艺瓶颈，电子级氢氟酸顺利通过国内外一线晶圆代工",
+      "pubDate": "2026-07-05 09:18:57  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美光科技投资93亿美元扩建先进存储芯片项目，预计2028下半年出货HBM",
+      "link": "https://36kr.com/newsflashes/3882061184413701?f=rss",
+      "snippet": "美光科技当地时间周六（7月4日）正式启动其位于日本西部广岛工厂的扩建工程。这项总投资达1.5万亿日元（约合93亿美元）的项目，旨在生产包括高带宽存储器（HBM）在内的先进存储芯片，以满足人工智能（AI）浪潮带来的旺盛需求。HBM是英伟达AI处理器的关键组件，工厂预计将于2028年夏季左右开始出货。近",
+      "pubDate": "2026-07-05 09:16:50  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "PC及内存硬盘价格持续高位：硬盘一天三个价，经销商喊出“非刚需别买”",
+      "link": "https://36kr.com/newsflashes/3882059983695877?f=rss",
+      "snippet": "数码终端市场正在经历一场看不到尽头的结构性震荡。记者走访上海多个数码城，多位PC（个人电脑）经销商表示，目前零部件和整机的价格已经处于极端高位，但未来还要涨价，且至少在一年内看不到（涨价）尽头。这轮价格持续上涨已经持续相当长一段时间，最近的导火索就是苹果高调官宣涨价。一位PC经销商对记者表示，现在内",
+      "pubDate": "2026-07-05 09:15:37  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "加速走向全球，今年前5个月我国机器人出口近200亿元",
+      "link": "https://36kr.com/newsflashes/3882054748090626?f=rss",
+      "snippet": "今年以来，我国机器人出口规模持续扩大，品类结构不断优化，为高端制造出海注入新动能。据海关统计，今年前5个月，国产机器人加速走向全球。各类单独列名的机器人合计出口1037.7万台，出口总值达199.9亿元，产品远销全球150多个国家和地区。其中，欧盟和东盟为主要出口目的地。从细分品类看，我国机器人出口",
+      "pubDate": "2026-07-05 09:10:18  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
@@ -19,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-07-04T22:58:35.449Z",
+      "fetchedAt": "2026-07-05T03:32:34.619Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-07-04T22:58:35.449Z",
+      "fetchedAt": "2026-07-05T03:32:34.619Z",
       "tags": [
         "综合"
       ]
@@ -51,9 +195,42 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-07-04T22:58:35.449Z",
+      "fetchedAt": "2026-07-05T03:32:34.619Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Launches Claude Science Beta: A Multi-Agent AI Workbench for Reproducible Genomics, Proteomics, and Cheminformatics Pipelines",
+      "link": "https://www.marktechpost.com/2026/07/04/anthropic-launches-claude-science-beta/",
+      "snippet": "Anthropic released Claude Science in beta on June 30, 2026. The app runs on existing Claude models. A coordinating agent delegates to domain specialis",
+      "pubDate": "Sat, 04 Jul 2026 16:21:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-05T03:32:38.099Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA HORIZON: A Hands-Free Agent that Evolves Git Worktrees and Hits 100% RTL Benchmark Completion",
+      "link": "https://www.marktechpost.com/2026/07/04/nvidia-horizon-a-hands-free-agent-that-evolves-git-worktrees-and-hits-100-rtl-benchmark-completion/",
+      "snippet": "A hands-free NVIDIA agent framework hosts each RTL problem as a versioned repository, reaching 100% completion across benchmarks. The post NVIDIA HORI",
+      "pubDate": "Sat, 04 Jul 2026 16:04:29 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-05T03:32:38.099Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -67,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-07-04T22:58:35.449Z",
+      "fetchedAt": "2026-07-05T03:32:34.619Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -84,7 +261,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:35.819Z",
+      "fetchedAt": "2026-07-05T03:32:34.869Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +277,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "AI应用"
       ]
@@ -116,7 +293,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "政策监管"
       ]
@@ -132,7 +309,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "AI应用"
       ]
@@ -148,7 +325,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "商业融资"
       ]
@@ -180,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +373,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -213,7 +390,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +406,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "综合"
       ]
@@ -245,10 +422,26 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "AI应用",
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA AI Introduces ASPIRE: A Self-Improving Robotics Framework Reaching 31% Zero-Shot on LIBERO-Pro Long Tasks",
+      "link": "https://www.marktechpost.com/2026/07/03/nvidia-ai-introduces-aspire-a-self-improving-robotics-framework-reaching-31-zero-shot-on-libero-pro-long-tasks/",
+      "snippet": "NVIDIA's ASPIRE writes and refines robot control programs, then distills validated repairs into a reusable skill library. It gains up to 77 points on",
+      "pubDate": "Sat, 04 Jul 2026 06:32:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-05T03:32:38.099Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -262,7 +455,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "综合"
       ]
@@ -278,7 +471,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T22:58:30.031Z",
+      "fetchedAt": "2026-07-05T03:32:28.763Z",
       "tags": [
         "商业融资"
       ]
@@ -294,7 +487,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "综合"
       ]
@@ -310,105 +503,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "消息称SK海力士考虑在巨额ADR发行中向承销银行支付约0.5%的费用",
-      "link": "https://36kr.com/newsflashes/3880786649378821?f=rss",
-      "snippet": "据报道，SK海力士公司正考虑将其美国上市所得款项中约0.5%支付给参与该交易的银行。最终交易规模尚未确定，且SK海力士还可能选择在基础费用之上支付酌情奖励金。按美国标准衡量，这一费用比例偏低，但仍有望成为今年亚洲公司相关交易中费用最高的交易之一。（财联社）",
-      "pubDate": "2026-07-04 12:57:02  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "长光卫星完成近50亿元股权融资",
-      "link": "https://36kr.com/newsflashes/3880783434149893?f=rss",
-      "snippet": "据报道，长光卫星已完成近50亿元股权融资。本轮融资由长发集团、陆石投资联合领投，诚通基金、东方资产等知名投资机构积极参与，海通创新、深创投等老股东持续跟投。据了解，此次募集的资金将精准投向三大核心方向：一是加速卫星批产能力建设，提升规模化制造效率；二是持续推进“吉林一号”卫星工程组网，夯实高分辨数据",
-      "pubDate": "2026-07-04 12:35:29  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "印度政府：正调查苹果手机信息泄露事件",
-      "link": "https://36kr.com/newsflashes/3880789908631558?f=rss",
-      "snippet": "印度电子和信息技术部秘书克里希南2日表示，政府正就塔塔电子大规模数据泄露事件展开调查。这也是印度政府首次就这起事件发声。克里希南说：“我们正在调查。”按他的说法，相关事件已上报负责印度网络安全的下属机构计算机应急响应小组。塔塔电子是苹果公司的零部件供应商，也是苹果手机在印度的主要代工厂之一。据路透社",
-      "pubDate": "2026-07-04 12:12:33  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "千问智能体功能与服务将于7月15日正式下线",
-      "link": "https://36kr.com/newsflashes/3880777666703621?f=rss",
-      "snippet": "据千问平台消息，千问智能体功能与服务将于2026年7月15日正式下线，下线后，用户将无法继续访问相关智能体配置及历史对话记录。（21经济网）",
-      "pubDate": "2026-07-04 11:51:05  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美加墨世界杯16强已全部确定",
-      "link": "https://36kr.com/newsflashes/3880792300908547?f=rss",
-      "snippet": "北京时间7月4日，2026美加墨世界杯1/16决赛。哥伦比亚1-0战胜加纳，晋级16强。截至目前，本届世界杯16强已全部确定。 16强：加拿大、巴西、巴拉圭、摩洛哥、挪威、法国、墨西哥、英格兰、比利时、美国、西班牙、葡萄牙、瑞士、埃及、阿根廷、哥伦比亚。（央视新闻）",
-      "pubDate": "2026-07-04 11:46:37  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "福建：未来5年力争数字经济核心产业增加值年均增长8%以上",
-      "link": "https://36kr.com/newsflashes/3880724958752777?f=rss",
-      "snippet": "36氪获悉，福建省政府近日印发《“十五五”数字福建规划》，进一步细化“十五五”时期数字福建建设的发展目标、重点任务。《规划》提出到2030年，全省数智化发展水平达到国内领先，持续巩固数据要素市场化配置改革、产业数字化、数字政府建设、数智发展环境等方面优势，将数字福建打造成数字中国建设标杆。其中明确，",
-      "pubDate": "2026-07-04 11:37:45  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -422,25 +519,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "4nm近售罄、部分8nm接近满载 三星晶圆代工开始选择性接单",
-      "link": "https://36kr.com/newsflashes/3880717381382148?f=rss",
-      "snippet": "据报道，业内人士称，随着AI半导体需求升温、全球大型科技公司订单增加，三星电子晶圆代工部门已针对部分制程启动配额机制（allocation），将有限产能集中分配给较重要的客户和制程，将产能优先分配给现有客户，新客户订单则选择性承接。（新浪财经）",
-      "pubDate": "2026-07-04 11:16:30  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -454,7 +535,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "大模型"
       ]
@@ -470,9 +551,41 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Mistral AI Releases Leanstral 1.5: An Apache-2.0 Lean 4 Code Agent Model Solving 587 of 672 PutnamBench Problems",
+      "link": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+      "snippet": "Mistral AI released Leanstral 1.5, a free Apache-2.0 code agent model for Lean 4. It saturates miniF2F and solves 587 of 672 PutnamBench problems. The",
+      "pubDate": "Fri, 03 Jul 2026 22:20:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-05T03:32:38.099Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Designing a Schema-Guided Invoice Intelligence Pipeline with lift-pdf for Accounts-Payable Extraction, Validation, and Ledger Generation",
+      "link": "https://www.marktechpost.com/2026/07/03/schema-guided-invoice-intelligence-pipeline-with-lift-pdf/",
+      "snippet": "In this tutorial, we build an end-to-end accounts-payable extraction pipeline with lift-pdf, using synthetic invoice PDFs as controlled test documents",
+      "pubDate": "Fri, 03 Jul 2026 21:25:33 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-05T03:32:38.099Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -486,7 +599,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-      "fetchedAt": "2026-07-04T22:58:35.449Z",
+      "fetchedAt": "2026-07-05T03:32:34.619Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +615,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-04T22:58:35.449Z",
+      "fetchedAt": "2026-07-05T03:32:34.619Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +631,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-04T22:58:36.170Z",
+      "fetchedAt": "2026-07-05T03:32:35.119Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-07-04T22:58:30.031Z",
+      "fetchedAt": "2026-07-05T03:32:28.763Z",
       "tags": [
         "大模型"
       ]
@@ -550,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:35.120Z",
+      "fetchedAt": "2026-07-05T03:32:34.305Z",
       "tags": [
         "大模型",
         "商业融资"
@@ -567,7 +680,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:35.819Z",
+      "fetchedAt": "2026-07-05T03:32:34.869Z",
       "tags": [
         "大模型"
       ]
@@ -583,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:35.120Z",
+      "fetchedAt": "2026-07-05T03:32:34.305Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:35.120Z",
+      "fetchedAt": "2026-07-05T03:32:34.305Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -616,7 +729,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "商业融资"
       ]
@@ -632,7 +745,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-07-04T22:58:30.031Z",
+      "fetchedAt": "2026-07-05T03:32:28.763Z",
       "tags": [
         "综合"
       ]
@@ -648,7 +761,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-04T22:58:36.170Z",
+      "fetchedAt": "2026-07-05T03:32:35.119Z",
       "tags": [
         "综合"
       ]
@@ -664,7 +777,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:35.820Z",
+      "fetchedAt": "2026-07-05T03:32:34.869Z",
       "tags": [
         "综合"
       ]
@@ -680,7 +793,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "AI应用"
       ]
@@ -696,121 +809,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
+      "fetchedAt": "2026-07-05T03:32:31.042Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
-      "link": "https://www.qbitai.com/2026/07/442531.html",
-      "snippet": "",
-      "pubDate": "Fri, 03 Jul 2026 10:46:18 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T22:58:30.031Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "理想组织再动刀：去中间环节，整车和智驾产品回归研发｜36氪独家",
-      "link": "https://36kr.com/p/3877919172047111?f=rss",
-      "snippet": "图源视觉中国 文｜肖漫 编辑｜李勤、杨轩 “回归创业状态”，去年李想说出这个目标后，理想汽车还在进行组织和流程精简。 36氪汽车从多位知情人士处获悉，理想即将围绕产品决策流程进行新一轮组织架构调整，计划将产品部的部分关键职能拆分，并入研发部门。 从群组关系来看，理想汽车产品部由范皓宇负责，包含电动本",
-      "pubDate": "2026-07-03 18:45:12  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:31.947Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
-      "link": "https://www.qbitai.com/2026/07/442517.html",
-      "snippet": "",
-      "pubDate": "Fri, 03 Jul 2026 10:28:43 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T22:58:30.031Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
-      "link": "https://www.qbitai.com/2026/07/442503.html",
-      "snippet": "",
-      "pubDate": "Fri, 03 Jul 2026 10:26:36 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-04T22:58:30.031Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "场景至上，实效为王：NAVIAI 人形机器人多领域应用场景领跑！",
-      "link": "https://www.leiphone.com/category/industrynews/CBx8Wb28sANFCEO5.html",
-      "snippet": "2026年被业界广泛称为人形机器人“商业化落地元年”，而我们认为，真正跑通的应用场景才是打破“伪落地”质疑的唯一标尺。 浙江人形凭借全栈自主可控的产品体系，已让领航者NAVIAI人形机器人在工业、服务、教育、数采等多领域真正“上手干活”，率先实现了从实验室技术验证到多领域规模化商用的关键跨越。  应",
-      "pubDate": "Fri, 03 Jul 2026 17:52:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-04T22:58:35.120Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "snippet": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school.",
-      "pubDate": "Fri, 03 Jul 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-04T22:58:36.170Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "蔚来李斌北大毕业30年演讲热搜！不灌鸡汤讲失败，“向内求索，别骗自己”",
-      "link": "https://www.qbitai.com/2026/07/442224.html",
-      "snippet": "创业30年，6次低谷",
-      "pubDate": "Fri, 03 Jul 2026 07:40:44 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-07-04T22:58:30.031Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
