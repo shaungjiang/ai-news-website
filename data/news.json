@@ -1,25 +1,89 @@
 {
-  "generatedAt": "2026-07-06T13:52:51.130Z",
+  "generatedAt": "2026-07-06T16:58:25.378Z",
   "stats": {
-    "total": 112,
+    "total": 124,
     "shown": 50,
     "chinese": 59,
-    "english": 53,
-    "today": 55
+    "english": 65,
+    "today": 62
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Anthropic outed for Claude tracker that secretly monitored Chinese users",
+      "link": "https://arstechnica.com/tech-policy/2026/07/anthropic-outed-for-claude-tracker-that-secretly-monitored-chinese-users/",
+      "snippet": "Anthropic accused of spying on users; engineer says “experiment” is over.",
+      "pubDate": "Mon, 06 Jul 2026 16:44:18 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-07-06T16:52:38.862Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "I spy",
+      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "snippet": "I’m just doing my job, but turns out, it feels lousy holding other people’s privacy in your hands.\t  I've long argued that Hollywood has simultaneousl",
+      "pubDate": "2026-07-06T16:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-06T16:52:37.713Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Microsoft lays off nearly 5,000 employees across Xbox, commercial sales",
+      "link": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "snippet": "Microsoft cut around 4,800 roles, or 2.1% of its global workforce, on Monday — the latest in a series of layoffs that’s stoking fears of AI replacing",
+      "pubDate": "Mon, 06 Jul 2026 15:32:43 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-07-06T16:52:37.429Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "UK regulator warns of \"arms race\" to keep up with AI use in financial services",
+      "link": "https://arstechnica.com/ai/2026/07/uk-regulator-warns-of-arms-race-to-keep-up-with-ai-use-in-financial-services/",
+      "snippet": "FCA official makes case for greater powers for watchdog as millions use technology for personal finance decisions.",
+      "pubDate": "Mon, 06 Jul 2026 14:17:42 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Martin Arnold \n                ",
+      "fetchedAt": "2026-07-06T16:52:38.862Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Microsoft is laying off 4,800 employees",
       "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "snippet": "25 February 2026, Bavaria, Munich: Satya Nadella, CEO of Microsoft, speaks on stage during the Microsoft AI Tour. The company will be presenting new A",
+      "snippet": "Satya Nadella in February 2026. | Photo by Sven Hoppe / picture alliance via Getty Images\t  A year after cutting around 9,100 employees, Microsoft is",
       "pubDate": "2026-07-06T13:30:00.000Z",
       "sourceName": "The Verge",
       "sourceId": "theverge-ai",
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:09.307Z",
+      "fetchedAt": "2026-07-06T16:52:37.713Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-07-06T13:46:09.025Z",
+      "fetchedAt": "2026-07-06T16:52:37.429Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -52,7 +116,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-06T13:46:09.578Z",
+      "fetchedAt": "2026-07-06T16:52:38.014Z",
       "tags": [
         "综合"
       ]
@@ -68,7 +132,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资"
       ]
@@ -84,7 +148,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "政策监管"
       ]
@@ -100,7 +164,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +180,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +196,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +212,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +228,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资"
       ]
@@ -180,7 +244,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +260,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资"
       ]
@@ -212,7 +276,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -229,7 +293,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +309,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资"
       ]
@@ -261,7 +325,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资"
       ]
@@ -293,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +373,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资"
       ]
@@ -325,7 +389,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资"
       ]
@@ -341,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +421,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -366,14 +430,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "交投生态：聘任何兴龙为总经理",
       "link": "https://36kr.com/newsflashes/3884081283461384?f=rss",
-      "snippet": "36氪获悉，交投生态公告，鉴于公司原董事、副董事长、总经理杨自全因工作调整，不再继续担任公司及子公司任何职务。公司召开董事会会议，同意提名何兴龙为公司非独立董事。同时，董事会同意聘任何兴龙为公司总经理。",
+      "snippet": "36氪获悉，交投生态公告，鉴于公司原董事、副董事长、总经理杨自全因工作调整，不再继续担任公司及子公司任何职务。公司召开董事会会议，同意提名何兴龙为公司非独立董事���同时，董事会同意聘任何兴龙为公司总经理。",
       "pubDate": "2026-07-06 19:31:48  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
+      "fetchedAt": "2026-07-06T16:52:37.195Z",
       "tags": [
         "商业融资"
       ]
@@ -405,7 +469,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.318Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "大模型"
       ]
@@ -437,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "学术研究"
       ]
@@ -453,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "商业融资"
       ]
@@ -469,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "AI应用"
       ]
@@ -485,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
+      "fetchedAt": "2026-07-06T16:52:37.195Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -502,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "贾浩楠",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "商业融资"
       ]
@@ -534,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "大模型"
       ]
@@ -550,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "AI应用"
       ]
@@ -566,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
+      "fetchedAt": "2026-07-06T16:52:37.195Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +646,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michelle Kim",
-      "fetchedAt": "2026-07-06T13:46:09.578Z",
+      "fetchedAt": "2026-07-06T16:52:38.014Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
+      "fetchedAt": "2026-07-06T16:52:37.195Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -615,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
+      "fetchedAt": "2026-07-06T16:52:37.195Z",
       "tags": [
         "开源工具"
       ]
@@ -631,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "大模型"
       ]
@@ -647,7 +711,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.318Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-07-06T13:46:03.560Z",
+      "fetchedAt": "2026-07-06T16:52:26.704Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
+      "fetchedAt": "2026-07-06T16:52:37.195Z",
       "tags": [
         "商业融资"
       ]
@@ -695,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
+      "fetchedAt": "2026-07-06T16:52:37.195Z",
       "tags": [
         "综合"
       ]
@@ -711,9 +775,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
+      "fetchedAt": "2026-07-06T16:52:37.195Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Sakana AI Launches Sakana Translate, a Namazu-Powered Japanese–English–Chinese Translation Tool With Translate, Proofread, and Ask Modes",
+      "link": "https://www.marktechpost.com/2026/07/05/sakana-ai-launches-sakana-translate/",
+      "snippet": "Sakana AI has added Sakana Translate to Sakana Chat. It runs on the Namazu model series. The tool translates bidirectionally across Japanese, English,",
+      "pubDate": "Mon, 06 Jul 2026 05:35:09 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-06T16:52:40.215Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -727,89 +807,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
+      "fetchedAt": "2026-07-06T16:52:34.049Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "上市前夜 | 哈工大在读博士以百亿市值冲港股IPO，创始三人只剩一人",
-      "link": "https://36kr.com/p/3883708118921480?f=rss",
-      "snippet": "本文约3600字，建议阅读8分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第二期——珞石机器人。 7月6日上午10点，珞石机器人港股IPO招股结束。此次IPO定价38港元，每手100股，对应市值99.46亿",
-      "pubDate": "2026-07-06 13:13:02  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "上市前夜｜4个月净利润38.4亿元，深圳存储黑马冲港股IPO",
-      "link": "https://36kr.com/p/3883706720727303?f=rss",
-      "snippet": "本文约3400字，建议阅读7分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第一期——深圳宏芯宇电子。 7月3日，一家名叫宏芯宇电子的深圳公司，向港交所递交了招股书，此次IPO独家保荐人是中信建投。 招股书里",
-      "pubDate": "2026-07-06 13:11:37  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-06T13:46:06.319Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "沙利文全栈AI云服务报告：阿里云占比40.1%，超第二至第四名总和",
-      "link": "https://www.leiphone.com/category/industrynews/NN8pPZMe5DQqTILU.html",
-      "snippet": "7月6日消息，国际权威市场调研机构沙利文发布《开箱即用的AI云服务——2025中国全栈AI云服务市场报告》。报告显示，2025年中国IaaS、PaaS、MaaS总市场规模达595.9亿元，其中阿里云总收入达239亿元，以40.1%的市场份额位列第一，超第二至第四名的总和，稳居中国最大AI云服务厂商。",
-      "pubDate": "Mon, 06 Jul 2026 11:42:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "打造“青年安居新范式”！第三座小米青年公寓开放入住，三城累计建成12栋公寓、4214套房源",
-      "link": "https://www.leiphone.com/category/industrynews/dpOS3DMEz2mPqLRH.html",
-      "snippet": "7月4日，武汉小米青年公寓正式开放入住。这是继北京、南京之后，小米投入运营的第三座青年公寓，也是在前两座基础上持续迭代打造的第三款青年公寓。随着武汉项目落成，小米已在北京、南京、武汉三地累计建成青年公寓12栋，建筑面积超21万平方米，提供4214套房源，持续完善青年安居保障体系。 武汉小米青年公寓位",
-      "pubDate": "Mon, 06 Jul 2026 10:59:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "打破末端配送壁垒，佑驾创新正式发布四轮足机器人",
-      "link": "https://www.leiphone.com/category/industrynews/Ql20V4DpxJjluNFB.html",
-      "snippet": "7月6日，佑驾创新（2431.HK）正式发布「Combo」全链路无人物流闭环方案，由其旗下曜行动力打造的四轮足式机器人同步亮相。依托自动驾驶底层技术与物理AI能力，佑驾创新首次以“无人车+机器人”打通物流转运到上门配送的完整链路，直击行业长期存在的“最后一米”难题。 本次方案发布，既是曜行动力首款具",
-      "pubDate": "Mon, 06 Jul 2026 10:47:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-06T13:46:08.767Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
