@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-07-07T14:47:08.077Z",
+  "generatedAt": "2026-07-07T18:06:13.186Z",
   "stats": {
-    "total": 119,
+    "total": 118,
     "shown": 50,
     "chinese": 58,
-    "english": 61,
-    "today": 67
+    "english": 60,
+    "today": 71
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic is launching Claude Cowork on mobile and web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "snippet": "Starting Tuesday, Anthropic's Claude Cowork AI platform will be available on mobile and web for the first time. The expanded access is rolling out fir",
+      "pubDate": "2026-07-07T17:46:59.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-07T18:01:01.548Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Open-Sources Antidoom: A Final Token Preference Optimization (FTPO) Method that Reduces Doom Loops in Reasoning Models",
+      "link": "https://www.marktechpost.com/2026/07/07/liquid-ai-antidoom-doom-loops-ftpo/",
+      "snippet": "Liquid AI released Antidoom, an open-source method that targets doom loops in reasoning models. A doom loop repeats a span until the context window is",
+      "pubDate": "Tue, 07 Jul 2026 16:50:50 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-07T18:01:03.948Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Claude Cowork expands to mobile and web",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "snippet": "With this update, users can start a task from their desk, get status updates on their phone, and pick up the finished output later — even if their lap",
+      "pubDate": "Tue, 07 Jul 2026 16:27:18 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-07-07T18:01:01.314Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Facing US export controls, China's DeepSeek plans to make its own chips",
+      "link": "https://arstechnica.com/ai/2026/07/facing-us-export-controls-chinas-deepseek-plans-to-make-its-own-chips/",
+      "snippet": "It's early, but the plan is to reduce dependency on Nvidia and Huawei.",
+      "pubDate": "Tue, 07 Jul 2026 16:14:53 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Samuel Axon\n                ",
+      "fetchedAt": "2026-07-07T18:01:02.854Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Solos debuts an even lighter version of its camera-less smart glasses",
@@ -19,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:16.468Z",
+      "fetchedAt": "2026-07-07T18:01:01.548Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +99,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -51,7 +115,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +131,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +147,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +163,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +179,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +195,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +211,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +227,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "政策监管"
       ]
@@ -179,7 +243,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +259,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "政策监管"
       ]
@@ -211,7 +275,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +291,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -243,7 +307,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -259,7 +323,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "政策监管"
       ]
@@ -275,7 +339,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "AI应用"
       ]
@@ -291,7 +355,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "AI应用"
       ]
@@ -307,7 +371,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -323,7 +387,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +403,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -355,7 +419,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-07T14:37:16.756Z",
+      "fetchedAt": "2026-07-07T18:01:01.831Z",
       "tags": [
         "综合"
       ]
@@ -364,14 +428,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "义乌市属国有企业入股稠州商业银行",
       "link": "https://36kr.com/newsflashes/3885529547387144?f=rss",
-      "snippet": "7月6日，国家金融监督管理总局浙江监管局披露的批复显示，同意义乌市市场发展集团有限公司（下称“义乌市市场发展集团”）的稠州商业银行股东资格。本次入股后，义乌市市场发展集团持有稠州商业银行股份242105300股，占该行增资扩股后总股本的5.00%。公开资料显���，义乌市市场发展集团为义乌市属国有企",
+      "snippet": "7月6日，国家金融监督管理总局浙江监管局披露的批复显示，同意义乌市市场发展集团有限公司（下称“义乌市市场发展集团”）的稠州商业银行股东资格。本次入股后，义乌市市场发展集团持有稠州商业银行股份242105300股，占该行增资扩股后总股本的5.00%。公开资料显示，义乌市市场发展集团为义乌市属国有企业之",
       "pubDate": "2026-07-07 20:05:03  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "政策监管"
       ]
@@ -387,7 +451,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-07T14:37:16.232Z",
+      "fetchedAt": "2026-07-07T18:01:01.314Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -404,7 +468,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-07-07T14:37:09.394Z",
+      "fetchedAt": "2026-07-07T18:00:56.694Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -437,7 +501,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -453,7 +517,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-07-07T14:37:16.756Z",
+      "fetchedAt": "2026-07-07T18:01:01.831Z",
       "tags": [
         "开源工具"
       ]
@@ -469,7 +533,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-07-07T14:37:17.654Z",
+      "fetchedAt": "2026-07-07T18:01:02.854Z",
       "tags": [
         "学术研究"
       ]
@@ -485,7 +549,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -502,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "学术研究"
       ]
@@ -518,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "开源工具"
       ]
@@ -534,14 +598,14 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资｜36氪首发",
+      "title": "北斗人创业，要建太空数据中心，「星际原点」连续完成两轮数千万元融资���36氪首发",
       "link": "https://36kr.com/p/3885413484163074?f=rss",
       "snippet": "文 | 阿至 太空算力赛道又有新玩家入场。 36氪获悉，太空算力卫星系统解决方案提供商星际原点航天科技（上海）有限公司（以下简称“星际原点”）已于近期连续完成种子轮、天使轮两轮融资，累计规模为数千万元。 种子轮投资方为九合创投。天使轮由老股东九合创投、梅花创投和上海国投旗下上海科创集团策源基金联合领",
       "pubDate": "2026-07-07 18:07:53  +0800",
@@ -550,7 +614,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -566,7 +630,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Temple",
-      "fetchedAt": "2026-07-07T14:37:16.756Z",
+      "fetchedAt": "2026-07-07T18:01:01.831Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "AI应用"
       ]
@@ -598,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -615,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +695,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-07T14:37:16.232Z",
+      "fetchedAt": "2026-07-07T18:01:01.314Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "学术研究"
       ]
@@ -663,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -696,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "政策监管"
       ]
@@ -712,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-07T14:37:09.394Z",
+      "fetchedAt": "2026-07-07T18:00:56.694Z",
       "tags": [
         "综合"
       ]
@@ -721,14 +785,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "上市前夜｜套现十几亿后，他把矿卡开向港股",
       "link": "https://36kr.com/p/3885318981366023?f=rss",
-      "snippet": "本文约3100字，建���阅读7分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第三期——易控智驾。 2017年前后，36岁的蓝水生完成了人生中第一次大退出。 那是一家做游戏出海的公司，叫广州易幻网络。当年被",
+      "snippet": "本文约3100字，建议阅读7分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第三期——易控智驾。 2017年前后，36岁的蓝水生完成了人生中第一次大退出。 那是一家做游戏出海的公司，叫广州易幻网络。当年被A股",
       "pubDate": "2026-07-07 16:32:12  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
+      "fetchedAt": "2026-07-07T18:00:58.484Z",
       "tags": [
         "商业融资"
       ]
@@ -744,74 +808,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
+      "fetchedAt": "2026-07-07T18:01:01.064Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "ICML 2026现场最全索引：从快手到大厂，中国企业集体出征",
-      "link": "https://www.leiphone.com/category/private/YlNEye1Y2JDyT65j.html",
-      "snippet": "ICML迎来“中国浓度”最高的一年          作者丨吴思梦      编辑丨岑   峰",
-      "pubDate": "Tue, 07 Jul 2026 16:23:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "阿米奥机器人刘方：具身智能不是大模型，更不是智驾",
-      "link": "https://www.leiphone.com/category/industrynews/jzGG1kEnAzBgFPoa.html",
-      "snippet": "过去两年，具身智能常被放进两个熟悉的叙事里理解：它要么是“大模型的下一站”，要么是“自动驾驶向工厂的迁移”。前者强调模型、数据和规模效应，后者强调感知、预测、规划与端到端闭环。两种说法都言之成理，然而在阿米奥机器人创始人刘方看来，它们仍未能回答那个更根本的问题——我们究竟需要具身智能解决什么问题。",
-      "pubDate": "Tue, 07 Jul 2026 15:57:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "ICML 精选Spotlight Poster汇总：Session 1",
-      "link": "https://www.leiphone.com/category/private/BwX4xiF5AuTc22UL.html",
-      "snippet": "7月7日，机器学习领域最具影响力的顶级学术会议ICML 2026进入正会第一天。本次大会共接收6352篇论文，其中Spotlight论文536篇（占投稿总数的 2.2%），Oral 论文168篇 （仅占投稿总数的 0.7 %）。今年的论文再次汇聚了从生成模型到隐私保护、从智能体评估到模型压缩、从脉冲",
-      "pubDate": "Tue, 07 Jul 2026 15:51:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-07T14:37:15.983Z",
-      "tags": [
-        "学术研究",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "揭秘字节 Seedance：全球 AI 的第二个好生意 | 深氪",
-      "link": "https://36kr.com/p/3885177884078083?f=rss",
-      "snippet": "采访 | 邓咏仪 肖思佳 李小霞 文 | 张雨忻 邓咏仪 编辑 | 张雨忻 杨轩 2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。 曾妍是字节 Seed 一位非常年轻的研究员，2",
-      "pubDate": "2026-07-07 15:30:26  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-07T14:37:11.121Z",
-      "tags": [
-        "学术研究"
       ]
     }
   ]
