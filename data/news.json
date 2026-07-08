@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-07-08T19:35:50.117Z",
+  "generatedAt": "2026-07-08T21:13:42.709Z",
   "stats": {
-    "total": 113,
+    "total": 126,
     "shown": 50,
     "chinese": 59,
-    "english": 54,
-    "today": 73
+    "english": 67,
+    "today": 83
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Netflix AI Team Cuts Wide-Partition Read Latency from Seconds to Milliseconds by Splitting Cassandra Partitions Per ID",
+      "link": "https://www.marktechpost.com/2026/07/08/netflix-ai-team-cuts-wide-partition-read-latency-from-seconds-to-milliseconds-by-splitting-cassandra-partitions-per-id/",
+      "snippet": "Netflix engineers detailed how they handle wide partitions in Apache Cassandra for the TimeSeries Abstraction. Two approaches work together: Time Slic",
+      "pubDate": "Wed, 08 Jul 2026 21:00:58 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-08T21:09:01.008Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "snippet": "Earlier this week, a picture that seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. I",
+      "pubDate": "Wed, 08 Jul 2026 20:37:03 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Lawsuit: Man used Grok to make 7K sex images of stepdaughter, then shot himself",
+      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-grok-user-made-7k-child-sex-images-xai-only-reported-one-gang-rape-prompt/",
+      "snippet": "More young girls sue X over Grok CSAM; X accused of shielding child predators.",
+      "pubDate": "Wed, 08 Jul 2026 19:56:37 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-07-08T21:08:58.853Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "snippet": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models",
+      "pubDate": "Wed, 08 Jul 2026 19:30:16 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "This startup thinks robotics is about to have its ChatGPT moment",
@@ -19,10 +83,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "大模型",
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google AI Studio Adds ‘Import from GitHub’ to Build Mode, Turning an Existing Repo Into an Editable, Deployable App",
+      "link": "https://www.marktechpost.com/2026/07/08/google-ai-studio-adds-import-from-github-to-build-mode/",
+      "snippet": "Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterat",
+      "pubDate": "Wed, 08 Jul 2026 18:41:57 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-08T21:09:01.008Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -36,10 +116,27 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "AI应用",
         "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "OpenAI Releases GPT-Live and GPT-Live-1 mini: Full-Duplex Voice Models That Delegate Deeper Reasoning to GPT-5.5",
+      "link": "https://www.marktechpost.com/2026/07/08/openai-releases-gpt-live-and-gpt-live-1-mini-full-duplex-voice-models-that-delegate-deeper-reasoning-to-gpt-5-5/",
+      "snippet": "OpenAI released GPT-Live, a new generation of voice models now powering ChatGPT Voice. It uses a full-duplex architecture to listen and speak at once,",
+      "pubDate": "Wed, 08 Jul 2026 18:08:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-08T21:09:01.008Z",
+      "tags": [
+        "大模型",
+        "AI应用"
       ]
     },
     {
@@ -53,7 +150,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "大模型"
       ]
@@ -69,7 +166,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "综合"
       ]
@@ -85,25 +182,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "ChatGPT’s upgraded voice mode is better at shutting up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "snippet": "OpenAI is overhauling ChatGPT's voice mode with a new model that it says is more like \"talking to another person.\" The new GPT-Live-1 is designed to i",
-      "pubDate": "2026-07-08T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.793Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -117,7 +198,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-07-08T19:27:01.845Z",
+      "fetchedAt": "2026-07-08T21:08:58.853Z",
       "tags": [
         "大模型"
       ]
@@ -133,7 +214,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Editors",
-      "fetchedAt": "2026-07-08T19:27:01.022Z",
+      "fetchedAt": "2026-07-08T21:08:57.899Z",
       "tags": [
         "综合"
       ]
@@ -149,7 +230,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "商业融资"
       ]
@@ -165,9 +246,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Our approach to government and national security partnerships",
+      "link": "https://openai.com/index/government-national-security-partnerships",
+      "snippet": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and publ",
+      "pubDate": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-08T21:08:59.506Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -181,7 +278,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-07-08T19:26:55.287Z",
+      "fetchedAt": "2026-07-08T21:08:51.945Z",
       "tags": [
         "综合"
       ]
@@ -197,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-07-08T19:26:55.287Z",
+      "fetchedAt": "2026-07-08T21:08:51.945Z",
       "tags": [
         "综合"
       ]
@@ -213,9 +310,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan, Theresa Loconsolo",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "大模型",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Separating signal from noise in coding evaluations",
+      "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+      "snippet": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating",
+      "pubDate": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-08T21:08:59.506Z",
+      "tags": [
         "商业融资"
       ]
     },
@@ -230,7 +343,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "综合"
       ]
@@ -246,7 +359,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "综合"
       ]
@@ -262,7 +375,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "综合"
       ]
@@ -278,7 +391,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "综合"
       ]
@@ -294,7 +407,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "商业融资"
       ]
@@ -310,7 +423,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "AI应用"
       ]
@@ -326,7 +439,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-08T19:27:01.022Z",
+      "fetchedAt": "2026-07-08T21:08:57.899Z",
       "tags": [
         "综合"
       ]
@@ -342,7 +455,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "学术研究"
       ]
@@ -351,14 +464,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "蓝色起源以1300亿美元估值融资100亿美元",
       "link": "https://36kr.com/newsflashes/3886944497154824?f=rss",
-      "snippet": "据报道，蓝色起��以1300亿美元估值融资100亿美元，其中，贝佐斯将注资20亿美元。（财联社）",
+      "snippet": "据报道，蓝色起源以1300亿美元估值融资100亿美元，其中，贝佐斯将注资20亿美元。（财联社）",
       "pubDate": "2026-07-08 20:04:24  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "商业融资"
       ]
@@ -374,7 +487,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "商业融资"
       ]
@@ -390,7 +503,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-08T19:27:00.485Z",
+      "fetchedAt": "2026-07-08T21:08:57.371Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +519,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "大模型"
       ]
@@ -422,7 +535,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "商业融资"
       ]
@@ -438,7 +551,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "商业融资"
       ]
@@ -454,7 +567,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "商业融资"
       ]
@@ -470,7 +583,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -480,14 +593,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "正帆科技：控股股东拟减持不超0.95%股份",
       "link": "https://36kr.com/newsflashes/3886901366698247?f=rss",
-      "snippet": "36氪获悉，正帆科技公告，公司控股股东风帆控股因自身资金需求，拟通过集中竞价或大宗交易方式减持股份不超过280万股，即不超过公司总股本的0.95%。减持期间为2026年7月30日至2026年10月29日。",
+      "snippet": "36氪获悉，正帆科技公告，公司控股股东风帆控股因自身资金需求，拟通过��中竞价或大宗交易方式减持股份不超过280万股，即不超过公司总股本的0.95%。减持期间为2026年7月30日至2026年10月29日。",
       "pubDate": "2026-07-08 19:20:32  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "综合"
       ]
@@ -503,7 +616,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "商业融资"
       ]
@@ -519,7 +632,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "综合"
       ]
@@ -535,7 +648,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "AI应用"
       ]
@@ -551,7 +664,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "政策监管"
       ]
@@ -567,7 +680,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.233Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "政策监管"
       ]
@@ -583,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.223Z",
+      "fetchedAt": "2026-07-08T21:08:57.083Z",
       "tags": [
         "学术研究"
       ]
@@ -599,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-08T19:26:55.287Z",
+      "fetchedAt": "2026-07-08T21:08:51.945Z",
       "tags": [
         "综合"
       ]
@@ -615,7 +728,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.223Z",
+      "fetchedAt": "2026-07-08T21:08:57.083Z",
       "tags": [
         "学术研究",
         "政策监管"
@@ -632,7 +745,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.223Z",
+      "fetchedAt": "2026-07-08T21:08:57.083Z",
       "tags": [
         "学术研究"
       ]
@@ -648,7 +761,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-08T19:26:55.287Z",
+      "fetchedAt": "2026-07-08T21:08:51.945Z",
       "tags": [
         "AI应用"
       ]
@@ -664,7 +777,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.223Z",
+      "fetchedAt": "2026-07-08T21:08:57.083Z",
       "tags": [
         "学术研究"
       ]
@@ -680,7 +793,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:27:02.931Z",
+      "fetchedAt": "2026-07-08T21:08:59.506Z",
       "tags": [
         "综合"
       ]
@@ -696,122 +809,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
+      "fetchedAt": "2026-07-08T21:08:53.982Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海",
-      "link": "https://36kr.com/p/3886574096265481?f=rss",
-      "snippet": "20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。 从廉价服装到二次元，日本输出海外的",
-      "pubDate": "2026-07-08 17:33:33  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-08T19:26:57.232Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "ICML 精选Spotlight Poster汇总：Session 3-3",
-      "link": "https://www.leiphone.com/category/private/FZR4n7bdZzbcDdfv.html",
-      "snippet": "7月8日，机器学习领域最具影响力的顶级学术会议ICML 2026进入正会第二天。本次大会共接收6352篇论文，其中Spotlight论文536篇（占投稿总数的 2.2%），Oral 论文168篇 （仅占投稿总数的 0.7 %）。 今年的论文再次汇聚了从生成模型到隐私保护、从智能体评估到模型压缩、从脉",
-      "pubDate": "Wed, 08 Jul 2026 17:09:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.223Z",
-      "tags": [
-        "学术研究",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "别让AI一上来就“进厂打螺丝”：智源悟界·Orca要先教模型理解世界如何变化",
-      "link": "https://www.qbitai.com/2026/07/446075.html",
-      "snippet": "Hugging Face论文月榜第一",
-      "pubDate": "Wed, 08 Jul 2026 09:08:31 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-07-08T19:26:55.287Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "翁荔新博客提出「自进化先从Harness开始」，DeepSeek崔添翼转发附议",
-      "link": "https://www.qbitai.com/2026/07/446076.html",
-      "snippet": "崔添翼：这个方向很容易出成果",
-      "pubDate": "Wed, 08 Jul 2026 08:55:30 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-07-08T19:26:55.287Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨成本压力暴增，新一代理想L6或将涨价",
-      "link": "https://www.leiphone.com/category/transportation/PK27OwRQot76MCUe.html",
-      "snippet": "雷峰网独家获悉，本月将要上市的新一代理想L6可能会迎来涨价。 知情人士告诉我们，今年以来，受存储芯片与碳酸锂价格双重上涨影响，几乎所有新车都迎来前所未有的成本压力，新一代理想L6也不例外。 新款L6电池容量从36.8kWh提升至51kWh，叠加碳酸锂成本大涨，电池一项成本增加超8000元。此外，新车",
-      "pubDate": "Wed, 08 Jul 2026 16:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.223Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "硬核少年技术节5.0京杭即将启幕，四项AIGX硬核成果发布，AI从工具走向伙伴",
-      "link": "https://www.leiphone.com/category/industrynews/lvwelxWS3FzEHX4S.html",
-      "snippet": "作为横跨阿里巴巴-淘天集团和ATH事业群的年度最大技术节日【硬核少年技术节5.0】将于7月20日至24日在杭州和北京两地隆重举办。本届技术节持续一周，包含技术市集、博见社、Openday、AI  Hackathon比赛等多元板块，集展示、竞技、分享与交流于一体。      历届最大规模，四大核心成果",
-      "pubDate": "Wed, 08 Jul 2026 16:28:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.223Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "官宣！中通快运接入AI版支付宝，一句话直达高效物流服务",
-      "link": "https://www.leiphone.com/category/industrynews/5eKwrT43WHs8AwI7.html",
-      "snippet": "7月7日，支付宝正式上线AI开放平台，面向商家、机构、开发者等全生态伙伴开放AI接入能力。中通快运作为首批接入的零担快运企业，同步入驻支付宝AI生态。即日起，用户通过AI版支付宝“阿宝”，以自然对话即可一键触达中通快运查货、发货等核心服务，为大件物流与零担寄递需求解锁更高效的智能新入口。  对话直达",
-      "pubDate": "Wed, 08 Jul 2026 16:24:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-08T19:27:00.223Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
