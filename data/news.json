@@ -1,27 +1,109 @@
 {
-  "generatedAt": "2026-07-09T20:01:09.158Z",
+  "generatedAt": "2026-07-09T21:35:01.323Z",
   "stats": {
-    "total": 127,
+    "total": 129,
     "shown": 50,
     "chinese": 58,
-    "english": 69,
-    "today": 87
+    "english": 71,
+    "today": 93
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
+      "link": "https://www.marktechpost.com/2026/07/09/openai-releases-gpt-5-6-a-three-tier-model-family-with-programmatic-tool-calling/",
+      "snippet": "OpenAI moved GPT-5.6 to general availability on July 9, 2026, shipping three tiers instead of one model. Sol is $5/$30 per 1M tokens, Terra is $2.50/$",
+      "pubDate": "Thu, 09 Jul 2026 20:45:42 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-09T21:26:15.159Z",
+      "tags": [
+        "开源工具",
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The ChatGPT browser is already dead",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "snippet": "OpenAI is already shutting down ChatGPT Atlas, its browser that could do tasks for you on your behalf, less than a year after launching it. Atlas was",
+      "pubDate": "2026-07-09T20:34:05.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "link": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+      "snippet": "The AI firm Anthropic has developed a technique that has given it the clearest glimpse yet at what’s really going on inside large language models as t",
+      "pubDate": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Will Douglas Heaven",
+      "fetchedAt": "2026-07-09T21:26:12.094Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Humanoid robots controlled by surgeons did world-first operation on live pigs",
+      "link": "https://arstechnica.com/ai/2026/07/humanoid-robots-controlled-by-surgeons-did-world-first-operation-on-live-pigs/",
+      "snippet": "Preclinical trial is testing the feasibility of humanoid robots in surgery.",
+      "pubDate": "Thu, 09 Jul 2026 20:12:03 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-07-09T21:26:12.994Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google will now tell you if an ad was made with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "snippet": "You can see if ads on Google Search, Google Discover, and YouTube were made or edited using AI from a new section in Google's \"My Ad Center,\" as repor",
+      "pubDate": "2026-07-09T20:11:38.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
       "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-      "snippet": "Meta's new Muse Spark 1.1. will go up against similar products offered by Anthropic and OpenAI.",
+      "snippet": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation tha",
       "pubDate": "Thu, 09 Jul 2026 19:40:45 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-09T19:56:36.971Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
-        "AI应用"
+        "综合"
       ]
     },
     {
@@ -35,7 +117,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-09T19:56:40.058Z",
+      "fetchedAt": "2026-07-09T21:26:15.160Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +133,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-09T19:56:36.971Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -68,7 +150,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-09T19:56:38.509Z",
+      "fetchedAt": "2026-07-09T21:26:12.994Z",
       "tags": [
         "大模型"
       ]
@@ -84,7 +166,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-09T19:56:36.971Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +182,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-09T19:56:36.971Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "商业融资"
       ]
@@ -116,7 +198,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-09T19:56:36.971Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "AI应用"
       ]
@@ -132,7 +214,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-09T19:56:36.971Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +230,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-07-09T19:56:36.971Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -165,7 +247,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-09T19:56:36.972Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +263,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:37.273Z",
+      "fetchedAt": "2026-07-09T21:26:11.874Z",
       "tags": [
         "综合"
       ]
@@ -197,7 +279,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:37.273Z",
+      "fetchedAt": "2026-07-09T21:26:11.874Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -214,7 +296,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -231,7 +313,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-09T19:56:36.972Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "大模型"
       ]
@@ -247,7 +329,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-09T19:56:36.972Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "商业融资"
       ]
@@ -263,7 +345,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:37.273Z",
+      "fetchedAt": "2026-07-09T21:26:11.874Z",
       "tags": [
         "综合"
       ]
@@ -279,7 +361,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -295,7 +377,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:37.273Z",
+      "fetchedAt": "2026-07-09T21:26:11.874Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -312,7 +394,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:37.273Z",
+      "fetchedAt": "2026-07-09T21:26:11.874Z",
       "tags": [
         "大模型"
       ]
@@ -328,7 +410,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:36.723Z",
+      "fetchedAt": "2026-07-09T21:26:11.237Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -345,7 +427,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-09T19:56:36.972Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -362,7 +444,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-09T19:56:36.972Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "AI应用"
       ]
@@ -378,9 +460,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:37.273Z",
+      "fetchedAt": "2026-07-09T21:26:11.874Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+      "snippet": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quali",
+      "pubDate": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T21:26:13.755Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -394,7 +492,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "商业融资"
       ]
@@ -410,7 +508,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -426,7 +524,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -442,7 +540,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "商业融资"
       ]
@@ -458,7 +556,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "商业融资"
       ]
@@ -474,7 +572,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -490,7 +588,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "政策监管"
       ]
@@ -506,7 +604,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-07-09T19:56:32.201Z",
+      "fetchedAt": "2026-07-09T21:26:05.456Z",
       "tags": [
         "综合"
       ]
@@ -522,7 +620,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -538,7 +636,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-09T19:56:37.559Z",
+      "fetchedAt": "2026-07-09T21:26:12.094Z",
       "tags": [
         "综合"
       ]
@@ -554,7 +652,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -570,7 +668,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-09T19:56:36.972Z",
+      "fetchedAt": "2026-07-09T21:26:11.504Z",
       "tags": [
         "AI应用"
       ]
@@ -586,7 +684,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -602,7 +700,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "商业融资"
       ]
@@ -618,7 +716,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -634,7 +732,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "商业融资"
       ]
@@ -650,7 +748,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "综合"
       ]
@@ -666,7 +764,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "AI应用"
       ]
@@ -682,7 +780,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -699,7 +797,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "商业融资"
       ]
@@ -708,113 +806,16 @@
       "id": "MzZrci1haTpodHRw",
       "title": "燧原科技科创板IPO申请获证监会同意注册批复",
       "link": "https://36kr.com/newsflashes/3888306591693314?f=rss",
-      "snippet": "36氪获悉，证监会日前下发关于同意上海燧原科技股份有限公司首次公开发行股票注册的批复，同意该公司在科创板上市的注册申请。",
+      "snippet": "36氪获悉，证监会日前下发关于同意上海燧原科技股份有���公司首次公开发行股票注册的批复，同意该公司在科创板上市的注册申请。",
       "pubDate": "2026-07-09 19:10:00  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.920Z",
+      "fetchedAt": "2026-07-09T21:26:07.537Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "紫金矿业：预计上半年净利润同比增长68%",
-      "link": "https://36kr.com/newsflashes/3888303888873988?f=rss",
-      "snippet": "36氪获悉，紫金矿业公告，预计2026年半年度归属于上市公司股东的净利润约391亿元，同比增加约158亿元，增幅约68%。业绩变动主要系主要矿产品产量稳步提升，产品销售价格同比大幅上升，稀贵金属等产品利润同比大幅增加。",
-      "pubDate": "2026-07-09 19:07:15  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.920Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "2026年度「中国股权投资行业投资机构」系列名册正式发布",
-      "link": "https://36kr.com/p/3888289009678854?f=rss",
-      "snippet": "Alpha will be made, not found。 麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融资，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭式P",
-      "pubDate": "2026-07-09 18:53:27  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "2026·Under36丨绕过旧答案的一代人",
-      "link": "https://36kr.com/p/3888279614274048?f=rss",
-      "snippet": "为什么颠覆性的突破总是由年轻人完成？ 因为他们还没有被旧范式驯服。  几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处：他们要么足够年轻，要么刚刚进入那个即将被他们改写的领域。 1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心",
-      "pubDate": "2026-07-09 18:45:37  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T19:56:33.919Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Agent 进化论：从对话到协作",
-      "link": "https://www.leiphone.com/category/industrynews/RDpPRL52VCMB19vs.html",
-      "snippet": "人与 AI 的沟通正在变得越来越像人与人之间的沟通。 一位店员用 AI 制作门店宣传视频时，不再把需求列成一段非常细致的 Prompt 发给 AI，然后等待它返回结果；而是直接开启一个与 AI 的对话，告诉它“帮我剪一条今天新品上架的视频”，然后通过连续对话敲定任务的具体细节，就像与人类剪辑师一样。",
-      "pubDate": "Thu, 09 Jul 2026 18:40:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-09T19:56:36.723Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "ICML 精选 Spotlight Poster 汇总：Session 7-2",
-      "link": "https://www.leiphone.com/category/private/CkhbgnZgFR3PMdyw.html",
-      "snippet": "7月9日，机器学习领域最具影响力的顶级学术会议ICML 2026进入正会第三天。本次大会共接收6352篇论文，其中Spotlight论文536篇（占投稿总数的 2.2%），Oral 论文168篇 （仅占投稿总数的 0.7 %）。 作为国际顶级的机器学习会议，今年的ICML吸引了数千篇论文投稿，其中S",
-      "pubDate": "Thu, 09 Jul 2026 18:34:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-09T19:56:36.723Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "ICML 精选 Spotlight Poster 汇总：Session 5-2",
-      "link": "https://www.leiphone.com/category/private/zFZn6BMEReiFggmy.html",
-      "snippet": "7月8日，机器学习领域最具影响力的顶级学术会议ICML 2026进入正会第二天。本次大会共接收6352篇论文，其中Spotlight论文536篇（占投稿总数的 2.2%），Oral 论文168篇 （仅占投稿总数的 0.7 %）。 作为国际顶级的机器学习会议，今年的ICML吸引了数千篇论文投稿，其中S",
-      "pubDate": "Thu, 09 Jul 2026 18:11:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-09T19:56:36.723Z",
-      "tags": [
-        "学术研究"
       ]
     }
   ]
