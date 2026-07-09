@@ -1,13 +1,208 @@
 {
-  "generatedAt": "2026-07-09T21:35:01.323Z",
+  "generatedAt": "2026-07-09T23:22:44.364Z",
   "stats": {
-    "total": 129,
+    "total": 130,
     "shown": 50,
     "chinese": 58,
-    "english": 71,
-    "today": 93
+    "english": 72,
+    "today": 100
   },
   "articles": [
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "奥尔特曼：OpenAI最新AI模型在代理型编程任务中token效率提升54%",
+      "link": "https://36kr.com/newsflashes/3889016092293640?f=rss",
+      "snippet": "据报道，OpenAI创始人奥尔特曼表示，OpenAI最新的AI模型在代理型编程任务中，token效率提升了54%。（界面）",
+      "pubDate": "2026-07-10 07:11:44  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "扎克伯格为Meta付费人工智能工具制定“激进”价格策略",
+      "link": "https://36kr.com/newsflashes/3889012041480712?f=rss",
+      "snippet": "Meta Platforms Inc．发布了其最先进人工智能模型Muse Spark 1.1，并首次面向开发者推出付费版本。这是Meta首次向企业收取模型使用费，也为公司开辟了新的收入来源。扎克伯格在发布前接受采访时表示，这款模型将成为市场上价格最低的选择之一。“由于这不是开源模型，我认为这是我们第",
+      "pubDate": "2026-07-10 07:07:37  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美联储7月维持利率不变的概率为74.9%",
+      "link": "https://36kr.com/newsflashes/3889009010309891?f=rss",
+      "snippet": "据CME“美联储观察”：美联储7月维持利率不变的概率为74.9%，累计加息25个基点的概率为25.1%。 美联储到9月维持利率不变的概率为35.7%，累计加息25个基点的概率为51.1%，累计加息50个基点的概率为13.1%。（财联社）",
+      "pubDate": "2026-07-10 07:04:32  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "OpenAI发布GPT-5.6系列模型，旗舰模型Sol正式开放使用",
+      "link": "https://36kr.com/newsflashes/3889005901249030?f=rss",
+      "snippet": "当地时间7月9日，OpenAI宣布，GPT-5.6系列模型正式全面开放，包括旗舰模型GPT-5.6 Sol、均衡型模型Terra和低成本模型Luna。其中，Sol支持全新的Ultra模式，可默认协调4个AI代理并行处理复杂任务，进一步提升代码开发、科研、网络安全及知识工作等场景的效率。OpenAI称",
+      "pubDate": "2026-07-10 07:01:22  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
+      "tags": [
+        "AI应用",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美股三大指数集体收涨，Arm涨超9%",
+      "link": "https://36kr.com/newsflashes/3889004592937730?f=rss",
+      "snippet": "36氪获悉，7月9日收盘，美股三大指数集体上涨，道指涨0.27%，纳指涨1.3%，标普500指数涨0.81%。大型科技股多数上涨，Arm涨超9%，Meta涨超4%，特斯拉涨超3%，SpaceX、英特尔涨超2%，亚马逊涨超1%，苹果、微软小幅上涨；谷歌、英伟达、奈飞小幅下跌。热门中概股涨跌不一，爱奇艺",
+      "pubDate": "2026-07-10 07:00:02  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meta Superintelligence Labs Releases Muse Spark 1.1: A Multimodal Reasoning Model for Agentic Tasks on Meta Model API",
+      "link": "https://www.marktechpost.com/2026/07/09/meta-superintelligence-labs-releases-muse-spark-1-1/",
+      "snippet": "Meta Superintelligence Labs released Muse Spark 1.1 on July 9, 2026, alongside a public preview of the Meta Model API. It is a multimodal reasoning mo",
+      "pubDate": "Thu, 09 Jul 2026 22:26:16 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-09T23:12:54.640Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI launches its new family of models with GPT-5.6",
+      "link": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
+      "snippet": "OpenAI's latest family of models promise improvements across a range of areas, including cybersecurity.",
+      "pubDate": "Thu, 09 Jul 2026 22:24:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "An AI agent startup just let its agent run its $100 million fundraise",
+      "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+      "snippet": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actual",
+      "pubDate": "Thu, 09 Jul 2026 22:08:58 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+      "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "snippet": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome ext",
+      "pubDate": "Thu, 09 Jul 2026 22:03:54 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+      "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+      "snippet": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can.",
+      "pubDate": "Thu, 09 Jul 2026 21:57:42 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Can AI answer the $3 trillion question?",
+      "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+      "snippet": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+      "pubDate": "Thu, 09 Jul 2026 21:47:50 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "OpenAI wants its new tool to do your work for you and with you",
+      "link": "https://arstechnica.com/ai/2026/07/openai-wants-its-new-tool-to-do-your-work-for-you-and-with-you/",
+      "snippet": "Rebranded Codex promises independent workflows that can run \"for hours if needed.\"",
+      "pubDate": "Thu, 09 Jul 2026 21:25:55 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-07-09T23:12:53.183Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "OpenAI Releases GPT-5.6 (Sol, Terra, Luna): A Three-Tier Model Family With Programmatic Tool Calling in the Responses API",
@@ -19,7 +214,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-09T21:26:15.159Z",
+      "fetchedAt": "2026-07-09T23:12:54.640Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -36,7 +231,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "fetchedAt": "2026-07-09T23:12:52.065Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -53,7 +248,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-07-09T21:26:12.094Z",
+      "fetchedAt": "2026-07-09T23:12:52.365Z",
       "tags": [
         "大模型"
       ]
@@ -69,7 +264,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-07-09T21:26:12.994Z",
+      "fetchedAt": "2026-07-09T23:12:53.183Z",
       "tags": [
         "综合"
       ]
@@ -85,7 +280,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "fetchedAt": "2026-07-09T23:12:52.065Z",
       "tags": [
         "综合"
       ]
@@ -101,7 +296,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "综合"
       ]
@@ -117,7 +312,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-09T21:26:15.160Z",
+      "fetchedAt": "2026-07-09T23:12:54.640Z",
       "tags": [
         "大模型"
       ]
@@ -133,7 +328,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -150,7 +345,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-09T21:26:12.994Z",
+      "fetchedAt": "2026-07-09T23:12:53.183Z",
       "tags": [
         "大模型"
       ]
@@ -166,7 +361,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "综合"
       ]
@@ -182,7 +377,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "商业融资"
       ]
@@ -198,7 +393,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "AI应用"
       ]
@@ -214,7 +409,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "综合"
       ]
@@ -230,7 +425,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -247,7 +442,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "综合"
       ]
@@ -263,7 +458,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "fetchedAt": "2026-07-09T23:12:52.065Z",
       "tags": [
         "综合"
       ]
@@ -279,7 +474,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "fetchedAt": "2026-07-09T23:12:52.065Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -296,7 +491,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -313,7 +508,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "大模型"
       ]
@@ -329,7 +524,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "商业融资"
       ]
@@ -345,7 +540,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "fetchedAt": "2026-07-09T23:12:52.065Z",
       "tags": [
         "综合"
       ]
@@ -361,7 +556,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "综合"
       ]
@@ -377,7 +572,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "fetchedAt": "2026-07-09T23:12:52.065Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -394,7 +589,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "fetchedAt": "2026-07-09T23:12:52.065Z",
       "tags": [
         "大模型"
       ]
@@ -410,7 +605,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.237Z",
+      "fetchedAt": "2026-07-09T23:12:51.507Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -427,7 +622,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -444,7 +639,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
+      "fetchedAt": "2026-07-09T23:12:51.730Z",
       "tags": [
         "AI应用"
       ]
@@ -460,7 +655,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:11.874Z",
+      "fetchedAt": "2026-07-09T23:12:52.065Z",
       "tags": [
         "综合"
       ]
@@ -476,7 +671,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:13.755Z",
+      "fetchedAt": "2026-07-09T23:12:54.004Z",
       "tags": [
         "大模型"
       ]
@@ -492,7 +687,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "商业融资"
       ]
@@ -508,7 +703,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "综合"
       ]
@@ -524,7 +719,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "综合"
       ]
@@ -540,7 +735,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "商业融资"
       ]
@@ -549,14 +744,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "立讯精密：H股于7月9日在香港联交所主板挂牌上市",
       "link": "https://36kr.com/newsflashes/3888404506868488?f=rss",
-      "snippet": "36氪获悉，立讯精密公告，公司本次全球发售H股总数为383,472,800股(行使超额配售权之前)，发售价为每股63.28港元，所得款项净额约240.391亿港元。经香港联交所批准，公司H股股票于2026年7月9日在香港联交所主板挂牌并上市交易。",
+      "snippet": "36氪获悉，立讯精密公告，公司本次全球发���H股总数为383,472,800股(行使超额配售权之前)，发售价为每股63.28港元，所得款项净额约240.391亿港元。经香港联交所批准，公司H股股票于2026年7月9日在香港联交所主板挂牌并上市交易。",
       "pubDate": "2026-07-09 20:49:36  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "商业融资"
       ]
@@ -572,7 +767,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "综合"
       ]
@@ -588,7 +783,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "政策监管"
       ]
@@ -604,7 +799,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-07-09T21:26:05.456Z",
+      "fetchedAt": "2026-07-09T23:12:45.962Z",
       "tags": [
         "综合"
       ]
@@ -620,202 +815,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
+      "fetchedAt": "2026-07-09T23:12:48.240Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "link": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Four nuclear",
-      "pubDate": "Thu, 09 Jul 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-09T21:26:12.094Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "大唐发电：拟募资不超过80亿元用于多个电厂扩建项目",
-      "link": "https://36kr.com/newsflashes/3888365419444739?f=rss",
-      "snippet": "36氪获悉，大唐发电公告，公司拟向特定对象发行A股股票，募集资金总额不超过80亿元，扣除发行费用后净额拟用于大唐抚州电厂2×1000MW扩建工程项目、大唐吕四港2×100万千瓦扩建项目、大唐潮州电厂5-6号机组项目、台州头门港电厂项目及补充流动资金和偿还国拨资金专项应付款。",
-      "pubDate": "2026-07-09 20:09:50  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-      "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-      "snippet": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
-      "pubDate": "Thu, 09 Jul 2026 12:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-09T21:26:11.504Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "三峡旅游：拟4576.11万元向控股股东出售九凤谷公司100%股权",
-      "link": "https://36kr.com/newsflashes/3888352182549001?f=rss",
-      "snippet": "36氪获悉，三峡旅游公告，公司计划将持有的全资子公司湖北三峡九凤谷旅游开发有限公司（简称“九凤谷公司”）100%股权，以4576.11万元的价格出售给控股股东湖北三峡文化旅游集团有限公司。此次出售资产所得款项将主要用于补充公司流动资金。九凤谷公司主营业务为景区运营。近年来，九凤谷景区因区域市场竞争态",
-      "pubDate": "2026-07-09 19:56:23  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "华神科技：向特定对象发行股票申请获深交所审核通过",
-      "link": "https://36kr.com/newsflashes/3888348553313032?f=rss",
-      "snippet": "36氪获悉，华神科技公告，公司2026年度向特定对象发行股票申请获得深交所上市审核中心审核通过。",
-      "pubDate": "2026-07-09 19:52:41  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "报道称Meta计划于9月开始生产AI芯片，并计划将计算能力翻倍",
-      "link": "https://36kr.com/newsflashes/3888342478748160?f=rss",
-      "snippet": "备忘录显示，Meta计划于9月开始生产“Iris”AI芯片，计划明年将计算能力翻倍至14吉瓦，Meta今年计划部署7吉瓦的计算基础设施。为了扩展计算基础设施，Meta已达成长期、多年的供应协议，备忘录显示。其中包括与三星电子的内存芯片协议、与Sandisk的闪存存储协议，以及与住友电工的光纤设备协议",
-      "pubDate": "2026-07-09 19:46:30  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "3天2板有研硅：晶隆半导体现有产能规模较小，尚未形成规模效益",
-      "link": "https://36kr.com/newsflashes/3888328136047109?f=rss",
-      "snippet": "36氪获悉，有研硅公告，公司以公开竞价摘牌方式参与收购安徽晶隆半导体科技有限公司60%股权，截至本公告披露日，公司已与滁州市南谯区国有资产运营有限公司签署《产权交易合同》并完成了相关款项的支付。晶隆半导体现有产能规模较小，尚未形成规模效益，后续产能扩充及经济效益存在不确定性；叠加行业周期波动、市场环",
-      "pubDate": "2026-07-09 19:31:55  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "伟隆股份：实控人拟减持公司不超1.49%股份",
-      "link": "https://36kr.com/newsflashes/3888323223960322?f=rss",
-      "snippet": "36氪获悉，伟隆股份公告，公司实控人范庆伟计划通过大宗交易方式，减持所持有的公司股份不超过376.32万股，即减持不超过公司总股本的1.49%。",
-      "pubDate": "2026-07-09 19:26:55  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "今飞凯达：拟募资不超2.95亿元用于年产60万件锻造铝合金汽车轮毂生产线智能制造项目等",
-      "link": "https://36kr.com/newsflashes/3888322362341891?f=rss",
-      "snippet": "36氪获悉，今飞凯达公告，公司发布2026年度以简易程序向特定对象发行股票预案，拟募集资金总额不超过2.95亿元，扣除发行费用后用于年产60万件锻造铝合金汽车轮毂生产线智能制造项目及偿还银行贷款。",
-      "pubDate": "2026-07-09 19:26:02  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美团联合医生学者发布“司南口腔榜”",
-      "link": "https://36kr.com/newsflashes/3888311962024710?f=rss",
-      "snippet": "7月9日，美团2026司南口腔榜在上海正式发布，全国33个城市的576家口腔机构、367位口腔医生入选，覆盖儿童早矫、正畸、种植牙等10大口腔品类。据了解，这是国内首个面向家庭口腔健康领域推出的专业机构及医师榜单。据了解，此榜单由9位学科教授领衔，联合40余位公立三甲专家独立交叉评审，同时综合平台超",
-      "pubDate": "2026-07-09 19:15:28  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "鼎龙股份：预计上半年净利润同比增长64%-74%",
-      "link": "https://36kr.com/newsflashes/3888309184723721?f=rss",
-      "snippet": "36氪获悉，鼎龙股份公告，预计2026年半年度归属于上市公司股东的净利润为5.10亿元-5.40亿元，同比增长63.96%-73.61%。",
-      "pubDate": "2026-07-09 19:12:38  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "燧原科技科创板IPO申请获证监会同意注册批复",
-      "link": "https://36kr.com/newsflashes/3888306591693314?f=rss",
-      "snippet": "36氪获悉，证监会日前下发关于同意上海燧原科技股份有���公司首次公开发行股票注册的批复，同意该公司在科创板上市的注册申请。",
-      "pubDate": "2026-07-09 19:10:00  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T21:26:07.537Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
