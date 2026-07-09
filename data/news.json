@@ -1,13 +1,112 @@
 {
-  "generatedAt": "2026-07-09T15:17:00.676Z",
+  "generatedAt": "2026-07-09T18:06:24.690Z",
   "stats": {
-    "total": 123,
+    "total": 126,
     "shown": 50,
     "chinese": 58,
-    "english": 65,
-    "today": 69
+    "english": 68,
+    "today": 81
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "How to stop Meta’s AI image generator from using your Instagram photos",
+      "link": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+      "snippet": "Meta's new AI image generator is using your public Instagram photos unless you opt out. Here's how to do that.",
+      "pubDate": "Thu, 09 Jul 2026 17:56:47 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-07-09T17:57:35.142Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meta’s new AI chips will begin production in September",
+      "link": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "snippet": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chi",
+      "pubDate": "Thu, 09 Jul 2026 17:17:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ram Iyer",
+      "fetchedAt": "2026-07-09T17:57:35.142Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Nvidia is a victim of the compute marketplace it created",
+      "link": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
+      "snippet": "Having proven how valuable compute can be, the company finds itself at the center of a market everyone wants to be in — while simpler technologies and",
+      "pubDate": "Thu, 09 Jul 2026 17:06:11 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-07-09T17:57:35.142Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Microsoft’s patch Tuesdays are about to get bigger",
+      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+      "snippet": "Windows 11 updates could soon include fixes for more security issues at once. Microsoft said in a blog post on Thursday that it's now using AI to \"ide",
+      "pubDate": "2026-07-09T17:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:35.372Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "snippet": "About two weeks after OpenAI's GPT-5.6 was caught up in regulatory drama - rolled out only to government-approved organizations during a \"limited prev",
+      "pubDate": "2026-07-09T17:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:35.372Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "万勋科技发布“柔韧充”自动充电通用服务引擎，以“0.000s无极容差应变”首创混沌服务、全类通解！",
+      "link": "https://36kr.com/p/3888567864851204?f=rss",
+      "snippet": "7月9日，万勋科技于北京举办自动充电机器人业务战略发布会，重磅推出行业首个以 “混沌服务” 模式全面覆盖公用、专用、家用所有应用类别的 “柔韧充” 自动充电通用服务引擎及其核心产品。其独一无二的 “0.000s 无极容差应变” 技术特性，在同期发布的三大类别 “全球首例” 应用成果中得到充分展现，正",
+      "pubDate": "2026-07-09 23:36:08  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Anthropic’s new Claude feature is quietly selling you on AI",
@@ -19,7 +118,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-09T15:12:38.773Z",
+      "fetchedAt": "2026-07-09T17:57:35.142Z",
       "tags": [
         "大模型"
       ]
@@ -28,16 +127,32 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
       "link": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-      "snippet": "Three big AI IPOs are set to generate more value than all the U.S. VC backed exits since 2000.",
+      "snippet": "Three big AI IPOs are set to generate more value than all the U.S. VC-backed exits since 2000.",
       "pubDate": "Thu, 09 Jul 2026 14:51:00 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-09T15:12:38.773Z",
+      "fetchedAt": "2026-07-09T17:57:35.142Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta says its new AI model is ready to compete on coding",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "snippet": "After reentering the AI race with its first in-house Muse Spark model in April, Meta is now opening up the doors to developers with a new model that c",
+      "pubDate": "2026-07-09T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:35.372Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -51,9 +166,42 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Say hello to Claude Wrapped",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "snippet": "The popularity of Spotify Wrapped has kicked off a wide range of year-in-review features, on apps from YouTube to Uber - and now, the lookback trend h",
+      "pubDate": "2026-07-09T13:30:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:35.372Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Character.AI wants a piece of the microdrama pie",
+      "link": "https://www.theverge.com/entertainment/962897/character-ai-series-microdrama-vertical-video",
+      "snippet": "Character.AI's plan to become more than just an LLM-powered chatbot platform is going beyond interactive books, comics, and audio dramas. Today, the c",
+      "pubDate": "2026-07-09T13:11:53.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:35.372Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -67,7 +215,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
+      "fetchedAt": "2026-07-09T17:57:34.889Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -84,7 +232,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-09T15:12:38.773Z",
+      "fetchedAt": "2026-07-09T17:57:35.142Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -101,9 +249,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-09T15:12:38.773Z",
+      "fetchedAt": "2026-07-09T17:57:35.142Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "FL Studio 2026 turns its AI chatbot into your assistant engineer",
+      "link": "https://www.theverge.com/tech/963052/fl-studio-2026-music-daw-ai-chatbot",
+      "snippet": "Gopher can’t play the piano for you, but it can bury it in the mix. | Image: Image Line\t  Last year, Image Line introduced Gopher for FL Studio, an AI",
+      "pubDate": "2026-07-09T13:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:35.372Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -117,7 +281,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -133,7 +297,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
       ]
@@ -149,7 +313,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
       ]
@@ -165,7 +329,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -181,7 +345,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -197,7 +361,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
       ]
@@ -213,7 +377,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "政策监管"
       ]
@@ -229,7 +393,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-07-09T15:12:30.290Z",
+      "fetchedAt": "2026-07-09T17:57:29.538Z",
       "tags": [
         "综合"
       ]
@@ -245,7 +409,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +425,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-09T15:12:39.294Z",
+      "fetchedAt": "2026-07-09T17:57:35.593Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +441,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +457,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-09T15:12:38.773Z",
+      "fetchedAt": "2026-07-09T17:57:35.142Z",
       "tags": [
         "AI应用"
       ]
@@ -309,7 +473,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +489,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -341,7 +505,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +521,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -373,7 +537,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +553,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +569,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -422,7 +586,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -438,7 +602,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -447,14 +611,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "紫金矿业：预计上半年净利润同比增长68%",
       "link": "https://36kr.com/newsflashes/3888303888873988?f=rss",
-      "snippet": "36氪获悉，紫金矿业公告，预计2026年半年度归属于上市公司股东的净利润约391亿元，同比增加约158亿元，增幅约68%。业绩变动主要系主要矿产品产量稳步提升，产品销售价格同比大幅上升，稀贵金属等产品利润同比大幅增加。",
+      "snippet": "36氪获悉，紫金矿业公告，预计2026年半年度归属于上市公司股东的净利润约391亿元，同比增加约158亿元，增幅约68%。业绩变动主要系主要矿产品产量稳步提升，产品销售价格同比大幅上升，稀贵金属等产品���润同比大幅增加。",
       "pubDate": "2026-07-09 19:07:15  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +634,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -487,7 +651,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -503,7 +667,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
+      "fetchedAt": "2026-07-09T17:57:34.889Z",
       "tags": [
         "综合"
       ]
@@ -519,7 +683,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
+      "fetchedAt": "2026-07-09T17:57:34.889Z",
       "tags": [
         "学术研究"
       ]
@@ -535,9 +699,58 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
+      "fetchedAt": "2026-07-09T17:57:34.889Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "link": "https://openai.com/index/gpt-5-6",
+      "snippet": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:37.220Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "link": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+      "snippet": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:37.220Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "link": "https://openai.com/index/bio-bug-bounty",
+      "snippet": "Details about the OpenAI Bio Bounty program",
+      "pubDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-09T17:57:37.220Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -551,7 +764,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "AI应用"
       ]
@@ -567,7 +780,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
+      "fetchedAt": "2026-07-09T17:57:31.613Z",
       "tags": [
         "商业融资"
       ]
@@ -583,7 +796,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-09T15:12:30.290Z",
+      "fetchedAt": "2026-07-09T17:57:29.538Z",
       "tags": [
         "商业融资"
       ]
@@ -599,220 +812,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
+      "fetchedAt": "2026-07-09T17:57:34.889Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "揭秘Momenta：马斯克式CEO、AI执念和量产机器丨深氪",
-      "link": "https://36kr.com/p/3888180493318921?f=rss",
-      "snippet": "特斯拉FSD（Full Self-Driving）每迭代出一个新版本，自动驾驶公司Momenta的创始人曹旭东都会飞去美国亲自体验。 “他还不光是去坐车，还会找一切能接触到特��拉的人聊。”接触到曹旭东的人士告诉36氪，马斯克是曹旭东最常提到的人。 在内部，许多员工对曹旭东的一个共同感受，就是“马斯",
-      "pubDate": "2026-07-09 17:01:56  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-09T15:12:33.493Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "天立启鸣“AI+教育”方案入选AI for Good",
-      "link": "https://www.leiphone.com/category/ai/PfbwTKDLzwL99jmZ.html",
-      "snippet": "北京时间7月7日，联合国机构国际电信联盟（ITU）2026年“人工智能向善”全球峰会（AI for Good Global Summit）在瑞士日内瓦举办，公布了年度“AI for Good创新影响力案例集”。天立国际旗下智慧教育公司启鸣达人（以下简称“天立启鸣”）自主研发的“天立学科大脑：AI驱动",
-      "pubDate": "Thu, 09 Jul 2026 16:59:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "ICML 精选Spotlight Poster汇总：Session 7-1",
-      "link": "https://www.leiphone.com/category/private/bqJj0gBbZjw1sZNB.html",
-      "snippet": "7月9日，人工智能与计算机视觉领域的风向标盛会ICML 2026正式开启了三天的核心议程。本届大会在创纪录的投递量中严选出6352篇录用论文，其中包含代表前沿风向的Spotlight论文536篇（占投稿总数的 2.2%），以及极具开创性的Oral 论文168篇 （仅占投稿总数的 0.7 %）。 本届",
-      "pubDate": "Thu, 09 Jul 2026 16:53:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
-      "tags": [
-        "学术研究",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput",
-      "link": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput/",
-      "snippet": "NVIDIA has released Nemotron-Labs-3-Puzzle-75B-A9B, a compressed variant of Nemotron-3-Super. Iterative Puzzle alternates hardware-aware structural co",
-      "pubDate": "Thu, 09 Jul 2026 08:47:37 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-09T15:12:41.637Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Four nuclear reactors hit a big milestone in the US",
-      "link": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
-      "snippet": "I was really looking forward to July 4, and not just because I love a poolside barbecue. This year the American holiday also marked a big symbolic dea",
-      "pubDate": "Thu, 09 Jul 2026 08:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Casey Crownhart",
-      "fetchedAt": "2026-07-09T15:12:39.294Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Studio Adds Import from GitHub to Build a Deployable App",
-      "link": "https://www.marktechpost.com/2026/07/09/google-ai-studio-adds-import-from-github/",
-      "snippet": "Google AI Studio is rolling out Import from GitHub in Build mode. It transforms an existing repo into a runtime-compatible format. You can then iterat",
-      "pubDate": "Thu, 09 Jul 2026 07:58:06 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-09T15:12:41.637Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Datalab Lift vs the Field: How a 9B Schema-First Extractor Compares with NuExtract3, LlamaExtract, Marker, and Docling",
-      "link": "https://www.marktechpost.com/2026/07/09/datalab-lift-vs-the-field-how-a-9b-schema-first-extractor-compares-with-nuextract3-llamaextract-marker-and-docling/",
-      "snippet": "Datalab’s Lift is a focused document extraction tool with a specific promise: give it a PDF or image plus a JSON Schema, and it returns schema-shaped",
-      "pubDate": "Thu, 09 Jul 2026 07:50:47 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-07-09T15:12:41.637Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
-      "link": "https://www.qbitai.com/2026/07/446778.html",
-      "snippet": "李开复笑着回应了",
-      "pubDate": "Thu, 09 Jul 2026 07:34:25 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-07-09T15:12:30.290Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "支付宝发布AIS开发套件：让Agent自动发现、调用、计费",
-      "link": "https://www.leiphone.com/category/industrynews/27C8eEaw1r1xfTzp.html",
-      "snippet": "7月8日，继发布全栈AI支付体系后，支付宝AI支付再推Agent经营方案。从AI开发、AI经营、AI营销三大方向探索Agent时代的商业新机会，帮助商家在AI时代实现产品创新、用户连接与经营增长。  全新推出开发套件AIS让Agent可构建完整商业链路 随着企业探索AI应用，开发Agent的复杂度也",
-      "pubDate": "Thu, 09 Jul 2026 14:30:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
-      "link": "https://www.qbitai.com/2026/07/446658.html",
-      "snippet": "To safe AGI.",
-      "pubDate": "Thu, 09 Jul 2026 06:29:30 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-07-09T15:12:30.290Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中国机器人大脑引爆海外，蚂蚁灵波全栈2.0模型定义具身智能“新大脑”",
-      "link": "https://www.leiphone.com/category/industrynews/G37AgItr75dHXX0i.html",
-      "snippet": "7月9日，中国AI创新力量再次引发全球关注。 中国具身智能公司——蚂蚁灵波科技升级全栈大脑2.0，一口气发布了涵盖视觉、动作、操作以及物理预测等方向的具身智能大模型，在海外开发者社区掀起热潮，发布即登上海外社交媒体热榜。  图说：蚂蚁灵波世界模型LingBot-World 2.0（Infinity）",
-      "pubDate": "Thu, 09 Jul 2026 14:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
-      "link": "https://www.qbitai.com/2026/07/446568.html",
-      "snippet": "视频生成的下一站，或是机器人大脑",
-      "pubDate": "Thu, 09 Jul 2026 05:47:05 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "十三",
-      "fetchedAt": "2026-07-09T15:12:30.290Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "新鲜零食“开创者”金粒门华南首店落地深圳",
-      "link": "https://www.leiphone.com/category/smartretailing/AXQriqGk77iNHtFU.html",
-      "snippet": "7月8日，新鲜零食“开创者”金粒门华南首店正式开业，位于深圳布吉万象汇。这是金粒门开启“出湘”以来，开出的第二个大区首店，其将以“新鲜短保、高质价比”的差异化新鲜零食模式，为深圳乃至华南新鲜零食消费市场带来全新升级体验。  作为品牌布局华南的开篇之作，金粒门深圳布吉万象汇店坐落于商场B1层核心区位，",
-      "pubDate": "Thu, 09 Jul 2026 13:42:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-09T15:12:38.510Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
       ]
     }
   ]
