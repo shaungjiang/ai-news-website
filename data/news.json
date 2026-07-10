@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-07-10T19:33:17.471Z",
+  "generatedAt": "2026-07-10T21:16:19.651Z",
   "stats": {
-    "total": 122,
+    "total": 132,
     "shown": 50,
     "chinese": 58,
-    "english": 64,
-    "today": 62
+    "english": 74,
+    "today": 68
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "snippet": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+      "pubDate": "Fri, 10 Jul 2026 21:00:29 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-07-10T21:06:26.855Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Kyutai Releases MuScriptor: An Open-Weight Decoder-Only Transformer for Multi-Instrument Music Transcription to MIDI",
+      "link": "https://www.marktechpost.com/2026/07/10/kyutai-releases-muscriptor-an-open-weight-decoder-only-transformer-for-multi-instrument-music-transcription-to-midi/",
+      "snippet": "MuScriptor is an open-weight, decoder-only Transformer from Kyutai and Mirelo. Trained on 170k real recordings plus 1.45M synthetic MIDIs, it transcri",
+      "pubDate": "Fri, 10 Jul 2026 20:21:08 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-10T21:06:29.966Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "How to Build a T4-Friendly Autonomous Data Science Agent with DeepAnalyze-8B, Sandboxed Code Execution, and Iterative Analysis",
+      "link": "https://www.marktechpost.com/2026/07/10/how-to-build-a-t4-friendly-autonomous-data-science-agent-with-deepanalyze-8b-sandboxed-code-execution-and-iterative-analysis/",
+      "snippet": "We build an autonomous data science agent around DeepAnalyze-8B and run it end to end. We prepare a stable Colab runtime, install the machine-learning",
+      "pubDate": "Fri, 10 Jul 2026 19:24:00 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-10T21:06:29.966Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "snippet": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, whe",
+      "pubDate": "Fri, 10 Jul 2026 19:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan, Theresa Loconsolo",
+      "fetchedAt": "2026-07-10T21:06:26.855Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "只剩7天！第三届蚂蚁InTech奖申报即将截止，图灵奖得主坐镇评审",
@@ -19,7 +83,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-07-10T19:28:51.238Z",
+      "fetchedAt": "2026-07-10T21:06:21.810Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-07-10T19:28:55.470Z",
+      "fetchedAt": "2026-07-10T21:06:26.855Z",
       "tags": [
         "商业融资"
       ]
@@ -51,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-10T19:28:56.969Z",
+      "fetchedAt": "2026-07-10T21:06:28.520Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-07-10T19:28:51.238Z",
+      "fetchedAt": "2026-07-10T21:06:21.810Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-07-10T19:28:55.470Z",
+      "fetchedAt": "2026-07-10T21:06:26.855Z",
       "tags": [
         "开源工具"
       ]
@@ -99,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.766Z",
+      "fetchedAt": "2026-07-10T21:06:27.119Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.766Z",
+      "fetchedAt": "2026-07-10T21:06:27.119Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +195,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +211,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +227,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "政策监管"
       ]
@@ -179,7 +243,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "政策监管"
       ]
@@ -195,7 +259,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +275,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "AI应用"
       ]
@@ -227,7 +291,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +307,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -260,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +340,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +356,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-10T19:28:56.038Z",
+      "fetchedAt": "2026-07-10T21:06:27.424Z",
       "tags": [
         "大模型"
       ]
@@ -308,7 +372,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "商业融资"
       ]
@@ -324,7 +388,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +404,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "政策监管"
       ]
@@ -356,7 +420,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +436,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "商业融资"
       ]
@@ -388,7 +452,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "商业融资"
       ]
@@ -404,7 +468,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "政策监管",
         "商业融资"
@@ -421,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +501,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "学术研究"
       ]
@@ -453,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "商业融资"
       ]
@@ -462,14 +526,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "智驾新程：蒋京芳加入公司并担任总裁",
       "link": "https://36kr.com/newsflashes/3889735186414088?f=rss",
-      "snippet": "36氪获悉，7月10日，智驾新程neueHCT正式宣布，蒋京芳女士加入公司并担任总裁，负责公司战略规划、商业化推广、工程化��付及全球化业务布局，助力智驾新程neueHCT进一步加速高阶智能辅助驾驶方案的规模化、全球化量产落地进程。",
+      "snippet": "36氪获悉，7月10日，智驾新程neueHCT正式宣布，蒋京芳女士加入公司并担任总裁，负责公司战略规划、商业化推广、工程化交付及全球化业务布局，助力智驾新程neueHCT进一步加速高阶智能辅助驾驶方案的规模化、全球化量产落地进程。",
       "pubDate": "2026-07-10 19:23:14  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "AI应用"
       ]
@@ -485,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "综合"
       ]
@@ -501,7 +565,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "商业融资"
       ]
@@ -517,7 +581,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-07-10T19:28:51.238Z",
+      "fetchedAt": "2026-07-10T21:06:21.810Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +597,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-07-10T19:28:51.238Z",
+      "fetchedAt": "2026-07-10T21:06:21.810Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -550,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-10T19:28:51.238Z",
+      "fetchedAt": "2026-07-10T21:06:21.810Z",
       "tags": [
         "综合"
       ]
@@ -566,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-07-10T19:28:51.238Z",
+      "fetchedAt": "2026-07-10T21:06:21.810Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "商业融资"
       ]
@@ -598,9 +662,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-10T19:28:56.038Z",
+      "fetchedAt": "2026-07-10T21:06:27.424Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Research Introduces SensorFM: A Wearable Health Foundation Model Pretrained on One Trillion Minutes of Sensor Data",
+      "link": "https://www.marktechpost.com/2026/07/10/google-research-introduces-sensorfm-a-wearable-health-foundation-model-pretrained-on-one-trillion-minutes-of-sensor-data/",
+      "snippet": "SensorFM, a wearable health foundation model from Google Research, Google DeepMind, and university collaborators. We walk through its ViT-1D masked-au",
+      "pubDate": "Fri, 10 Jul 2026 08:52:04 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-10T21:06:29.966Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -614,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "开源工具"
       ]
@@ -630,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "政策监管"
       ]
@@ -646,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "商业融资"
       ]
@@ -662,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "综合"
       ]
@@ -678,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "AI应用"
       ]
@@ -694,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
+      "fetchedAt": "2026-07-10T21:06:26.539Z",
       "tags": [
         "AI应用"
       ]
@@ -710,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-07-10T19:28:51.238Z",
+      "fetchedAt": "2026-07-10T21:06:21.810Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -727,91 +807,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-10T19:28:53.114Z",
+      "fetchedAt": "2026-07-10T21:06:23.638Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "追觅升空，大疆落地",
-      "link": "https://www.leiphone.com/category/industrynews/3un95FJQm3LtWOU6.html",
-      "snippet": "一场极具象征意义的“双向奔赴”正在中国科技圈上演，让25年的盛夏更加热烈。 无人机霸主大疆，突然俯身向下，宣布进军扫地机器人市场；而地面清洁巨头追觅，却选择高维跃迁，携智能影像与无人机技术冲向天空。 这两大以硬核科技立身的企业，正跨越边界，向彼此最熟悉的战场发起一场高维奇袭。  01  为何“上天”",
-      "pubDate": "Fri, 10 Jul 2026 15:22:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "央视专访俞浩：把技术这件事做到极致",
-      "link": "https://www.leiphone.com/category/industrynews/wilsod2DtbT2u7hk.html",
-      "snippet": "在科技圈，真正的护城河只有一个，拿得出手的核心技术。 大多没有核心技术的企业，会倾向学习市面上已有的答案、在安全区里生存，但追觅科技不是。 它在一无所有时，便相信并敢于立志——成为世界第一。 追觅有一个“N+1”的理论，行业高标准是N，追觅要在N标准上再多做一个创新。 如今，追觅的扫地机在全球30个",
-      "pubDate": "Fri, 10 Jul 2026 15:09:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
-      "tags": [
-        "政策监管",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-      "link": "https://openai.com/index/deutsche-telekom",
-      "snippet": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future",
-      "pubDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-07-10T19:28:57.443Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "全球首个获工业级全域CE认证的具身智能机器人！无界动力K15开启全球批量交付",
-      "link": "https://www.leiphone.com/category/industrynews/jZnmuG3qKKX5smDx.html",
-      "snippet": "2026年7月9日，无界动力正式宣布旗下第二代机器人 K15 已通过欧盟合规准入，成为全球首个获得工业级全域 CE 认证的具身智能机器人。该产品全面通过了欧盟CE-MD（机械安全）、CE-RED（无线电设备）、CE-EMC（电磁兼容）以及EN ISO 13849（功能安全）全套工业级高标准认证，并在",
-      "pubDate": "Fri, 10 Jul 2026 14:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-10T19:28:55.186Z",
-      "tags": [
-        "政策监管",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "AI华语歌，终于能听了！从零预训练十亿参数，告别「人机味」",
-      "link": "https://www.qbitai.com/2026/07/447602.html",
-      "snippet": "字节也入局了",
-      "pubDate": "Fri, 10 Jul 2026 04:44:38 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-07-10T19:28:51.238Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
