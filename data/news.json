@@ -1,13 +1,94 @@
 {
-  "generatedAt": "2026-07-14T21:06:05.672Z",
+  "generatedAt": "2026-07-14T23:07:29.253Z",
   "stats": {
-    "total": 139,
+    "total": 138,
     "shown": 50,
     "chinese": 60,
-    "english": 79,
-    "today": 89
+    "english": 78,
+    "today": 94
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "PrismML Releases Bonsai 27B: 1-bit and Ternary Builds of Qwen3.6-27B That Run on Laptops and Phones",
+      "link": "https://www.marktechpost.com/2026/07/14/prismml-releases-bonsai-27b-1-bit-and-ternary-builds-of-qwen3-6-27b-that-run-on-laptops-and-phones/",
+      "snippet": "PrismML just released Bonsai 27B. It is a low-bit representation of Qwen3.6-27B, not a new pretrain. The architecture is unchanged. Two variants ship",
+      "pubDate": "Tue, 14 Jul 2026 22:51:34 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-14T22:57:40.462Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
+      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
+      "snippet": "OpenAI's first hardware device is reported to be a screenless, AI-guided smart speaker that can move. Weird enough for you?",
+      "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI pushes back on Apple trade secret lawsuit",
+      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
+      "snippet": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
+      "pubDate": "Tue, 14 Jul 2026 22:07:42 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Kirsten Korosec",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
+      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
+      "snippet": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
+      "pubDate": "Tue, 14 Jul 2026 21:50:11 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI may announce a ChatGPT smart speaker this year",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "snippet": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't",
+      "pubDate": "2026-07-14T21:26:32.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-14T22:57:37.542Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Mistral Vibe for Code vs Claude Code vs Cursor vs Codex: Four Agents Scored on One Scaffold-to-PR Task",
@@ -19,7 +100,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-14T21:01:11.228Z",
+      "fetchedAt": "2026-07-14T22:57:40.462Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +116,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-14T21:01:11.228Z",
+      "fetchedAt": "2026-07-14T22:57:40.462Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -52,7 +133,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-07-14T21:01:09.229Z",
+      "fetchedAt": "2026-07-14T22:57:38.661Z",
       "tags": [
         "政策监管"
       ]
@@ -68,7 +149,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "AI应用"
       ]
@@ -84,7 +165,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +181,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "商业融资"
       ]
@@ -116,7 +197,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:07.780Z",
+      "fetchedAt": "2026-07-14T22:57:37.542Z",
       "tags": [
         "开源工具"
       ]
@@ -132,7 +213,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-07-14T21:01:02.018Z",
+      "fetchedAt": "2026-07-14T22:57:31.943Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +229,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "政策监管"
       ]
@@ -164,7 +245,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-07-14T21:01:09.229Z",
+      "fetchedAt": "2026-07-14T22:57:38.661Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +261,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +277,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:07.780Z",
+      "fetchedAt": "2026-07-14T22:57:37.542Z",
       "tags": [
         "开源工具"
       ]
@@ -212,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-07-14T21:01:09.229Z",
+      "fetchedAt": "2026-07-14T22:57:38.661Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +309,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "AI应用"
       ]
@@ -244,7 +325,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +341,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:07.780Z",
+      "fetchedAt": "2026-07-14T22:57:37.542Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +357,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:07.780Z",
+      "fetchedAt": "2026-07-14T22:57:37.542Z",
       "tags": [
         "AI应用"
       ]
@@ -292,7 +373,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +389,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-14T21:01:09.229Z",
+      "fetchedAt": "2026-07-14T22:57:38.661Z",
       "tags": [
         "政策监管"
       ]
@@ -324,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "开源工具"
       ]
@@ -340,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "开源工具"
       ]
@@ -356,7 +437,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -373,7 +454,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:07.780Z",
+      "fetchedAt": "2026-07-14T22:57:37.542Z",
       "tags": [
         "政策监管"
       ]
@@ -389,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-14T21:01:07.371Z",
+      "fetchedAt": "2026-07-14T22:57:37.295Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:06.992Z",
+      "fetchedAt": "2026-07-14T22:57:36.974Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -422,7 +503,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "商业融资"
       ]
@@ -438,7 +519,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +535,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +551,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +567,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "AI应用"
       ]
@@ -502,7 +583,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "商业融资"
       ]
@@ -518,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-07-14T21:01:02.018Z",
+      "fetchedAt": "2026-07-14T22:57:31.943Z",
       "tags": [
         "开源工具"
       ]
@@ -534,7 +615,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "AI应用"
       ]
@@ -550,7 +631,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "综合"
       ]
@@ -566,7 +647,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "商业融资"
       ]
@@ -582,7 +663,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-14T21:01:08.192Z",
+      "fetchedAt": "2026-07-14T22:57:37.795Z",
       "tags": [
         "大模型"
       ]
@@ -598,7 +679,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-07-14T21:01:02.018Z",
+      "fetchedAt": "2026-07-14T22:57:31.943Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +711,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "AI应用"
       ]
@@ -646,7 +727,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "商业融资"
       ]
@@ -662,7 +743,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "大模型"
       ]
@@ -678,7 +759,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "AI应用"
       ]
@@ -694,7 +775,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "综合"
       ]
@@ -710,7 +791,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:33.919Z",
       "tags": [
         "综合"
       ]
@@ -726,87 +807,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-14T21:01:07.780Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "日本东京迪士尼10月起将上调门票上限价格",
-      "link": "https://36kr.com/newsflashes/3895410167809667?f=rss",
-      "snippet": "7月14日，运营日本东京迪士尼度假区的东方乐园公司表示，10月起将上调门票上限价格。门票价格因一周中不同日子和时期有所差异，成人单人一日票上限最多将涨价1500日元，达到12400日元（约合人民币518元），儿童票上限价格将上调300日元至5900日元。这将是2023年10月以来东京迪士尼首次提价。",
-      "pubDate": "2026-07-14 19:36:08  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美银预计SK海力士至2028年实际可新增产能仅为原计划的六分之一",
-      "link": "https://36kr.com/newsflashes/3895405644088965?f=rss",
-      "snippet": "美国银行最新分析显示，SK海力士至2028年实际可新增的存储芯片产能，可能仅为原计划的六分之一，这一判断不仅令韩国政府的产能扩张蓝图大打折扣，更为正在进行中的DRAM价格操纵集体诉讼提供了关键佐证。受旧厂关闭、技术升级及制程微缩等因素影响，韩国每年实际可增加的运营存储晶圆产能不足10%，这意味着到2",
-      "pubDate": "2026-07-14 19:31:32  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "毕马威准备裁员数百人并削减合伙人薪酬",
-      "link": "https://36kr.com/newsflashes/3895401093629575?f=rss",
-      "snippet": "据报道，毕马威正准备在澳大利亚裁员数百人，并将合伙人薪酬最多削减20%。此前，毕马威澳大利亚被指利用客户机密信息赢得业务，该事件持续发酵。知情人士称，裁员可能波及整个公司，规模甚至可能超过1000人。报道称，在公司未来几周选定永久首席执行官之前，不会宣布裁员消息。不过，高层管理人员已经在审查客户订单",
-      "pubDate": "2026-07-14 19:26:54  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "氪星晚报 ｜智谱：完成配售新H股募资约314亿港元；荣耀与阿里将开展AI智能体终端合作；小米机器人首次实现汽车工厂柔性工件的长时作业",
-      "link": "https://36kr.com/p/3895322613185543?f=rss",
-      "snippet": "大公司： 中国神华：预计上半年净利润同比增长6.9%-21.1% 36氪获悉，中国神华公告，预计2026年上半年归属于上市公司股东的净利润为263亿元至298亿元，同比增长6.9%-21.1%。业绩变动主要系煤化工业务量及自有铁路、港口、航运业务量增加，带动相关业务利润同比增长。 中国人寿：预计上半",
-      "pubDate": "2026-07-14 19:21:42  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美国银行二季度净营收315.6亿美元，高于预期",
-      "link": "https://36kr.com/newsflashes/3895377229383305?f=rss",
-      "snippet": "美国银行7月14日公布二季度净利息收入160亿美元，预期159.2亿美元；每股收益1.21美元；二季度净营收（扣除利息支出后）为315.6亿美元，高于预期的304.9亿美元。（界面）",
-      "pubDate": "2026-07-14 19:20:33  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-14T21:01:03.762Z",
+      "fetchedAt": "2026-07-14T22:57:37.542Z",
       "tags": [
         "综合"
       ]
