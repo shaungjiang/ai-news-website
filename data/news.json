@@ -1,25 +1,377 @@
 {
-  "generatedAt": "2026-07-15T10:13:49.821Z",
+  "generatedAt": "2026-07-15T13:55:31.804Z",
   "stats": {
-    "total": 124,
+    "total": 132,
     "shown": 50,
     "chinese": 59,
-    "english": 65,
-    "today": 43
+    "english": 73,
+    "today": 58
   },
   "articles": [
     {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
+      "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+      "snippet": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI ado",
+      "pubDate": "Wed, 15 Jul 2026 13:10:47 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-07-15T13:45:41.273Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+      "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+      "snippet": "Rime is handling over 100 million calls each month across multiple companies",
+      "pubDate": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-07-15T13:45:41.273Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+      "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+      "snippet": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+      "pubDate": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-07-15T13:45:41.273Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
       "id": "MzZrci1haTpodHRw",
-      "title": "百度为苹果智能提供AI搜索功能",
-      "link": "https://36kr.com/newsflashes/3896728075323271?f=rss",
-      "snippet": "36氪获悉，网信办发布7款提供手机端侧生成式人工智能服务备案信息，其中苹果技术开发（上海）有限公司的“Apple智能”大模型已于2026年7月8日备案。据了解，苹果与百度的合作重点在开发一种基于人工智能的搜索功能。这些功能是一套名为“苹果智能”的功能套件的一部分，能够处理图像和文本，并升级为中国版的",
-      "pubDate": "2026-07-15 17:56:46  +0800",
+      "title": "斯凯奇终身代言人哈里·凯恩率英格兰半决赛迎战阿根廷",
+      "link": "https://36kr.com/newsflashes/3896906902882178?f=rss",
+      "snippet": "北京时间7月16日，斯凯奇终身代言人哈里·凯恩作为队长带领英格兰出战，即将迎战阿根廷。",
+      "pubDate": "2026-07-15 20:58:41  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超4%",
+      "link": "https://36kr.com/newsflashes/3896904821704328?f=rss",
+      "snippet": "36氪获悉，热门中概股美股盘前普涨，截至发稿，名创优品涨超7%，阿里巴巴涨超4%，京东涨超2%，百度、哔哩哔哩涨超1%。",
+      "pubDate": "2026-07-15 20:56:34  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美股大型科技股盘前多数上涨，英特尔涨超2%",
+      "link": "https://36kr.com/newsflashes/3896903325419142?f=rss",
+      "snippet": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，英特尔涨超2%，SpaceX涨超1%，微软涨0.88%，苹果涨0.81%，奈飞涨0.72%，Meta涨0.68%，亚马逊涨0.66%，特斯拉涨0.58%；谷歌跌0.24%，英伟达跌0.21%。",
+      "pubDate": "2026-07-15 20:55:03  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "巴菲特说将捐出1400亿美元股票",
+      "link": "https://36kr.com/newsflashes/3896894911678086?f=rss",
+      "snippet": "美国知名投资人沃伦·巴菲特14日表示，到2034年底将其剩余的伯克希尔-哈撒韦公司股票，价值超1400亿美元，全部捐赠给慈善机构，而这份捐赠名单中并没有包括盖茨基金会。现年95岁的巴菲特自2006年开始捐赠名下资产，自2006年宣布捐出全部财富的计划以来，已累计捐赠了超过610亿美元（约合人民币41",
+      "pubDate": "2026-07-15 20:46:29  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "三星电子拟将谷歌TPU I/O芯片后端设计工作外包",
+      "link": "https://36kr.com/newsflashes/3896886853060480?f=rss",
+      "snippet": "7月15日，据报道，因代工需求不断增长，三星电子正考虑将谷歌TPU I/O芯片的后端设计工作外包。公司正考虑与AD Technology、Gaonchips、Alphachips三家韩国本土半导体设计服务公司合作。（界面）",
+      "pubDate": "2026-07-15 20:38:17  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美国6月PPI同比升5.5%",
+      "link": "https://36kr.com/newsflashes/3896881333601928?f=rss",
+      "snippet": "美国6月PPI同比升5.5%，前值升6.5%。（第一财经）",
+      "pubDate": "2026-07-15 20:32:41  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "银行理财“信披明牌”不止指数基准，有机构尝试展现理财产品最大回撤",
+      "link": "https://36kr.com/newsflashes/3896880615884417?f=rss",
+      "snippet": "当前，多家理财公司正将理财产品的业绩比较基准切换为“动态指数型”。某头部股份行理财公司产品部人士向记者表示：“公司正全面梳理产品信息。以后业绩比较基准将无法随意调整，所以每只产品都要根据数据测算，挑选与产品定位和长期走势相吻合的指数组合作为业绩比较基准。”面对“换锚”后的投资者理解难题，理财机构及商",
+      "pubDate": "2026-07-15 20:31:57  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "NetApp与甲骨文合作推出全托管云存储服务",
+      "link": "https://36kr.com/newsflashes/3896875735205513?f=rss",
+      "snippet": "7月15日，智能数据基础设施公司NetApp与甲骨文宣布推出一项全新的全托管云存储服务，该服务将企业级NetApp存储原生集成至甲骨文云基础设施。该服务目前正面向部分客户开放预览，旨在帮助企业简化关键AI和企业工作负载在云端的迁移与管理。（界面）",
+      "pubDate": "2026-07-15 20:26:59  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "华润双鹤：参与竞买利尔化学1.88亿股股份的事项",
+      "link": "https://36kr.com/newsflashes/3896870730024836?f=rss",
+      "snippet": "36氪获悉，华润双鹤公告，公司参与了竞买四川久远投资控股集团有限公司和四川化材科技有限公司合计持有的利尔化学1.88亿股股份的事项，占利尔化学总股本的23.5%。7月15日，公司收到交易对方出具的评审结果告知函，确定华润双鹤为上述公开征集转让排名第一的意向受让方。",
+      "pubDate": "2026-07-15 20:21:53  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "海创药业：氘恩扎鲁胺软胶囊临床试验获批准",
+      "link": "https://36kr.com/newsflashes/3896863492294275?f=rss",
+      "snippet": "36氪获悉，海创药业公告，公司收到中国国家药品监督管理局核准签发的《药物临床试验批准通知书》，同意氘恩扎鲁胺软胶囊开展前列腺癌Ⅲ期临床实验。",
+      "pubDate": "2026-07-15 20:14:32  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+      "link": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum h",
+      "pubDate": "Wed, 15 Jul 2026 12:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-07-15T13:45:41.789Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "力盛体育：拟2000万元—4000万元回购股份",
+      "link": "https://36kr.com/newsflashes/3896856012195718?f=rss",
+      "snippet": "36氪获悉，力盛体育公告，公司拟以2000万元—4000万元回购股份，用于维护公司价值及股东权益所必需，回购股份的价格不超过17.7元/股（含）。中国银行上海市闵行支行承诺本次为公司提供不超过1500万元额度的股票回购专项贷款，期限不超过3年。",
+      "pubDate": "2026-07-15 20:06:55  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "獐子岛：和岛一号基金拟减持公司不超过1.06%股份",
+      "link": "https://36kr.com/newsflashes/3896849498130057?f=rss",
+      "snippet": "36氪获悉，獐子岛公告，公司持股6.05%的股东和岛一号基金计划以集中竞价交易方式和大宗交易方式，减持公司股份合计不超过753.77万股，占公司总股本比例不超过1.06%。",
+      "pubDate": "2026-07-15 20:00:18  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+      "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+      "snippet": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+      "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-07-15T13:45:41.273Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+      "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+      "snippet": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
+      "pubDate": "Wed, 15 Jul 2026 12:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-07-15T13:45:41.273Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "A股首份半年报出炉：优彩资源上半年净利润同比增103.87%",
+      "link": "https://36kr.com/newsflashes/3896847110178440?f=rss",
+      "snippet": "36氪获悉，A股2026年首份半年报出炉。优彩资源披露半年度报告，公司2026年半年度实现营业收入为13.3亿元，同比增长7.87%；归属于上市公司股东的净利润8258.63万元，同比增长103.87%；基本每股收益0.24元。公司拟向全体股东每10股派发现金红利2元（含税）。",
+      "pubDate": "2026-07-15 19:57:52  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "OPPO回应完成端侧AI备案：是适配监管要求的一项常规合规动作",
+      "link": "https://36kr.com/newsflashes/3896845441549954?f=rss",
+      "snippet": "7月15日，7款提供手机端侧生成式人工智能服务完成备案，其中华为、OPPO等品牌机型在列。对此，OPPO方面向记者回应，此次备案是OPPO主动适配国家人工智能大模型监管要求、依法合规推进相关业务的一项常规合规动作。（证券时报）",
+      "pubDate": "2026-07-15 19:56:10  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "精测电子：拟收购上海精测41.17%股权，公司股票16日起复牌",
+      "link": "https://36kr.com/newsflashes/3896844572788357?f=rss",
+      "snippet": "36氪获悉，精测电子公告，公司拟通过发行股份、可转换公司债券及支付现金的方式向彭骞等13名交易对方购买上海精测半导体技术有限公司（简称“上海精测”）41.17%股权并募集配套资金。截至目前，标的资产交易价格尚未确定。上海精测目前作为精测电子控股子公司，主营业务为半导体前道量检测设备的研发、生产及销售",
+      "pubDate": "2026-07-15 19:55:17  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "面壁智能端侧大模型将搭载三星手机上市",
+      "link": "https://36kr.com/newsflashes/3896839832143750?f=rss",
+      "snippet": "36氪独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。",
+      "pubDate": "2026-07-15 19:50:28  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "独家｜面壁智能端侧大模型将搭载三星手机上市",
+      "link": "https://36kr.com/p/3896830362601351?f=rss",
+      "snippet": "文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智",
+      "pubDate": "2026-07-15 19:47:14  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -27,18 +379,98 @@
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "阿里巴巴获南向资金净买入约30.91亿港元",
-      "link": "https://36kr.com/newsflashes/3896724397606790?f=rss",
-      "snippet": "南向资金今日净买入133.64亿港元。其中，阿里巴巴-W、腾讯控股分别获净买入约30.91亿港元、18.06亿港元；盈富基金遭净卖出13.29亿港元。（第一财经）",
-      "pubDate": "2026-07-15 17:53:02  +0800",
+      "title": "海泰新光：拟5000万元—1亿元回购股份",
+      "link": "https://36kr.com/newsflashes/3896832536954760?f=rss",
+      "snippet": "36氪获悉，海泰新光公告，公司拟以5000万元—1亿元回购股份，用于维护公司价值及股东权益，回购价格不超过166元/股（含）。",
+      "pubDate": "2026-07-15 19:43:02  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "氪星晚报｜LG新能源将为谷歌规模最大的“光储一体”项目供应电池；元宝与京东AI Agent正式打通小程序生态；日本散户持有美元净空头飙至2.79万亿日元，创2008年以来历史之最",
+      "link": "https://36kr.com/p/3896563671222147?f=rss",
+      "snippet": "大公司： 美团、青桔、哈啰共享单车调价 近期，美团单车、滴滴青桔、哈啰单车相继在北京等多个城市上调计费规则，三大平台不约而同地采取了“提高起步定价、拉长基础骑行时长”的组合策略：起步价从此前的1.5元/30分钟左右，普遍调整为1.88元至1.99元/60分钟。这成为共享单车行业近年来较大范围的一次集",
+      "pubDate": "2026-07-15 19:37:31  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "永和股份：拟1.5亿元—3亿元回购公司股份",
+      "link": "https://36kr.com/newsflashes/3896827030324868?f=rss",
+      "snippet": "36氪获悉，永和股份公告，公司拟1.5亿元—3亿元回购公司股份，用于实施员工持股计划或股权激励，回购价格不高于38��/股（含本数）。",
+      "pubDate": "2026-07-15 19:37:26  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "诺基亚与英伟达推出行业首个商用AI-RAN平台",
+      "link": "https://36kr.com/newsflashes/3896822215722631?f=rss",
+      "snippet": "7月15日，诺基亚公司发表声明称，公司已与英伟达共同开发出业界首个商用人工智能驱动的无线接入网络（AI-RAN）平台。诺基亚表示，新的网络设备将使电信网络运营商到2028年能够在相同无线频段上传输的数据量翻倍，其预计将于明年上市。（界面）",
+      "pubDate": "2026-07-15 19:32:32  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "摩根士丹利第二季度净营收213.5亿美元",
+      "link": "https://36kr.com/newsflashes/3896821635696517?f=rss",
+      "snippet": "7月15日，摩根士丹利公布2026年第二季度业绩报告。第二季度净营收213.5亿美元，其中财富管理净营收88.6亿美元，股票销售和交易业务营收63亿美元，固定收益、外汇和大宗商品业务销售和交易营收24.6亿美元，咨询收入7.98亿美元，股票承销收入8.51亿美元，固定收益承销收入7.88亿美元，每股",
+      "pubDate": "2026-07-15 19:31:57  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "下一代AI原生UGC平台，藏在《蛋仔派对》里",
+      "link": "https://36kr.com/p/3896755010963333?f=rss",
+      "snippet": "2026年，一个新的业务概念正在引起不少人注意——OPC（One Person Company)，或称「一人公司」。它所指的，是那些能借助人工智能等数字工具完成项目内容，成员仅有1-3人的微型团队。 但很少有人注意到，在游戏行业，这种变化其实早已有了天然土壤——UGC创作社区。 AI 技术的普及，正",
+      "pubDate": "2026-07-15 18:36:56  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -52,186 +484,57 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "MzZrci1haTpodHRw",
-      "title": "澳洲将设AI办公室，限制数据中心能源消耗",
-      "link": "https://36kr.com/newsflashes/3896711967721088?f=rss",
-      "snippet": "澳大利亚总理阿尔巴尼斯星期三（7月15日）说，澳洲政府将设立一个“人工智能办公室”，负责管理人工智能（AI）标准的制定，并会强制规定数据中心须成为能源净生产者，以及限制用水量。这个办公室将在总理公署下设立，以确保各内阁部门采取协同一致的全政府应对模式。相关立法将于明年初提交国会。（财联社）",
-      "pubDate": "2026-07-15 17:46:20  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "测量精度突破1微米，效率提升3倍，优可测高精度闪测仪发布",
+      "link": "https://www.qbitai.com/2026/07/450841.html",
+      "snippet": "",
+      "pubDate": "Wed, 15 Jul 2026 09:45:53 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
       "lang": "zh",
-      "category": "商业",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-07-15T13:45:34.124Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "西方审美的东方表达｜SUBLIME PRESTIGE亮相中国建博会",
+      "link": "https://www.leiphone.com/category/smarthome/JIgOfqa7wDZpvOTs.html",
+      "snippet": "7月8日至11日，LifeSmart以「西方审美的东方表达」为主题，登陆中国建博会（广州）。SUBLIME携手杭州工艺美术研究院和国家级工艺美术大师、非物质文化遗产代表性传承人金家虹打造的 PRESTIGE 全新「时间珍宝」系列于展会首次公开亮相；行业首个便携式有线系统调试工程终端——「SUBLIM",
+      "pubDate": "Wed, 15 Jul 2026 17:43:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:41.012Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
+      "link": "https://www.qbitai.com/2026/07/450831.html",
+      "snippet": "",
+      "pubDate": "Wed, 15 Jul 2026 09:18:03 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-07-15T13:45:34.124Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "佰维存储：上半年预计实现净利润70亿元—75亿元，同比扭亏",
-      "link": "https://36kr.com/newsflashes/3896712794949512?f=rss",
-      "snippet": "36氪获悉，佰维存储公告，预计2026年半年度实现归属于母公司所有者的净利润70亿元至75亿元，上年同期亏损2.26亿元。本期业绩大幅增长，主要受益于AI算力爆发与存储行业进入高景气周期，公司的产品和客户结构持续优化，同时公司在芯片设计、解决方案、先进封测及测试设备等领域不断加大投入力度，增强市场竞",
-      "pubDate": "2026-07-15 17:41:14  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "日本散户交易员上月美元空头头寸增至2008年以来最高水平",
-      "link": "https://36kr.com/newsflashes/3896711433652100?f=rss",
-      "snippet": "由于市场猜测官方干预可能会压低美元兑日元汇率，日本散户交易员上个月对美元的看跌情绪转为近二十年来最浓。据日本金融期货协会的数据，交易员的美元净空头头寸是此前一个月的逾四倍，达到2.79万亿日元（172亿美元）。这是自2008年底有记录以来的最大美元空头头寸规模。虽然这些看跌押注也可能是美元兑其他货币",
-      "pubDate": "2026-07-15 17:39:51  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "华联控股：预计2026年半年度净利润同比增长1030%-1423%",
-      "link": "https://36kr.com/newsflashes/3896701033252482?f=rss",
-      "snippet": "36氪获悉，华联控股公告，预计2026年半年度归属于上市公司股东的净利润为2300万元-3100万元，同比增长1030%-1423%。业绩变动主要系杭州“钱塘公馆”项目房产销售收入增加及上年同期基数较低。",
-      "pubDate": "2026-07-15 17:29:16  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "业绩预增2倍却跌停，700亿封测龙头回应“炒股赚了4.6亿”",
-      "link": "https://36kr.com/newsflashes/3896669547939718?f=rss",
-      "snippet": "华天科技跌停，股价报23.11元/股，总市值为768亿元，目前该股居股吧A股人气排行榜首位。针对此次股价变动，公司接线工作人员表示，目前公司生产经营正常，不清楚股价变动原因。针对有网友称公司上半年大部分利润靠“炒股”得来，前述工作人员表示：“这是我们在被投资企业没上市之前去投的，这个公司后来上市了，",
-      "pubDate": "2026-07-15 17:20:16  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "叮咚买菜在合肥成立新公司",
-      "link": "https://36kr.com/newsflashes/3896674392442754?f=rss",
-      "snippet": "36氪获悉，天眼查App显示，近日，合肥吃之以恒电子商务有限公司成立，法定代表人为颜现富，注册资本100万人民币，经营范围含食品互联网销售、食用农产品批发零售、水产品批发零售、低温仓储、普通货物仓储服务等。股东信息显示，该公司由叮咚买菜关联上海壹佰米网络科技有限公司全资持股。",
-      "pubDate": "2026-07-15 17:17:04  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "越疆科技创业板IPO将于7月22日上会",
-      "link": "https://36kr.com/newsflashes/3896683567842945?f=rss",
-      "snippet": "36氪获悉，据深交所网站披露，深交所上市审核委员会定于7月22日召开2026年第45次上市审核委员会审议会议，届时将审议深圳市越疆科技股份有限公司的首发事项。",
-      "pubDate": "2026-07-15 17:11:30  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "高盛启动三部分欧元债发行，此前发行美元债筹集100亿美元",
-      "link": "https://36kr.com/newsflashes/3896673904723848?f=rss",
-      "snippet": "高盛集团周三启动三部分欧元债券发行。一天前，该公司发布业绩，并在美国发行100亿美元债券。据一名知情人士称，高盛希望通过这笔基准规模交易募资至少15亿欧元（17亿美元）。因信息未公开，知情人士要求匿名。此次发行分为三部分，包括一笔三年后可首次赎回的浮动利率债券、一笔同样三年后可首次赎回的固定利率债券",
-      "pubDate": "2026-07-15 17:11:27  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "凯尔达：预计2026年半年度净利润同比增长1006%-1191%",
-      "link": "https://36kr.com/newsflashes/3896682812114819?f=rss",
-      "snippet": "36氪获悉，凯尔达公告，预计2026年半年度归属于上市公司股东的净利润为2615.11万元-3053.38万元，同比增长1006%-1191%。业绩变动主要系公司产品竞争力提升、下游市场需求回暖，营业收入持续增长，同时股份支付费用同比下降。",
-      "pubDate": "2026-07-15 17:10:44  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "中际旭创70亿美元的香港上市计划据悉接近获批",
-      "link": "https://36kr.com/newsflashes/3896681993438855?f=rss",
-      "snippet": "中际旭创70亿美元的香港上市计划据悉接近获批。（新浪财经）",
-      "pubDate": "2026-07-15 17:09:54  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "腾讯“青云计划”2027校招全球启动",
-      "link": "https://36kr.com/newsflashes/3896672308840324?f=rss",
-      "snippet": "36氪获悉，7月15日，腾讯“青云计划”2027校园招聘全球启动，面向2026年1月至2027年12月毕业的本、硕、博同学进行公开招募，聚焦大语言模型·NLP，多模态·视觉·语音，智能体·强化学习，搜索·推荐·模型应用，AI基础设施·系统与安全，AI数据·数据工程等六大技术领域等六大技术领域。该计划",
-      "pubDate": "2026-07-15 17:07:59  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "政策监管",
-        "大模型"
       ]
     },
     {
@@ -245,122 +548,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-07-15T10:03:52.066Z",
+      "fetchedAt": "2026-07-15T13:45:34.124Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "2026暑期档票房反超去年同期",
-      "link": "https://36kr.com/newsflashes/3896666022971268?f=rss",
-      "snippet": "36氪获悉，据灯塔专业版，截至7月15日，2026年暑期档累计票房33.31亿，反超去年暑期档同期票房（2025年6月1日至7月15日累计票房33.29亿），《功夫女足》上映5天累计票房突破8亿。 ​​​",
-      "pubDate": "2026-07-15 16:53:39  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "紫光股份：控股子公司紫光计算机增资4.4亿元引入投资者，公司放弃优先认购权",
-      "link": "https://36kr.com/newsflashes/3896652491376518?f=rss",
-      "snippet": "36氪获悉，紫光股份公告，公司控股子公司紫光计算机拟增资扩股引入豫铁智算、盐城华可等投资者，增资总额4.4亿元，投前估值6亿元。公司放弃本次增资的优先认购权。增资完成后，紫光计算机注册资本增至8.67亿元，公司持股比例由51%降至29.42%，紫光计算机将不再纳入公司合并报表范围。",
-      "pubDate": "2026-07-15 16:46:48  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "阿里千问将作为AI能力集成至苹果智能",
-      "link": "https://36kr.com/newsflashes/3896657327769473?f=rss",
-      "snippet": "36氪获悉，网信办发布7款提供手机端侧生成式人工智能服务备案信息，其中苹果技术开发（上海）有限公司的“Apple智能”大模型已于2026年7月8日备案。阿里方面称，阿里千问将作为AI能力集成至Apple智能，为 iOS、iPadOS、macOS 和 visionOS 的中国用户带来智能体验。用户无需",
-      "pubDate": "2026-07-15 16:44:48  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "比亚迪在六盘水成立新公司",
-      "link": "https://36kr.com/newsflashes/3896643281913475?f=rss",
-      "snippet": "36氪获悉，天眼查App显示，近日，六盘水腾势汽车销售有限公司成立，法定代表人为邓希希，注册资本100万人民币，经营范围含新能源汽车整车销售、汽车销售、充电桩销售、电动汽车充电基础设施运营、机动车修理和维护等。股东信息显示，该公司由比亚迪汽车工业有限公司旗下腾势汽车销售服务有限公司全资持股。",
-      "pubDate": "2026-07-15 16:42:27  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime",
-      "link": "https://36kr.com/newsflashes/3896642705245828?f=rss",
-      "snippet": "36氪获悉，据千问大模型消息，阿里巴巴发布实时语音交互对话模型Qwen-Audio-3.0-Realtime，在智商、Agent工具调用、共情对话和双工交互流畅度四条主线上同步升级。",
-      "pubDate": "2026-07-15 16:38:52  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "北京市新增1款已完成备案的生成式人工智能服务",
-      "link": "https://36kr.com/newsflashes/3896650436871813?f=rss",
-      "snippet": "36氪获悉，7月15日，据“网信北京”消息，截至2026年7月15日，北京市新增1款已完成备案的生成式人工智能服务，累计已完成257款生成式人工智能服务备案。",
-      "pubDate": "2026-07-15 16:37:48  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "沪市主板超300家公司中报业绩预喜，超七成最高增幅超100%",
-      "link": "https://36kr.com/newsflashes/3896641069025160?f=rss",
-      "snippet": "截至2026年7月15日，沪市主板756家上市公司发布2026年半年度业绩预告，306家上市公司交出业绩增长或扭亏的“预喜”成绩单。统计显示，306家公司的预告中，215家预告最高增幅超100%，集中在基础化工、有色金属、电子，电力设备、非银金融等行业。尤其是基础化工、有色金属、电子三大板块，预喜公",
-      "pubDate": "2026-07-15 16:37:20  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -374,9 +564,42 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "支付宝与OPPO实现智能体跨端互联，手机AI 办事能力提升显著",
+      "link": "https://www.leiphone.com/category/industrynews/uHlXIebJKxcMVNKO.html",
+      "snippet": "支付宝与OPPO的AI战略合作迎来新进展。7月15日，AI版支付宝端智能体“阿宝”与OPPO智能助手“小布”正式实现跨端互联，“小布”接入“阿宝”近200项民生及生活服务，用户一句话即可调用。 合作突破传统云端 A2A 交互限制，首创端侧可信互联的多智能体协同方案，通过本地端侧数据隔离和分域管控，让",
+      "pubDate": "Wed, 15 Jul 2026 16:19:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:41.012Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "为什么Agentic CRM需要“真原生”架构？",
+      "link": "https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html",
+      "snippet": "当AI 进入企业软件时，一个核心问题浮出水面：企业是需要一个外挂在系统外的AI助手，还是需要一个原生生长在业务系统内的智能体平台？ 在纷享销客看来，答案很明确：真原生，非外挂。 7月2日，纷享销客召开AI产品发布会，正式发布蜂巢智能体平台 ShareHive AgentOS （以下简称“蜂巢”）与",
+      "pubDate": "Wed, 15 Jul 2026 16:13:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-15T13:45:41.012Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
       ]
     },
     {
@@ -390,7 +613,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-07-15T10:03:52.066Z",
+      "fetchedAt": "2026-07-15T13:45:34.124Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs .tflite Models in Browsers via WebGPU",
+      "link": "https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu/",
+      "snippet": "Google released LiteRT.js on July 9, 2026. It is a JavaScript binding of LiteRT, Google's on-device inference library. The runtime executes .tflite mo",
+      "pubDate": "Wed, 15 Jul 2026 07:36:17 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-15T13:45:43.857Z",
       "tags": [
         "AI应用"
       ]
@@ -406,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-07-15T10:03:52.066Z",
+      "fetchedAt": "2026-07-15T13:45:34.124Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +661,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T10:03:52.066Z",
+      "fetchedAt": "2026-07-15T13:45:34.124Z",
       "tags": [
         "大模型"
       ]
@@ -454,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:58.510Z",
+      "fetchedAt": "2026-07-15T13:45:41.012Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +709,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:58.510Z",
+      "fetchedAt": "2026-07-15T13:45:41.012Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "link": "https://www.qbitai.com/2026/07/436498.html",
+      "snippet": "180家企业携成果入驻",
+      "pubDate": "Wed, 15 Jul 2026 05:33:28 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-07-15T13:45:34.124Z",
       "tags": [
         "综合"
       ]
@@ -479,21 +734,21 @@
       "id": "MzZrci1haTpodHRw",
       "title": "优衣库再失一枚棋子",
       "link": "https://36kr.com/p/3885699885445122?f=rss",
-      "snippet": "上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。 资深时尚记者Lauren Sherman近日在行业媒体PUCK披���，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo",
+      "snippet": "上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。 资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U",
       "pubDate": "2026-07-15 13:25:41  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "耐克中国，壮士断腕",
+      "title": "���克中国，壮士断腕",
       "link": "https://36kr.com/p/3876646017216516?f=rss",
       "snippet": "上周，一则关于耐克计划调整中国线上经销体系的消息引发行业震动。 消息称，耐克拟收回部分线上渠道运营权，涉及包括滔搏在内的核心合作伙伴。消息传出后，滔搏迅速发布公告，但并未直接否认，仅表示\"尚未接获耐克正式通知\"，同时透露双方一直就包括线上销售安排在内的合作模式保持沟通。 如果最终全面实施，这项改革可",
       "pubDate": "2026-07-15 13:25:28  +0800",
@@ -502,7 +757,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +773,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
+      "fetchedAt": "2026-07-15T13:45:36.818Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +789,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鱼羊",
-      "fetchedAt": "2026-07-15T10:03:52.066Z",
+      "fetchedAt": "2026-07-15T13:45:34.124Z",
       "tags": [
         "综合"
       ]
@@ -550,269 +805,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T10:03:58.510Z",
+      "fetchedAt": "2026-07-15T13:45:41.012Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
-      "link": "https://www.qbitai.com/2026/07/450250.html",
-      "snippet": "",
-      "pubDate": "Wed, 15 Jul 2026 03:48:46 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T10:03:52.066Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "百度搭子获评WAIC 2026“镇馆之宝”，智能体全家桶将集中亮相",
-      "link": "https://www.leiphone.com/category/industrynews/ZNfcN7oQILMXzXTc.html",
-      "snippet": "7月14日，百度旗下通用智能体“百度搭子”入选世界人工智能大会“镇馆之宝”，并将亮相于上海举办的WAIC 2026，集中展示其面向个人办公、内容创作、信息处理和企业协作等场景的最新能力。   “镇馆之宝”是世界人工智能大会（WAIC）展览板块的重要荣誉，依据科技含量、市场前景、通用性及社会经济效益等",
-      "pubDate": "Wed, 15 Jul 2026 11:43:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:58.510Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "直击 RSS2026 现场前瞻：共识等待收敛，期待中国具身力量亮相",
-      "link": "https://www.leiphone.com/category/private/3lsidugjZAeIygWx.html",
-      "snippet": "具身路线，青年新星，学术拐点           作者丨张   璐 齐铖湧      编辑丨岑   峰",
-      "pubDate": "Wed, 15 Jul 2026 11:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:58.510Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "登顶 ICML Oral ！专访上交大团队：这个 3D 自动标注 AI 太强了",
-      "link": "https://www.leiphone.com/category/private/mDyMyOapu5FiBuRS.html",
-      "snippet": "3D空间数据的瓶颈，从来不是算法，而是标注。          作者丨张   璐      编辑丨齐铖湧",
-      "pubDate": "Wed, 15 Jul 2026 11:27:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:58.510Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "佑驾创新落子佛山，滴滴送货加入，探索“公交+物流”一张网",
-      "link": "https://www.leiphone.com/category/transportation/IGRl3w0iqYTHG77A.html",
-      "snippet": "自动驾驶小车开始进入新的落地阶段。 佑驾创新近日与佛山市禅城区签署合作协议，将在当地设立智能网联巴士总部公司，并布局自动驾驶物流车生产基地，打造涵盖研发、生产、示范运营及运维服务的产业闭环。同日，佑驾创新还与滴滴送货签署无人物流全域运营战略合作协议，双方计划联合面向佛山商业客户提供Robovan服务",
-      "pubDate": "Wed, 15 Jul 2026 11:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:58.510Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "36氪首发 | 前非夕科技核心业务合伙人创业，做垂域工业智能体，获数千万元种子轮融资",
-      "link": "https://36kr.com/p/3896298534520705?f=rss",
-      "snippet": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，上海追知工程科技有限公司（以下简称“追知工科”）近日完成数千万元种子轮融资，由L2F光源创业者基金、尚融资本、一村资本联合投资。本轮融资将主要用于核心产品研发、团队建设及市场拓展。 追知工科成立于2024年2月，是一家聚焦垂域工业智能体的科技企业，同时也",
-      "pubDate": "2026-07-15 10:40:40  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "36氪首发 | 前阿里平头哥半导体高管创业，RISC-V芯片厂商获新一轮融资",
-      "link": "https://36kr.com/p/3896295689569922?f=rss",
-      "snippet": "作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，深圳市智创芯微电子有限公司（简称“智创芯”）完成 Pre-A轮融资。本轮融资由启迪之星创投、深圳开鸿数字产业发展有限公司（简称“深开鸿”）发起的产业基金、珠海正菱集团、以及应广科技等机构共同参与。 本轮融资完成后，智创芯将与深开鸿围绕开源鸿蒙（OpenH",
-      "pubDate": "2026-07-15 10:37:46  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "商业融资",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
-      "link": "https://www.qbitai.com/2026/07/450101.html",
-      "snippet": "距首轮估值上涨37%",
-      "pubDate": "Wed, 15 Jul 2026 00:54:59 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-07-15T10:03:52.066Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
-      "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
-      "snippet": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
-      "pubDate": "Wed, 15 Jul 2026 00:27:04 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-15T10:03:58.762Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "8点1氪丨LV起诉国家知识产权局；DeepSeek梁文锋成全球AI公司领域新首富；戴比尔斯将暂停南非最大钻石矿生产",
-      "link": "https://36kr.com/p/3896138695706497?f=rss",
-      "snippet": "今日热点导览 小米机器人首次实现汽车工厂柔性工件的长时作业 SK海力士加速Y1工厂建设，现已开始订购DRAM制造设备 国际金价持续回调，后市关注美联储政策路径 海关总署：中国出口连续11季度保持增长，贸易增量集中于AI领域 韩国政府四部门将于周四召开会议，就单股杠杆ETF对股市冲击研究应对方案 TO",
-      "pubDate": "2026-07-15 07:57:20  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:54.106Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Lorde says AI glasses are ‘not sexy’",
-      "link": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "snippet": "\"Increasingly in our world, it gets harder and harder to know what is real,\" Lorde said onstage.",
-      "pubDate": "Tue, 14 Jul 2026 23:10:02 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-15T10:03:58.762Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI’s first hardware device is reportedly a screenless speaker that can move",
-      "link": "https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/",
-      "snippet": "The device is weirdly described as involving \"mechanical elements that can move on their own\" and the Bloomberg report includes the detail that the de",
-      "pubDate": "Tue, 14 Jul 2026 22:22:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-15T10:03:58.762Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI pushes back on Apple trade secret lawsuit",
-      "link": "https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/",
-      "snippet": "OpenAI has issued another statement on the lawsuit, this time suggesting it lacks merit.",
-      "pubDate": "Tue, 14 Jul 2026 22:07:42 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-07-15T10:03:58.762Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI’s new flagship model deletes files on its own, people keep warning",
-      "link": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
-      "snippet": "A number of social media posts claim that GPT-5.6 Sol deleted files and data without warning. OpenAI had basically disclosed the problem in June.",
-      "pubDate": "Tue, 14 Jul 2026 21:50:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-07-15T10:03:58.762Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI may announce a ChatGPT smart speaker this year",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "snippet": "OpenAI's first device is set to be a smart speaker that lets you talk with ChatGPT, according to a report from Bloomberg. The device apparently won't",
-      "pubDate": "2026-07-14T21:26:32.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-07-15T10:03:59.047Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Lawsuit claims Meta's layoff decisions were made by AI, not humans",
-      "link": "https://arstechnica.com/tech-policy/2026/07/lawsuit-claims-metas-layoff-decisions-were-made-by-ai-not-humans/",
-      "snippet": "Meta denies using AI to terminate workers with disabilities and medical problems.",
-      "pubDate": "Tue, 14 Jul 2026 20:05:53 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-07-15T10:04:00.148Z",
-      "tags": [
-        "政策监管"
       ]
     }
   ]
