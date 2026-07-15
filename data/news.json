@@ -1,13 +1,109 @@
 {
-  "generatedAt": "2026-07-15T15:36:48.827Z",
+  "generatedAt": "2026-07-15T17:29:13.703Z",
   "stats": {
-    "total": 122,
+    "total": 134,
     "shown": 50,
     "chinese": 59,
-    "english": 63,
-    "today": 57
+    "english": 75,
+    "today": 66
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+      "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+      "snippet": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+      "pubDate": "Wed, 15 Jul 2026 17:00:34 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+      "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+      "snippet": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The d",
+      "pubDate": "Wed, 15 Jul 2026 17:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+      "snippet": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line,",
+      "pubDate": "Wed, 15 Jul 2026 16:20:18 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Zack Whittaker",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "OpenAI's first branded hardware is... a light-up keyboard?",
+      "link": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard/",
+      "snippet": "The Codex Micro is designed to monitor multiple agentic threads at a glance.",
+      "pubDate": "Wed, 15 Jul 2026 16:00:33 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-07-15T17:19:21.536Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI finally launches hardware… for Codex",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "snippet": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive",
+      "pubDate": "2026-07-15T16:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-15T17:19:20.244Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+      "link": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+      "snippet": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bri",
+      "pubDate": "Wed, 15 Jul 2026 15:29:33 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
@@ -19,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-15T15:26:54.542Z",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-15T15:26:54.542Z",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-15T15:26:54.542Z",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +163,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +179,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +195,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +211,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +227,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +243,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +259,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +275,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +291,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +307,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
       ]
@@ -227,7 +323,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-15T15:26:55.108Z",
+      "fetchedAt": "2026-07-15T17:19:20.527Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +339,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +355,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +371,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-15T15:26:54.542Z",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
       "tags": [
         "商业融资"
       ]
@@ -291,9 +387,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-15T15:26:54.542Z",
+      "fetchedAt": "2026-07-15T17:19:19.984Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "The US is advancing AI safety through state and federal action",
+      "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+      "snippet": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
+      "pubDate": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T17:19:22.099Z",
+      "tags": [
+        "政策监管",
+        "AI应用"
       ]
     },
     {
@@ -307,7 +420,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
       ]
@@ -323,7 +436,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "大模型"
       ]
@@ -339,7 +452,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
       ]
@@ -355,7 +468,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "大模型"
       ]
@@ -371,7 +484,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -388,7 +501,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +517,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
       ]
@@ -420,7 +533,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +549,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "AI应用"
       ]
@@ -445,14 +558,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "摩根士丹利第二季度净营收213.5亿美元",
       "link": "https://36kr.com/newsflashes/3896821635696517?f=rss",
-      "snippet": "7月15日，摩根士丹利公布2026年第二季度业绩报告。第二季度净营收213.5亿美元，其中财富管理净营收88.6亿美元，股票销售和交易业务营收63亿美元，固定收益、外汇和大宗商品业务销售和交易营收24.6亿美元，咨询收入7.98亿美元，股票承销收入8.51亿美元，固定收益承销收入7.88亿美元，每股",
+      "snippet": "7月15日，摩根士丹利公布2026年第二季度业绩报告。第二季度净营收213.5亿美元，其中财富管理净营收88.6亿美元，股票销售和交易业务营收63亿美元，固定收益、外汇和大宗商品业务销售和交易营收24.6亿美元，咨询收入7.98亿美元，股票承销收入8.51亿美元，固定收益承��收入7.88亿美元，每",
       "pubDate": "2026-07-15 19:31:57  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -468,9 +581,25 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+      "snippet": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+      "pubDate": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T17:19:22.099Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -484,7 +613,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "AI应用"
       ]
@@ -500,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
+      "fetchedAt": "2026-07-15T17:19:14.928Z",
       "tags": [
         "AI应用"
       ]
@@ -516,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:54.292Z",
+      "fetchedAt": "2026-07-15T17:19:19.726Z",
       "tags": [
         "学术研究"
       ]
@@ -532,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
+      "fetchedAt": "2026-07-15T17:19:14.928Z",
       "tags": [
         "综合"
       ]
@@ -548,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
+      "fetchedAt": "2026-07-15T17:19:14.928Z",
       "tags": [
         "综合"
       ]
@@ -564,7 +693,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "商业融资"
       ]
@@ -580,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:54.292Z",
+      "fetchedAt": "2026-07-15T17:19:19.726Z",
       "tags": [
         "商业融资"
       ]
@@ -596,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:54.292Z",
+      "fetchedAt": "2026-07-15T17:19:19.726Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -613,7 +742,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
+      "fetchedAt": "2026-07-15T17:19:14.928Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Releases LiteRT.js: A JavaScript Binding of LiteRT That Runs .tflite Models in Browsers via WebGPU",
+      "link": "https://www.marktechpost.com/2026/07/15/google-releases-litert-js-a-javascript-binding-of-litert-that-runs-tflite-models-in-browsers-via-webgpu/",
+      "snippet": "Google released LiteRT.js on July 9, 2026. It is a JavaScript binding of LiteRT, Google's on-device inference library. The runtime executes .tflite mo",
+      "pubDate": "Wed, 15 Jul 2026 07:36:17 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-15T17:19:22.484Z",
       "tags": [
         "AI应用"
       ]
@@ -629,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
+      "fetchedAt": "2026-07-15T17:19:14.928Z",
       "tags": [
         "综合"
       ]
@@ -645,7 +790,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
+      "fetchedAt": "2026-07-15T17:19:16.807Z",
       "tags": [
         "综合"
       ]
@@ -661,151 +806,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家专访李弘扬：成为 RSS 二十年唯一国人获奖者后，我要 all in 全身智能",
-      "link": "https://www.leiphone.com/category/ai/mbQ4vuafsYYdWzsj.html",
-      "snippet": "“过去二十年，我们经历了智能手机时代，智能汽车时代。我认为，下一个时代的物理智能终端，就是智能人形”          作者丨邓哲敏 齐铖湧      编辑丨齐铖湧",
-      "pubDate": "Wed, 15 Jul 2026 14:21:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T15:26:54.292Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中科大 Labimus：机器人化学家要上岗，先得考过这场试",
-      "link": "https://www.leiphone.com/category/ai/yY4Y0lFQ6kmtOjWY.html",
-      "snippet": "面向精准化学实验室的人形灵巧操控仿真和评测平台          作者丨邓哲敏      编辑丨齐铖湧",
-      "pubDate": "Wed, 15 Jul 2026 14:15:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T15:26:54.292Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "link": "https://www.qbitai.com/2026/07/436498.html",
-      "snippet": "180家企业携成果入驻",
-      "pubDate": "Wed, 15 Jul 2026 05:33:28 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "优衣库再失一枚棋子",
-      "link": "https://36kr.com/p/3885699885445122?f=rss",
-      "snippet": "上周的Lemaire大秀选在巴士底歌剧院一座尚未完工的音乐厅里举行，而在秀场之外，一桩足以改写另一家时尚公司设计版图的变动正在酝酿。 资深时尚记者Lauren Sherman近日在行业媒体PUCK披露，Christophe Lemaire与Sarah-Linh Tran计划退出优衣库Uniqlo U",
-      "pubDate": "2026-07-15 13:25:41  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "耐克中国，壮士断腕",
-      "link": "https://36kr.com/p/3876646017216516?f=rss",
-      "snippet": "上周，一则关于耐克计划调整中国线上经销体系的消息引发行业震动。 消息称，耐克拟收回部分线上渠道运营权，涉及包括滔搏在内的核心合作伙伴。消息传出后，滔搏迅速发布公告，但并未直接否认，仅表示\"尚未接获耐克正式通知\"，同时透露双方一直就包括线上销售安排在内的合作模式保持沟通。 如果最终全面实施，这项改革可",
-      "pubDate": "2026-07-15 13:25:28  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "安踏品牌CEO徐阳离职，激进的零售实验结束了｜独家",
-      "link": "https://36kr.com/p/3889213745543687?f=rss",
-      "snippet": "文｜贺哲馨、任彩茹 编辑｜乔芊 36氪独家获悉，安踏品牌CEO徐阳将离职。 安踏集团回应36氪称，原安踏品牌CEO徐阳因家庭原因辞任该职，集团已批准并将另有任用；安踏集团执行董事、集团联席CEO赖世贤即日起将代理安踏品牌CEO一职。安踏品牌既定的长期发展战略保持不变。安踏集团有完备的组织及业务管理体",
-      "pubDate": "2026-07-15 13:25:18  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T15:26:51.725Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "不是吧OpenAI首款硬件吹半天就是个AI音箱？？",
-      "link": "https://www.qbitai.com/2026/07/450385.html",
-      "snippet": "难怪苹果急眼了",
-      "pubDate": "Wed, 15 Jul 2026 04:46:18 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鱼羊",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "豆包视频通话背后，火山引擎重构 Agent 时代多模态传输底座",
-      "link": "https://www.leiphone.com/category/industrynews/fIqCGTasgYRN21d4.html",
-      "snippet": "对通用 Agent 来说，多模态交互正在成为一项能大幅提升用户体验的关键基础技术。 过去，用户和 AI 的交互更多是输入文字、上传图片，然后等待回答。现在，家长希望可以直接把镜头对准孩子正在做的题目，让 AI 一步步讲解；在穿搭建议、视障人群视频导航等场景里，用户也希望 AI 不再是一问一答，而是在",
-      "pubDate": "Wed, 15 Jul 2026 12:32:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T15:26:54.292Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "又快又聪明，阿里发布Qwen-Audio-3.0-Realtime：实时语音大模型四项功能升级",
-      "link": "https://www.qbitai.com/2026/07/450250.html",
-      "snippet": "",
-      "pubDate": "Wed, 15 Jul 2026 03:48:46 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T15:26:50.179Z",
+      "fetchedAt": "2026-07-15T17:19:14.928Z",
       "tags": [
         "大模型"
       ]
