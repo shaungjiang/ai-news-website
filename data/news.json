@@ -1,17 +1,33 @@
 {
-  "generatedAt": "2026-07-15T19:21:48.921Z",
+  "generatedAt": "2026-07-15T21:06:20.560Z",
   "stats": {
-    "total": 124,
+    "total": 133,
     "shown": 50,
     "chinese": 59,
-    "english": 65,
-    "today": 70
+    "english": 74,
+    "today": 73
   },
   "articles": [
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-      "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+      "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "snippet": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be pa",
+      "pubDate": "Wed, 15 Jul 2026 19:41:38 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
       "snippet": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and a",
       "pubDate": "Wed, 15 Jul 2026 18:06:05 +0000",
       "sourceName": "TechCrunch",
@@ -19,7 +35,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +51,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building a Gin Config Controlled PyTorch Pipeline with Configurable MLP Variants, Cosine Scheduling, and Runtime Parameter Overrides",
+      "link": "https://www.marktechpost.com/2026/07/15/building-a-gin-config-controlled-pytorch-pipeline-with-configurable-mlp-variants-cosine-scheduling-and-runtime-parameter-overrides/",
+      "snippet": "We build a Gin Config controlled PyTorch pipeline where the training code stays fixed and the experiment variables move into .gin files. We construct",
+      "pubDate": "Wed, 15 Jul 2026 18:03:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-15T21:01:32.110Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:59.637Z",
+      "fetchedAt": "2026-07-15T21:01:29.307Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +99,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-07-15T19:12:59.908Z",
+      "fetchedAt": "2026-07-15T21:01:29.688Z",
       "tags": [
         "大模型"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-07-15T19:13:00.718Z",
+      "fetchedAt": "2026-07-15T21:01:30.752Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:59.637Z",
+      "fetchedAt": "2026-07-15T21:01:29.307Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "商业融资"
       ]
@@ -195,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "AI应用"
       ]
@@ -227,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "商业融资"
       ]
@@ -243,7 +275,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +291,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +307,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -284,14 +316,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "巴菲特说将捐出1400亿美元股票",
       "link": "https://36kr.com/newsflashes/3896894911678086?f=rss",
-      "snippet": "美国知名投资人沃伦·巴菲特14日表示，到2034年底将其剩余的伯克希尔-哈撒韦公司股票，价值超1400亿美元，全部捐赠给慈善机构，而这份捐赠名单中并没有包括盖茨基金会。现年95岁的巴菲特自2006年开始捐赠名下资��，自2006年宣布捐出全部财富的计划以来，已累计捐赠了超过610亿美元（约合人民币4",
+      "snippet": "美国知名投资人沃伦·巴菲特14日表示，到2034年底将其剩余的伯克希尔-哈撒韦公司股票，价值超1400亿美元，全部捐赠给慈善机构，而这份捐赠名单中并没有包括盖茨基金会。现年95岁的巴菲特自2006年开始捐赠名下资产，自2006年宣布捐出全部财富的计划以来，已累计捐赠了超过610亿美元（约合人民币41",
       "pubDate": "2026-07-15 20:46:29  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
       ]
@@ -307,7 +339,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +355,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +371,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "AI应用"
       ]
@@ -355,7 +387,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "AI应用"
       ]
@@ -371,7 +403,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
       ]
@@ -387,7 +419,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
       ]
@@ -403,7 +435,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-15T19:12:59.908Z",
+      "fetchedAt": "2026-07-15T21:01:29.688Z",
       "tags": [
         "综合"
       ]
@@ -419,7 +451,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -435,7 +467,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -451,7 +483,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "商业融资"
       ]
@@ -467,7 +499,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-15T19:12:59.242Z",
+      "fetchedAt": "2026-07-15T21:01:28.954Z",
       "tags": [
         "综合"
       ]
@@ -483,7 +515,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:13:01.409Z",
+      "fetchedAt": "2026-07-15T21:01:31.475Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -500,7 +532,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
       ]
@@ -516,7 +548,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "大模型"
       ]
@@ -532,7 +564,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
       ]
@@ -548,7 +580,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "大模型"
       ]
@@ -564,7 +596,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -581,7 +613,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +629,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
       ]
@@ -613,7 +645,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +661,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "AI应用"
       ]
@@ -645,7 +677,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "综合"
       ]
@@ -661,7 +693,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
       ]
@@ -677,7 +709,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:13:01.409Z",
+      "fetchedAt": "2026-07-15T21:01:31.475Z",
       "tags": [
         "大模型"
       ]
@@ -693,7 +725,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "AI应用"
       ]
@@ -709,7 +741,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T19:12:53.439Z",
+      "fetchedAt": "2026-07-15T21:01:23.331Z",
       "tags": [
         "AI应用"
       ]
@@ -725,7 +757,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:59.012Z",
+      "fetchedAt": "2026-07-15T21:01:28.648Z",
       "tags": [
         "学术研究"
       ]
@@ -741,7 +773,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T19:12:53.439Z",
+      "fetchedAt": "2026-07-15T21:01:23.331Z",
       "tags": [
         "综合"
       ]
@@ -757,7 +789,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-07-15T19:12:53.439Z",
+      "fetchedAt": "2026-07-15T21:01:23.331Z",
       "tags": [
         "综合"
       ]
@@ -773,42 +805,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T19:12:55.444Z",
+      "fetchedAt": "2026-07-15T21:01:25.294Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "支付宝与OPPO实现智能体跨端互联，手机AI 办事能力提升显著",
-      "link": "https://www.leiphone.com/category/industrynews/uHlXIebJKxcMVNKO.html",
-      "snippet": "支付宝与OPPO的AI战略合作迎来新进展。7月15日，AI版支付宝端智能体“阿宝”与OPPO智能助手“小布”正式实现跨端互联，“小布”接入“阿宝”近200项民生及生活服务，用户一句话即可调用。 合作突破传统云端 A2A 交互限制，首创端侧可信互联的多智能体协同方案，通过本地端侧数据隔离和分域管控，让",
-      "pubDate": "Wed, 15 Jul 2026 16:19:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T19:12:59.012Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "为什么Agentic CRM需要“真原生”架构？",
-      "link": "https://www.leiphone.com/category/industrynews/03cTTrdCmNaZapoh.html",
-      "snippet": "当AI 进入企业软件时，一个核心问题浮出水面：企业是需要一个外挂在系统外的AI助手，还是需要一个原生生长在业务系统内的智能体平台？ 在纷享销客看来，答案很明确：真原生，非外挂。 7月2日，纷享销客召开AI产品发布会，正式发布蜂巢智能体平台 ShareHive AgentOS （以下简称“蜂巢”）与",
-      "pubDate": "Wed, 15 Jul 2026 16:13:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-15T19:12:59.012Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     }
   ]
