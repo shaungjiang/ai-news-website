@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-07-15T21:06:20.560Z",
+  "generatedAt": "2026-07-15T23:07:26.173Z",
   "stats": {
-    "total": 133,
+    "total": 123,
     "shown": 50,
     "chinese": 59,
-    "english": 74,
-    "today": 73
+    "english": 64,
+    "today": 74
   },
   "articles": [
+    {
+      "id": "dmVudHVyZWJlYXQt",
+      "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem — and most are calling chatbots agents",
+      "link": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+      "snippet": "Across 101 enterprises, agent orchestration is consolidating onto model-provider platforms — Anthropic’s Claude leads by a wide margin — chosen for th",
+      "pubDate": "Wed, 15 Jul 2026 22:24:17 GMT",
+      "sourceName": "VentureBeat",
+      "sourceId": "venturebeat-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-15T22:58:37.334Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "snippet": "The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM).",
+      "pubDate": "2026-07-15T21:33:20.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-15T22:58:36.523Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "AI slop movies are the new direct-to-video cash grabs",
+      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "snippet": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey.",
+      "pubDate": "2026-07-15T20:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-15T22:58:36.523Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "AI应用"
       ]
@@ -51,23 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Building a Gin Config Controlled PyTorch Pipeline with Configurable MLP Variants, Cosine Scheduling, and Runtime Parameter Overrides",
-      "link": "https://www.marktechpost.com/2026/07/15/building-a-gin-config-controlled-pytorch-pipeline-with-configurable-mlp-variants-cosine-scheduling-and-runtime-parameter-overrides/",
-      "snippet": "We build a Gin Config controlled PyTorch pipeline where the training code stays fixed and the experiment variables move into .gin files. We construct",
-      "pubDate": "Wed, 15 Jul 2026 18:03:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-07-15T21:01:32.110Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:29.307Z",
+      "fetchedAt": "2026-07-15T22:58:36.523Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +131,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-07-15T21:01:29.688Z",
+      "fetchedAt": "2026-07-15T22:58:36.847Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-07-15T21:01:30.752Z",
+      "fetchedAt": "2026-07-15T22:58:37.724Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:29.307Z",
+      "fetchedAt": "2026-07-15T22:58:36.523Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "商业融资"
       ]
@@ -227,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +275,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "AI应用"
       ]
@@ -259,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +307,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +323,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "商业融资"
       ]
@@ -307,7 +339,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +355,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "商业融资"
       ]
@@ -339,7 +371,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +387,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -371,7 +403,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "AI应用"
       ]
@@ -387,7 +419,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "AI应用"
       ]
@@ -403,7 +435,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "商业融资"
       ]
@@ -419,7 +451,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "商业融资"
       ]
@@ -435,7 +467,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-15T21:01:29.688Z",
+      "fetchedAt": "2026-07-15T22:58:36.847Z",
       "tags": [
         "综合"
       ]
@@ -451,7 +483,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -467,7 +499,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -483,7 +515,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "商业融资"
       ]
@@ -499,7 +531,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-15T21:01:28.954Z",
+      "fetchedAt": "2026-07-15T22:58:36.233Z",
       "tags": [
         "综合"
       ]
@@ -515,7 +547,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:31.475Z",
+      "fetchedAt": "2026-07-15T22:58:38.325Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -532,7 +564,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "商业融资"
       ]
@@ -548,7 +580,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "大模型"
       ]
@@ -564,7 +596,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "商业融资"
       ]
@@ -580,7 +612,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "大模型"
       ]
@@ -596,7 +628,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -613,7 +645,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +661,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "商业融资"
       ]
@@ -645,7 +677,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -661,7 +693,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "AI应用"
       ]
@@ -677,7 +709,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "综合"
       ]
@@ -693,7 +725,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "商业融资"
       ]
@@ -709,7 +741,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:31.475Z",
+      "fetchedAt": "2026-07-15T22:58:38.325Z",
       "tags": [
         "大模型"
       ]
@@ -725,7 +757,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
+      "fetchedAt": "2026-07-15T22:58:32.052Z",
       "tags": [
         "AI应用"
       ]
@@ -741,7 +773,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T21:01:23.331Z",
+      "fetchedAt": "2026-07-15T22:58:30.027Z",
       "tags": [
         "AI应用"
       ]
@@ -757,7 +789,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-15T21:01:28.648Z",
+      "fetchedAt": "2026-07-15T22:58:35.967Z",
       "tags": [
         "学术研究"
       ]
@@ -773,41 +805,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-15T21:01:23.331Z",
+      "fetchedAt": "2026-07-15T22:58:30.027Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
-      "link": "https://www.qbitai.com/2026/07/450709.html",
-      "snippet": "26名员工正在集体起诉Meta",
-      "pubDate": "Wed, 15 Jul 2026 09:03:58 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "一水",
-      "fetchedAt": "2026-07-15T21:01:23.331Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "越过湖畔，AI在阳澄湖半岛「跑进」真实生活",
-      "link": "https://36kr.com/p/3896639400183687?f=rss",
-      "snippet": "7月3日-7月4日，「越过湖畔 进化新生」首届阳澄湖半岛旅游度假区AI嘉年华在苏州工业园区圆满举行。  这个夏天，阳澄湖畔的吸引力有了新的注脚。 对AI创业者和OPC来说，阳澄湖半岛不只是一个风景秀丽的度假胜地。这里拥有50公里湖岸线、8平方公里生态内湖，也有比斯特购物村、酒店群、网球中心、康养社区",
-      "pubDate": "2026-07-15 16:30:35  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-15T21:01:25.294Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
