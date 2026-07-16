@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-07-16T17:22:37.662Z",
+  "generatedAt": "2026-07-16T19:22:51.946Z",
   "stats": {
     "total": 132,
     "shown": 50,
     "chinese": 59,
     "english": 73,
-    "today": 71
+    "today": 76
   },
   "articles": [
+    {
+      "id": "dmVudHVyZWJlYXQt",
+      "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+      "link": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "snippet": "Across 107 enterprises, AI agents are being given real access to systems and data while the controls meant to contain them lag behind. More than half",
+      "pubDate": "Thu, 16 Jul 2026 19:02:38 GMT",
+      "sourceName": "VentureBeat",
+      "sourceId": "venturebeat-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-16T19:12:59.326Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "OpenAI Details GPT-Red: An Internal Automated Red-Teaming Model That Beat Human Red-Teamers 84% To 13% On Prompt Injection",
+      "link": "https://www.marktechpost.com/2026/07/16/openai-details-gpt-red-an-internal-automated-red-teaming-model-that-beat-human-red-teamers-84-to-13-on-prompt-injection/",
+      "snippet": "OpenAI trained GPT-Red, an internal-only attacker model, using self-play reinforcement learning against a population of defender LLMs. It beat human r",
+      "pubDate": "Thu, 16 Jul 2026 18:48:04 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-16T19:13:01.441Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google Vids now lets you star in your own AI videos",
+      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+      "snippet": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered",
+      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+      "snippet": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
+      "snippet": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology her",
+      "pubDate": "2026-07-16T17:58:37.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-16T19:12:58.704Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
     {
       "id": "dmVudHVyZWJlYXQt",
       "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
@@ -19,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:32.043Z",
+      "fetchedAt": "2026-07-16T19:12:59.326Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:32.043Z",
+      "fetchedAt": "2026-07-16T19:12:59.326Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +131,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -61,14 +141,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "上市脚步临近，Anthropic据悉计划几周内召开IPO投资者会议",
       "link": "https://36kr.com/newsflashes/3898501689952130?f=rss",
-      "snippet": "7月16日，据报道，Anthropic正安排与投资者举行会面，为潜在的大规模IPO做准备。负责此次IPO的承销银行将在未��几周安排投资者与这家Claude聊天机器人开发商会面。Anthropic最早可能于10月启动IPO。Anthropic在5月完成一轮融资后估值达到9,650亿美元，首次超过Op",
+      "snippet": "7月16日，据报道，Anthropic正安排与投资者举行会面，为潜在的大规模IPO做准备。负责此次IPO的承销银行将在未来几周安排投资者与这家Claude聊天机器人开发商会面。Anthropic最早可能于10月启动IPO。Anthropic在5月完成一轮融资后估值达到9,650亿美元，首次超过Ope",
       "pubDate": "2026-07-17 00:11:55  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -85,7 +165,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-16T17:17:30.711Z",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
       "tags": [
         "AI应用"
       ]
@@ -101,7 +181,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:31.045Z",
+      "fetchedAt": "2026-07-16T19:12:58.704Z",
       "tags": [
         "大模型"
       ]
@@ -117,7 +197,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:33.273Z",
+      "fetchedAt": "2026-07-16T19:13:00.552Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -134,7 +214,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Martha Muir in New York\n                ",
-      "fetchedAt": "2026-07-16T17:17:32.514Z",
+      "fetchedAt": "2026-07-16T19:12:59.972Z",
       "tags": [
         "商业融资"
       ]
@@ -150,7 +230,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-16T17:17:30.711Z",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
       "tags": [
         "开源工具"
       ]
@@ -166,7 +246,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-16T17:17:30.711Z",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -183,7 +263,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-07-16T17:17:24.878Z",
+      "fetchedAt": "2026-07-16T19:12:53.583Z",
       "tags": [
         "综合"
       ]
@@ -199,7 +279,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Maggie Nye",
-      "fetchedAt": "2026-07-16T17:17:30.711Z",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -216,7 +296,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-07-16T17:17:30.711Z",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
       "tags": [
         "商业融资"
       ]
@@ -232,7 +312,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-07-16T17:17:30.711Z",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
       "tags": [
         "综合"
       ]
@@ -248,7 +328,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-16T17:17:30.711Z",
+      "fetchedAt": "2026-07-16T19:12:58.474Z",
       "tags": [
         "AI应用"
       ]
@@ -264,7 +344,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:31.045Z",
+      "fetchedAt": "2026-07-16T19:12:58.704Z",
       "tags": [
         "大模型"
       ]
@@ -280,7 +360,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "综合"
       ]
@@ -296,7 +376,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "综合"
       ]
@@ -312,7 +392,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "综合"
       ]
@@ -328,7 +408,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "综合"
       ]
@@ -344,7 +424,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "综合"
       ]
@@ -353,14 +433,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "*ST萃华：并购重组及实际控制人变更事宜为不实传闻",
       "link": "https://36kr.com/newsflashes/3898284241782660?f=rss",
-      "snippet": "36氪获悉，*ST萃华公告，近期，沈阳萃华金银珠宝股份有限公司关注到东方财富网等股吧社区出现关于“*ST萃华周大福并购重组传闻”、“库存50亿黄金，实控人拟变更”等不实传闻，传闻主要涉及并购重组及实际控��人变更事宜。相关内容已引发投资者及市场广泛关注。经公司查询，目前相关不实传闻信息已删除。",
+      "snippet": "36氪获悉，*ST萃华公告，近期，沈阳萃华金银珠宝股份有限公司关注到东方财富网等股吧社区出现关于“*ST萃华周大福并购重组传闻”、“库存50亿黄金，实控人拟变更”等不实传闻，传闻主要涉及并购重组及实际控制人变更事宜。相关内容已引发投资者及市场广泛关注。经公司查询，目前相关不实传闻信息已删除。",
       "pubDate": "2026-07-16 20:34:43  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "商业融资"
       ]
@@ -376,7 +456,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "商业融资"
       ]
@@ -392,7 +472,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -409,7 +489,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "学术研究"
       ]
@@ -425,7 +505,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -442,7 +522,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "综合"
       ]
@@ -458,7 +538,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "AI应用"
       ]
@@ -474,7 +554,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -491,7 +571,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-16T17:17:31.398Z",
+      "fetchedAt": "2026-07-16T19:12:59.039Z",
       "tags": [
         "大模型"
       ]
@@ -507,7 +587,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "政策监管"
       ]
@@ -523,7 +603,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:31.045Z",
+      "fetchedAt": "2026-07-16T19:12:58.704Z",
       "tags": [
         "综合"
       ]
@@ -539,7 +619,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "综合"
       ]
@@ -555,7 +635,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "AI应用"
       ]
@@ -571,7 +651,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "AI应用"
       ]
@@ -587,7 +667,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -604,7 +684,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:30.387Z",
+      "fetchedAt": "2026-07-16T19:12:58.221Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -621,7 +701,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:31.045Z",
+      "fetchedAt": "2026-07-16T19:12:58.704Z",
       "tags": [
         "综合"
       ]
@@ -637,7 +717,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "大模型"
       ]
@@ -653,7 +733,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-07-16T17:17:24.878Z",
+      "fetchedAt": "2026-07-16T19:12:53.583Z",
       "tags": [
         "综合"
       ]
@@ -669,7 +749,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "fetchedAt": "2026-07-16T19:12:55.248Z",
       "tags": [
         "商业融资"
       ]
@@ -685,7 +765,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-07-16T17:17:31.398Z",
+      "fetchedAt": "2026-07-16T19:12:59.039Z",
       "tags": [
         "AI应用"
       ]
@@ -701,7 +781,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-16T17:17:24.878Z",
+      "fetchedAt": "2026-07-16T19:12:53.583Z",
       "tags": [
         "商业融资"
       ]
@@ -717,7 +797,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-16T17:17:24.878Z",
+      "fetchedAt": "2026-07-16T19:12:53.583Z",
       "tags": [
         "综合"
       ]
@@ -733,88 +813,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "贾浩楠",
-      "fetchedAt": "2026-07-16T17:17:24.878Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
-      "link": "https://www.qbitai.com/2026/07/451084.html",
-      "snippet": "不要赌某个模型能通吃一切。",
-      "pubDate": "Thu, 16 Jul 2026 08:04:18 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-07-16T17:17:24.878Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "国产大芯片厂商“必修课”：从云豹智能看DPU赛道现实考题",
-      "link": "https://www.leiphone.com/category/chips/lxIbicm9WU6RU1Qe.html",
-      "snippet": "国内DPU厂商云豹智能6月30日向深交所递交创业板IPO材料，成为创业板第四套上市标准下首家申报的DPU芯片企业，被市场视作“国产DPU第一股”。而随着招股书披露经营数据，市场出现两类争议声音：连续三年归母净利润亏损和营收高度依赖单一大客户。  创业板第四套上市标准的落地，彻底打破了上市必须盈利的限",
-      "pubDate": "Thu, 16 Jul 2026 15:45:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-16T17:17:30.387Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Patter SDK Guide to Building a Restaurant Booking Phone Agent with Dynamic Variables, Guardrails, Latency Dashboards, and Eval Checks",
-      "link": "https://www.marktechpost.com/2026/07/16/patter-sdk-guide-to-building-a-restaurant-booking-phone-agent-with-dynamic-variables-guardrails-latency-dashboards-and-eval-checks/",
-      "snippet": "We explore the Patter SDK by building a voice-agent workflow for a restaurant booking use case. We define dynamic caller variables, register callable",
-      "pubDate": "Thu, 16 Jul 2026 07:42:49 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-07-16T17:17:34.734Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "一位失忆患者，揭开了AI记忆的误区",
-      "link": "https://www.qbitai.com/2026/07/451049.html",
-      "snippet": "记忆能够独立成层",
-      "pubDate": "Thu, 16 Jul 2026 07:34:14 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "闻乐",
-      "fetchedAt": "2026-07-16T17:17:24.878Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "专访 Ψ₀ 团队：用对方法，30小时真机数据也能练模型｜RSS 2026",
-      "link": "https://www.leiphone.com/category/private/XjLhqoCs0fFsyEIN.html",
-      "snippet": "机器人Scaling，不一定先拼数据量          作者丨邓哲敏      编辑丨齐铖湧",
-      "pubDate": "Thu, 16 Jul 2026 15:32:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-16T17:17:30.387Z",
+      "fetchedAt": "2026-07-16T19:12:53.583Z",
       "tags": [
         "综合"
       ]
