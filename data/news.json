@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-07-16T19:22:51.946Z",
+  "generatedAt": "2026-07-16T21:05:15.061Z",
   "stats": {
-    "total": 132,
+    "total": 136,
     "shown": 50,
     "chinese": 59,
-    "english": 73,
-    "today": 76
+    "english": 77,
+    "today": 81
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "It's official: EU will force Google to share search data and open up AI on Android",
+      "link": "https://arstechnica.com/gadgets/2026/07/its-official-eu-will-force-google-to-share-search-data-and-open-up-ai-on-android/",
+      "snippet": "Google says these changes could endanger user privacy and security.",
+      "pubDate": "Thu, 16 Jul 2026 20:41:45 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-07-16T21:00:20.906Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
+      "link": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users/",
+      "snippet": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.",
+      "pubDate": "Thu, 16 Jul 2026 20:26:23 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-07-16T21:00:20.906Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Fear of humanoid robots spurs human workers to strike at Hyundai auto factory",
+      "link": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+      "snippet": "Hyundai aims to deploy 25,000 Atlas robots starting with US factories in 2028.",
+      "pubDate": "Thu, 16 Jul 2026 20:09:48 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-07-16T21:00:20.906Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Linus Torvalds to critics of AI coding in Linux: \"Fork it. Or just walk away.\"",
+      "link": "https://arstechnica.com/ai/2026/07/linus-torvalds-to-critics-of-ai-coding-in-linux-fork-it-or-just-walk-away/",
+      "snippet": "Creator says he will \"very loudly ignore\" those arguing for a ban on AI tools.",
+      "pubDate": "Thu, 16 Jul 2026 19:18:23 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-07-16T21:00:20.906Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dmVudHVyZWJlYXQt",
+      "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+      "link": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+      "snippet": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run the",
+      "pubDate": "Thu, 16 Jul 2026 19:16:48 GMT",
+      "sourceName": "VentureBeat",
+      "sourceId": "venturebeat-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-16T21:00:20.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dmVudHVyZWJlYXQt",
       "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
@@ -19,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:59.326Z",
+      "fetchedAt": "2026-07-16T21:00:20.525Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +115,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-16T19:13:01.441Z",
+      "fetchedAt": "2026-07-16T21:00:24.677Z",
       "tags": [
         "大模型"
       ]
@@ -51,14 +131,14 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "大模型"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
       "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
       "snippet": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
       "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
@@ -67,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:58.704Z",
+      "fetchedAt": "2026-07-16T21:00:19.866Z",
       "tags": [
         "政策监管"
       ]
@@ -99,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:59.326Z",
+      "fetchedAt": "2026-07-16T21:00:20.525Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:59.326Z",
+      "fetchedAt": "2026-07-16T21:00:20.525Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +211,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -148,7 +228,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -165,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "AI应用"
       ]
@@ -181,7 +261,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:58.704Z",
+      "fetchedAt": "2026-07-16T21:00:19.866Z",
       "tags": [
         "大模型"
       ]
@@ -197,7 +277,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:13:00.552Z",
+      "fetchedAt": "2026-07-16T21:00:22.833Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -214,7 +294,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Martha Muir in New York\n                ",
-      "fetchedAt": "2026-07-16T19:12:59.972Z",
+      "fetchedAt": "2026-07-16T21:00:20.906Z",
       "tags": [
         "商业融资"
       ]
@@ -230,7 +310,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "开源工具"
       ]
@@ -246,7 +326,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -263,7 +343,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-07-16T19:12:53.583Z",
+      "fetchedAt": "2026-07-16T21:00:10.729Z",
       "tags": [
         "综合"
       ]
@@ -279,7 +359,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Maggie Nye",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -296,7 +376,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "商业融资"
       ]
@@ -312,7 +392,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "综合"
       ]
@@ -328,7 +408,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-16T19:12:58.474Z",
+      "fetchedAt": "2026-07-16T21:00:19.519Z",
       "tags": [
         "AI应用"
       ]
@@ -344,7 +424,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:58.704Z",
+      "fetchedAt": "2026-07-16T21:00:19.866Z",
       "tags": [
         "大模型"
       ]
@@ -360,7 +440,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "综合"
       ]
@@ -376,7 +456,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "综合"
       ]
@@ -392,7 +472,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "综合"
       ]
@@ -408,7 +488,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "综合"
       ]
@@ -424,7 +504,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "综合"
       ]
@@ -440,7 +520,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "商业融资"
       ]
@@ -456,7 +536,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "商业融资"
       ]
@@ -472,7 +552,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -489,7 +569,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "学术研究"
       ]
@@ -505,7 +585,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -522,7 +602,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "综合"
       ]
@@ -531,14 +611,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "万邦医药：推进核心管线创新药石杉碱甲控释片等新药合作协议的相关信息均为不实信息",
       "link": "https://36kr.com/newsflashes/3898278701287301?f=rss",
-      "snippet": "36氪获悉，万邦医药公告，公司股票连续2个交易日收盘价格涨幅偏离值累计超过30%，属于异常波动。公司近期关注到有媒体和股吧等股票社区报道称万邦医药推进核心管线创新药石杉碱甲控释片、签订渐冻症等新药合作协议的相关信息均为不实信息；公司2026年半年度业绩情况未对外披露，也暂未发布业绩预告。",
+      "snippet": "36氪获悉，万邦医药公告，公司股票连续2个交易日收盘价格涨幅偏离值累���超过30%，属于异常波动。公司近期关注到有媒体和股吧等股票社区报道称万邦医药推进核心管线创新药石杉碱甲控释片、签订渐冻症等新药合作协议的相关信息均为不实信息；公司2026年半年度业绩情况未对外披露，也暂未发布业绩预告。",
       "pubDate": "2026-07-16 20:14:09  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "AI应用"
       ]
@@ -554,7 +634,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -571,7 +651,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-16T19:12:59.039Z",
+      "fetchedAt": "2026-07-16T21:00:20.097Z",
       "tags": [
         "大模型"
       ]
@@ -587,7 +667,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "政策监管"
       ]
@@ -603,7 +683,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:58.704Z",
+      "fetchedAt": "2026-07-16T21:00:19.866Z",
       "tags": [
         "综合"
       ]
@@ -619,7 +699,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "综合"
       ]
@@ -628,14 +708,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "摩尔线程：预计上半年营业收入同比增长135.12%-149.37%",
       "link": "https://36kr.com/newsflashes/3898265826232199?f=rss",
-      "snippet": "36氪获悉，摩尔线程公告，预计2026年上半年营业收入为16.5亿元—17.5亿元，同比增长135.12%至149.37%。报告期内，得益于人工智能产业的蓬勃发展及市场对全功能GPU的强劲需求， 叠加公司夸娥智算集群商业化加速，产品性能获得客户高度认可并实现稳定供货， 公司市场竞争优势进一步扩大，推",
+      "snippet": "36氪获悉，摩尔线程公告，预计2026年上半年营业收入为16.5亿元—17.5亿元，同比增长135.12%至149.37%。报告期内，得益于人工智能产业的蓬勃发展及市场对全功能GPU的强劲需求， 叠加公司夸娥智算集群商业化加速，产品性能获得客户高度认可并实现稳定供货， 公司市场��争优势进一步扩大，",
       "pubDate": "2026-07-16 20:01:03  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "AI应用"
       ]
@@ -651,7 +731,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "AI应用"
       ]
@@ -667,7 +747,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -684,7 +764,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:58.221Z",
+      "fetchedAt": "2026-07-16T21:00:19.300Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -701,7 +781,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:58.704Z",
+      "fetchedAt": "2026-07-16T21:00:19.866Z",
       "tags": [
         "综合"
       ]
@@ -717,7 +797,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
+      "fetchedAt": "2026-07-16T21:00:12.905Z",
       "tags": [
         "大模型"
       ]
@@ -733,87 +813,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-07-16T19:12:53.583Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite",
-      "link": "https://36kr.com/p/3898151587890824?f=rss",
-      "snippet": "“AI改了我的命” AI时代的精英叙事里，出现了草根翻身的故事。 5月，来自云南玉溪地产行业的中专生刘梓瑜，创作出了全网播放破亿的《丧尸清道夫》，被称为“国产爱死机”。他因此收到了好莱坞制作人的跨洋Offer。这部短片配有英文字幕，但一位接触过刘梓瑜的从业者表示，他的英语并不好，甚至“不会翻墙”。",
-      "pubDate": "2026-07-16 18:07:26  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-16T19:12:55.248Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Why heat pumps are still so hot in the US",
-      "link": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
-      "snippet": "It feels as if it should be illegal to even think about heating appliances during the height of summer—seriously, these heat waves in New York have be",
-      "pubDate": "Thu, 16 Jul 2026 10:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Casey Crownhart",
-      "fetchedAt": "2026-07-16T19:12:59.039Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
-      "link": "https://www.qbitai.com/2026/07/451371.html",
-      "snippet": "",
-      "pubDate": "Thu, 16 Jul 2026 09:29:09 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-16T19:12:53.583Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "RLinf v0.3来了！从模型生态到真机部署五大能力跃升，无问芯穹与清华大学联合打造",
-      "link": "https://www.qbitai.com/2026/07/451379.html",
-      "snippet": "为破解具身智能行业发展瓶颈构建了新一代“进化底座”",
-      "pubDate": "Thu, 16 Jul 2026 09:25:17 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-16T19:12:53.583Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
-      "link": "https://www.qbitai.com/2026/07/451327.html",
-      "snippet": "Robotaxi第一股文远知行孵化",
-      "pubDate": "Thu, 16 Jul 2026 09:13:01 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "贾浩楠",
-      "fetchedAt": "2026-07-16T19:12:53.583Z",
+      "fetchedAt": "2026-07-16T21:00:10.729Z",
       "tags": [
         "综合"
       ]
