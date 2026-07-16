@@ -1,13 +1,144 @@
 {
-  "generatedAt": "2026-07-16T15:49:47.199Z",
+  "generatedAt": "2026-07-16T17:22:37.662Z",
   "stats": {
-    "total": 128,
+    "total": 132,
     "shown": 50,
     "chinese": 59,
-    "english": 69,
-    "today": 63
+    "english": 73,
+    "today": 71
   },
   "articles": [
+    {
+      "id": "dmVudHVyZWJlYXQt",
+      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
+      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+      "snippet": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augment",
+      "pubDate": "Thu, 16 Jul 2026 17:06:08 GMT",
+      "sourceName": "VentureBeat",
+      "sourceId": "venturebeat-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-16T17:17:32.043Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dmVudHVyZWJlYXQt",
+      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "snippet": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have",
+      "pubDate": "Thu, 16 Jul 2026 16:40:48 GMT",
+      "sourceName": "VentureBeat",
+      "sourceId": "venturebeat-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-16T17:17:32.043Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "英伟达投资企业Fireworks估值达1750亿美元",
+      "link": "https://36kr.com/newsflashes/3898508422514565?f=rss",
+      "snippet": "英伟达投资企业Fireworks周四公布，年化营收已突破10亿美元，是去年同期的5倍；公司刚完成一轮15亿美元融资，投后估值1750亿美元。公司 CEO 乔琳透露，此前代码开发工具初创企业 Cursor 贡献了其过半收入；如今随着越来越多企业转向开源模型，公司客户结构已实现多元化。（新浪财经）",
+      "pubDate": "2026-07-17 00:20:47  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "tags": [
+        "商业融资",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "上市脚步临近，Anthropic据悉计划几周内召开IPO投资者会议",
+      "link": "https://36kr.com/newsflashes/3898501689952130?f=rss",
+      "snippet": "7月16日，据报道，Anthropic正安排与投资者举行会面，为潜在的大规模IPO做准备。负责此次IPO的承销银行将在未��几周安排投资者与这家Claude聊天机器人开发商会面。Anthropic最早可能于10月启动IPO。Anthropic在5月完成一轮融资后估值达到9,650亿美元，首次超过Op",
+      "pubDate": "2026-07-17 00:11:55  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
+      "tags": [
+        "商业融资",
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s AI Mode now lets you link and interact with select apps",
+      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+      "snippet": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
+      "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-07-16T17:17:30.711Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google is renaming NotebookLM to Gemini Notebook",
+      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
+      "snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a s",
+      "pubDate": "2026-07-16T16:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-16T17:17:31.045Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Why teens deserve access to safe AI",
+      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+      "snippet": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
+      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-16T17:17:33.273Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
+      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
+      "snippet": "Companies coming to market are raising money at fastest pace this century.",
+      "pubDate": "Thu, 16 Jul 2026 15:48:21 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Martha Muir in New York\n                ",
+      "fetchedAt": "2026-07-16T17:17:32.514Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Yes, you can now order DoorDash from the command line",
@@ -19,7 +150,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-16T15:39:53.545Z",
+      "fetchedAt": "2026-07-16T17:17:30.711Z",
       "tags": [
         "开源工具"
       ]
@@ -35,10 +166,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-16T15:39:53.545Z",
+      "fetchedAt": "2026-07-16T17:17:30.711Z",
       "tags": [
         "大模型",
         "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "理想L6换代24.98万开卖！L9同款自研芯片中控屏下放，一个版本配置拉满不涨价",
+      "link": "https://www.qbitai.com/2026/07/451576.html",
+      "snippet": "最快下周一提车",
+      "pubDate": "Thu, 16 Jul 2026 15:12:41 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-07-16T17:17:24.878Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -52,7 +199,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Maggie Nye",
-      "fetchedAt": "2026-07-16T15:39:53.545Z",
+      "fetchedAt": "2026-07-16T17:17:30.711Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -69,7 +216,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-07-16T15:39:53.545Z",
+      "fetchedAt": "2026-07-16T17:17:30.711Z",
       "tags": [
         "商业融资"
       ]
@@ -85,7 +232,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-07-16T15:39:53.545Z",
+      "fetchedAt": "2026-07-16T17:17:30.711Z",
       "tags": [
         "综合"
       ]
@@ -101,7 +248,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-16T15:39:53.545Z",
+      "fetchedAt": "2026-07-16T17:17:30.711Z",
       "tags": [
         "AI应用"
       ]
@@ -117,7 +264,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.847Z",
+      "fetchedAt": "2026-07-16T17:17:31.045Z",
       "tags": [
         "大模型"
       ]
@@ -133,7 +280,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "综合"
       ]
@@ -149,7 +296,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "综合"
       ]
@@ -165,7 +312,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +328,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "综合"
       ]
@@ -197,7 +344,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "综合"
       ]
@@ -206,14 +353,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "*ST萃华：并购重组及实际控制人变更事宜为不实传闻",
       "link": "https://36kr.com/newsflashes/3898284241782660?f=rss",
-      "snippet": "36氪获悉，*ST萃华公告，近期，沈阳萃华金银珠宝股份有限公司关注到东方财富网等股吧社区出现关于“*ST萃华周大福并购重组传闻”、“库存50亿黄金，实控人拟变更”等不实传闻，传闻主要涉及并购重组及实际控制人变更事宜。相关内容已引发投资者及市场广泛关注。经公司查询，目前相关不实传闻信息已删除。",
+      "snippet": "36氪获悉，*ST萃华公告，近期，沈阳萃华金银珠宝股份有限公司关注到东方财富网等股吧社区出现关于“*ST萃华周大福并购重组传闻”、“库存50亿黄金，实控人拟变更”等不实传闻，传闻主要涉及并购重组及实际控��人变更事宜。相关内容已引发投资者及市场广泛关注。经公司查询，目前相关不实传闻信息已删除。",
       "pubDate": "2026-07-16 20:34:43  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "商业融资"
       ]
@@ -229,7 +376,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "商业融资"
       ]
@@ -245,7 +392,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -262,7 +409,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "学术研究"
       ]
@@ -278,7 +425,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -295,7 +442,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "综合"
       ]
@@ -311,7 +458,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "AI应用"
       ]
@@ -327,7 +474,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -344,7 +491,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-16T15:39:54.135Z",
+      "fetchedAt": "2026-07-16T17:17:31.398Z",
       "tags": [
         "大模型"
       ]
@@ -360,7 +507,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "政策监管"
       ]
@@ -376,7 +523,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.847Z",
+      "fetchedAt": "2026-07-16T17:17:31.045Z",
       "tags": [
         "综合"
       ]
@@ -392,7 +539,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "综合"
       ]
@@ -408,7 +555,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "AI应用"
       ]
@@ -424,7 +571,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "AI应用"
       ]
@@ -440,42 +587,10 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "政策监管",
         "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "兴业科技：拟收购磷化铟资产目前所有产品均不涉及光模块客户",
-      "link": "https://36kr.com/newsflashes/3898235122419329?f=rss",
-      "snippet": "36氪获悉，兴业科技公告，股票连续三个交易日收盘价跌幅累计偏离超过20%，根据规定，属于股票交易异常波动的情形。公司本次收购拟收购磷化铟资产，目前产品以市场上较为普遍的2英寸、3英寸磷化铟衬底为主，主要用于探测器，VGF单晶良率偏低，目前4英寸产品验证门槛较高，可能存在客户验证不通过的风险。目前所有",
-      "pubDate": "2026-07-16 19:45:44  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "中岩大地：拟收购鑫寰宇精工60%股权",
-      "link": "https://36kr.com/newsflashes/3898233319999367?f=rss",
-      "snippet": "36氪获悉，中岩大地公告，公司拟通过现金收购及增资方式取得深圳市鑫寰宇精工科技有限公司60%股权。公司拟以标的公司整体投前估值2.5亿元为基准，支付对价9000万元受让标的公司原股东所持36%的股权；公司拟以标的公司投前估值2.5亿元，向标的公司现金增资15000万元，取得增资后标的公司37.5%的",
-      "pubDate": "2026-07-16 19:36:56  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -489,7 +604,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.278Z",
+      "fetchedAt": "2026-07-16T17:17:30.387Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -506,7 +621,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.847Z",
+      "fetchedAt": "2026-07-16T17:17:31.045Z",
       "tags": [
         "综合"
       ]
@@ -522,7 +637,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "大模型"
       ]
@@ -538,7 +653,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-07-16T15:39:48.480Z",
+      "fetchedAt": "2026-07-16T17:17:24.878Z",
       "tags": [
         "综合"
       ]
@@ -554,7 +669,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:50.141Z",
+      "fetchedAt": "2026-07-16T17:17:26.852Z",
       "tags": [
         "商业融资"
       ]
@@ -570,7 +685,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-07-16T15:39:54.135Z",
+      "fetchedAt": "2026-07-16T17:17:31.398Z",
       "tags": [
         "AI应用"
       ]
@@ -586,7 +701,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-16T15:39:48.480Z",
+      "fetchedAt": "2026-07-16T17:17:24.878Z",
       "tags": [
         "商业融资"
       ]
@@ -602,7 +717,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-16T15:39:48.480Z",
+      "fetchedAt": "2026-07-16T17:17:24.878Z",
       "tags": [
         "综合"
       ]
@@ -618,7 +733,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "贾浩楠",
-      "fetchedAt": "2026-07-16T15:39:48.480Z",
+      "fetchedAt": "2026-07-16T17:17:24.878Z",
       "tags": [
         "综合"
       ]
@@ -634,7 +749,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-07-16T15:39:48.480Z",
+      "fetchedAt": "2026-07-16T17:17:24.878Z",
       "tags": [
         "综合"
       ]
@@ -650,7 +765,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.278Z",
+      "fetchedAt": "2026-07-16T17:17:30.387Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -667,7 +782,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-07-16T15:39:56.668Z",
+      "fetchedAt": "2026-07-16T17:17:34.734Z",
       "tags": [
         "开源工具"
       ]
@@ -683,7 +798,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-07-16T15:39:48.480Z",
+      "fetchedAt": "2026-07-16T17:17:24.878Z",
       "tags": [
         "综合"
       ]
@@ -699,122 +814,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.278Z",
+      "fetchedAt": "2026-07-16T17:17:30.387Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "SpaceXAI Open-Sources Grok Build: The Rust Agent Harness, TUI, and Tool Layer Behind Its Coding CLI",
-      "link": "https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/",
-      "snippet": "SpaceXAI published the Grok Build source on July 15, 2026. The Apache 2.0 Rust tree covers the agent loop, tool dispatch, the TUI, and the extension s",
-      "pubDate": "Thu, 16 Jul 2026 06:35:54 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-16T15:39:56.668Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "2026世界人工智能大会聚焦AI治理，奇安信展示AI+安全双轮驱动布局",
-      "link": "https://www.leiphone.com/category/industrynews/lxXkqwf4vc9J3opM.html",
-      "snippet": "7月17日至20日，2026世界人工智能大会（WAIC 2026）暨人工智能全球治理高级别会议将在上海开幕。本届大会以“智能伙伴 共创未来”为主题，聚焦人工智能创新发展与安全治理双向协同，将AI安全与全球治理提升至核心战略层面。奇安信携系列AI安全产品亮相上海世博展览馆H1展区，并参与圆桌会议、行业",
-      "pubDate": "Thu, 16 Jul 2026 14:29:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.278Z",
-      "tags": [
-        "政策监管",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "行业首个！中国一汽大模型入驻阿里云百炼，面向全行业开放",
-      "link": "https://www.leiphone.com/category/industrynews/REYfC0ECzRMeS8hD.html",
-      "snippet": "7月15日，中国第一汽车集团有限公司（以下简称“中国一汽”）与阿里云智能集团联合宣布：由中国一汽基于千问自主研发的行业大模型已正式入驻阿里云百炼平台，面向全行业开放。作为业内首个实现商业化服务的大模型，它将中国一汽沉淀的行业know-how转化为标准化服务，让全行业企业都能低门槛调用专业AI能力。",
-      "pubDate": "Thu, 16 Jul 2026 13:57:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.278Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "不改造门店机器人直接上岗，蚂蚁灵波智慧药房获WAIC 2026“镇馆之宝”",
-      "link": "https://www.leiphone.com/category/industrynews/tA7cOaKzZYIzZTd1.html",
-      "snippet": "2026世界人工智能大会（WAIC）将于7 月 17 日正式拉开帷幕。作为大会展览板块的最高荣誉，日前揭晓的十大“镇馆之宝”已率先成为各方关注的焦点。其中，蚂蚁集团的“基于蚂蚁灵波跨本体具身大模型的机器人智慧药房”，与中科曙光“曙光8000—全国产十万卡AI超集群”等硬核科技成果一同登榜。  “镇馆",
-      "pubDate": "Thu, 16 Jul 2026 13:56:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-16T15:39:53.278Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "一句「哈哈」引发的苹果OpenAI窃密大战",
-      "link": "https://www.qbitai.com/2026/07/450921.html",
-      "snippet": "苹果怒斥：烂到骨子里",
-      "pubDate": "Thu, 16 Jul 2026 04:47:55 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-07-16T15:39:48.480Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "从上海到世界：WAICA正以“AI原生”范式重写顶会规则",
-      "link": "https://www.qbitai.com/2026/07/450917.html",
-      "snippet": "",
-      "pubDate": "Thu, 16 Jul 2026 04:02:31 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-16T15:39:48.480Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-      "link": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-      "snippet": "Applied Computing has raised a $20M Series A to build a foundation AI model for the oil, gas and petrochemical industry.",
-      "pubDate": "Thu, 16 Jul 2026 04:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ram Iyer",
-      "fetchedAt": "2026-07-16T15:39:53.545Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
