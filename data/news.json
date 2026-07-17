@@ -1,107 +1,510 @@
 {
-  "generatedAt": "2026-07-17T06:27:12.127Z",
+  "generatedAt": "2026-07-17T10:08:04.088Z",
   "stats": {
-    "total": 134,
+    "total": 132,
     "shown": 50,
-    "chinese": 59,
-    "english": 75,
-    "today": 31
+    "chinese": 58,
+    "english": 74,
+    "today": 42
   },
   "articles": [
     {
       "id": "MzZrci1haTpodHRw",
+      "title": "阶跃与支付宝达成AI Agent系统级合作",
+      "link": "https://36kr.com/newsflashes/3899555853862537?f=rss",
+      "snippet": "36氪获悉，7月17日，在2026世界人工智能大会（WAIC）现场，支付宝与阶跃达成AI Agent系统级合作。双方围绕阶跃STEP-X原生AI终端展开深度协同，用户通过自然语言即可调用AI版支付宝“阿宝”连接真实服务，实现跨应用、多任务执行，推动智能体迈入“跨端互联办事”新阶段。",
+      "pubDate": "2026-07-17 17:53:20  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "南向资金今日净卖出逾14亿港元，阿里巴巴遭卖出居前",
+      "link": "https://36kr.com/newsflashes/3899554305508994?f=rss",
+      "snippet": "南向资金今日净卖出约14.57亿港元。其中，阿里巴巴、美团分别遭净卖出24.51亿港元、20.36亿港元；盈富基金获净买入约29.75亿港元。（财联社）",
+      "pubDate": "2026-07-17 17:51:46  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "科大讯飞发布GuideX",
+      "link": "https://36kr.com/newsflashes/3899551446222465?f=rss",
+      "snippet": "36氪获悉，7月17日，WAIC2026期间，科大讯飞发布智能交互服务Agent——GuideX。区别于传统数字人，GuideX融合“全模态感知、自治理Agent、SkillHub”等核心能力，打通“感知、理解、执行、记忆、共情”服务全链路。",
+      "pubDate": "2026-07-17 17:48:51  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "天域生物：实际控制人罗卫国收到证监会行政处罚事先告知书",
+      "link": "https://36kr.com/newsflashes/3899550016259976?f=rss",
+      "snippet": "36氪获悉，天域生物公告，公司实际控制人罗卫国收到证监会重庆监管局下发的《行政处罚事先告知书》。罗卫国因通过虚构基金份额转让交易隐匿一致行动关系，规避减持比例限制，在2021年11月至12月期间违规减持天域生物股票11,677,738股，违规减持金额1.65亿元，违法所得1585.33万元。证监会拟",
+      "pubDate": "2026-07-17 17:47:24  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "网易灵动“人机混编”原创技术亮相2026 WAIC",
+      "link": "https://36kr.com/newsflashes/3899549400057476?f=rss",
+      "snippet": "36氪获悉，7月17日，2026世界人工智能大会（WAIC）召开。网易旗下专注工程机械领域的具身智能品牌网易灵动，将极具科技感的“智能座舱”搬入展区，座舱内工作人员跨越千里，可远程操控真实电厂、港口的生产一线设备。同时，网易灵动还集中展现了具身智能规模化落地高危场景的最新成果，以及“人机混编”“黑灯",
+      "pubDate": "2026-07-17 17:46:46  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "慧辰股份：董事长赵龙因涉嫌违规披露、不披露重要信息罪被刑事拘留",
+      "link": "https://36kr.com/newsflashes/3899539484182152?f=rss",
+      "snippet": "36氪获悉，慧辰股份公告，公司实际控制人、董事长兼总经理赵龙因涉嫌违规披露、不披露重要信息罪被北京市公安局海淀分局刑事拘留。公司已对相关工作妥善安排，日常经营运作正常，各项工作有序开展。",
+      "pubDate": "2026-07-17 17:36:41  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "高德问店正式发布",
+      "link": "https://36kr.com/newsflashes/3899538479253381?f=rss",
+      "snippet": "36氪获悉，阿里巴巴集团旗下高德的高德云图宣布高德问店正式上线。该产品整合出行、位置和商业经营等能力，通过自然语言交互方式，为商户提供从选址到经营决策的支持，并支持PC端与移动端的协同。据了解，目前，高德问店已与网商银行、钉钉悟空、Qoderwork、阿里云JVS Claw等生态合作伙伴达成合作，围",
+      "pubDate": "2026-07-17 17:35:40  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "新石器升级安全委员会",
+      "link": "https://36kr.com/newsflashes/3899532514920071?f=rss",
+      "snippet": "36氪获悉，7月17日，无人配送车企业新石器宣布，在原有安全组织的基础上升级迭代新的安全委员会，这是无人配送车行业第一个公司级别的企业安全管理组织。作为新石器最高层级的安全治理机构，新石器CEO余恩源亲自担任委员会主任，CTO苗乾坤、CPO颉晶华为分管安全负责人。",
+      "pubDate": "2026-07-17 17:29:36  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "中国国航：公司及控股子公司拟向空客公司合计购买55架飞机，目录价格约124.4亿美元",
+      "link": "https://36kr.com/newsflashes/3899529167865730?f=rss",
+      "snippet": "36氪获悉，中国国航公告，公司作为买方，国航进出口公司作为公司的进口代理机构与空客公司签订协议，向空客公司购买15架空客A350-900飞机；同日，��圳航空与空客公司签订协议，向空客公司购买40架A320NEO系列飞机，本次交易按照空客公司公布的有效目录价格合计约为124.4亿美元（约合人民币84",
+      "pubDate": "2026-07-17 17:26:12  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "九州一轨：拟取得通用半导体6.47%股权，深入半导体高端制造领域",
+      "link": "https://36kr.com/newsflashes/3899528727168640?f=rss",
+      "snippet": "36氪获悉，九州一轨公告，公司拟以自有/自筹资金6998.96万元认购江苏通用半导体有限公司新增注册资本983万元，增资完成后预计持有通用半导体约6.4709%的股权。标的公司以高端半导体产业装备与材料的研发和制造为主营业务，立足于激光隐切技术，是国产化替代进程的领军企业。本次投资旨在推进“声纹数字",
+      "pubDate": "2026-07-17 17:25:45  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "Meta拟聘请亚马逊顶尖云计算高管，筹备大举进军云市场",
+      "link": "https://36kr.com/newsflashes/3899526806980484?f=rss",
+      "snippet": "知情人士透露，亚马逊云科技（AWS）资深高管戴夫·布朗拥有近二十年行业经验，即将入职Meta。他将向Meta基础设施负责人汇报工作，核心负责公司数据中心扩建项目。扎克伯格称：“目前我们尚未正式推出云业务，是因为自有算力仍可满足自身需求。但如果未来算力建设出现富余，对外开放算力、开展云服务，将成为我们",
+      "pubDate": "2026-07-17 17:23:47  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "三安光电：董事长林志强增持计划实施完毕，6月12日-7月17日累计增持3988万元",
+      "link": "https://36kr.com/newsflashes/3899520473843587?f=rss",
+      "snippet": "36氪获悉，三安光电公告，公司董事长林志强增持计划实施完毕，6月12日-7月17日累计增持公司股份280万股，占总股本0.06%，增持金额3988.08万元。",
+      "pubDate": "2026-07-17 17:17:21  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "证监会同意高凯技术科创板IPO注册",
+      "link": "https://36kr.com/newsflashes/3899519661361030?f=rss",
+      "snippet": "36氪获悉，证监会日前下发关于同意江苏高凯精密流体技术股份有限公司首次公开发行股票注册的批复，同意该公司在科创板上市的注册申请。",
+      "pubDate": "2026-07-17 17:16:31  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "ST文峰：公司及控股股东因涉嫌信披违规被证监会立案调查",
+      "link": "https://36kr.com/newsflashes/3899515394836100?f=rss",
+      "snippet": "36氪获悉，ST文峰公告，公司及控股股东文峰集团于2026年7月17日收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司及文峰集团立案。目前公司各项经营活动正常开展，上述事项不会对生产经营产生重大影响。立案调查期间，公司将积极配合证监会工作并履行信息披露义务。",
+      "pubDate": "2026-07-17 17:12:11  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "星网宇达：与近期市场关注的长征十号乙运载火箭海上回收技术突破不存在业务关联",
+      "link": "https://36kr.com/newsflashes/3899514834454144?f=rss",
+      "snippet": "36氪获悉，星网宇达公告，截至本公告披露日，公司卫星通信业务2025年度实现营业收入占公司营业总收入的比例为12.33%，且与近期市场关注的长征十号乙运载火箭海上回收技术突破不存在业务关联，公司未参与该项目的研制或配套供应。公司不存在跨界转型、重大产业投资等情形，市场关注的低空经济、低轨互联、自动驾",
+      "pubDate": "2026-07-17 17:11:37  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "北交所终止建工资源IPO审核",
+      "link": "https://36kr.com/newsflashes/3899513390368642?f=rss",
+      "snippet": "36氪获悉，据北交所网站披露，因北京建工资源循环利用股份有限公司向北交所提交了《北京建工资源循环利用股份有限公司关于撤回向不特定合格投资者公开发行股票并在北京证券交易所上市的申请》，北交所决定终止其首次公开发行股票并在北交所上市的审核。",
+      "pubDate": "2026-07-17 17:10:09  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "中船特气：上半年归母净利润3.48亿元，同比增长95.63%",
+      "link": "https://36kr.com/newsflashes/3899511819421318?f=rss",
+      "snippet": "36氪获悉，中船特气发布2026年半年度报告。报告显示，2026年上半年营业收入19.04亿元，同比增长83.13%；归母净利润3.48亿元，同比增长95.63%。报告期内，人工智能等新一代信息技术的发展，提升了市场对先进芯片、显示面板等硬件需求，带动公司营业收入增长。",
+      "pubDate": "2026-07-17 17:08:33  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "欧元区6月CPI同比增长2.8%",
+      "link": "https://36kr.com/newsflashes/3899508613416584?f=rss",
+      "snippet": "欧元区6月CPI同比增长2.8%，前值为2.8%。（界面）",
+      "pubDate": "2026-07-17 17:05:17  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "小鹏MONA L03全球上市",
+      "link": "https://36kr.com/newsflashes/3899508094519172?f=rss",
+      "snippet": "36氪获悉，今⽇，⼩鹏集团在德国慕尼⿊举办⼩鹏品牌⽇暨MONA L03全球上市发布会，正式推出MONA系列⾸款全球⻋型⼩鹏MONAL03，并于今年⾯向全球65个国家开启销售。",
+      "pubDate": "2026-07-17 17:04:45  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "安踏体育：二季度安踏、FILA品牌产品零售额同比录得低单位数正增长",
+      "link": "https://36kr.com/newsflashes/3899507140691843?f=rss",
+      "snippet": "36氪获悉，安踏体育公告，2026年第二季度，安踏品牌产品零售金额（按零售价值计算）与2025年同期相比录得低单位数的正增长；FILA品牌产品零售金额（按零售价值计算）与2025年同期相比录得低单位数的正增长；所有其他品牌产品零售金额（按零售价值计算）与2025年同期相比录得25-30%的正增长。",
+      "pubDate": "2026-07-17 17:03:47  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "There’s a lot of hype around perimenopause. Don’t buy it.",
+      "link": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+      "snippet": "Perimenopause has entered the chat. Perimenopause—and its better-known relative, menopause—used to be considered taboo. Not anymore, thanks at least i",
+      "pubDate": "Fri, 17 Jul 2026 09:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jessica Hamzelou",
+      "fetchedAt": "2026-07-17T09:58:10.803Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The risk of weather data sabotage is rising",
+      "link": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "snippet": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While the",
+      "pubDate": "Fri, 17 Jul 2026 08:57:32 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Monique Kuglitsch, Jesper Dramsch, Franz G. Kuglitsch, Andrea Toreti",
+      "fetchedAt": "2026-07-17T09:58:10.803Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "IDC报告：中国AI Coding市占率阿里Qoder断层第一，超过二三四五名总和",
+      "link": "https://www.qbitai.com/2026/07/452914.html",
+      "snippet": "模型、Harness Engineering与产品的持续进化",
+      "pubDate": "Fri, 17 Jul 2026 08:09:52 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦瑶",
+      "fetchedAt": "2026-07-17T09:58:05.376Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套",
+      "link": "https://36kr.com/p/3899439565325953?f=rss",
+      "snippet": "随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。 7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划",
+      "pubDate": "2026-07-17 15:55:26  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA AI Releases Nemotron 3 Embed: An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
+      "link": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb/",
+      "snippet": "NVIDIA released Nemotron 3 Embed on July 15 and 16, 2026. The collection has three open checkpoints: Nemotron-3-Embed-8B-BF16, Nemotron-3-Embed-1B-BF1",
+      "pubDate": "Fri, 17 Jul 2026 07:53:02 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-17T09:58:13.824Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "我们有多久，没长久地喜欢过一个东西了？",
+      "link": "https://36kr.com/p/3899428949132932?f=rss",
+      "snippet": "我们有多久没有长久地喜欢过一个东西了？ 在这个注意力被成倍压缩、审美红利稍纵即逝的快消时代，新鲜感的贬值速度快得惊人。换一部手机，追一个新坑，或者刷完几个短视频，我们的注意力就被迅速瓜分干净，连喜爱都变得行色匆匆。 但在这个热闹又健忘的环境里，却存在着反常的例外——一个不说话，甚至从不微笑的潮流手办",
+      "pubDate": "2026-07-17 15:46:38  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "WAIC 2026探营：蚂蚁集团展示面向智能体商业的三层布局",
+      "link": "https://www.leiphone.com/category/industrynews/ZdWJuL7Ip26NbIY5.html",
+      "snippet": "7月17日，2026世界人工智能大会在上海开幕。记者探营蚂蚁集团展区发现，在AI走向真实场景落地、智能体开始参与商业协同的新阶段，蚂蚁系统展示了面向智能体商业时代的三层AI布局：以“阿福”“阿宝”为代表的AI应用，以AI支付、支付宝AI开放平台和“碰一下”商家Agent构建的智能体商业生态，以及大模",
+      "pubDate": "Fri, 17 Jul 2026 15:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:09.763Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "科氪 | 中国联通携华为发布全球最大规模 5G-A百兆大上行网络",
+      "link": "https://36kr.com/p/3899398088509319?f=rss",
+      "snippet": "[中国，北京，2026年7月15日]今日，中国联通北京市分公司携华为发布全球最大规模5G-A大上行商用网络。该创新网络在北京全域重点区域实现百兆大上行网络连续覆盖，基站数超10000。经现场路测，七家受邀第三方媒体作为体验官共同见证了该网络“网络覆盖好，业务体验稳”——上行100MHz生效比83%、",
+      "pubDate": "2026-07-17 15:13:05  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "当买卖双方开始用 AI 做生意，1688加速解决“鸡同鸭讲”问题",
+      "link": "https://www.leiphone.com/category/industrynews/wKnHB72cKdeY1qoG.html",
+      "snippet": "7月17日，在上海举办的2026世界人工智能大会上，1688宣布联合中国电子技术标准化研究院和蚂蚁集团，将在本月底推出 UTP 通用交易协议（Universal Trade Protocol）及协议配套基础设施。   随着 AI 越来越懂生意、会做生意，B2B 正在变成 A2A——买家的 AI 智能",
+      "pubDate": "Fri, 17 Jul 2026 14:50:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-17T09:58:09.763Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
       "title": "阿里1688将推出AI时代B2B交易互联互通开放标准",
-      "link": "https://36kr.com/newsflashes/3899341549520516?f=rss",
-      "snippet": "7月17日，在2026世界人工智能大会上，阿里1688宣布将在本月底推出UTP通用交易协议（UniversalTradeProtocol，简称“UTP”）。随着AI越来越会做生意，B2B正在演变为A2A——买家的AI直接对接工厂的AI自动完成交易，但不同AI之间缺一套行业通用交易协议。UTP相当于为",
-      "pubDate": "2026-07-17 14:15:20  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
+      "link": "https://www.leiphone.com/category/industrynews/kkMxHebmRmWuglVy.html",
+      "snippet": "7月17日，在2026世界人工智能大会上，阿里1688宣布联合中国电子技术标准化研究院和蚂蚁集团，将在本月底推出 UTP 通用交易协议（Universal Trade Protocol，简称“UTP”）。随着 AI 越来越会做生意，B2B 正在演变为 A2A——买家的 AI 直接对接工厂的 AI 自",
+      "pubDate": "Fri, 17 Jul 2026 14:47:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
-      "category": "商业",
+      "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:09.763Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "MzZrci1haTpodHRw",
-      "title": "苏宁易购携手人工智能合作伙伴，布局家用服务机器人",
-      "link": "https://36kr.com/newsflashes/3899337546712969?f=rss",
-      "snippet": "36氪获悉，近日，苏宁易购旗下碧英科技入围工信部人工智能揭榜挂帅项目，将联合产业生态合作伙伴研发智能家庭陪护机器人。该项目面向老龄化背景下的居家照护需求，结合具身智能技术，探索家用机器人商业化路径。",
-      "pubDate": "2026-07-17 14:11:16  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "GAIR Paper 108 | CVPR 2026 冠军奖论文：4K 参数撬动 VLA 泛化，空间才是真正的瓶颈！",
+      "link": "https://www.leiphone.com/category/academic/tSC1DCI4SbS7ZlTG.html",
+      "snippet": "机器人在新场景下失灵，根源不是不懂物理，而是空间表征错了——用极少参数校准这一层，就能打开通往原生世界动作模型的路。          作者丨张   璐      编辑丨齐铖湧",
+      "pubDate": "Fri, 17 Jul 2026 14:22:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
-      "category": "商业",
+      "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:09.763Z",
       "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "丁磊卸任华人运通公司法定代表人",
-      "link": "https://36kr.com/newsflashes/3899335150667393?f=rss",
-      "snippet": "36氪获悉，天眼查App显示，近日，华人运通控股有限公司发生工商变更，丁磊卸任法定代表人，由执行董事改任董事，顾敬黄接任法定代表人，并担任经理。该公司成立于2017年8月，注册资本2.5亿人民币，经营范围包括汽车零部件及配件制造、汽车零部件研发、软件开发等，由善郅合（上海）商务咨询有限公司、上海泽觉",
-      "pubDate": "2026-07-17 14:08:50  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "沪深两市成交额突破2万亿",
-      "link": "https://36kr.com/newsflashes/3899321697879685?f=rss",
-      "snippet": "36氪获悉，沪深两市成交额突破2万亿，较上一个交易日此时放量超2100亿元。",
-      "pubDate": "2026-07-17 13:55:09  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "蜂巢能源发布蜂行短刀3.0等全场景新品",
-      "link": "https://36kr.com/newsflashes/3899321159862150?f=rss",
-      "snippet": "36氪获悉，7月16日，蜂巢能源举行全球合作伙伴峰会。会上，蜂巢能源发布了蜂行短刀3.0、混合固液6C超充电芯、全新大电量磷酸铁锂HEV电池包等一系列覆盖动力、储能及新兴市场的全场景新品，并宣布飞叠4.0将于年内量产交付，凭借16片同时叠技术，叠片效率实现翻倍。",
-      "pubDate": "2026-07-17 13:54:36  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "英特尔与Google Cloud宣布深化战略合作",
-      "link": "https://36kr.com/newsflashes/3899315459081856?f=rss",
-      "snippet": "英特尔与Google Cloud宣布深化双方多年战略合作，通过部署Gemini Enterprise和Google Cloud，加速英特尔全公司范围的数字化转型。英特尔计划将Gemini驱动的先进生成式AI应用于全球员工日常工作，帮助其扩展各项能力，并强化工程、供应链及企业运营领域的工作流。Goog",
-      "pubDate": "2026-07-17 13:48:48  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
-      "tags": [
-        "大模型"
+        "学术研究"
       ]
     },
     {
@@ -115,234 +518,25 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "MzZrci1haTpodHRw",
-      "title": "创业板指跌超7%，三市下跌个股近5000只",
-      "link": "https://36kr.com/newsflashes/3899305058535041?f=rss",
-      "snippet": "36氪获悉，指数走弱，创业板指下挫跌超7%，沪指跌2.69%，深成指跌5.30%。算力硬件、半导体芯片、医药医疗、贵金属、游戏传媒等方向跌幅居前，沪深京三市下跌个股近5000只，其中近660股跌超9%。",
-      "pubDate": "2026-07-17 13:38:13  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "OpenAI官方教你8招玩透ChatGPT！",
+      "link": "https://www.qbitai.com/2026/07/452611.html",
+      "snippet": "",
+      "pubDate": "Fri, 17 Jul 2026 05:11:53 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
       "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "曙光8000亮相WAIC 2026，单个计算单元算力密度提升20倍",
-      "link": "https://36kr.com/newsflashes/3899301443585666?f=rss",
-      "snippet": "36氪获悉，7月17日，曙光8000（登峰）在2026世界人工智能大会以真机形态首次公开亮相，入选大会“镇馆之宝”。该系统采用超智融合架构，支持FP64至INT8全精度计算，单个计算单元算力密度提升20倍；自研scaleFabric互连技术可支撑十万卡规模稳定互连。系统已完成300余项重点应用适配，",
-      "pubDate": "2026-07-17 13:34:32  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "长安汽车党委副书记谭本宏：自研智驾是为了探索AI技术，完成向科技公司跨越",
-      "link": "https://36kr.com/newsflashes/3899295688640136?f=rss",
-      "snippet": "36氪获悉，7月14日，长安汽车年中媒体沟通会上，中国长安汽车集团有限公司党委副书记、董事谭本宏在谈到“为何坚持自研智能驾驶”时表示：很多供应商都能提供成熟方案，但自研的价值不止于技术本身，智能驾驶的背后是AI，是大模型，是对算力的深度理解。这也是未来企业能��完成向科技公司的跨越，是转型中至关重要",
-      "pubDate": "2026-07-17 13:28:41  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "category": "综合",
+      "creator": "文婷",
+      "fetchedAt": "2026-07-17T09:58:05.376Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "恒生科技指数午后跌幅扩大至5%",
-      "link": "https://36kr.com/newsflashes/3899288374773380?f=rss",
-      "snippet": "36氪获悉，恒生科技指数午后跌幅扩大至5%，恒生指数跌超2%，智谱跌超26%，MINIMAX跌超14%。",
-      "pubDate": "2026-07-17 13:21:15  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "科创50、创业板指跌逾6%",
-      "link": "https://36kr.com/newsflashes/3899286064187015?f=rss",
-      "snippet": "36氪获悉，指数走弱，科创50、创业板指下挫跌逾6%，沪指跌2.21%，深成指跌4.60%。算力硬件、半导体芯片、医药医疗、贵金属、游戏传媒等方向跌幅居前，沪深京三市下跌个股近4700只，其中近500股跌超9%。",
-      "pubDate": "2026-07-17 13:18:54  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "中公教育、武汉东湖学院合资成立教育科技公司，注册资本1000万",
-      "link": "https://36kr.com/newsflashes/3899239815956352?f=rss",
-      "snippet": "36氪获悉，天眼查App显示，近日，国稷（湖北）教育科技有限公司成立，法定代表人为周宝生，注册资本1000万人民币，经营范围包括信息技术咨询服务、教育咨询服务、人力资源服务、企业管理咨询等。股东信息显示，该公司由武汉东湖学院、中公教育科技股份有限公司共同持股。",
-      "pubDate": "2026-07-17 12:52:45  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国家发改委发布���人工智能合作发展行动计划》",
-      "link": "https://36kr.com/newsflashes/3899257544656773?f=rss",
-      "snippet": "36氪获悉，国家发改委发布《人工智能合作发展行动计划》，内容包括：一、优质数据供给行动。二、智能算力普惠行动。三、开源生态共享行动。四、人工智能深度赋能行动。五、数智人才共育行动。六、规则标准共建行动。七、安全治理协作行动。八、人工智能向善行动。",
-      "pubDate": "2026-07-17 12:49:53  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "政策监管",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "新易盛据悉提交融资不超过50亿美元的香港上市申请",
-      "link": "https://36kr.com/newsflashes/3899245938689924?f=rss",
-      "snippet": "据媒体援引知情人士透露，中国光模块制造商新易盛已经以保密形式提交在香港上市的申请。一些知情人士称，新易盛或通过在香港发行股票筹集40亿至50亿美元。知情人士透露，摩根士丹利也加入了安排此次发行交易的银行之列。媒体4月份曾报道，新易盛正与中信证券和摩根大通合作筹备香港上市事宜。（新浪财经）",
-      "pubDate": "2026-07-17 12:45:00  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "机器人：目前暂无脑机接口相关产品",
-      "link": "https://36kr.com/newsflashes/3899239107331970?f=rss",
-      "snippet": "36氪获悉，机器人在互动平台表示，公司目前暂无脑机接口相关产品。在半导体装备业务领域产品包括 EFEM、大气机械手、真空机械手及真空传输平台等，主要应用于刻蚀、薄膜、离子注入等工艺环节及领域。",
-      "pubDate": "2026-07-17 12:40:03  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "凯美特气：报道称公司电子特气全年在手订单超4亿元不属实",
-      "link": "https://36kr.com/newsflashes/3899237882054534?f=rss",
-      "snippet": "36氪获悉，有投资者在互动平台提问凯美特气：有报道称公司电子特气全年在手订单超4亿元，客户包括中芯国际、长江存储、长鑫存储、三星、海力士等知名企业消息是否属实？对此，凯美特气回复，报道称公司电子特气全年在手订单超4亿元不属实。",
-      "pubDate": "2026-07-17 12:37:44  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "新易盛：1.6T光模块目前订单情况良好，公司根据客户需求情况持续进行扩产",
-      "link": "https://36kr.com/newsflashes/3899234261714824?f=rss",
-      "snippet": "36氪获悉，新易盛在互动平台表示，1.6T光模块目前订单情况良好，公司根据客户需求情况持续进行扩产，当前公司供应链体系整体稳定。",
-      "pubDate": "2026-07-17 12:26:12  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "宸境科技携系列核心产品亮相WAIC 2026",
-      "link": "https://36kr.com/newsflashes/3899226569524866?f=rss",
-      "snippet": "7月17日，宸境科技携Insight相机、Looper采集套件、NavCore AI大脑三款核心产品亮相WAIC 2026世博展馆，完成了空间感知、具身数据生产、机器人导航的一体化布局。据悉，宸境科技旨在以硬核基础设施破除实验室壁垒，助力国产具身智能大规模走进真实产业场景。",
-      "pubDate": "2026-07-17 12:18:22  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "2026年7月票房破20亿",
-      "link": "https://36kr.com/newsflashes/3899225671370625?f=rss",
-      "snippet": "36氪获悉，据灯塔专业版，截至7月17日，2026年7月总票房（含预售）突破20亿，《功夫女足》《小黄人与大怪兽》《四渡》《特立独行》《后室》暂列7月票房榜前五。",
-      "pubDate": "2026-07-17 12:17:28  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "习近平宣布中国支持全球人工智能发展重大举措",
-      "link": "https://36kr.com/newsflashes/3899215060436864?f=rss",
-      "snippet": "国家主席习近平在上海世界会客厅出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话。习近平指出，在各方共同努力下，世界人工智能合作组织在上海应运而生。这是中方响应全球南方呼声、团结国际社会积极推动人工智能发展和治理的重大举措，将成为人工智能发展史上的一个重要里程碑。习近平宣布",
-      "pubDate": "2026-07-17 12:06:40  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.098Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -356,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:22.143Z",
+      "fetchedAt": "2026-07-17T09:58:09.763Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -373,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-17T06:18:10.071Z",
+      "fetchedAt": "2026-07-17T09:58:05.376Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +583,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
       "tags": [
         "商业融资"
       ]
@@ -405,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:22.143Z",
+      "fetchedAt": "2026-07-17T09:58:09.763Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +615,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
       "tags": [
         "商业融资"
       ]
@@ -437,7 +631,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
       "tags": [
         "商业融资"
       ]
@@ -453,7 +647,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -470,7 +664,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
       "tags": [
         "综合"
       ]
@@ -486,26 +680,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
+      "fetchedAt": "2026-07-17T09:58:07.000Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "商汤001号员工创办AI公司：将AI角色引擎做成护城河，获种子轮融资 | 36氪首发",
-      "link": "https://36kr.com/p/3898370289846153?f=rss",
-      "snippet": "文丨刘士武 36氪游戏获悉， AI 角色硬件公司酷奇奇科技（Coolqq.com）已完成数千万元种子轮融资，本轮融资由上海浦东人工智能种子基金领投，商汤科技、零以创投跟投。云杉资本Spruce Capital担任长期独家财务顾问。 酷奇奇创办于2025年，创始人徐持衡是商汤科技001号员工，师从汤晓",
-      "pubDate": "2026-07-17 08:00:59  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:17.097Z",
-      "tags": [
-        "商业融资",
-        "开源工具"
       ]
     },
     {
@@ -519,7 +696,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-17T06:18:25.757Z",
+      "fetchedAt": "2026-07-17T09:58:13.824Z",
       "tags": [
         "AI应用"
       ]
@@ -535,7 +712,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-07-17T06:18:23.684Z",
+      "fetchedAt": "2026-07-17T09:58:12.197Z",
       "tags": [
         "政策监管"
       ]
@@ -551,7 +728,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-17T06:18:23.684Z",
+      "fetchedAt": "2026-07-17T09:58:12.197Z",
       "tags": [
         "政策监管"
       ]
@@ -567,7 +744,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-07-17T06:18:23.684Z",
+      "fetchedAt": "2026-07-17T09:58:12.197Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +760,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-07-17T06:18:23.684Z",
+      "fetchedAt": "2026-07-17T09:58:12.197Z",
       "tags": [
         "政策监管"
       ]
@@ -599,7 +776,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:23.304Z",
+      "fetchedAt": "2026-07-17T09:58:11.467Z",
       "tags": [
         "综合"
       ]
@@ -615,7 +792,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T06:18:23.304Z",
+      "fetchedAt": "2026-07-17T09:58:11.467Z",
       "tags": [
         "综合"
       ]
@@ -631,187 +808,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-17T06:18:25.757Z",
+      "fetchedAt": "2026-07-17T09:58:13.824Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google Vids now lets you star in your own AI videos",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "snippet": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered",
-      "pubDate": "Thu, 16 Jul 2026 18:32:54 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-17T06:18:22.367Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "snippet": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
-      "pubDate": "Thu, 16 Jul 2026 18:22:06 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-17T06:18:22.367Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "New York governor says she&#8217;s using AI to analyze &#8216;every single rule&#8217; in the state",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "snippet": "New York Governor Kathy Hochul might have just signed a moratorium on new AI data centers in the state, but she's not against using the technology her",
-      "pubDate": "2026-07-16T17:58:37.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:22.713Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dmVudHVyZWJlYXQt",
-      "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem — and most are still building the fix",
-      "link": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-      "snippet": "Across 101 enterprises, the infrastructure that feeds AI agents their business context is being built faster than it can be trusted. Retrieval-augment",
-      "pubDate": "Thu, 16 Jul 2026 17:06:08 GMT",
-      "sourceName": "VentureBeat",
-      "sourceId": "venturebeat-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:23.304Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dmVudHVyZWJlYXQt",
-      "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-      "link": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "snippet": "Across 157 enterprises, organizations are granting AI agents more autonomy while trusting the evaluations meant to gate that autonomy less. Half have",
-      "pubDate": "Thu, 16 Jul 2026 16:40:48 GMT",
-      "sourceName": "VentureBeat",
-      "sourceId": "venturebeat-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:23.304Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google’s AI Mode now lets you link and interact with select apps",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "snippet": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
-      "pubDate": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-17T06:18:22.367Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google is renaming NotebookLM to Gemini Notebook",
-      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "snippet": "Google is giving its AI note-taking app a new name. The company announced on Thursday that NotebookLM is becoming Gemini Notebook, but will remain a s",
-      "pubDate": "2026-07-16T16:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:22.714Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Why teens deserve access to safe AI",
-      "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "snippet": "Learn how OpenAI is making ChatGPT safer for teens with age-appropriate protections, learning tools, parental controls, and expert partnerships.",
-      "pubDate": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T06:18:24.461Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Energy IPOs surge as investors hunt for ways to play AI boom",
-      "link": "https://arstechnica.com/information-technology/2026/07/energy-ipos-surge-as-investors-hunt-for-ways-to-play-ai-boom/",
-      "snippet": "Companies coming to market are raising money at fastest pace this century.",
-      "pubDate": "Thu, 16 Jul 2026 15:48:21 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Martha Muir in New York\n                ",
-      "fetchedAt": "2026-07-17T06:18:23.684Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Yes, you can now order DoorDash from the command line",
-      "link": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
-      "snippet": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from",
-      "pubDate": "Thu, 16 Jul 2026 15:38:55 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-17T06:18:22.367Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Why is OpenAI selling a ChatGPT basketball?",
-      "link": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-      "snippet": "You may have heard that OpenAI released its first piece of hardware this week. You may not have heard about the ChatGPT basketball.",
-      "pubDate": "Thu, 16 Jul 2026 15:31:09 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-17T06:18:22.367Z",
-      "tags": [
-        "大模型",
-        "AI应用"
       ]
     }
   ]
