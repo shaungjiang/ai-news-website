@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-07-17T21:05:45.855Z",
+  "generatedAt": "2026-07-17T22:56:15.350Z",
   "stats": {
     "total": 136,
     "shown": 50,
     "chinese": 60,
     "english": 76,
-    "today": 75
+    "today": 79
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Build an Agentic Event Venue Operator with MongoDB Atlas, Voyage, and LangGraph",
+      "link": "https://www.marktechpost.com/2026/07/17/build-an-agentic-event-venue-operator-with-mongodb-atlas-voyage-and-langgraph/",
+      "snippet": "Introduction This tutorial starts where most agent demos stop: giving the agent persistent memory, operational context, and a place to write back what",
+      "pubDate": "Fri, 17 Jul 2026 22:12:57 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Nina Lopatina",
+      "fetchedAt": "2026-07-17T22:51:57.639Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "snippet": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+      "pubDate": "Fri, 17 Jul 2026 22:12:56 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-07-17T22:51:54.185Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Zyphra Releases ZUNA1.1: An Apache 2.0 EEG Foundation Model With Variable-Length Inputs From 0.5 To 30 Seconds",
+      "link": "https://www.marktechpost.com/2026/07/17/zyphra-releases-zuna1-1-an-apache-2-0-eeg-foundation-model-with-variable-length-inputs-from-0-5-to-30-seconds/",
+      "snippet": "Zyphra released ZUNA1.1 on July 16, 2026, under the Apache 2.0 license. The 380M masked diffusion autoencoder reconstructs, denoises, and upsamples sc",
+      "pubDate": "Fri, 17 Jul 2026 21:35:27 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-17T22:51:57.639Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The Zoom hack that says, ‘Don’t record me’",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "snippet": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+      "pubDate": "Fri, 17 Jul 2026 21:20:47 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-07-17T22:51:54.185Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Agility Robotics plants its flag in Tesla’s backyard",
@@ -19,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-17T20:56:56.211Z",
+      "fetchedAt": "2026-07-17T22:51:54.185Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-17T20:56:56.211Z",
+      "fetchedAt": "2026-07-17T22:51:54.185Z",
       "tags": [
         "开源工具"
       ]
@@ -51,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-07-17T20:56:57.532Z",
+      "fetchedAt": "2026-07-17T22:51:55.792Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:56.538Z",
+      "fetchedAt": "2026-07-17T22:51:54.444Z",
       "tags": [
         "开源工具"
       ]
@@ -83,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-07-17T20:56:56.211Z",
+      "fetchedAt": "2026-07-17T22:51:54.185Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:56.538Z",
+      "fetchedAt": "2026-07-17T22:51:54.444Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +179,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-07-17T20:56:50.921Z",
+      "fetchedAt": "2026-07-17T22:51:49.232Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +195,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-07-17T20:56:50.921Z",
+      "fetchedAt": "2026-07-17T22:51:49.232Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +211,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:55.888Z",
+      "fetchedAt": "2026-07-17T22:51:53.921Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +227,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-07-17T20:56:50.921Z",
+      "fetchedAt": "2026-07-17T22:51:49.232Z",
       "tags": [
         "开源工具"
       ]
@@ -179,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-17T20:56:57.532Z",
+      "fetchedAt": "2026-07-17T22:51:55.792Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +259,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:55.888Z",
+      "fetchedAt": "2026-07-17T22:51:53.921Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -212,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-17T20:56:56.211Z",
+      "fetchedAt": "2026-07-17T22:51:54.185Z",
       "tags": [
         "开源工具"
       ]
@@ -228,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:55.888Z",
+      "fetchedAt": "2026-07-17T22:51:53.921Z",
       "tags": [
         "大模型"
       ]
@@ -244,7 +308,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:55.888Z",
+      "fetchedAt": "2026-07-17T22:51:53.921Z",
       "tags": [
         "AI应用"
       ]
@@ -260,7 +324,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:55.888Z",
+      "fetchedAt": "2026-07-17T22:51:53.921Z",
       "tags": [
         "大模型"
       ]
@@ -276,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-07-17T20:56:56.211Z",
+      "fetchedAt": "2026-07-17T22:51:54.185Z",
       "tags": [
         "AI应用"
       ]
@@ -292,7 +356,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -309,7 +373,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "AI应用"
       ]
@@ -325,7 +389,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "商业融资"
       ]
@@ -341,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -358,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +438,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +470,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "商业融资"
       ]
@@ -422,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:55.888Z",
+      "fetchedAt": "2026-07-17T22:51:53.921Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +502,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "AI应用"
       ]
@@ -454,7 +518,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-17T20:56:56.812Z",
+      "fetchedAt": "2026-07-17T22:51:54.740Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +534,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +550,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "商业融资"
       ]
@@ -502,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-17T20:56:50.921Z",
+      "fetchedAt": "2026-07-17T22:51:49.232Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +582,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-17T20:56:56.211Z",
+      "fetchedAt": "2026-07-17T22:51:54.185Z",
       "tags": [
         "商业融资"
       ]
@@ -534,7 +598,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "AI应用"
       ]
@@ -550,7 +614,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -567,7 +631,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +647,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +663,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "商业融资"
       ]
@@ -615,7 +679,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-17T20:56:50.921Z",
+      "fetchedAt": "2026-07-17T22:51:49.232Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +711,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +727,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -680,7 +744,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "商业融资"
       ]
@@ -696,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:55.888Z",
+      "fetchedAt": "2026-07-17T22:51:53.921Z",
       "tags": [
         "AI应用"
       ]
@@ -712,7 +776,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
+      "fetchedAt": "2026-07-17T22:51:50.804Z",
       "tags": [
         "商业融资"
       ]
@@ -728,7 +792,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-17T20:56:50.921Z",
+      "fetchedAt": "2026-07-17T22:51:49.232Z",
       "tags": [
         "AI应用"
       ]
@@ -744,71 +808,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-17T20:56:50.922Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环",
-      "link": "https://36kr.com/p/3899556701128578?f=rss",
-      "snippet": "7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。森博科技董事长于林义在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务",
-      "pubDate": "2026-07-17 18:51:22  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "2026最受投资人关注人工智能/具身智能企业50揭晓",
-      "link": "https://36kr.com/p/3899597215745664?f=rss",
-      "snippet": "人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。 市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2",
-      "pubDate": "2026-07-17 18:45:58  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-17T20:56:52.776Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "从仰望星空到落地创新：WAIC青年菁英会即将硬核开场，最新成果首发在即",
-      "link": "https://www.qbitai.com/2026/07/453203.html",
-      "snippet": "",
-      "pubDate": "Fri, 17 Jul 2026 10:41:24 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-17T20:56:50.922Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "AI到底是「想错了」还是「判错了」？OpenDriveLab 陈立的组合式世界模型让策略自我纠偏 | RSS 2026",
-      "link": "https://www.leiphone.com/category/private/GkoVU7vEEW4FAPT2.html",
-      "snippet": "在具身智能通往 AGI 的征途中，我们正面临一个幽灵般的威胁：“黑盒幻觉”。 当一个机器人或自动驾驶策略出错时，开发者往往很难精准定位原因。因为“预测未来”和“评估好坏”这两个功能在庞大的联合网络中被紧紧绑在一起。一旦出了事故，你根本分不清它到底是“想错了”（对物理世界的预测不对），还是“判错了”（",
-      "pubDate": "Fri, 17 Jul 2026 18:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-17T20:56:55.888Z",
+      "fetchedAt": "2026-07-17T22:51:49.232Z",
       "tags": [
         "综合"
       ]
