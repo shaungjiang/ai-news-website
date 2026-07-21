@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-07-21T17:31:23.244Z",
+  "generatedAt": "2026-07-21T19:29:01.198Z",
   "stats": {
-    "total": 133,
+    "total": 123,
     "shown": 50,
     "chinese": 57,
-    "english": 76,
+    "english": 66,
     "today": 63
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Data centers expected to use 4x more electricity by 2035",
+      "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+      "snippet": "New data centers built through 2033 could consume as much electricity as India uses today.",
+      "pubDate": "Tue, 21 Jul 2026 18:06:38 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim De Chant",
+      "fetchedAt": "2026-07-21T19:24:25.951Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out",
+      "link": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/",
+      "snippet": "Anthropic blocks authors from opting out of $1.5B settlement at last minute.",
+      "pubDate": "Tue, 21 Jul 2026 17:33:14 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-07-21T19:24:27.784Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Google releases three new Gemini models — but no 3.5 Pro",
@@ -19,7 +51,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-21T17:21:29.283Z",
+      "fetchedAt": "2026-07-21T19:24:25.951Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:31.498Z",
+      "fetchedAt": "2026-07-21T19:24:28.466Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -52,7 +84,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-07-21T17:21:30.905Z",
+      "fetchedAt": "2026-07-21T19:24:27.784Z",
       "tags": [
         "大模型"
       ]
@@ -68,25 +100,26 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.536Z",
+      "fetchedAt": "2026-07-21T19:24:26.231Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis",
-      "link": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
-      "snippet": "In this tutorial, we explore NVIDIA’s srt-slurm framework and learn how we use srtctl to convert declarative YAML configurations into reproducible SLU",
-      "pubDate": "Tue, 21 Jul 2026 16:29:36 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-07-21T17:21:32.498Z",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "独家丨腾讯整合Workbuddy与QClaw团队",
+      "link": "https://www.leiphone.com/category/CorporateServices/EVvkkNduzRvpxmRi.html",
+      "snippet": "雷峰网独家获悉，7 月 20 日，腾讯发布内部组织调整通知，腾讯QClaw产品中心相关业务和部分团队，将调整至云产品六部。QClaw产品仍将持续运营。 QClaw由腾讯电脑管家团队基于OpenClaw打造，今年3月开启内测。据媒体报道，上线一周后其用户量曾突破数百万。 云产品六部是腾讯另一款AI办公",
+      "pubDate": "Tue, 21 Jul 2026 23:46:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-21T19:24:25.668Z",
       "tags": [
-        "大模型"
+        "AI应用",
+        "政策监管"
       ]
     },
     {
@@ -100,7 +133,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-21T17:21:29.283Z",
+      "fetchedAt": "2026-07-21T19:24:25.951Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +149,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.536Z",
+      "fetchedAt": "2026-07-21T19:24:26.231Z",
       "tags": [
         "大模型"
       ]
@@ -132,7 +165,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-21T17:21:29.283Z",
+      "fetchedAt": "2026-07-21T19:24:25.951Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +181,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.536Z",
+      "fetchedAt": "2026-07-21T19:24:26.231Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +197,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +213,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +229,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +245,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +261,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "AI应用"
       ]
@@ -244,7 +277,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "商业融资"
       ]
@@ -260,7 +293,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +309,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +325,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "学术研究"
       ]
@@ -308,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "学术研究"
       ]
@@ -324,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "商业融资"
       ]
@@ -340,7 +373,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +389,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-21T17:21:29.814Z",
+      "fetchedAt": "2026-07-21T19:24:26.546Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -389,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +438,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "AI应用"
       ]
@@ -421,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "AI应用"
       ]
@@ -430,14 +463,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "长鑫科技：网上投资者放弃认购658.63万股",
       "link": "https://36kr.com/newsflashes/3905336150152585?f=rss",
-      "snippet": "36氪获悉，长鑫科技披露首次公开发行股票并在科创板上市发行结果公告。本次发行的网上、网下认购缴款工作已于2026年7月20日（T+2 日）结束。网上投资者缴款认购的股份数量为3844517273股，网上投资者缴款认购的金额为33293519584.18元，网上投资者放弃认购数量为6586227股，网",
+      "snippet": "36氪获悉，长鑫科技披露首次公开发行股票并在科创板上市发行结果公告。本次发行的网上、网下认购缴款工作已于2026���7月20日（T+2 日）结束。网上投资者缴款认购的股份数量为3844517273股，网上投资者缴款认购的金额为33293519584.18元，网上投资者放弃认购数量为6586227股",
       "pubDate": "2026-07-21 19:53:22  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "商业融资"
       ]
@@ -453,7 +486,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +502,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "AI应用"
       ]
@@ -485,7 +518,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.581Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -502,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.029Z",
+      "fetchedAt": "2026-07-21T19:24:25.668Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -519,7 +552,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.029Z",
+      "fetchedAt": "2026-07-21T19:24:25.668Z",
       "tags": [
         "商业融资"
       ]
@@ -535,7 +568,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.536Z",
+      "fetchedAt": "2026-07-21T19:24:26.231Z",
       "tags": [
         "大模型"
       ]
@@ -551,7 +584,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.580Z",
       "tags": [
         "综合"
       ]
@@ -567,7 +600,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Christine McGuiness and Devang Khariwala",
-      "fetchedAt": "2026-07-21T17:21:29.814Z",
+      "fetchedAt": "2026-07-21T19:24:26.546Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +616,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-21T17:21:29.283Z",
+      "fetchedAt": "2026-07-21T19:24:25.951Z",
       "tags": [
         "商业融资"
       ]
@@ -599,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.029Z",
+      "fetchedAt": "2026-07-21T19:24:25.668Z",
       "tags": [
         "AI应用"
       ]
@@ -615,14 +648,14 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T17:21:24.364Z",
+      "fetchedAt": "2026-07-21T19:24:20.938Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "独家 | PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人",
+      "title": "独家 | PICO创始人周宏伟将卸任，���晓凯成为新任业务负责人",
       "link": "https://36kr.com/p/3905176863721349?f=rss",
       "snippet": "文 | 李炤锋 编辑 | 张雨忻 智能涌现独家获悉，字节旗下XR（扩展现实）业务PICO近日完成业务负责人调整：由于个人规划原因，创始人周宏伟不再担任 PICO 负责人，李晓凯接任负责人，全面负责PICO业务。 据了解，此次管理交接不会影响PICO既定的战略方向、研发工作和产品计划。今年，PICO将",
       "pubDate": "2026-07-21 17:34:21  +0800",
@@ -631,7 +664,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.580Z",
       "tags": [
         "AI应用"
       ]
@@ -647,7 +680,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T17:21:24.364Z",
+      "fetchedAt": "2026-07-21T19:24:20.938Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T17:21:24.364Z",
+      "fetchedAt": "2026-07-21T19:24:20.938Z",
       "tags": [
         "AI应用"
       ]
@@ -679,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T17:21:24.364Z",
+      "fetchedAt": "2026-07-21T19:24:20.938Z",
       "tags": [
         "AI应用"
       ]
@@ -695,25 +728,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.580Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meta Open-Sources Astryx: An Agent-Ready React Design System With 150+ Accessible Components, Seven Themes, and a CLI",
-      "link": "https://www.marktechpost.com/2026/07/21/meta-open-sources-astryx-an-agent-ready-react-design-system-with-150-accessible-components-seven-themes-and-a-cli/",
-      "snippet": "Meta has open-sourced Astryx, the React and StyleX design system it ran internally for eight years across 13,000+ apps. It ships 150+ accessible compo",
-      "pubDate": "Tue, 21 Jul 2026 08:49:55 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-21T17:21:32.498Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -727,7 +744,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.580Z",
       "tags": [
         "政策监管"
       ]
@@ -743,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.029Z",
+      "fetchedAt": "2026-07-21T19:24:25.668Z",
       "tags": [
         "大模型"
       ]
@@ -759,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:29.029Z",
+      "fetchedAt": "2026-07-21T19:24:25.668Z",
       "tags": [
         "综合"
       ]
@@ -775,23 +792,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases Cosmos 3 Edge: A 4B-Parameter Open World Model That Reasons and Generates Robot Actions On-Device",
-      "link": "https://www.marktechpost.com/2026/07/21/nvidia-releases-cosmos-3-edge-a-4b-parameter-open-world-model-that-reasons-and-generates-robot-actions-on-device/",
-      "snippet": "NVIDIA has released Cosmos 3 Edge, a 4-billion-parameter open world model built to run on-device. It helps robots and vision AI agents understand surr",
-      "pubDate": "Tue, 21 Jul 2026 07:48:28 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-21T17:21:32.498Z",
+      "fetchedAt": "2026-07-21T19:24:22.580Z",
       "tags": [
         "AI应用"
       ]
@@ -807,7 +808,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T17:21:26.087Z",
+      "fetchedAt": "2026-07-21T19:24:22.580Z",
       "tags": [
         "AI应用"
       ]
