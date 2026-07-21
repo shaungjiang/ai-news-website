@@ -1,13 +1,94 @@
 {
-  "generatedAt": "2026-07-21T15:49:05.659Z",
+  "generatedAt": "2026-07-21T17:31:23.244Z",
   "stats": {
-    "total": 132,
+    "total": 133,
     "shown": 50,
     "chinese": 57,
-    "english": 75,
-    "today": 58
+    "english": 76,
+    "today": 63
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google releases three new Gemini models — but no 3.5 Pro",
+      "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "snippet": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI str",
+      "pubDate": "Tue, 21 Jul 2026 17:11:50 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-07-21T17:21:29.283Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Introducing the ChatGPT for small business program",
+      "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "snippet": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+      "pubDate": "Tue, 21 Jul 2026 17:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-07-21T17:21:31.498Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+      "link": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/",
+      "snippet": "There are new 3.6 and 3.5 models today, but Google is already training Gemini 4.",
+      "pubDate": "Tue, 21 Jul 2026 16:58:25 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-07-21T17:21:30.905Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "snippet": "A federal judge has signed off on Anthropic's $1.5 billion class action settlement with authors who accused the company of training its AI models on c",
+      "pubDate": "2026-07-21T16:53:37.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-21T17:21:29.536Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Validating Distributed LLM Serving Benchmarks with NVIDIA srt-slurm, SLURM Recipes, Parameter Sweeps, and Pareto Analysis",
+      "link": "https://www.marktechpost.com/2026/07/21/validating-distributed-llm-serving-benchmarks-with-nvidia-srt-slurm-slurm-recipes-parameter-sweeps-and-pareto-analysis/",
+      "snippet": "In this tutorial, we explore NVIDIA’s srt-slurm framework and learn how we use srtctl to convert declarative YAML configurations into reproducible SLU",
+      "pubDate": "Tue, 21 Jul 2026 16:29:36 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-21T17:21:32.498Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "US threatens sanctions against Chinese AI models over IP theft",
@@ -19,7 +100,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-21T15:44:42.503Z",
+      "fetchedAt": "2026-07-21T17:21:29.283Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +116,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.817Z",
+      "fetchedAt": "2026-07-21T17:21:29.536Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-21T15:44:42.503Z",
+      "fetchedAt": "2026-07-21T17:21:29.283Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.817Z",
+      "fetchedAt": "2026-07-21T17:21:29.536Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +164,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +180,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +196,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +212,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +228,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +244,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "商业融资"
       ]
@@ -179,7 +260,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +276,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +292,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "学术研究"
       ]
@@ -227,7 +308,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "学术研究"
       ]
@@ -243,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "商业融资"
       ]
@@ -259,7 +340,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +356,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-21T15:44:43.061Z",
+      "fetchedAt": "2026-07-21T17:21:29.814Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +372,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -308,7 +389,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +421,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
@@ -356,7 +437,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "商业融资"
       ]
@@ -372,7 +453,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "综合"
       ]
@@ -388,14 +469,14 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "保险业协会：当前普通型人身保险产品预定利率研究值��1.94%",
+      "title": "保险业协会：当前普通型人身保险产品预定利率研究值为1.94%",
       "link": "https://36kr.com/newsflashes/3905321845839239?f=rss",
       "snippet": "36氪获悉，据中国保险行业协会，7月20日，中国保险行业协会组织召开人身保险业利率研究专家咨询委员会2026年二季度例会，分析宏观经济形势、国债市场走势和行业发展情况，部分专家就资本市场观察和人工智能应用等热点问题进行专题交流。保险业专家研究了人身保险产品预定利率研究值，提出当前普通型人身保险产品预",
       "pubDate": "2026-07-21 19:38:49  +0800",
@@ -404,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -421,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.253Z",
+      "fetchedAt": "2026-07-21T17:21:29.029Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -438,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.253Z",
+      "fetchedAt": "2026-07-21T17:21:29.029Z",
       "tags": [
         "商业融资"
       ]
@@ -454,7 +535,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.817Z",
+      "fetchedAt": "2026-07-21T17:21:29.536Z",
       "tags": [
         "大模型"
       ]
@@ -470,7 +551,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +567,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Christine McGuiness and Devang Khariwala",
-      "fetchedAt": "2026-07-21T15:44:43.061Z",
+      "fetchedAt": "2026-07-21T17:21:29.814Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +583,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-21T15:44:42.503Z",
+      "fetchedAt": "2026-07-21T17:21:29.283Z",
       "tags": [
         "商业融资"
       ]
@@ -518,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.253Z",
+      "fetchedAt": "2026-07-21T17:21:29.029Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T15:44:34.737Z",
+      "fetchedAt": "2026-07-21T17:21:24.364Z",
       "tags": [
         "AI应用"
       ]
@@ -550,7 +631,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
@@ -566,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T15:44:34.737Z",
+      "fetchedAt": "2026-07-21T17:21:24.364Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T15:44:34.737Z",
+      "fetchedAt": "2026-07-21T17:21:24.364Z",
       "tags": [
         "AI应用"
       ]
@@ -598,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T15:44:34.737Z",
+      "fetchedAt": "2026-07-21T17:21:24.364Z",
       "tags": [
         "AI应用"
       ]
@@ -614,7 +695,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "开源工具"
       ]
@@ -630,7 +711,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-21T15:44:46.027Z",
+      "fetchedAt": "2026-07-21T17:21:32.498Z",
       "tags": [
         "AI应用"
       ]
@@ -646,7 +727,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "政策监管"
       ]
@@ -662,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.253Z",
+      "fetchedAt": "2026-07-21T17:21:29.029Z",
       "tags": [
         "大模型"
       ]
@@ -678,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.253Z",
+      "fetchedAt": "2026-07-21T17:21:29.029Z",
       "tags": [
         "综合"
       ]
@@ -694,7 +775,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
       ]
@@ -710,7 +791,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-21T15:44:46.027Z",
+      "fetchedAt": "2026-07-21T17:21:32.498Z",
       "tags": [
         "AI应用"
       ]
@@ -726,90 +807,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
+      "fetchedAt": "2026-07-21T17:21:26.087Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "国产首个十万卡集群曙光8000亮相WAIC，上线首周应用满载",
-      "link": "https://www.leiphone.com/category/chips/iWlm9n5NckNHsVW5.html",
-      "snippet": "“如果全部算力都用于推理，曙光8000将是中国最大的Token工厂，能支撑当前全国5%～10%的Token需求。”在一次采访中，中科曙光公司高级副总裁李斌的换算，让现场嘉宾对国产十万卡集群的体量有了最直观的感受。 7月，光合组织2026智能计算应用大会期间，首台全国产十万卡量级AI超集群系统——曙光",
-      "pubDate": "Tue, 21 Jul 2026 14:58:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.253Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "国内首个！阿里健康氢离子达成NEJM、JAMA、BMJ三大医学顶刊内容合作",
-      "link": "https://www.qbitai.com/2026/07/455993.html",
-      "snippet": "",
-      "pubDate": "Tue, 21 Jul 2026 06:03:10 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T15:44:34.737Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Momenta股价涨超10%，Robotaxi业务取得新进展",
-      "link": "https://www.leiphone.com/category/industrynews/UL3cMKpyXdpasEOo.html",
-      "snippet": "7月21日，Momenta（6880.HK）股价涨超10%。消息面上，公司近日宣布正式获得深圳市智能网联汽车道路测试许可，将在当地开展L4级Robotaxi实地测试。  近期，在2026世界人工智能大会上，享道出行宣布启动上汽Robotaxi量产定制车项目，搭载Momenta L4级智驾系统，计划2",
-      "pubDate": "Tue, 21 Jul 2026 13:46:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-21T15:44:42.253Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阿里Qoder上线全新安全能力，为每位用户配备一位专属安全工程师",
-      "link": "https://www.qbitai.com/2026/07/455979.html",
-      "snippet": "",
-      "pubDate": "Tue, 21 Jul 2026 05:44:29 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-21T15:44:34.737Z",
-      "tags": [
-        "政策监管",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "欧林生物：重庆啤酒的痛，市场还没忘记",
-      "link": "https://36kr.com/p/3904814486718342?f=rss",
-      "snippet": "作者 | 黄绎达 编辑 | 张帆 欧林生物是国内疫苗领域的龙头企业，依托极具稀缺性的超级细菌创新疫苗管线与稳健发展的破伤风疫苗，其A股股价自2024年开启了一轮强势上涨行情，区间最大涨幅超过500%。火热市场行情之下，公司于6月30日向港交所递交更新招股书，重启赴港上市计划，希望凭借创新疫苗管线的好",
-      "pubDate": "2026-07-21 11:05:20  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-21T15:44:36.809Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
