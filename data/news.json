@@ -1,13 +1,110 @@
 {
-  "generatedAt": "2026-07-22T17:30:50.803Z",
+  "generatedAt": "2026-07-22T19:26:18.987Z",
   "stats": {
-    "total": 129,
+    "total": 139,
     "shown": 50,
-    "chinese": 50,
-    "english": 79,
-    "today": 65
+    "chinese": 59,
+    "english": 80,
+    "today": 81
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "snippet": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mi",
+      "pubDate": "Wed, 22 Jul 2026 19:11:46 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lorenzo Franceschi-Bicchierai",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+      "snippet": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "pubDate": "Wed, 22 Jul 2026 18:50:44 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sean O'Kane",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Hyundai claims humanoid robot plan is not part of talks with striking workers",
+      "link": "https://arstechnica.com/ai/2026/07/hyundai-claims-humanoid-robot-plan-is-not-part-of-talks-with-striking-workers/",
+      "snippet": "Union previously warned automaker that any robot deployment must be negotiated.",
+      "pubDate": "Wed, 22 Jul 2026 18:18:12 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-07-22T19:21:36.936Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+      "snippet": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators",
+      "pubDate": "Wed, 22 Jul 2026 18:13:58 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+      "snippet": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI",
+      "pubDate": "Wed, 22 Jul 2026 17:54:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ram Iyer",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
+      "link": "https://www.qbitai.com/2026/07/457223.html",
+      "snippet": "美图产品挑战赛（Meitu Hatch Catch）火热报名中",
+      "pubDate": "Wed, 22 Jul 2026 17:35:44 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-07-22T19:21:29.690Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
@@ -19,9 +116,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-07-22T17:21:07.199Z",
+      "fetchedAt": "2026-07-22T19:21:36.936Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Here&#8217;s what Samsung&#8217;s smart glasses actually look like",
+      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "snippet": "With a camera on every pair, Google’s and Samsung’s AI glasses face the same privacy problems as Meta’s. | Photo: Dominic Preston / The Verge\t  Samsun",
+      "pubDate": "2026-07-22T16:35:34.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-22T19:21:35.785Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -35,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
       "tags": [
         "开源工具"
       ]
@@ -51,7 +164,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
       "tags": [
         "开源工具"
       ]
@@ -67,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +196,23 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:06.004Z",
+      "fetchedAt": "2026-07-22T19:21:35.785Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+      "snippet": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy sa",
+      "pubDate": "Wed, 22 Jul 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo, Julie Bort",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    WIRED\n                ",
-      "fetchedAt": "2026-07-22T17:21:07.199Z",
+      "fetchedAt": "2026-07-22T19:21:36.936Z",
       "tags": [
         "开源工具"
       ]
@@ -115,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +276,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:07.828Z",
+      "fetchedAt": "2026-07-22T19:21:37.643Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +292,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +308,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +340,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "商业融资"
       ]
@@ -227,7 +356,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +372,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "商业融资"
       ]
@@ -259,7 +388,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "政策监管"
       ]
@@ -275,7 +404,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +420,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -301,14 +430,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "国务院国资委：上半年中央企业完成研发经费投入同比增长3.8%",
       "link": "https://36kr.com/newsflashes/3906761799013512?f=rss",
-      "snippet": "7月21日至22日，国务院国资委举办中央企业负责人研讨班。会上发布信息显示，1-6月，中央企业完成研发经费投入同比增长3.8%。第四批9个创新联合体启动组建，8家行业共性技术研究院设置47个专职研发机构，新型电力系统等4个领域基本建成具有全球影响力的原创技术策源地。（证券时报）",
+      "snippet": "7月21日至22日，国务院国资委举办中央企业负责人研讨班。会上发布信息显示，1-6月，中央企业完成研发经费投入���比增长3.8%。第四批9个创新联合体启动组建，8家行业共性技术研究院设置47个专职研发机构，新型电力系统等4个领域基本建成具有全球影响力的原创技术策源地。（证券时报）",
       "pubDate": "2026-07-22 20:15:54  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +453,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "商业融资"
       ]
@@ -340,7 +469,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "商业融资"
       ]
@@ -356,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "商业融资"
       ]
@@ -372,7 +501,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-22T17:21:06.325Z",
+      "fetchedAt": "2026-07-22T19:21:36.038Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +517,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +533,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +549,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "学术研究"
       ]
@@ -436,7 +565,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "AI应用"
       ]
@@ -452,7 +581,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "商业融资"
       ]
@@ -468,7 +597,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:07.828Z",
+      "fetchedAt": "2026-07-22T19:21:37.643Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +613,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "AI应用"
       ]
@@ -500,7 +629,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +645,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:06.004Z",
+      "fetchedAt": "2026-07-22T19:21:35.785Z",
       "tags": [
         "综合"
       ]
@@ -532,7 +661,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:06.004Z",
+      "fetchedAt": "2026-07-22T19:21:35.785Z",
       "tags": [
         "综合"
       ]
@@ -548,7 +677,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -565,7 +694,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +710,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "商业融资"
       ]
@@ -597,7 +726,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-22T17:21:09.324Z",
+      "fetchedAt": "2026-07-22T19:21:38.916Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -614,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:05.492Z",
+      "fetchedAt": "2026-07-22T19:21:35.259Z",
       "tags": [
         "大模型"
       ]
@@ -630,7 +759,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-07-22T17:21:06.325Z",
+      "fetchedAt": "2026-07-22T19:21:36.038Z",
       "tags": [
         "AI应用"
       ]
@@ -646,7 +775,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
+      "fetchedAt": "2026-07-22T19:21:31.820Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -663,7 +792,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "fetchedAt": "2026-07-22T19:21:35.483Z",
       "tags": [
         "AI应用"
       ]
@@ -679,139 +808,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-22T17:21:05.492Z",
+      "fetchedAt": "2026-07-22T19:21:35.259Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家解读丨OpenAI 们割肉、Kimi 们火拼，AI 编程下半场怎么打？",
-      "link": "https://www.leiphone.com/category/industrynews/4lBJ3V8tb2JInt2D.html",
-      "snippet": "“从全球范围看，AI 编程已过了技术陡峭期。但二级市场退烧后，产业一线开始了近身肉搏。”一家国内头部券商计算机资深分析师张淼告诉雷峰网。 最近，AI 编程市场又火了起来。 海外，Anthropic、OpenAI 为抢用户，激烈火拼，不断加码免费额度与体验时长，打起了额度战。国内，战火一路从用户心智烧",
-      "pubDate": "Wed, 22 Jul 2026 15:54:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-22T17:21:05.492Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "对话润建股份：AI应用拼的不只是模型能力，更是从Token到价值创造的闭环能力",
-      "link": "https://36kr.com/p/3906499484996742?f=rss",
-      "snippet": "7月17日，2026世界人工智能大会在上海开幕。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。润建股份董事、副总裁丁永在WAIC现场接受36氪「氪话未来」特邀专访，围绕Token生产、应用落地、价值闭环及出海布局等话题，分享了润建股份打造Toke",
-      "pubDate": "2026-07-22 15:38:55  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "百度文心助手任务 Agent 登顶国际权威榜单，超越 Claude、GPT 拿下全球智能体冠军",
-      "link": "https://www.leiphone.com/category/industrynews/JnKtRGrgnS8TvRhM.html",
-      "snippet": "2026 年 7 月 17 日，百度文心助手任务 Agent，以最高分 94.6%、平均分 94.4% 的成绩，登顶全球工程向 AI 智能体评测榜单 PinchBench v2。成为首个以正式产品身份获得 PinchBench 总榜第一的国产智能体系统。   在 59 个参评模型中，文心助手任务 A",
-      "pubDate": "Wed, 22 Jul 2026 15:18:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-22T17:21:05.492Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "硬氪首发 | 前华为智驾骨干入局AI船舶，已获亿元订单，专攻休闲艇",
-      "link": "https://36kr.com/p/3906468088042886?f=rss",
-      "snippet": "硬氪获悉，智能船艇公司同舟智航近日完成数千万种子轮融资，由英诺天使和吴中金控联合领投，江苏金桥基金跟投。融资将用于补充核心研发与量产团队人才，同步启动海外品牌建设与渠道开拓。 同舟智航2025年6月成立，核心理念是用人工智能赋能船舶。创始人张呈伦拥有10余年汽车自动驾驶行业经验，曾任华为商用车解决方",
-      "pubDate": "2026-07-22 15:06:04  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "WAIC深度观察：具身数据，进入「开箱即用」时代",
-      "link": "https://www.leiphone.com/category/robot/ClTZ7U1EvG0bVaHo.html",
-      "snippet": "真正的「Model-Ready Data」，高精度、多模态、多样性缺一不可。        作者丨高景辉     编辑丨马晓宁",
-      "pubDate": "Wed, 22 Jul 2026 15:06:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-22T17:21:05.492Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "BW2026结束后，留给了B站什么？",
-      "link": "https://36kr.com/p/3905618377512065?f=rss",
-      "snippet": "文丨刘士武 Bilibili World 2026开幕当天，我和同事果脯从国家会展中心走进展馆逛了一大圈后，发现今年BW确实和以往有所不同。 我们在4馆“BW游先看”展位前停下，那是果脯刚逛过一轮主舞台、回到试玩区的瞬间。他问了一句：“你说B站游戏今年是不是在悄悄变化？”那天我们没聊完，但这个问题让",
-      "pubDate": "2026-07-22 14:36:04  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cisco Foundation AI Releases Antares: 350M and 1B Open-Weight Models That Localize Known Vulnerabilities Inside Real Codebases",
-      "link": "https://www.marktechpost.com/2026/07/21/cisco-foundation-ai-releases-antares-350m-and-1b-open-weight-models-that-localize-known-vulnerabilities-inside-real-codebases/",
-      "snippet": "Cisco Foundation AI has released Antares, a family of small language models trained to pinpoint where known vulnerabilities live inside a codebase. An",
-      "pubDate": "Wed, 22 Jul 2026 06:27:02 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-22T17:21:09.324Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "上市前夜 | 手机PMIC全球第三、三年亏15亿，芯迈第三次冲港股IPO",
-      "link": "https://36kr.com/p/3906428262618241?f=rss",
-      "snippet": "本文约3400字，建议阅读7分钟 作者 | 彭孝秋 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第八期——芯迈。 昨日，一家名为「芯迈」的功率半导体公司，第三次向港交所递交了招股书（前两次为2025年6月、2026年1月），华泰",
-      "pubDate": "2026-07-22 14:25:05  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-22T17:21:00.803Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
