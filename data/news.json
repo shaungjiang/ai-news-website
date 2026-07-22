@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-07-22T15:50:46.820Z",
+  "generatedAt": "2026-07-22T17:30:50.803Z",
   "stats": {
-    "total": 138,
+    "total": 129,
     "shown": 50,
-    "chinese": 59,
+    "chinese": 50,
     "english": 79,
-    "today": 70
+    "today": 65
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "OpenAI says its AI agent broke out of testing sandbox to hack Hugging Face",
+      "link": "https://arstechnica.com/ai/2026/07/how-an-openai-benchmark-test-turned-into-a-real-world-cyberattack/",
+      "snippet": "\"This is day one for cybersecurity in the age of agents,\" Hugging Face CEO says.",
+      "pubDate": "Wed, 22 Jul 2026 16:47:49 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-07-22T17:21:07.199Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+      "snippet": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch",
+      "pubDate": "Wed, 22 Jul 2026 16:24:08 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+      "snippet": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assis",
+      "pubDate": "Wed, 22 Jul 2026 16:23:09 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "link": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
+      "snippet": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "pubDate": "Wed, 22 Jul 2026 16:13:30 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim De Chant",
+      "fetchedAt": "2026-07-22T17:21:05.720Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "AMD commits up to $5 billion to  Anthropic",
@@ -19,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.882Z",
+      "fetchedAt": "2026-07-22T17:21:06.004Z",
       "tags": [
         "商业融资"
       ]
@@ -35,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    WIRED\n                ",
-      "fetchedAt": "2026-07-22T15:45:55.010Z",
+      "fetchedAt": "2026-07-22T17:21:07.199Z",
       "tags": [
         "开源工具"
       ]
@@ -51,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-22T15:45:53.648Z",
+      "fetchedAt": "2026-07-22T17:21:05.720Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-22T15:45:53.648Z",
+      "fetchedAt": "2026-07-22T17:21:05.720Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +147,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:55.475Z",
+      "fetchedAt": "2026-07-22T17:21:07.828Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +163,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +179,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +195,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +211,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +227,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +243,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -195,7 +259,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "政策监管"
       ]
@@ -211,7 +275,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +291,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -244,7 +308,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "AI应用"
       ]
@@ -260,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -276,7 +340,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -292,7 +356,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -308,7 +372,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-07-22T15:45:54.150Z",
+      "fetchedAt": "2026-07-22T17:21:06.325Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +388,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +404,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +420,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "学术研究"
       ]
@@ -372,7 +436,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "AI应用"
       ]
@@ -388,7 +452,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -404,7 +468,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:55.475Z",
+      "fetchedAt": "2026-07-22T17:21:07.828Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +484,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "AI应用"
       ]
@@ -436,7 +500,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +516,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.882Z",
+      "fetchedAt": "2026-07-22T17:21:06.004Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +532,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.882Z",
+      "fetchedAt": "2026-07-22T17:21:06.004Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +548,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-22T15:45:53.648Z",
+      "fetchedAt": "2026-07-22T17:21:05.720Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -501,7 +565,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +581,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -533,7 +597,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-22T15:45:56.507Z",
+      "fetchedAt": "2026-07-22T17:21:09.324Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -550,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.400Z",
+      "fetchedAt": "2026-07-22T17:21:05.492Z",
       "tags": [
         "大模型"
       ]
@@ -566,7 +630,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-07-22T15:45:54.150Z",
+      "fetchedAt": "2026-07-22T17:21:06.325Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +646,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -599,7 +663,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-22T15:45:53.648Z",
+      "fetchedAt": "2026-07-22T17:21:05.720Z",
       "tags": [
         "AI应用"
       ]
@@ -615,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.400Z",
+      "fetchedAt": "2026-07-22T17:21:05.492Z",
       "tags": [
         "大模型"
       ]
@@ -631,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.400Z",
+      "fetchedAt": "2026-07-22T17:21:05.492Z",
       "tags": [
         "AI应用"
       ]
@@ -647,26 +711,27 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "AI应用",
         "商业融资"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
-      "link": "https://www.qbitai.com/2026/07/457117.html",
-      "snippet": "",
-      "pubDate": "Wed, 22 Jul 2026 07:31:19 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百度文心助手任务 Agent 登顶国际权威榜单，超越 Claude、GPT 拿下全球智能体冠军",
+      "link": "https://www.leiphone.com/category/industrynews/JnKtRGrgnS8TvRhM.html",
+      "snippet": "2026 年 7 月 17 日，百度文心助手任务 Agent，以最高分 94.6%、平均分 94.4% 的成绩，登顶全球工程向 AI 智能体评测榜单 PinchBench v2。成为首个以正式产品身份获得 PinchBench 总榜第一的国产智能体系统。   在 59 个参评模型中，文心助手任务 A",
+      "pubDate": "Wed, 22 Jul 2026 15:18:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
       "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-22T15:45:42.679Z",
+      "creator": "",
+      "fetchedAt": "2026-07-22T17:21:05.492Z",
       "tags": [
-        "大模型"
+        "大模型",
+        "AI应用"
       ]
     },
     {
@@ -680,7 +745,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
       ]
@@ -696,7 +761,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.400Z",
+      "fetchedAt": "2026-07-22T17:21:05.492Z",
       "tags": [
         "综合"
       ]
@@ -712,7 +777,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "综合"
       ]
@@ -728,7 +793,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-22T15:45:56.507Z",
+      "fetchedAt": "2026-07-22T17:21:09.324Z",
       "tags": [
         "AI应用"
       ]
@@ -744,74 +809,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-22T15:45:47.082Z",
+      "fetchedAt": "2026-07-22T17:21:00.803Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "2026世界人工智能大会 | 启鸣达人首发《世界模型驱动的教育AGI白皮书》",
-      "link": "https://www.leiphone.com/category/ai/ZQ1kV11l8qQj84Dt.html",
-      "snippet": "新一轮智能浪潮席卷全球，7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行，作为全球人工智能领域最具影响力的年度盛会，第九届WAIC大会以“智能伙伴 共创未来”为主题，140余场论坛横跨算力基建、物理智能、科学智能等前沿领域，吸引全球100多个国家和地区的顶尖学者、产",
-      "pubDate": "Wed, 22 Jul 2026 13:51:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.400Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
-      "link": "https://www.qbitai.com/2026/07/457054.html",
-      "snippet": "一颗“不走寻常路”的芯",
-      "pubDate": "Wed, 22 Jul 2026 05:47:42 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦晨",
-      "fetchedAt": "2026-07-22T15:45:42.679Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "WAIC 2026 | 面壁智能首个具身智能成果 MiniCPM-Robot 系列模型正式发布！",
-      "link": "https://www.leiphone.com/category/ai/gtBK8Ln3ANuHPQaX.html",
-      "snippet": "7 月 19 日上午，面壁智能主办的「智在终端 惠及千行」分论坛在世界人工智能大会上圆满举行。论坛上，面壁智能联合 OpenBMB 正式发布并开源了其首个具身智能技术成果 MiniCPM-Robot 系列模型，「小钢炮」正式进军机器人领域！ 本次发布的 MiniCPM-Robot 系列成果包括两个具",
-      "pubDate": "Wed, 22 Jul 2026 13:47:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-22T15:45:53.400Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Introducing OpenAI Presence",
-      "link": "https://openai.com/index/introducing-openai-presence",
-      "snippet": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and inte",
-      "pubDate": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-07-22T15:45:55.475Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
