@@ -1,32 +1,80 @@
 {
-  "generatedAt": "2026-07-23T17:32:20.313Z",
+  "generatedAt": "2026-07-23T19:29:07.178Z",
   "stats": {
-    "total": 126,
+    "total": 125,
     "shown": 50,
     "chinese": 59,
-    "english": 67,
-    "today": 78
+    "english": 66,
+    "today": 81
   },
   "articles": [
     {
       "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+      "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email",
+      "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+      "snippet": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+      "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Patreon is laying off 20 percent of workers",
+      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "snippet": "Patreon is laying off 20 percent of its workers, or around 93 employees, as reported earlier by 404 Media. In a memo to employees, Patreon CEO Jack Co",
+      "pubDate": "2026-07-23T18:20:30.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-23T19:19:16.071Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
       "title": "Runway launches AI model router as generative media gets crowded",
       "link": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-      "snippet": "Runway no longer wants to be just another AI model company. It wants to become the infrastructure layer for generative media. On Thursday, the startup",
+      "snippet": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prio",
       "pubDate": "Thu, 23 Jul 2026 17:07:35 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-23T17:23:30.743Z",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI makes ChatGPT Health available to all U.S. users",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
       "link": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
       "snippet": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
       "pubDate": "Thu, 23 Jul 2026 17:00:00 +0000",
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-23T17:23:30.743Z",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -52,7 +100,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:31.079Z",
+      "fetchedAt": "2026-07-23T19:19:16.071Z",
       "tags": [
         "大模型"
       ]
@@ -68,7 +116,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-23T17:23:31.308Z",
+      "fetchedAt": "2026-07-23T19:19:16.370Z",
       "tags": [
         "综合"
       ]
@@ -84,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-23T17:23:30.743Z",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
       "tags": [
         "AI应用"
       ]
@@ -100,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-07-23T17:23:32.114Z",
+      "fetchedAt": "2026-07-23T19:19:17.117Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +164,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-23T17:23:30.743Z",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-23T17:23:30.743Z",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
       "tags": [
         "商业融资"
       ]
@@ -148,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-23T17:23:30.743Z",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -165,7 +213,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cristina Criddle and Tom Wilson, Financial Times\n                ",
-      "fetchedAt": "2026-07-23T17:23:32.114Z",
+      "fetchedAt": "2026-07-23T19:19:17.117Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +229,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:31.079Z",
+      "fetchedAt": "2026-07-23T19:19:16.071Z",
       "tags": [
         "政策监管"
       ]
@@ -197,7 +245,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:31.079Z",
+      "fetchedAt": "2026-07-23T19:19:16.071Z",
       "tags": [
         "AI应用"
       ]
@@ -213,7 +261,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -230,7 +278,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -246,7 +294,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -262,7 +310,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -278,7 +326,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "商业融资"
       ]
@@ -294,7 +342,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -310,7 +358,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "商业融资"
       ]
@@ -326,14 +374,14 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "商业融资"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "澜起科技：拟以3亿元-6亿元回购A股��份",
+      "title": "澜起科技：拟以3亿元-6亿元回购A股股份",
       "link": "https://36kr.com/newsflashes/3908179818173831?f=rss",
       "snippet": "36氪获悉，澜起科技公告，公司拟以集中竞价交易方式回购A股股份，回购金额不低于3亿元（含），不超过6亿元（含），回购价格不超过332.90元/股（含），回购期限自董事会审议通过之日起3个月内，回购资金来源于公司自有资金，回购股份用于维护公司价值及股东权益。",
       "pubDate": "2026-07-23 20:18:20  +0800",
@@ -342,7 +390,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -358,7 +406,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "AI应用"
       ]
@@ -374,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "政策监管"
       ]
@@ -390,7 +438,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "政策监管"
       ]
@@ -406,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "政策监管"
       ]
@@ -422,7 +470,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-07-23T17:23:31.308Z",
+      "fetchedAt": "2026-07-23T19:19:16.370Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +486,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "AI应用"
       ]
@@ -454,7 +502,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +518,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:31.080Z",
+      "fetchedAt": "2026-07-23T19:19:16.071Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +534,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-07-23T17:23:31.308Z",
+      "fetchedAt": "2026-07-23T19:19:16.370Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +550,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +566,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +582,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "商业融资"
       ]
@@ -550,7 +598,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "商业融资"
       ]
@@ -566,7 +614,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-23T17:23:24.557Z",
+      "fetchedAt": "2026-07-23T19:19:09.564Z",
       "tags": [
         "政策监管"
       ]
@@ -598,7 +646,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-23T17:23:30.743Z",
+      "fetchedAt": "2026-07-23T19:19:15.827Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +662,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -631,7 +679,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:30.490Z",
+      "fetchedAt": "2026-07-23T19:19:15.599Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:30.490Z",
+      "fetchedAt": "2026-07-23T19:19:15.599Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:30.490Z",
+      "fetchedAt": "2026-07-23T19:19:15.599Z",
       "tags": [
         "大模型"
       ]
@@ -695,7 +743,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-07-23T17:23:31.308Z",
+      "fetchedAt": "2026-07-23T19:19:16.370Z",
       "tags": [
         "综合"
       ]
@@ -711,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-07-23T17:23:24.557Z",
+      "fetchedAt": "2026-07-23T19:19:09.564Z",
       "tags": [
         "综合"
       ]
@@ -727,7 +775,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -744,7 +792,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T17:23:26.725Z",
+      "fetchedAt": "2026-07-23T19:19:11.776Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -761,55 +809,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-23T17:23:24.557Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "超越π0，中国团队用1B参数模型登顶具身智能榜单",
-      "link": "https://www.qbitai.com/2026/07/457537.html",
-      "snippet": "具身智能正在从「参数竞赛」进入「架构竞赛」。",
-      "pubDate": "Thu, 23 Jul 2026 06:36:08 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-07-23T17:23:24.557Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-      "link": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
-      "snippet": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-      "pubDate": "Thu, 23 Jul 2026 06:09:13 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-23T17:23:30.743Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "全球已有1000万中小企业在用Accio Work做生意",
-      "link": "https://www.leiphone.com/category/industrynews/IPXWpsIUAi4Hw8CO.html",
-      "snippet": "7月23日，在杭州举办的一场数千人规模的全球跨境电商峰会现场，阿里国际站总裁张阔透露，全球已有1000万中小企业在用Accio Work做生意，一年内增长逾30倍。 据悉，过去12个月中，阿里国际站上的中小企业Token消耗量翻了10倍。与此同时，Accio Work单次任务的使用成本下降了50%。",
-      "pubDate": "Thu, 23 Jul 2026 13:50:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-23T17:23:30.490Z",
+      "fetchedAt": "2026-07-23T19:19:09.564Z",
       "tags": [
         "AI应用"
       ]
