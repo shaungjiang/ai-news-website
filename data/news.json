@@ -1,25 +1,89 @@
 {
-  "generatedAt": "2026-07-23T19:29:07.178Z",
+  "generatedAt": "2026-07-23T21:14:26.572Z",
   "stats": {
-    "total": 125,
+    "total": 133,
     "shown": 50,
     "chinese": 59,
-    "english": 66,
-    "today": 81
+    "english": 74,
+    "today": 89
   },
   "articles": [
     {
       "id": "dGVjaGNydW5jaC1h",
+      "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+      "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+      "snippet": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "pubDate": "Thu, 23 Jul 2026 20:33:02 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Andrew Ng Just Released OpenWorker: An Open-Source, Local-First Desktop AI Coworker That Returns Finished Deliverables Instead of Chat",
+      "link": "https://www.marktechpost.com/2026/07/23/andrew-ng-just-released-openworker-an-open-source-local-first-desktop-ai-coworker-that-returns-finished-deliverables-instead-of-chat/",
+      "snippet": "Andrew Ng has released OpenWorker, an MIT-licensed desktop AI agent that returns finished deliverables instead of chat replies. It runs a local Python",
+      "pubDate": "Thu, 23 Jul 2026 19:31:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-23T21:05:40.666Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "AI Kill Switch Act would let Trump admin order shutdown of rogue AI systems",
+      "link": "https://arstechnica.com/tech-policy/2026/07/ai-kill-switch-act-would-let-trump-admin-order-shutdown-of-rogue-ai-systems/",
+      "snippet": "Bill would let Homeland Security chief decide when an AI should be shut down.",
+      "pubDate": "Thu, 23 Jul 2026 19:08:01 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jon Brodkin\n                ",
+      "fetchedAt": "2026-07-23T21:05:38.319Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
       "title": "Anthropic updates Claude voice mode with more capable models",
       "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
-      "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email",
+      "snippet": "Claude's new voice model will let you reschedule your meeting or draft an email.",
       "pubDate": "Thu, 23 Jul 2026 19:00:00 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Claude’s voice mode is now available for Opus and Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "snippet": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonn",
+      "pubDate": "2026-07-23T19:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-23T21:05:37.271Z",
       "tags": [
         "大模型"
       ]
@@ -28,16 +92,16 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
       "link": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
-      "snippet": "The Series A was led by Battery Ventures, bringing AegisAI total funding to $49 million.",
+      "snippet": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most ela",
       "pubDate": "Thu, 23 Jul 2026 18:38:34 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
       "tags": [
-        "商业融资"
+        "综合"
       ]
     },
     {
@@ -51,9 +115,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:16.071Z",
+      "fetchedAt": "2026-07-23T21:05:37.271Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "You Didn’t Get the AI Model You Paid For",
+      "link": "https://www.marktechpost.com/2026/07/23/you-didnt-get-the-ai-model-you-paid-for/",
+      "snippet": "The line in the response object You call the API. You pass model: “claude-fable-5”. You get back a completion, a token count, and a field that reads “",
+      "pubDate": "Thu, 23 Jul 2026 18:07:55 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Aabis Islam",
+      "fetchedAt": "2026-07-23T21:05:40.666Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -67,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -100,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:16.071Z",
+      "fetchedAt": "2026-07-23T21:05:37.271Z",
       "tags": [
         "大模型"
       ]
@@ -116,7 +196,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-23T19:19:16.370Z",
+      "fetchedAt": "2026-07-23T21:05:37.497Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
       "tags": [
         "AI应用"
       ]
@@ -148,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-07-23T19:19:17.117Z",
+      "fetchedAt": "2026-07-23T21:05:38.319Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -213,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cristina Criddle and Tom Wilson, Financial Times\n                ",
-      "fetchedAt": "2026-07-23T19:19:17.117Z",
+      "fetchedAt": "2026-07-23T21:05:38.319Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +309,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:16.071Z",
+      "fetchedAt": "2026-07-23T21:05:37.271Z",
       "tags": [
         "政策监管"
       ]
@@ -245,7 +325,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:16.071Z",
+      "fetchedAt": "2026-07-23T21:05:37.271Z",
       "tags": [
         "AI应用"
       ]
@@ -261,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -278,7 +358,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -294,7 +374,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -310,7 +390,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +406,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "商业融资"
       ]
@@ -342,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -358,7 +438,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "商业融资"
       ]
@@ -374,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "商业融资"
       ]
@@ -390,7 +470,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +486,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "AI应用"
       ]
@@ -422,7 +502,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "政策监管"
       ]
@@ -438,7 +518,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "政策监管"
       ]
@@ -454,7 +534,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "政策监管"
       ]
@@ -470,7 +550,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-07-23T19:19:16.370Z",
+      "fetchedAt": "2026-07-23T21:05:37.497Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +566,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "AI应用"
       ]
@@ -502,7 +582,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +598,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:16.071Z",
+      "fetchedAt": "2026-07-23T21:05:37.271Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +614,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-07-23T19:19:16.370Z",
+      "fetchedAt": "2026-07-23T21:05:37.497Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +630,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -566,7 +646,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +662,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "商业融资"
       ]
@@ -598,7 +678,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "商业融资"
       ]
@@ -614,7 +694,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "AI应用"
       ]
@@ -630,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-23T19:19:09.564Z",
+      "fetchedAt": "2026-07-23T21:05:30.917Z",
       "tags": [
         "政策监管"
       ]
@@ -646,7 +726,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-07-23T19:19:15.827Z",
+      "fetchedAt": "2026-07-23T21:05:36.942Z",
       "tags": [
         "综合"
       ]
@@ -662,7 +742,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -679,7 +759,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
+      "fetchedAt": "2026-07-23T21:05:33.050Z",
       "tags": [
         "综合"
       ]
@@ -695,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:15.599Z",
+      "fetchedAt": "2026-07-23T21:05:36.715Z",
       "tags": [
         "综合"
       ]
@@ -711,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:15.599Z",
+      "fetchedAt": "2026-07-23T21:05:36.715Z",
       "tags": [
         "综合"
       ]
@@ -727,91 +807,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-23T19:19:15.599Z",
+      "fetchedAt": "2026-07-23T21:05:36.715Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The power line that could reshape New York’s grid is hitting snags",
-      "link": "https://www.technologyreview.com/2026/07/23/1140739/power-line-grid-chpe/",
-      "snippet": "On July 3, as a heat wave swept the region, New York State’s grid imported 52 gigawatt-hours of electricity from Canada—enough to meet about 9% of its",
-      "pubDate": "Thu, 23 Jul 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Casey Crownhart",
-      "fetchedAt": "2026-07-23T19:19:16.370Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "机器人为啥困在Demo？讯飞新公司爻方智能给出答案：缺一味「本体认知」",
-      "link": "https://www.qbitai.com/2026/07/457698.html",
-      "snippet": "VLA不是终局",
-      "pubDate": "Thu, 23 Jul 2026 08:23:49 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "一水",
-      "fetchedAt": "2026-07-23T19:19:09.564Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "专访郭列：做出脸萌、FaceU、剪映等爆款后，他第一次阐释如何在AI时代做产品",
-      "link": "https://36kr.com/p/3907953777120385?f=rss",
-      "snippet": "文｜周鑫雨 编辑｜张雨忻 什么样画像的AI创业者会饱受瞩目？不同投资人心里或许有不同的答案，但其中一个答案一定是：剪映系。 陈冕，Lovart、LibTV等热门创作工具的缔造者；明超平，AI Coding社区YouWare的创始人，2025年一级市场最火的95后；闹闹，其打造的AI视频创作工具Oii",
-      "pubDate": "2026-07-23 16:16:42  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "独家｜混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型",
-      "link": "https://36kr.com/p/3907934819521670?f=rss",
-      "snippet": "文 | 周鑫雨 编辑 | 张雨忻 《智能涌现》独家获悉，近期，腾讯混元多模态理解负责人胡瀚提出了离职。 此前，他曾担任微软亚洲研究院视觉计算组首席研究员。2025 年初加入腾讯后，负责视觉大模型的研究。在后续的调整中，他加入大语言模型部旗下的“Frontier”前沿技术研究组，负责多模态理解的相关研",
-      "pubDate": "2026-07-23 16:07:02  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-23T19:19:11.776Z",
-      "tags": [
-        "大模型",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阿里云：真武芯片超节点已成功适配Qwen3.8，上线百炼提供推理服务",
-      "link": "https://www.qbitai.com/2026/07/457694.html",
-      "snippet": "",
-      "pubDate": "Thu, 23 Jul 2026 06:58:23 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-23T19:19:09.564Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
