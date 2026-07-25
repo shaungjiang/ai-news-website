@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-07-25T17:08:08.007Z",
+  "generatedAt": "2026-07-25T19:18:08.139Z",
   "stats": {
     "total": 134,
     "shown": 50,
     "chinese": 60,
     "english": 74,
-    "today": 36
+    "today": 38
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+      "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "snippet": "A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and",
+      "pubDate": "Sat, 25 Jul 2026 18:59:54 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-25T19:08:18.645Z",
+      "tags": [
+        "AI应用",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+      "link": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "snippet": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a st",
+      "pubDate": "Sat, 25 Jul 2026 18:08:12 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-25T19:08:18.645Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
@@ -19,7 +52,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-25T16:59:18.375Z",
+      "fetchedAt": "2026-07-25T19:08:15.858Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +68,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:18.115Z",
+      "fetchedAt": "2026-07-25T19:08:15.558Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +84,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-07-25T16:59:18.375Z",
+      "fetchedAt": "2026-07-25T19:08:15.858Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +100,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-07-25T16:59:10.914Z",
+      "fetchedAt": "2026-07-25T19:08:10.065Z",
       "tags": [
         "政策监管"
       ]
@@ -83,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-07-25T16:59:10.914Z",
+      "fetchedAt": "2026-07-25T19:08:10.065Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +132,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-07-25T16:59:10.914Z",
+      "fetchedAt": "2026-07-25T19:08:10.065Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-07-25T16:59:10.914Z",
+      "fetchedAt": "2026-07-25T19:08:10.065Z",
       "tags": [
         "大模型"
       ]
@@ -131,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-07-25T16:59:10.914Z",
+      "fetchedAt": "2026-07-25T19:08:10.065Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +180,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.312Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -164,7 +197,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.312Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -181,7 +214,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-25T16:59:20.867Z",
+      "fetchedAt": "2026-07-25T19:08:18.645Z",
       "tags": [
         "AI应用"
       ]
@@ -197,7 +230,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.312Z",
       "tags": [
         "政策监管"
       ]
@@ -213,7 +246,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "商业融资"
       ]
@@ -229,7 +262,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +278,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-07-25T16:59:20.867Z",
+      "fetchedAt": "2026-07-25T19:08:18.645Z",
       "tags": [
         "开源工具"
       ]
@@ -261,7 +294,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +310,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -293,7 +326,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +342,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +358,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "综合"
       ]
@@ -341,7 +374,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +390,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:18.115Z",
+      "fetchedAt": "2026-07-25T19:08:15.558Z",
       "tags": [
         "商业融资"
       ]
@@ -389,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +438,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-25T16:59:20.867Z",
+      "fetchedAt": "2026-07-25T19:08:18.645Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +470,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +486,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -469,7 +502,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -486,7 +519,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -502,7 +535,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-07-25T16:59:10.914Z",
+      "fetchedAt": "2026-07-25T19:08:10.065Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +567,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -550,7 +583,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.313Z",
       "tags": [
         "AI应用"
       ]
@@ -566,7 +599,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:13.047Z",
+      "fetchedAt": "2026-07-25T19:08:12.312Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -583,7 +616,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-25T16:59:18.375Z",
+      "fetchedAt": "2026-07-25T19:08:15.858Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +632,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-25T16:59:18.375Z",
+      "fetchedAt": "2026-07-25T19:08:15.858Z",
       "tags": [
         "商业融资"
       ]
@@ -615,7 +648,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-25T16:59:20.867Z",
+      "fetchedAt": "2026-07-25T19:08:18.645Z",
       "tags": [
         "大模型"
       ]
@@ -631,7 +664,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-07-25T16:59:19.733Z",
+      "fetchedAt": "2026-07-25T19:08:17.298Z",
       "tags": [
         "大模型"
       ]
@@ -647,7 +680,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-07-25T16:59:19.733Z",
+      "fetchedAt": "2026-07-25T19:08:17.298Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +696,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:18.630Z",
+      "fetchedAt": "2026-07-25T19:08:16.195Z",
       "tags": [
         "AI应用"
       ]
@@ -679,7 +712,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-25T16:59:18.375Z",
+      "fetchedAt": "2026-07-25T19:08:15.858Z",
       "tags": [
         "商业融资"
       ]
@@ -695,7 +728,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-07-25T16:59:19.733Z",
+      "fetchedAt": "2026-07-25T19:08:17.298Z",
       "tags": [
         "综合"
       ]
@@ -711,7 +744,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:18.630Z",
+      "fetchedAt": "2026-07-25T19:08:16.195Z",
       "tags": [
         "综合"
       ]
@@ -727,7 +760,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-25T16:59:18.929Z",
+      "fetchedAt": "2026-07-25T19:08:16.449Z",
       "tags": [
         "综合"
       ]
@@ -743,7 +776,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-25T16:59:18.375Z",
+      "fetchedAt": "2026-07-25T19:08:15.858Z",
       "tags": [
         "AI应用"
       ]
@@ -759,7 +792,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:18.630Z",
+      "fetchedAt": "2026-07-25T19:08:16.195Z",
       "tags": [
         "AI应用"
       ]
@@ -775,41 +808,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-25T16:59:18.630Z",
+      "fetchedAt": "2026-07-25T19:08:16.195Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "snippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to",
-      "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-25T16:59:18.375Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "snippet": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "pubDate": "Fri, 24 Jul 2026 15:13:57 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-25T16:59:18.375Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
