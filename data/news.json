@@ -1,17 +1,228 @@
 {
-  "generatedAt": "2026-07-24T23:11:46.050Z",
+  "generatedAt": "2026-07-25T02:54:04.902Z",
   "stats": {
-    "total": 125,
+    "total": 135,
     "shown": 50,
     "chinese": 60,
-    "english": 65,
-    "today": 72
+    "english": 75,
+    "today": 13
   },
   "articles": [
     {
+      "id": "MzZrci1haTpodHRw",
+      "title": "Waymo正考虑终止与Uber的合作关系",
+      "link": "https://36kr.com/newsflashes/3910429485143429?f=rss",
+      "snippet": "据报道，Alphabet旗下的Waymo正在探索退出与Uber合作关系的可能性。Waymo于2023年5月首次与Uber合作，在美国亚利桑那州凤凰城推出无人驾驶出租车服务。随后，双方又在奥斯汀和亚特兰大达成合作协议，在这些地区，Waymo的车辆只能通过Uber应用程序使用，Uber与合作伙伴Avom",
+      "pubDate": "2026-07-25 10:40:03  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Datalab’s Marker 2 vs MinerU, Docling and LiteParse: 76.0 on olmOCR-bench at 5× MinerU’s Throughput",
+      "link": "https://www.marktechpost.com/2026/07/24/datalabs-marker-2-vs-mineru-docling-and-liteparse-76-0-on-olmocr-bench-at-5x-minerus-throughput/",
+      "snippet": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's",
+      "pubDate": "Sat, 25 Jul 2026 02:14:53 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-25T02:44:15.601Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "机构调研券商“高频词”生变 硬科技投资受关注",
+      "link": "https://36kr.com/newsflashes/3910383325762689?f=rss",
+      "snippet": "Wind数据显示，截至7月24日记者发稿时，6月以来已有19家上市券商及券商母公司累计接待了43次机构调研。与以往聚焦经纪和资管业务不同，如今调研机构最关心的是各家券商在科创领域的项目储备和投资回报能力，硬科技行业投资布局已成调研必问话题。在业内人士看来，投资者对券商另类子公司和私募股权平台的关注度",
+      "pubDate": "2026-07-25 10:14:25  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "滥用市场支配地位实施垄断行为，携程被罚没51.79亿元",
+      "link": "https://36kr.com/newsflashes/3910426356716674?f=rss",
+      "snippet": "7月25日，市场监管总局依法对携程集团有限公司（以下简称携程）滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。（央视新闻）",
+      "pubDate": "2026-07-25 10:12:49  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "OpenAI称将发布Hugging Face被黑事件技术报告",
+      "link": "https://36kr.com/newsflashes/3910380317381767?f=rss",
+      "snippet": "OpenAI：我们注意到，围绕抱抱脸系统（Hugging Face）被入侵事件流传着许多疑问和各种猜测。我们正与外部顾问合作，并在安全与安保委员会的监督下，继续进行全面审查。审查完成后，我们计划在未来几周内发布一份技术报告，分享我们从中汲取的经验与见解。（新浪财经）",
+      "pubDate": "2026-07-25 09:58:01  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "政策监管",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美“星舰”实施第13次试飞",
+      "link": "https://36kr.com/newsflashes/3910413081810050?f=rss",
+      "snippet": "美国太空探索技术公司重型运载火箭“星舰”于美国中部时间24日下午从得克萨斯州南部的发射基地升空，实施第13次试飞。据该公司介绍，本次任务将继续验证新一代“星舰”系统的性能，并首次部署20颗新一代“星链”卫星。按计划，火箭第一级“超级重型”助推器将在墨西哥湾附近海域实施受控溅落，不返回发射场进行回收；",
+      "pubDate": "2026-07-25 09:57:53  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "Anthropic推出新模型Opus 5",
+      "link": "https://36kr.com/newsflashes/3910378700395908?f=rss",
+      "snippet": "当地时间7月24日，Anthropic推出新模型Opus 5。公司称，Opus 5的性能接近其更强大的同系列产品Fable 5，而价格却只有后者的一半，适用于日常办公和计算机编程任务。Anthropic产品负责人Dianne Penn表示，此次发布的版本比5月份的Opus 4.8更高效。",
+      "pubDate": "2026-07-25 09:47:42  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "大众集团上半年税后利润同比下降超三成",
+      "link": "https://36kr.com/newsflashes/3910376983483778?f=rss",
+      "snippet": "德国汽车制造商大众集团24日公布2026年上半年财报显示，受美国关税、全球市场竞争加剧等因素影响，集团上半年税后利润同比下降超过三成，2026年全年营收预计将低于此前预期。大众集团管理董事会主席奥博穆当天表示，为实现降本目标，集团在全球范围内可能裁减约5万个工作岗位，具体规模仍有待进一步评估。（央视",
+      "pubDate": "2026-07-25 09:35:00  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "报道称英伟达与SK集团共同推出价值超过5000亿美元的AI计划",
+      "link": "https://36kr.com/newsflashes/3910374290707844?f=rss",
+      "snippet": "据报道，英伟达表示，将协助海力士设计未来的高带宽内存芯片，此举将有助于确保内存供应。英伟达还表示，与SK集团合作的“人工智能计划”总价值将超过5000亿美元。黄仁勋在采访中表示，这个数字包括英伟达购买内存芯片的资金，以及SK集团购买英伟达超级计算机的资金。SK电讯计划使用英伟达Vera Rubin芯",
+      "pubDate": "2026-07-25 09:24:14  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国际原油期货结算价收跌超3% 布油本周累涨近10%",
+      "link": "https://36kr.com/newsflashes/3910367668458625?f=rss",
+      "snippet": "7月25日，国际原油期货结算价收跌超3%。WTI原油期货9月合约结算价收跌3.12%，报89.31美元/桶；WTI主连本周累涨8.27%。布伦特原油期货9月合约结算价收跌3.88%，报96.78美元/桶，本周累涨9.85%。",
+      "pubDate": "2026-07-25 09:11:41  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美股三大指数收盘涨跌不一，存储芯片、光通信跌幅居前",
+      "link": "https://36kr.com/newsflashes/3910365150319750?f=rss",
+      "snippet": "美股三大指数收盘涨跌不一，纳指跌0.64%，本周累跌2.13%；标普500指数涨0.05%，本周累跌0.61%；道指涨0.46%，本周累跌0.38%。其中，纳指、标普500指数周线两连跌，道指周线三连跌。费城半导体指数跌4.25%。存储芯片、光通信跌幅居前，闪迪跌超10%，SK海力士、Lumentu",
+      "pubDate": "2026-07-25 09:09:07  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
+      "link": "https://36kr.com/p/3910351337821318?f=rss",
+      "snippet": "今日热点导览 小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患 微信撤回消息后可删除提示字 怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权 菲尔兹奖得主雅各布·齐默曼将加入OpenAI 欧盟对谷歌处以8.9亿欧元罚款 TOP3大新闻 宇树科技CEO王兴兴登上《时代》杂志封面 当地时间7月23",
+      "pubDate": "2026-07-25 08:57:52  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
+      "tags": [
+        "AI应用",
+        "政策监管"
+      ]
+    },
+    {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-marc-pincus-in-talks-to-raise-100m/",
+      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "snippet": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "pubDate": "Sat, 25 Jul 2026 00:23:11 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "snippet": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
       "pubDate": "Fri, 24 Jul 2026 22:25:58 +0000",
       "sourceName": "TechCrunch",
@@ -19,9 +230,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-24T23:01:51.918Z",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+      "link": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+      "snippet": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens an",
+      "pubDate": "Fri, 24 Jul 2026 21:50:46 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-25T02:44:15.601Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -35,7 +262,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-07-24T23:01:53.553Z",
+      "fetchedAt": "2026-07-25T02:44:13.945Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +278,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-07-24T23:01:53.553Z",
+      "fetchedAt": "2026-07-25T02:44:13.945Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +294,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:52.228Z",
+      "fetchedAt": "2026-07-25T02:44:12.834Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +310,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-24T23:01:51.918Z",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +326,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-07-24T23:01:53.553Z",
+      "fetchedAt": "2026-07-25T02:44:13.945Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +342,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:52.228Z",
+      "fetchedAt": "2026-07-25T02:44:12.834Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +358,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-24T23:01:52.506Z",
+      "fetchedAt": "2026-07-25T02:44:13.059Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +374,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-24T23:01:51.918Z",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +390,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:52.228Z",
+      "fetchedAt": "2026-07-25T02:44:12.834Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +406,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:52.228Z",
+      "fetchedAt": "2026-07-25T02:44:12.834Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +422,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-24T23:01:51.918Z",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
       "tags": [
         "政策监管"
       ]
@@ -211,7 +438,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-24T23:01:51.918Z",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
       "tags": [
         "AI应用"
       ]
@@ -227,7 +454,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-24T23:01:51.918Z",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:51.609Z",
+      "fetchedAt": "2026-07-25T02:44:12.275Z",
       "tags": [
         "政策监管"
       ]
@@ -259,7 +486,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:52.228Z",
+      "fetchedAt": "2026-07-25T02:44:12.834Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-07-24T23:01:47.377Z",
+      "fetchedAt": "2026-07-25T02:44:06.859Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-07-24T23:01:47.377Z",
+      "fetchedAt": "2026-07-25T02:44:06.859Z",
       "tags": [
         "开源工具"
       ]
@@ -307,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:51.609Z",
+      "fetchedAt": "2026-07-25T02:44:12.275Z",
       "tags": [
         "AI应用"
       ]
@@ -323,7 +550,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane",
-      "fetchedAt": "2026-07-24T23:01:51.918Z",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +566,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Molly Taft, wired.com\n                ",
-      "fetchedAt": "2026-07-24T23:01:53.553Z",
+      "fetchedAt": "2026-07-25T02:44:13.945Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +582,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-24T23:01:51.918Z",
+      "fetchedAt": "2026-07-25T02:44:12.576Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -372,7 +599,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "商业融资"
       ]
@@ -388,7 +615,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +631,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +647,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "商业融资"
       ]
@@ -436,7 +663,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "商业融资"
       ]
@@ -452,7 +679,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +695,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "AI应用"
       ]
@@ -484,7 +711,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +727,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +743,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-07-24T23:01:52.506Z",
+      "fetchedAt": "2026-07-25T02:44:13.059Z",
       "tags": [
         "综合"
       ]
@@ -532,74 +759,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "新晋菲尔兹奖得主雅各布宣布加入OpenAI",
-      "link": "https://36kr.com/newsflashes/3909592817833349?f=rss",
-      "snippet": "新晋菲尔兹奖得主之一雅各布·齐默曼在费城接受了数学界的最高荣誉后，立即宣布他将加入OpenAI，专注于人工智能安全领域。在获奖后的新闻发布会上被问及未来的计划时，齐默曼直言不讳地说：“我认为世界正在发生变化。我们所熟知的数学职业，我认为它不会再以现在的形式存在了。”他同时宣布将加入OpenAI。（财",
-      "pubDate": "2026-07-24 20:03:28  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "政策监管",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "深交所：本周共对128起证券异常交易行为采取了自律监管措施",
-      "link": "https://36kr.com/newsflashes/3909584112964744?f=rss",
-      "snippet": "36氪获悉，据深交所消息，本周共对128起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形；共对6起上市公司重大事项进行核查，并上报证监会4起涉嫌违法违规案件线索。",
-      "pubDate": "2026-07-24 19:54:37  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "淳中科技：拟5000万元—1亿元回购股份",
-      "link": "https://36kr.com/newsflashes/3909573023536515?f=rss",
-      "snippet": "36氪获悉，淳中科技公告，公司拟以5000万元—1亿元回购股份，用于减少注册资本。回购价格不超过173.61元/股。",
-      "pubDate": "2026-07-24 19:43:20  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "三星、SK海力士据悉将与美国企业签署大额芯片供应协议",
-      "link": "https://36kr.com/newsflashes/3909567728522373?f=rss",
-      "snippet": "韩国总统室政策室长金容范7月23日透露，三星电子和SK海力士预计将在韩国总统李在明访问硅谷期间，与美国主要科技企业公布涉及“大规模金额”的合作协议，相关协议可能包括长期存储芯片供应协议、战略投资合作以及谅解备忘录，但未透露具体金额。（界面）",
-      "pubDate": "2026-07-24 19:37:57  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "政策监管"
       ]
     },
     {
@@ -613,105 +775,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "宁德时代：拟200亿元—400亿元回购股份",
-      "link": "https://36kr.com/newsflashes/3909564410156165?f=rss",
-      "snippet": "36氪获悉，宁德时代公告，公司拟以200亿元—400亿元回购股份，用于注销并减少公司注册资本。回购价格上限为573元/股。",
-      "pubDate": "2026-07-24 19:34:34  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "宁德时代：2026年上半年营业收入2769.17亿元，同比增长54.80%",
-      "link": "https://36kr.com/newsflashes/3909560457303431?f=rss",
-      "snippet": "36氪获悉，宁德时代发布2026年半年度报告，2026年上半年营业收入2769.17亿元，同比增长54.80%；净利润432.84亿元，同比增长41.98%。",
-      "pubDate": "2026-07-24 19:30:33  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "华创云信：拟1亿元—2亿元回购股份",
-      "link": "https://36kr.com/newsflashes/3909553265317000?f=rss",
-      "snippet": "36氪获悉，华创云信公告，公司拟以1亿元—2亿元回购股份，用于维护公司价值及股东权益所必需。回购价格不超过8.36元/股（含）。",
-      "pubDate": "2026-07-24 19:23:14  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美国运通二季度净利润31.1亿美元",
-      "link": "https://36kr.com/newsflashes/3909550039618948?f=rss",
-      "snippet": "美国运通7月24日发布2026财年第二季度财报。得益于持卡人消费稳健增长以及净利息收入增加，公司当季实现总营收（扣除利息支出）196.37亿美元，同比增长10%；净利润达31.10亿美元，同比增长8%；稀释后每股收益（EPS）为4.53美元，同比增长11%。基于上半年好于预期的业绩表现，美国运通宣布",
-      "pubDate": "2026-07-24 19:19:57  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "Verizon二季度营收343亿美元，上调全年指引并扩大回购计划",
-      "link": "https://36kr.com/newsflashes/3909547712320901?f=rss",
-      "snippet": "美国电信运营商威瑞森（Verizon）公布2026年第二季度业绩。公司当季总营收为343亿美元，同比下降0.7%；调整后EBITDA同比增长7.2%至137亿美元，创历史新高。受运营改善和现金流增长推动，Verizon连续第二个季度上调全年业绩指引，并将全年股票回购目标提高至45亿美元。Verizo",
-      "pubDate": "2026-07-24 19:17:35  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "机构今日买入贤丰控股等20股，卖出托伦斯1.42亿元",
-      "link": "https://36kr.com/newsflashes/3909541609493891?f=rss",
-      "snippet": "盘后数据显示，7月24日龙虎榜中，共42只个股出现了机构的身影，有20只股票呈现机构净买入，22只股票呈现机构净卖出。当天机构净买入前三的股票分别是贤丰控股、红板科技、立新能源，净买入金额分别是1.17亿元、1.05亿元、8695万元。当天机构净卖出前三的股票分别是托伦斯、豫能控股、北方长龙，净流出",
-      "pubDate": "2026-07-24 19:11:23  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -725,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-07-24T23:01:47.377Z",
+      "fetchedAt": "2026-07-25T02:44:06.859Z",
       "tags": [
         "学术研究"
       ]
@@ -741,72 +807,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "30.99万起，岚图追光S预售正式开启，中国品牌在FUV赛道抢得先手！",
-      "link": "https://www.leiphone.com/category/industrynews/3nVbWR1oDzJjmXOH.html",
-      "snippet": "【2026年7月24日，武汉】7月24日，在以“人生追光，许我闪耀”为主题的岚图追光S预售发布会上，全球首款科技FUV岚图追光S正式开启预售，预售价30.99万元。预售期间下订，可享免费升级价值20000元的主副驾双零重力座椅，以及免费赠送价值1500元的整车底盘氛围灯。新车采用超跑黄金比例、全系搭",
-      "pubDate": "Fri, 24 Jul 2026 18:41:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:51.609Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "你的下一位面试官，可能不是人",
-      "link": "https://36kr.com/p/3909499179767169?f=rss",
-      "snippet": "谁能保证超级数字员工不是下一个AI落地的窗口    撰文 | 李嘉星 编辑 | 张薇 封面来源 | 元企AI   七月初，秋招开始预热。你投出去的下一份简历，可能不是先被HR看到，而是先被一个AI员工读完。 机器筛简历并不新鲜。真正有意思的是，如果这个AI不只是帮HR筛一下简历，而是像一个新入职的同",
-      "pubDate": "2026-07-24 18:34:07  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:49.099Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "欧盟3欧元关税落地，卖家在「熬」与「转」间寻找生路",
-      "link": "https://www.leiphone.com/category/industrynews/UcHdRjLCDfn8OOzo.html",
-      "snippet": "“现在只能熬过寒冬，留下等待机会。因为一旦退场，以后可能连机会都没有了。”全托管卖家陈涛的这句话，几乎概括了当下欧洲卖家的处境。 7月1日，欧盟正式开始对价值不超过150欧元的进口小包征收临时固定关税。与此前市场普遍理解的“每个包裹收3欧元”不同，这笔费用按照包裹内不同的商品税目分别计算。 一件衣服",
-      "pubDate": "Fri, 24 Jul 2026 18:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:51.609Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "直捣企业出海系统性难题，飞书深诺发布Marvy2.0接管决策和执行",
-      "link": "https://www.leiphone.com/category/industrynews/urzkJ71nAWLXBAFT.html",
-      "snippet": "2026年7月23日，在第十届全球跨境电商峰会暨2026全球化新品牌AI竞争力大会上，领先的AI全球营销科技平台飞书深诺Meetsocial，正式发布新一代企业级出海营销AgentOS——Marvy 2.0。 Marvy 2.0不是又一款AI单点工具，而是一个会思考、会协同、会进化的营销大脑，它定位",
-      "pubDate": "Fri, 24 Jul 2026 18:25:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-24T23:01:51.609Z",
+      "fetchedAt": "2026-07-25T02:44:09.241Z",
       "tags": [
         "AI应用"
       ]
