@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-07-26T15:11:17.800Z",
+  "generatedAt": "2026-07-26T17:07:08.563Z",
   "stats": {
-    "total": 123,
+    "total": 133,
     "shown": 50,
     "chinese": 59,
-    "english": 64,
-    "today": 23
+    "english": 74,
+    "today": 29
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "snippet": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "pubDate": "Sun, 26 Jul 2026 16:33:13 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-07-26T17:02:47.802Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "希音披露聆讯后资料集：年营收418亿美元、供应链优势强化盈利韧性",
+      "link": "https://www.leiphone.com/category/industrynews/3cCvfc4kGO8wJkEs.html",
+      "snippet": "7月26日，希音（SHEIN）向港交所披露聆讯后资料集。若顺利挂牌，将成为2026年港股最大的跨境电商IPO。 依托数字化柔性供应链模式创新、“自营+平台”双引擎与“跨境电商+产业带”深度融合，希音已成为全球领先的时尚和生活方式在线零售商。 经营业绩保持稳健增长态势，2025年实现总收入418亿美元",
+      "pubDate": "Sun, 26 Jul 2026 21:55:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-26T17:02:47.544Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "MzZrci1haTpodHRw",
       "title": "希音披露聆讯后资料集：2025年营收418亿美元",
@@ -19,9 +51,41 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "KwaiKAT Team Releases KAT-Coder-V2.5: An Agentic Coding Model Trained on 100,000+ Verifiable Repository Environments",
+      "link": "https://www.marktechpost.com/2026/07/26/kwaikat-team-releases-kat-coder-v2-5-an-agentic-coding-model-trained-on-100000-verifiable-repository-environments/",
+      "snippet": "The KwaiKAT Team at Kuaishou has published the KAT-Coder-V2.5 technical report, arguing that agentic coding capability is bottlenecked by training inf",
+      "pubDate": "Sun, 26 Jul 2026 10:46:19 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Induction Labs Photon-1 Simulates Desktops, Plays Checkers, and Models Billiard Physics From One Pretraining Run",
+      "link": "https://www.marktechpost.com/2026/07/26/induction-labs-photon-1-simulates-desktops-plays-checkers-and-models-billiard-physics-from-one-pretraining-run/",
+      "snippet": "Most agents that learn from video need to know what action produced each frame. Induction Labs is arguing that this requirement is the bottleneck. Las",
+      "pubDate": "Sun, 26 Jul 2026 09:14:22 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:58.868Z",
+      "fetchedAt": "2026-07-26T17:02:47.544Z",
       "tags": [
         "学术研究"
       ]
@@ -51,9 +115,25 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "FAIRChem v2 UMA for Multidomain Atomistic Simulation across Molecules, Catalysts, Materials, Vibrations, and Molecular Dynamics",
+      "link": "https://www.marktechpost.com/2026/07/26/fairchem-v2-uma-for-multidomain-atomistic-simulation-across-molecules-catalysts-materials-vibrations-and-molecular-dynamics/",
+      "snippet": "In this tutorial, we explore FAIRChem v2 and the UMA universal machine-learning interatomic potential as a unified framework for atomistic simulation",
+      "pubDate": "Sun, 26 Jul 2026 08:38:09 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -67,7 +147,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +163,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +179,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +195,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "商业融资"
       ]
@@ -124,14 +204,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "LV因楼盘外立面装饰侵权起诉开发商？法院回应来了",
       "link": "https://36kr.com/newsflashes/3912182569178500?f=rss",
-      "snippet": "7月26日，厦门市湖里区人民法院发布情况通报，网传案情“路易威登公司起诉地产开发商，因楼盘外立面四叶类雕花装饰商标侵权”不属实。经核实，该案系路易威登公司起诉某小区沿街服装店经营者彭某销售侵犯其注册商标的服装，其余被告系因怠于履行管理职责被诉承担相应责任，案件与网传楼盘外立面雕花装饰没有关联。目前该",
+      "snippet": "7���26日，厦门市湖里区人民法院发布情况通报，网传案情“路易威登公司起诉地产开发商，因楼盘外立面四叶类雕花装饰商标侵权”不属实。经核实，该案系路易威登公司起诉某小区沿街服装店经营者彭某销售侵犯其注册商标的服装，其余被告系因怠于履行管理职责被诉承担相应责任，案件与网传楼盘外立面雕花装饰没有关联。目",
       "pubDate": "2026-07-26 15:57:54  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +227,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +243,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +259,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +275,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +291,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "商业融资"
       ]
@@ -227,7 +307,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +323,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +339,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "学术研究",
         "AI应用"
@@ -276,7 +356,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +372,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鱼羊",
-      "fetchedAt": "2026-07-26T15:05:54.067Z",
+      "fetchedAt": "2026-07-26T17:02:42.411Z",
       "tags": [
         "开源工具"
       ]
@@ -308,7 +388,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +404,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +420,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "商业融资"
       ]
@@ -356,7 +436,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan, Connie Loizos",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
+      "fetchedAt": "2026-07-26T17:02:47.802Z",
       "tags": [
         "综合"
       ]
@@ -372,9 +452,58 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Sakana AI Releases Fugu-Cyber: An Orchestration Model Reporting 86.9% on CyberGym and 72.1% on CTI-REALM",
+      "link": "https://www.marktechpost.com/2026/07/25/sakana-ai-releases-fugu-cyber-orchestration-model-cybergym-cti-realm/",
+      "snippet": "Sakana AI has released Fugu-Cyber, a security-tuned endpoint on its Fugu orchestration model. It reports 86.9% on CyberGym and 72.1% on CTI-REALM, edg",
+      "pubDate": "Sun, 26 Jul 2026 00:12:57 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet Open Dreamer: A JAX/Flax Reproduction of the Dreamer 4 World Model Pipeline, With the Full Training Recipe Published",
+      "link": "https://www.marktechpost.com/2026/07/25/meet-open-dreamer-a-jax-flax-reproduction-of-the-dreamer-4-world-model-pipeline-with-the-full-training-recipe-published/",
+      "snippet": "A small group of AI researchers (Reactor) have released Open Dreamer, an open implementation of the Dreamer 4 world-model pipeline written in JAX and",
+      "pubDate": "Sat, 25 Jul 2026 18:59:54 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "AI应用",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Designing High-Performance GPU Kernels with TileLang: Tensor-Core GEMM, Fused Softmax, FlashAttention, and Autotuning",
+      "link": "https://www.marktechpost.com/2026/07/25/designing-high-performance-gpu-kernels-with-tilelang-tensor-core-gemm-fused-softmax-flashattention-and-autotuning/",
+      "snippet": "Explore TileLang, a high-level Python domain-specific language that simplifies the design of high-performance GPU kernels. This tutorial provides a st",
+      "pubDate": "Sat, 25 Jul 2026 18:08:12 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -388,7 +517,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
+      "fetchedAt": "2026-07-26T17:02:47.802Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:58.868Z",
+      "fetchedAt": "2026-07-26T17:02:47.544Z",
       "tags": [
         "AI应用"
       ]
@@ -420,7 +549,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
+      "fetchedAt": "2026-07-26T17:02:47.802Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-07-26T15:05:54.067Z",
+      "fetchedAt": "2026-07-26T17:02:42.411Z",
       "tags": [
         "政策监管"
       ]
@@ -452,7 +581,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-07-26T15:05:54.067Z",
+      "fetchedAt": "2026-07-26T17:02:42.411Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +597,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-07-26T15:05:54.067Z",
+      "fetchedAt": "2026-07-26T17:02:42.411Z",
       "tags": [
         "大模型"
       ]
@@ -484,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-07-26T15:05:54.067Z",
+      "fetchedAt": "2026-07-26T17:02:42.411Z",
       "tags": [
         "大模型"
       ]
@@ -500,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-07-26T15:05:54.067Z",
+      "fetchedAt": "2026-07-26T17:02:42.411Z",
       "tags": [
         "综合"
       ]
@@ -509,17 +638,49 @@
       "id": "MzZrci1haTpodHRw",
       "title": "从月之暗面出走，他用AI技术帮人找对象，徐新投资 | 涌现新项目",
       "link": "https://36kr.com/p/3910880823202948?f=rss",
-      "snippet": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆勋是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接到",
+      "snippet": "文｜温丽虹 编辑｜张雨忻 Kimi K3上线前夕，曾歆勋算了算，离职时放弃的那笔期权的价值，在他离开这段时间涨了10倍。 从月之暗面离职前，曾歆��是Kimi的AI搜索技术负责人。2025年8月，他离职创办“良配科技”，核心产品“良配”，一个AI驱动的婚恋匹配应用，核心逻辑是将AI搜索与匹配能力嫁接",
       "pubDate": "2026-07-25 19:00:21  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "AI应用",
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Why the OpenAI Agent Broke Into Hugging Face: Reward Hacking, Not Malice, Explained for Engineers",
+      "link": "https://www.marktechpost.com/2026/07/25/why-the-openai-agent-broke-into-hugging-face-reward-hacking-not-malice-explained-for-engineers/",
+      "snippet": "OpenAI disclosed that its own models breached Hugging Face's production infrastructure while taking a public security benchmark. The models were not a",
+      "pubDate": "Sat, 25 Jul 2026 09:03:27 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building Self-Evolving AI Agents with OpenSpace Using Skills, MCP, Lineage, and Low-Cost Reuse",
+      "link": "https://www.marktechpost.com/2026/07/25/building-self-evolving-ai-agents-with-openspace-using-skills-mcp-lineage-and-low-cost-reuse/",
+      "snippet": "Discover how to create self-evolving AI agents using the OpenSpace framework. This tutorial guides you through the entire workflow—from environment se",
+      "pubDate": "Sat, 25 Jul 2026 07:54:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -533,9 +694,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:58.868Z",
+      "fetchedAt": "2026-07-26T17:02:47.544Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Datalab Marker v2 vs MinerU, Docling, and Liteparse: Benchmark Breakdown",
+      "link": "https://www.marktechpost.com/2026/07/24/datalab-marker-v2-vs-mineru-docling-and-liteparse-benchmark-breakdown/",
+      "snippet": "Datalab rewrote Marker as a three-mode pipeline. Version 2 hits 76.0 on olmOCR-bench and sustains 2.9 pages per second on one B200 — over 5× MinerU's",
+      "pubDate": "Sat, 25 Jul 2026 04:42:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -549,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-07-26T15:05:54.067Z",
+      "fetchedAt": "2026-07-26T17:02:42.411Z",
       "tags": [
         "AI应用"
       ]
@@ -565,7 +742,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-26T15:05:56.000Z",
+      "fetchedAt": "2026-07-26T17:02:44.490Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -582,7 +759,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
+      "fetchedAt": "2026-07-26T17:02:47.802Z",
       "tags": [
         "综合"
       ]
@@ -598,9 +775,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
+      "fetchedAt": "2026-07-26T17:02:47.802Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet the New Claude Opus 5: Frontier-Class Agentic Coding and Computer Use at Unchanged Opus Pricing",
+      "link": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+      "snippet": "Today, Anthropic released Claude Opus 5. It replaces Claude Opus 4.8 as the Opus-tier flagship. Pricing is unchanged at $5 per million input tokens an",
+      "pubDate": "Fri, 24 Jul 2026 21:50:46 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-26T17:02:50.785Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -614,201 +807,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-07-26T15:06:00.617Z",
+      "fetchedAt": "2026-07-26T17:02:49.224Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Anthropic's Opus 5 is about token efficiency, not a capability leap",
-      "link": "https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/",
-      "snippet": "Models are improving quickly, but the cheaper options are often good enough.",
-      "pubDate": "Fri, 24 Jul 2026 21:05:51 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-07-26T15:06:00.617Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Midjourney bought the astrology app Co-Star",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "snippet": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announc",
-      "pubDate": "2026-07-24T19:06:58.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-07-26T15:05:59.377Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "snippet": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI as",
-      "pubDate": "Fri, 24 Jul 2026 18:07:32 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Team uses AlphaFold AI to redesign gene-editing proteins to make them safer",
-      "link": "https://arstechnica.com/science/2026/07/team-uses-alphafold-ai-to-redesign-gene-editing-proteins-to-make-them-safer/",
-      "snippet": "Google's AlphaFold can help ID what parts of a gene editing protein enable mistakes.",
-      "pubDate": "Fri, 24 Jul 2026 17:31:26 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-07-26T15:06:00.617Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "You can’t ignore Google Zero anymore",
-      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "snippet": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't per",
-      "pubDate": "2026-07-24T17:29:48.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-07-26T15:05:59.377Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The quest to keep organs alive outside the body",
-      "link": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-      "snippet": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is",
-      "pubDate": "Fri, 24 Jul 2026 17:03:55 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-26T15:05:59.660Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic launches Opus 5",
-      "link": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
-      "snippet": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "pubDate": "Fri, 24 Jul 2026 17:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "snippet": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions,",
-      "pubDate": "2026-07-24T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-07-26T15:05:59.377Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Meta is making its AI chatbot more like an assistant",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "snippet": "Meta says its AI chatbot is going beyond just answering questions and generating images. | Image: Meta\t  Meta is upgrading its AI chatbot with new pro",
-      "pubDate": "2026-07-24T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-07-26T15:05:59.377Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "link": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "snippet": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to",
-      "pubDate": "Fri, 24 Jul 2026 15:51:49 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "link": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "snippet": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "pubDate": "Fri, 24 Jul 2026 15:13:57 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "link": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
-      "snippet": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-      "pubDate": "Fri, 24 Jul 2026 15:09:55 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-26T15:05:59.124Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
