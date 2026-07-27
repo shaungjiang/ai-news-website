@@ -1,16 +1,177 @@
 {
-  "generatedAt": "2026-07-27T14:41:17.406Z",
+  "generatedAt": "2026-07-27T17:52:52.912Z",
   "stats": {
-    "total": 133,
+    "total": 134,
     "shown": 50,
     "chinese": 59,
-    "english": 74,
-    "today": 55
+    "english": 75,
+    "today": 65
   },
   "articles": [
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+      "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "snippet": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be",
+      "pubDate": "Mon, 27 Jul 2026 17:28:42 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-07-27T17:42:59.242Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "link": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "snippet": "New behavior capturing a writer's \"broad qualities\" could have legal implications.",
+      "pubDate": "Mon, 27 Jul 2026 16:58:46 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-07-27T17:43:01.103Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Why China is giving away its best AI models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "snippet": "People visit the booth of Kimi, an LLM developed by the Chinese startup Moonshot, during the World AI Conference in Shanghai, China, July 20th. | Imag",
+      "pubDate": "2026-07-27T16:51:50.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-27T17:42:59.592Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Threads users can now chat with Meta AI in their DMs",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "snippet": "Meta on Monday said it is rolling out its Meta AI chatbot within Threads' DMs, giving users a way to chat with the AI assistant.",
+      "pubDate": "Mon, 27 Jul 2026 16:45:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-07-27T17:42:59.242Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
+      "link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
+      "snippet": "Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands — pplx search web and pplx content fet",
+      "pubDate": "Mon, 27 Jul 2026 16:32:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-27T17:43:02.867Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s AI search is rapidly becoming the default, new data shows",
+      "link": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+      "snippet": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover inform",
+      "pubDate": "Mon, 27 Jul 2026 15:57:12 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-07-27T17:42:59.242Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+      "snippet": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion brea",
+      "pubDate": "Mon, 27 Jul 2026 15:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-07-27T17:42:59.242Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "This $9 key physically locks your most addictive apps",
+      "link": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+      "snippet": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "pubDate": "Mon, 27 Jul 2026 15:25:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-07-27T17:42:59.242Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Ilya Sutskever’s Safe Superintelligence partners with Nvidia to scale its AI research",
+      "link": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+      "snippet": "After two years in stealth, Safe Superintelligence has announced a long-term partnership with Nvidia as it prepares to scale to its next phase.",
+      "pubDate": "Mon, 27 Jul 2026 15:01:50 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-07-27T17:42:59.242Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "How lasers could help provide fuel for nuclear reactors",
+      "link": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+      "snippet": "Outside the small town of Paducah, Kentucky, a wealth of uranium is locked away in thousands of storage cylinders filled with waste material from a no",
+      "pubDate": "Mon, 27 Jul 2026 14:24:42 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Casey Crownhart",
+      "fetchedAt": "2026-07-27T17:43:00.024Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Enigma raises $71M to make controlling a robot as easy as adjusting the volume",
       "link": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
       "snippet": "The massive seed round was led by  Index Ventures and Ribbit Capital, with participation from Sarah Guo's Conviction Partners.",
       "pubDate": "Mon, 27 Jul 2026 13:00:00 +0000",
@@ -19,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-27T14:36:45.048Z",
+      "fetchedAt": "2026-07-27T17:42:59.242Z",
       "tags": [
         "开源工具"
       ]
@@ -35,7 +196,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +212,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +228,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +244,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +260,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +276,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +292,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +308,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -180,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:44.823Z",
+      "fetchedAt": "2026-07-27T17:42:58.906Z",
       "tags": [
         "商业融资"
       ]
@@ -228,7 +389,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-07-27T14:36:45.646Z",
+      "fetchedAt": "2026-07-27T17:43:00.024Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "商业融资"
       ]
@@ -260,7 +421,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:45.317Z",
+      "fetchedAt": "2026-07-27T17:42:59.592Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +437,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +453,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-07-27T14:36:45.646Z",
+      "fetchedAt": "2026-07-27T17:43:00.024Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +501,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-07-27T14:36:45.646Z",
+      "fetchedAt": "2026-07-27T17:43:00.024Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +517,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.743Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -373,7 +534,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +550,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Keegan Sheedy, Lucas Melo",
-      "fetchedAt": "2026-07-27T14:36:45.646Z",
+      "fetchedAt": "2026-07-27T17:43:00.024Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +566,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +582,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "政策监管"
       ]
@@ -437,7 +598,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "大模型"
       ]
@@ -453,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:44.823Z",
+      "fetchedAt": "2026-07-27T17:42:58.906Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +630,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.744Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +646,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-27T14:36:46.536Z",
+      "fetchedAt": "2026-07-27T17:43:01.103Z",
       "tags": [
         "综合"
       ]
@@ -501,7 +662,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.743Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -518,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-27T14:36:37.662Z",
+      "fetchedAt": "2026-07-27T17:42:54.268Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +695,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.743Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -551,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-07-27T14:36:37.662Z",
+      "fetchedAt": "2026-07-27T17:42:54.268Z",
       "tags": [
         "综合"
       ]
@@ -567,7 +728,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-27T14:36:37.662Z",
+      "fetchedAt": "2026-07-27T17:42:54.268Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +744,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.743Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "AI应用"
       ]
@@ -599,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-07-27T14:36:37.662Z",
+      "fetchedAt": "2026-07-27T17:42:54.268Z",
       "tags": [
         "开源工具"
       ]
@@ -615,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:44.823Z",
+      "fetchedAt": "2026-07-27T17:42:58.906Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +792,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:44.823Z",
+      "fetchedAt": "2026-07-27T17:42:58.906Z",
       "tags": [
         "综合"
       ]
@@ -647,171 +808,10 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.743Z",
+      "fetchedAt": "2026-07-27T17:42:55.891Z",
       "tags": [
         "商业融资",
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "AI最尴尬的短板，中国科学院出手了",
-      "link": "https://www.qbitai.com/2026/07/461160.html",
-      "snippet": "把“情商”做成了一套可测可训的工程",
-      "pubDate": "Mon, 27 Jul 2026 05:00:12 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-07-27T14:36:37.662Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
-      "link": "https://www.qbitai.com/2026/07/461226.html",
-      "snippet": "让中国品牌赢在全球",
-      "pubDate": "Mon, 27 Jul 2026 04:33:09 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-07-27T14:36:37.662Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "DeepSeek被曝主动叫停了第二轮融资签约",
-      "link": "https://www.qbitai.com/2026/07/461220.html",
-      "snippet": "这轮融资计划至少募资100亿元",
-      "pubDate": "Mon, 27 Jul 2026 04:29:38 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-07-27T14:36:37.662Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "企业出海，被中国信通院和腾讯重新定义了一次",
-      "link": "https://www.qbitai.com/2026/07/461153.html",
-      "snippet": "22位AI专家率先上岗WorkBuddy",
-      "pubDate": "Mon, 27 Jul 2026 03:55:47 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "闻乐",
-      "fetchedAt": "2026-07-27T14:36:37.662Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How AI is expanding what people do at work",
-      "link": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "snippet": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-      "pubDate": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-07-27T14:36:46.890Z",
-      "tags": [
-        "大模型",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "优衣库一边关店，一边赚钱",
-      "link": "https://36kr.com/p/3913266058826880?f=rss",
-      "snippet": "作者 | 谢芸子 编辑 | 张帆 优衣库在悄悄赚钱。 近日，优衣库母公司迅销集团上调了对2026财年的盈利指引，预计全年销售额增长17%至3.97万亿日元，约合214亿欧元。对比来看，H&M集团2026财年预期营收在199亿至208亿欧元。 这意味着，迅销将取代H&M，成为全球第二的“自有服装品牌零",
-      "pubDate": "2026-07-27 10:43:30  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-27T14:36:40.743Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "顶会具身辩论赛实况：徐丹飞激辩，PI连输三轮，谷歌大佬倒戈",
-      "link": "https://www.leiphone.com/category/private/MdFedmuSWZGKn7sE.html",
-      "snippet": "数据从哪来？控制靠像素还是动作？          作者丨张   璐      编辑丨齐铖湧",
-      "pubDate": "Mon, 27 Jul 2026 10:32:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-27T14:36:44.823Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "现场直击：高昂真机成本锁死具身进化，Google 科学家用视频世界模型破局｜RSS 2026",
-      "link": "https://www.leiphone.com/category/private/PRwTba7CYAuCGWlY.html",
-      "snippet": "Sherry Yang 独家解密 World Gym：两张 A100 跑通云端演练，让机器人从失败中自我恢复          作者丨张   璐      编辑丨齐铖湧",
-      "pubDate": "Mon, 27 Jul 2026 10:30:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-27T14:36:44.823Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "佐治亚理工学院徐丹飞：别被「视觉生成」骗了，视频预测≠机器人规划｜RSS 2026",
-      "link": "https://www.leiphone.com/category/private/KaA5T40NOj9bLBM3.html",
-      "snippet": "解构组合式世界模型，用因子图与时间注意力跨越“视行断层”          作者丨张   璐      编辑丨齐铖湧",
-      "pubDate": "Mon, 27 Jul 2026 10:29:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-27T14:36:44.823Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "WWW 2026 唯一最佳长文｜大模型该信「查到的」还是「记得的」？｜GAIR Paper 110",
-      "link": "https://www.leiphone.com/category/academic/wgbDYxJBNszTztoQ.html",
-      "snippet": "MEDRGAG 框架通过\"检索-补全-选择\"的知识组织流程，融合外部检索与内部参数知识，破解了医疗问答“检索缺失与生成幻觉”的二元对立。          作者丨张   璐      编辑丨齐铖湧",
-      "pubDate": "Mon, 27 Jul 2026 10:25:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-27T14:36:44.823Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
