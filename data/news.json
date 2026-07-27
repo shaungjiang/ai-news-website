@@ -1,13 +1,46 @@
 {
-  "generatedAt": "2026-07-27T19:32:53.619Z",
+  "generatedAt": "2026-07-27T21:20:10.008Z",
   "stats": {
-    "total": 135,
+    "total": 126,
     "shown": 50,
     "chinese": 59,
-    "english": 76,
+    "english": 67,
     "today": 69
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "snippet": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL v",
+      "pubDate": "Mon, 27 Jul 2026 20:19:42 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lorenzo Franceschi-Bicchierai",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "“Google and Reddit do not own the Internet,\" web scraper says after court win",
+      "link": "https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss/",
+      "snippet": "Google's and Reddit's use of DMCA to fight web scraper is bizarre, expert says.",
+      "pubDate": "Mon, 27 Jul 2026 20:12:42 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-07-27T21:11:21.686Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "Verizon touts $1B dark fiber deal for Google data centers as first of many",
@@ -19,7 +52,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-07-27T19:28:20.604Z",
+      "fetchedAt": "2026-07-27T21:11:21.686Z",
       "tags": [
         "综合"
       ]
@@ -35,25 +68,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-27T19:28:18.940Z",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Designing Skill-Driven Financial Analysis Agents with Claude, Python, MCP Connectors, and Automated Deliverables",
-      "link": "https://www.marktechpost.com/2026/07/27/designing-skill-driven-financial-analysis-agents-with-claude-python-mcp-connectors-and-automated-deliverables/",
-      "snippet": "In this tutorial, we build an advanced workflow around Anthropic’s financial-services repository and reproduce its skill-driven architecture in pure P",
-      "pubDate": "Mon, 27 Jul 2026 18:08:24 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-07-27T19:28:22.580Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -67,7 +84,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-07-27T19:28:19.642Z",
+      "fetchedAt": "2026-07-27T21:11:20.798Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +100,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-27T19:28:18.940Z",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
       "tags": [
         "开源工具"
       ]
@@ -99,7 +116,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-07-27T19:28:20.604Z",
+      "fetchedAt": "2026-07-27T21:11:21.686Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +132,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:19.237Z",
+      "fetchedAt": "2026-07-27T21:11:20.498Z",
       "tags": [
         "大模型"
       ]
@@ -131,26 +148,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-07-27T19:28:18.941Z",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Perplexity Releases pplx, a Single-Binary CLI That Puts Its Search API in the Terminal for Coding Agents",
-      "link": "https://www.marktechpost.com/2026/07/27/perplexity-releases-pplx/",
-      "snippet": "Perplexity has released pplx, an official command line client for its Search API. The tool exposes two commands — pplx search web and pplx content fet",
-      "pubDate": "Mon, 27 Jul 2026 16:32:47 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-27T19:28:22.580Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
       ]
     },
     {
@@ -164,7 +164,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-27T19:28:18.941Z",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-07-27T19:28:18.941Z",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-27T19:28:18.941Z",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-27T19:28:18.941Z",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
       "tags": [
         "学术研究"
       ]
@@ -228,7 +228,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-07-27T19:28:19.642Z",
+      "fetchedAt": "2026-07-27T21:11:20.798Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-27T19:28:18.941Z",
+      "fetchedAt": "2026-07-27T21:11:20.143Z",
       "tags": [
         "开源工具"
       ]
@@ -260,7 +260,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +276,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "商业融资"
       ]
@@ -292,7 +292,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +308,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +324,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +340,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "商业融资"
       ]
@@ -356,7 +356,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "商业融资"
       ]
@@ -372,7 +372,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "商业融资"
       ]
@@ -388,7 +388,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -405,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +421,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:18.640Z",
+      "fetchedAt": "2026-07-27T21:11:19.917Z",
       "tags": [
         "商业融资"
       ]
@@ -453,7 +453,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-07-27T19:28:19.642Z",
+      "fetchedAt": "2026-07-27T21:11:20.798Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +469,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "商业融资"
       ]
@@ -485,7 +485,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:19.237Z",
+      "fetchedAt": "2026-07-27T21:11:20.498Z",
       "tags": [
         "AI应用"
       ]
@@ -501,7 +501,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +517,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.785Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +533,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-07-27T19:28:19.642Z",
+      "fetchedAt": "2026-07-27T21:11:20.798Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +549,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.785Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +565,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-07-27T19:28:19.642Z",
+      "fetchedAt": "2026-07-27T21:11:20.798Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +581,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -598,7 +598,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.785Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +614,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Keegan Sheedy, Lucas Melo",
-      "fetchedAt": "2026-07-27T19:28:19.642Z",
+      "fetchedAt": "2026-07-27T21:11:20.798Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +630,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.785Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -646,7 +646,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.785Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "政策监管"
       ]
@@ -662,7 +662,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.785Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "大模型"
       ]
@@ -678,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:18.640Z",
+      "fetchedAt": "2026-07-27T21:11:19.918Z",
       "tags": [
         "综合"
       ]
@@ -694,7 +694,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.785Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "综合"
       ]
@@ -710,7 +710,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-27T19:28:20.604Z",
+      "fetchedAt": "2026-07-27T21:11:21.686Z",
       "tags": [
         "综合"
       ]
@@ -726,7 +726,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -743,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-27T19:28:13.024Z",
+      "fetchedAt": "2026-07-27T21:11:13.794Z",
       "tags": [
         "AI应用"
       ]
@@ -759,7 +759,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -776,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-07-27T19:28:13.024Z",
+      "fetchedAt": "2026-07-27T21:11:13.794Z",
       "tags": [
         "综合"
       ]
@@ -792,7 +792,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-27T19:28:13.024Z",
+      "fetchedAt": "2026-07-27T21:11:13.794Z",
       "tags": [
         "综合"
       ]
@@ -808,7 +808,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-27T19:28:14.784Z",
+      "fetchedAt": "2026-07-27T21:11:15.670Z",
       "tags": [
         "AI应用"
       ]
