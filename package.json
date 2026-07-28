@@ -7,11 +7,16 @@
     "fetch": "node src/fetch-feeds.js",
     "process": "node src/process-news.js",
     "build": "node src/generate-site.js",
-    "all": "npm run fetch && npm run process && npm run build"
+    "all": "npm run fetch && npm run process && npm run build",
+    "deploy": "wrangler deploy",
+    "preview": "wrangler dev"
   },
   "dependencies": {
-    "rss-parser": "^3.13.0",
     "handlebars": "^4.7.8",
-    "node-fetch": "^3.3.2"
+    "node-fetch": "^3.3.2",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "wrangler": "^4.114.0"
   }
 }
