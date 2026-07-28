@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-07-28T19:30:12.331Z",
+  "generatedAt": "2026-07-28T21:19:28.591Z",
   "stats": {
-    "total": 122,
+    "total": 133,
     "shown": 50,
     "chinese": 59,
-    "english": 63,
-    "today": 63
+    "english": 74,
+    "today": 70
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "snippet": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+      "pubDate": "Tue, 28 Jul 2026 20:45:12 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-07-28T21:09:36.531Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Despite AI hype, Google's data shows workers aren't automating themselves away",
+      "link": "https://arstechnica.com/ai/2026/07/despite-ai-hype-googles-data-shows-workers-arent-automating-themselves-away/",
+      "snippet": "Analysis of 15 million real AI interactions finds most tasks at most jobs are unaffected.",
+      "pubDate": "Tue, 28 Jul 2026 20:20:20 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-07-28T21:09:38.029Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Sam Altman is ready to decelerate",
+      "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+      "snippet": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "pubDate": "Tue, 28 Jul 2026 20:17:08 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-07-28T21:09:36.531Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "AI leaders sign statement asking the government to do something about automated AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "snippet": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement",
+      "pubDate": "2026-07-28T19:46:43.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-28T21:09:36.887Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "AI’s finally expensive enough to make Wall Street nervous",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "snippet": "Working hard, or bear-ly working? | Image: Cath Virginia / The Verge, Getty Images\t  It's earnings season, and investors got an unpleasant surprise fr",
+      "pubDate": "2026-07-28T19:33:03.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-28T21:09:36.887Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "b3BlbmFpLWJsb2c6",
       "title": "Scientific computing in the age of agentic AI",
@@ -19,7 +99,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:48.508Z",
+      "fetchedAt": "2026-07-28T21:09:38.353Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-07-28T19:25:46.622Z",
+      "fetchedAt": "2026-07-28T21:09:36.531Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-07-28T19:25:46.622Z",
+      "fetchedAt": "2026-07-28T21:09:36.531Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -68,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.366Z",
+      "fetchedAt": "2026-07-28T21:09:36.306Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -85,7 +165,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-28T19:25:46.622Z",
+      "fetchedAt": "2026-07-28T21:09:36.531Z",
       "tags": [
         "综合"
       ]
@@ -101,7 +181,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "AI应用"
       ]
@@ -117,7 +197,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "综合"
       ]
@@ -133,7 +213,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "综合"
       ]
@@ -149,7 +229,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "综合"
       ]
@@ -165,7 +245,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -182,7 +262,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "AI应用"
       ]
@@ -198,7 +278,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "综合"
       ]
@@ -214,7 +294,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.936Z",
+      "fetchedAt": "2026-07-28T21:09:36.887Z",
       "tags": [
         "开源工具"
       ]
@@ -230,7 +310,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "综合"
       ]
@@ -246,7 +326,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "AI应用"
       ]
@@ -262,7 +342,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "学术研究"
       ]
@@ -278,7 +358,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "商业融资"
       ]
@@ -294,7 +374,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-07-28T19:25:47.181Z",
+      "fetchedAt": "2026-07-28T21:09:37.185Z",
       "tags": [
         "综合"
       ]
@@ -310,7 +390,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +406,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.936Z",
+      "fetchedAt": "2026-07-28T21:09:36.887Z",
       "tags": [
         "大模型"
       ]
@@ -342,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "AI应用"
       ]
@@ -358,7 +438,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "AI应用"
       ]
@@ -374,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -391,7 +471,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "商业融资"
       ]
@@ -407,7 +487,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "大模型"
       ]
@@ -423,7 +503,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "综合"
       ]
@@ -439,7 +519,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "商业融资"
       ]
@@ -455,7 +535,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "商业融资"
       ]
@@ -471,7 +551,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "商业融资"
       ]
@@ -487,7 +567,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "综合"
       ]
@@ -503,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
+      "fetchedAt": "2026-07-28T21:09:36.306Z",
       "tags": [
         "AI应用"
       ]
@@ -519,7 +599,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "商业融资"
       ]
@@ -535,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-07-28T19:25:40.480Z",
+      "fetchedAt": "2026-07-28T21:09:30.728Z",
       "tags": [
         "综合"
       ]
@@ -551,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
+      "fetchedAt": "2026-07-28T21:09:36.306Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -568,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
+      "fetchedAt": "2026-07-28T21:09:36.306Z",
       "tags": [
         "政策监管",
         "大模型"
@@ -585,7 +665,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
+      "fetchedAt": "2026-07-28T21:09:36.306Z",
       "tags": [
         "大模型"
       ]
@@ -594,14 +674,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "沃尔沃中国全面\"吉利化\"，首款超豪轿车对标尊界S800｜36氪独家",
       "link": "https://36kr.com/p/3913637793059968?f=rss",
-      "snippet": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项���。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示，新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今",
+      "snippet": "从北京奔驰转战沃尔沃，段建军履新中国区总裁兼CEO尚不足百日，便已挂帅推进品牌首款D级轿车项目。 36氪从多个产业人士处获悉，沃尔沃正在筹备推出全新D级超豪华旗舰轿车，这款新车的内部代号为“561”。知情人士表示，新车定位对标尊界S800，将超越在售S90车型，成为沃尔沃规格最高的轿车产品。 今年5",
       "pubDate": "2026-07-28 17:24:01  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "AI应用"
       ]
@@ -617,7 +697,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michelle Kim",
-      "fetchedAt": "2026-07-28T19:25:47.181Z",
+      "fetchedAt": "2026-07-28T21:09:37.185Z",
       "tags": [
         "综合"
       ]
@@ -633,7 +713,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.936Z",
+      "fetchedAt": "2026-07-28T21:09:36.887Z",
       "tags": [
         "开源工具"
       ]
@@ -649,7 +729,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
+      "fetchedAt": "2026-07-28T21:09:36.306Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -666,7 +746,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
+      "fetchedAt": "2026-07-28T21:09:36.306Z",
       "tags": [
         "AI应用"
       ]
@@ -682,9 +762,25 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:42.621Z",
+      "fetchedAt": "2026-07-28T21:09:32.877Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+      "link": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym/",
+      "snippet": "Microsoft AI has released MAI-Cyber-1-Flash, its first model built specifically for cyber defense. It is a 137B total, 5B active sparse MoE fine-tune",
+      "pubDate": "Tue, 28 Jul 2026 08:33:30 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-07-28T21:09:40.346Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -698,7 +794,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
+      "fetchedAt": "2026-07-28T21:09:36.306Z",
       "tags": [
         "综合"
       ]
@@ -714,105 +810,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-28T19:25:40.480Z",
+      "fetchedAt": "2026-07-28T21:09:30.728Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "当AI学会“仿真思维”，教师才能回归育人本质",
-      "link": "https://www.qbitai.com/2026/07/461939.html",
-      "snippet": "从“工具效率”到“认知理解”，教育AI进入深水区",
-      "pubDate": "Tue, 28 Jul 2026 07:32:47 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-28T19:25:40.480Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "海尔智家正在讲述一个全新的AI故事",
-      "link": "https://www.leiphone.com/category/smarthome/WLbDBZNSU4ThxVsG.html",
-      "snippet": "商业世界里最持久的认知差，往往藏在固化的行业标签里。 当市场仍习惯性地用“家电企业”的标尺丈量海尔智家时，一场由AI驱动的系统性重构，早已重塑了这家企业的底层逻辑与价值边界。 7月17日，上海。在2026世界人工智能大会“人工智能+消费”论坛上，海尔智家董事长兼总裁李华刚宣布了一个消息：海尔智家将承",
-      "pubDate": "Tue, 28 Jul 2026 15:32:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "老人突发“脑干出血”致残事件追踪：安顿称在消费者病发前已预警，将追究河南明神医公司违约责任",
-      "link": "https://www.leiphone.com/category/industrynews/IBDqPMiauBK0j0km.html",
-      "snippet": "（本文转自央广网客户端） 央广网北京7月27日消息（记者刘保奇）近日，央广网发布独家报道《啄木鸟消费投诉｜老人突发脑干出血致残，健康管理套餐提前预警慢病的智能手表缘何失灵？》，引发关注。 据此前报道，江苏徐州市民李秀梅向央广网反映，其母亲花费3万元购买了河南明神医生物科技有限公司（以下简称“河南明神",
-      "pubDate": "Tue, 28 Jul 2026 15:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "国内首个！阿里Qoder上线实时语音交互智能体，让Agent像真人一样交流干活",
-      "link": "https://www.leiphone.com/category/industrynews/Le7pnnrg155qtynu.html",
-      "snippet": "7月28日，阿里Qoder上线国内首个实时语音交互智能体Qoder Voice，用户语音唤醒智能体后，智能体可像真人助手一样实时与用户互动并执行任务，让用户解放双手，实现“动动嘴，让Agent干活”。  目前，Agent的交互形式以文本为主，在长上下文场景下输入效率较低，传统语音交互则以“对讲机”式",
-      "pubDate": "Tue, 28 Jul 2026 15:26:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "当AI学会“仿真思维”，教师才能回归育人本质——从“工具效率”到“认知理解”，教育AI进入深水区",
-      "link": "https://www.leiphone.com/category/ai/Y7Md1KutNgNzfyFH.html",
-      "snippet": "2026年，教育部等五部门印发《“人工智能+教育”行动计划》，文件明确要求分层提升教师AI数字素养，全面构建人机协同的新型课堂模式。政策方向已然明朗，但落地层面的讨论仍在发酵。7月23日，复旦大学副校长周磊在接受人民网专访时表示：“智能化转型浪潮下，教学创新比任何时候都更关乎教育本质。”他同时指出，",
-      "pubDate": "Tue, 28 Jul 2026 15:11:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Kimi K3 发布 47 页技术报告，最有价值的创新点是这些",
-      "link": "https://www.leiphone.com/category/ai/z5MDzpTPInNSRTkt.html",
-      "snippet": "它把架构、训练和 Agent infra连接成了一套完整系统。          作者丨郑佳美      编辑丨马晓宁",
-      "pubDate": "Tue, 28 Jul 2026 14:37:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-28T19:25:46.367Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
