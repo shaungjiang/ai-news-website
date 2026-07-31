@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-07-31T10:50:16.328Z",
+  "generatedAt": "2026-07-31T14:14:03.226Z",
   "stats": {
-    "total": 129,
+    "total": 138,
     "shown": 50,
-    "chinese": 60,
-    "english": 69,
-    "today": 47
+    "chinese": 59,
+    "english": 79,
+    "today": 65
   },
   "articles": [
     {
@@ -19,58 +19,553 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:30.441Z",
+      "fetchedAt": "2026-07-31T14:09:15.545Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "It’s time to panic about AI safety",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "snippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more a",
+      "pubDate": "2026-07-31T14:03:04.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.988Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "AI scammers outperform humans when it comes to building trust",
+      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
+      "snippet": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
+      "pubDate": "Fri, 31 Jul 2026 14:01:40 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Andy Greenberg, wired.com\n                ",
+      "fetchedAt": "2026-07-31T14:09:15.225Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic says Claude accidentally hacked real companies too",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "snippet": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own a",
+      "pubDate": "2026-07-31T13:41:17.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.988Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国务院国资委：深化央企“人工智能+”专项行动，因企制宜培育新兴产业和未来产业",
+      "link": "https://36kr.com/newsflashes/3919556554305154?f=rss",
+      "snippet": "36氪获悉，7月31日，国务院国资委党委召开扩大会议。会议强调，要指导中央企业主动对接和带头落实好国家政策，抓住重点、主动作为，充分发挥引领带动作用，更好助推经济持续向新向优向好发展。要锚定全年目标不动摇，切实加强现场督导调研，把中央企业生产经营情况摸清摸透，找准痛点、对症下药，夯实企业高质量发展基",
+      "pubDate": "2026-07-31 20:59:06  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "政策监管"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "国家外汇管理局出台通知，进一步支持国内外汇贷款业务",
-      "link": "https://36kr.com/newsflashes/3919416289406595?f=rss",
-      "snippet": "今天（7月31日），从国家外汇管理局了解到，国家外汇管理局近期发布《关于进一步完善国内外汇贷款外汇管理有关事项的通知》，进一步支持国内外汇贷款业务发展，提升服务实体经济质效。《通知》自2026年10月1日起施行。（央视新闻）",
-      "pubDate": "2026-07-31 18:36:25  +0800",
+      "title": "热门中概股美股盘前普涨，阿里巴巴涨超2%",
+      "link": "https://36kr.com/newsflashes/3919553547038343?f=rss",
+      "snippet": "36氪获悉，热门中概股美股盘前普涨，截至发稿，阿里巴巴涨超2%，拼多多涨0.61%，蔚来涨0.6%，理想汽车涨0.59%，百度涨0.33%，京东涨0.09%，小鹏汽车跌0.54%。",
+      "pubDate": "2026-07-31 20:56:03  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美股大型科技股盘前多数上涨，亚马逊涨超10%",
+      "link": "https://36kr.com/newsflashes/3919549841321345?f=rss",
+      "snippet": "36氪获悉，美股大型科技股盘前多数上涨，截至发稿，亚马逊涨超10%，英特尔涨超4%，谷歌涨超1%，英伟达涨0.9%，Meta涨0.89%，特斯拉涨0.67%，苹果跌近8%，微软跌0.09%。",
+      "pubDate": "2026-07-31 20:52:16  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "交大昂立：公司股票8月4日起实施其他风险警示，简称变更为“ST交昂”",
+      "link": "https://36kr.com/newsflashes/3919547923574152?f=rss",
+      "snippet": "36氪获悉，交大昂立公告，公司于2026年7月31日收到中国证监会上海监管局下发的《行政处罚事先告知书》，根据相关规定，公司股票将被实施其他风险警示。公司股票将于2026年8月3日停牌。2026年8月4日起实施其他风险警示，实施后A股股票简称由“交大昂立”变更为“ST交昂”",
+      "pubDate": "2026-07-31 20:50:19  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "2026年7月总票房突破50亿",
+      "link": "https://36kr.com/newsflashes/3919538914258311?f=rss",
+      "snippet": "36氪获悉，据灯塔专业版，截至7月31日，2026���7月总票房（含预售）突破50亿，《功夫女足》《八仙！》《蜘蛛侠：崭新之日》《小黄人与大怪兽》《四渡》位列7月票房榜前五。",
+      "pubDate": "2026-07-31 20:42:30  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "贝肯能源：控股股东将变更为极宁科技，股票将于8月3日复牌",
+      "link": "https://36kr.com/newsflashes/3919527719005827?f=rss",
+      "snippet": "36氪获悉，贝肯能源公告，公司控股股东陈平贵及其配偶Anhua Sun与极宁科技签署股份转让协议，陈平贵拟转让11.65%股份给极宁科技，交易对价4.08亿元；Anhua Sun拟在限售期满后转让1.51%股份给极宁科技。完成后，极宁科技将持有13.16%股份，成为控股股东，实际控制人变更为潘涛。公",
+      "pubDate": "2026-07-31 20:39:43  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "2连板中国宝安：第一大股东在股票交易异常波动期间增持1.6%股份",
+      "link": "https://36kr.com/newsflashes/3919520686321287?f=rss",
+      "snippet": "36氪获悉，中国宝安公告，公司股票连续2个交易日（7月30日、31日）收盘价涨幅偏离值累计超20%，属于异常波动。在公司股票交易异常波动期间，公司第一大股东承兴投资以集中竞价交易方式增持公司股份4127.08万股，占公司总股本的1.6001%。",
+      "pubDate": "2026-07-31 20:33:34  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "特朗普扬言将出台油价干预措施，雪佛龙与埃克森美孚利润大幅飙升",
+      "link": "https://36kr.com/newsflashes/3919514840231556?f=rss",
+      "snippet": "埃克森美孚与雪佛龙公布二季度业绩，两家企业合计盈利265亿美元，依托特朗普主导的伊朗冲突引发原油与汽油价格暴涨实现获利。截至6月底的三个月内，雪佛龙净利润达122亿美元，同比激增四倍，创下其历史最高季度利润。埃克森美孚二季度净利润为145亿美元，较去年同期实现翻倍，也是自2022年油价飙升以来，该公",
+      "pubDate": "2026-07-31 20:26:34  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "艾伯维第二季度净营收169.9亿美元",
+      "link": "https://36kr.com/newsflashes/3919511680609665?f=rss",
+      "snippet": "7月31日，艾伯维公布第二季度业绩报告。公司第二季度净营收为169.90亿美元，按报告基准增长10.2%，按运营基准增长9.5%；第二季度调整后稀释每股收益为3.65美元，同比增长22.9%。此外，艾伯维宣布达成收购Apogee Therapeutics的最终协议，将进一步深化公司免疫学产品组合。（",
+      "pubDate": "2026-07-31 20:19:25  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "证监会对红塔证券采取出具警示函措施",
-      "link": "https://36kr.com/newsflashes/3919410644496007?f=rss",
-      "snippet": "36氪获悉，证监会发布关于对红塔证券股份有限公司采取出具警示函措施的决定：经查，证监会发现公司存在质控现场核查不到位、保荐工作报告披露不充分、底稿验收把关不严等问题，上述情况违反了《证券公司投资银行类业务内部控制指引》第五十五条、八十五条，《证券发行上市保荐业务管理办法》第三十一条的规定。按照《保荐",
-      "pubDate": "2026-07-31 18:30:41  +0800",
+      "title": "电投产融：山东莱阳核电项目获国务院常务会议核准",
+      "link": "https://36kr.com/newsflashes/3919516325949059?f=rss",
+      "snippet": "36氪获悉，电投产融公告，公司获悉山东莱阳核电项目1、2号机组已获国务院常务会议核准。公司将成立国电投核电（莱阳）核能有限公司作为业主单位，负责项目投资、建设及运营管理。本期工程拟建设2台“国和一号”（CAP1400）非能动压水堆核电机组，单台机组额定功率1543MW。目前新项目公司尚未成立，由公司",
+      "pubDate": "2026-07-31 20:18:11  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
-        "商业融资",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: Montana’s new experimental drug rules",
+      "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s pl",
+      "pubDate": "Fri, 31 Jul 2026 12:16:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Charlotte Jee",
+      "fetchedAt": "2026-07-31T14:09:14.252Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "上半年上海智能车载设备、机器人销售收入同比增长61.5%和17.5%",
+      "link": "https://36kr.com/newsflashes/3919510952291713?f=rss",
+      "snippet": "从上海市税务局获悉，增值税发票数据显示，2026年上半年，上海经济运行延续稳中向好态势，传统产业稳健增长、筑牢经济基本盘，新兴产业加速崛起、激活增长新动能，科创投入持续加码、数字经济蓬勃发展，市场活力充分释放。其中，传统产业韧性凸显，民生消费领域持续回暖。发票数据显示，上半年，上海市食品制造等传统行",
+      "pubDate": "2026-07-31 20:12:43  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "深交所：本周对138起证券异常交易行为采取了自律监管措施",
+      "link": "https://36kr.com/newsflashes/3919499607748224?f=rss",
+      "snippet": "36氪获悉，深交所公告，2026年7月27日至7月31日，本所共对138起证券异常交易行为采取了自律监管措施，涉及盘中拉抬打压、虚假申报等异常交易情形。",
+      "pubDate": "2026-07-31 20:01:10  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "比 Seedance 便宜七成的模型，宣布开源：视频生成行业变天了？",
+      "link": "https://www.leiphone.com/category/industrynews/fTNU3GE59xSj70Io.html",
+      "snippet": "第一次，效果对标 Seedance 2.0 的视频旗舰模型交到了所有人手里。          作者丨吴海明      编辑丨李   娜  马晓宁",
+      "pubDate": "Fri, 31 Jul 2026 19:58:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "中国广核：惠州5号及6号机组建设获国务院核准",
+      "link": "https://36kr.com/newsflashes/3919487196982915?f=rss",
+      "snippet": "36氪获悉，中国广核公告，公司子公司惠州第三核电的惠州5号及6号机组已获国务院核准，采用华龙一号2.0版核电技术，单台机组容量1217MW。目前正有序开展施工准备工作，待取得《核电厂建造许可证》后即可全面建设。",
+      "pubDate": "2026-07-31 19:54:32  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "欧盟8月2日起执行《人工智能法》相关规定，新增AI透明度要求",
+      "link": "https://36kr.com/newsflashes/3919473270812290?f=rss",
+      "snippet": "欧盟委员会7月31日宣布，自8月2日起，欧盟委员会人工智能办公室将与各成员国主管部门共同开始执行《人工智能法》相关规定。同时，新的人工智能透明度要求也将正式生效，要求部分人工智能系统明确告知用户其正在与人工智能互动，以及相关内容是否由人工智能生成或修改。根据新规，聊天机器人等交互式人工智能系统必须向",
+      "pubDate": "2026-07-31 19:45:20  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "欧元区7月通胀率升至2.9%，能源涨价为主因",
+      "link": "https://36kr.com/newsflashes/3919471244324233?f=rss",
+      "snippet": "欧盟统计局7月31日公布的初步数据显示，2026年7月欧元区通胀率按年率计算为2.9%，高于6月的2.8%。数据显示，7月欧元区能源价格同比上涨10.0%，显著高于6月的8.5%，是推高整体物价水平的主要因素；服务价格同比上涨3.3%，略高于6月的3.2%；非能源工业产品价格同比上涨0.9%，高于6",
+      "pubDate": "2026-07-31 19:40:18  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
         "AI应用"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "证监会对广发证券股份有限公司采取出具警示函措施",
-      "link": "https://36kr.com/newsflashes/3919407783243139?f=rss",
-      "snippet": "36氪获悉，中国证监会发布关于对广发证券股份有限公司采取出具警示函措施的决定：经查，证监会发现广发证券股份有限公司存在质控部门独立性不足、项目收费不规范等问题，上述情况违反了《证券公司和证券投资基金管理公司合规管理办法》（以下称《合规办法》）第六条，《证券公司投资银行类业务内部控制指引》第五条、二十",
-      "pubDate": "2026-07-31 18:27:46  +0800",
+      "title": "万华化学、兴发集团合资公司增资至7.5亿，增幅200%",
+      "link": "https://36kr.com/newsflashes/3919438329851526?f=rss",
+      "snippet": "36氪获悉，天眼查App显示，近日，远安兴华磷化工有限公司发生工商变更，注册资本由2.5亿人民币增至7.5亿人民币，增幅200%。该公司成立于2024年7月，法定代表人为张昌，经营范围包括化工产品生产、化工产品销售等。股东信息显示，该公司由湖北兴发化工集团股份有限公司、万华化学集团股份有限公司共同持",
+      "pubDate": "2026-07-31 19:38:45  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "爱丽家居：股票交易严重异常波动，8月3日起停牌核查",
+      "link": "https://36kr.com/newsflashes/3919471423860359?f=rss",
+      "snippet": "36氪获悉，爱丽家居公告，公司股票自7月21日至7月31日期间多次触及股票交易异常波动及严重异常波动情形，股价累计涨幅达135.77%。为维护投资者利益，公司股票将于8月3日开市起停牌，自披露核查公告后复牌。公司基本面未发生重大变化，但股价已严重偏离基本面，存在非理性炒作风险。",
+      "pubDate": "2026-07-31 19:32:30  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "铭普光磁：拟定增募资不超12.83亿元，用于高速光模块智能制造项目等",
+      "link": "https://36kr.com/newsflashes/3919459572608384?f=rss",
+      "snippet": "36氪获悉，铭普光磁公告，拟向不超过35名特定投资者发行A股股票，募集资金总额不超过12.83亿元。扣除发行费用后的募集资金净额将用于高速光模块智能制造项目、高速光器件及高端无源器件产业化建设项目、高速光芯片智能制造项目及补充流动资金。",
+      "pubDate": "2026-07-31 19:30:22  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Kimi K3 已提前亮相？神秘模型「Kivine」现身，百万上下文能力惊艳全球",
+      "link": "https://www.leiphone.com/category/ai/mER69AfKN23gn4Yt.html",
+      "snippet": "如果传闻属实，Kimi K3 将成为国产模型的重要节点。          作者丨郑佳美、樊天骄      编辑丨马晓宁",
+      "pubDate": "Fri, 31 Jul 2026 19:30:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "华恒生物：实际控制人郭恒华因涉嫌非法吸收公众存款罪被批捕",
+      "link": "https://36kr.com/newsflashes/3919457775087238?f=rss",
+      "snippet": "36氪获悉，华恒生物公告，公司收到公司实际控制人郭恒华家属通知，郭恒华因涉嫌非法吸收公众存款罪被检察机关批准逮捕。郭恒华目前未在公司担任董事或高级管理人员职务，上述事项不会对公司日常经营活动产生重大不利影响。公司各项经营管理工作由高管团队负责，且有明确的流程保障，公司董事及高级管理人员目前均正常履职",
+      "pubDate": "2026-07-31 19:26:34  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "卡帕西力推的 LLM Wiki，会淘汰传统 RAG 吗？",
+      "link": "https://www.leiphone.com/category/ai/Q24LRPqt1A6EUYiv.html",
+      "snippet": "看清 Agent Wiki ≠ AI 用户记忆，你的知识库落地就成功一半了。          作者丨樊天骄      编辑丨郑佳美",
+      "pubDate": "Fri, 31 Jul 2026 19:26:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "宏桥控股：拟定增募资不超120亿元 用于风电、光伏、铝深加工项目等",
+      "link": "https://36kr.com/newsflashes/3919442779549318?f=rss",
+      "snippet": "36氪获悉，宏桥控股公告，拟定增募资不超过120亿元，扣除发行费用后拟用于风电项目（56.5亿元）、光伏项目（22.5亿元）、铝深加工项目（23亿元）及偿还银行贷款和补充流动资金（18亿元）。",
+      "pubDate": "2026-07-31 19:22:18  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "美团联合苏州正式上线“等灯停表”，即日起在全国20城落地试点",
+      "link": "https://www.leiphone.com/category/industrynews/3QgMEdc9pkFxrmt4.html",
+      "snippet": "“等灯停表”真的来了，外卖骑手等红灯时间，将实现单独累加计算并在配送时间中顺延。7月31日，美团和苏州公安联合正式上线了外卖骑手“等灯停表”功能首个正式版本，目前已在率先接入交通数据的苏州道路进行实际路测。 根据美团提供的测试视频来看，当骑手在交通路口等红灯时，页面呈现红灯倒计时读秒信息，美团骑手A",
+      "pubDate": "Fri, 31 Jul 2026 19:21:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "一键分享＝全网公开？Claude 被曝聊天记录可在谷歌直接搜到",
+      "link": "https://www.leiphone.com/category/ai/JpGvdH7oYOZjU3lS.html",
+      "snippet": "从加密货币私钥到身份信息，Reddit 正掀起一场窥探他人的狂欢。          作者丨樊天骄      编辑丨郑佳美",
+      "pubDate": "Fri, 31 Jul 2026 19:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案",
+      "link": "https://www.leiphone.com/category/ai/3UBe8gjtw8tFTQvJ.html",
+      "snippet": "起底 K3 背后核心极客天团，人均扛起 7 亿估值！          作者丨高允毅  樊天骄      编辑丨马晓宁",
+      "pubDate": "Fri, 31 Jul 2026 19:10:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "How a Yale AI-cheating dispute became a 13-count federal lawsuit",
+      "link": "https://arstechnica.com/tech-policy/2026/07/how-a-yale-ai-cheating-dispute-became-a-13-count-federal-lawsuit/",
+      "snippet": "A disputed exam, an unreliable detector, and one very late Apple Pages file.",
+      "pubDate": "Fri, 31 Jul 2026 11:00:52 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Nate Anderson\n                ",
+      "fetchedAt": "2026-07-31T14:09:15.225Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "AI 正在变成一门制造业 | WAIC 2026 Agent 产品观察",
+      "link": "https://www.leiphone.com/category/yanxishe/uSlPIJ79kvvSAf9r.html",
+      "snippet": "国内 Agent 产品当前主要是供给侧繁荣，不是需求侧繁荣。          作者丨李   娜      编辑丨马晓宁",
+      "pubDate": "Fri, 31 Jul 2026 18:41:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "首家国产自研GPU厂商登陆ChinaJoy，砺算LX 7G100消费显卡零售版全面开售",
+      "link": "https://www.leiphone.com/category/industrynews/dtHMAsbab0PVgnhU.html",
+      "snippet": "2026年7月末，中国消费级GPU市场迎来重要时刻。 在刚刚开幕的2026年中国国际数码互动娱乐展览会（2026 ChinaJoy）上，砺算科技作为首家国产自研GPU厂商亮相，打破此前从未有国产自研GPU原厂以独立展商身份参展的历史。与此同时，砺算首款全自研消费级显卡LX 7G100零售版已在砺算科",
+      "pubDate": "Fri, 31 Jul 2026 18:33:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
+      "link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
+      "snippet": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, w",
+      "pubDate": "Fri, 31 Jul 2026 10:32:53 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-31T14:09:16.538Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -84,121 +579,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "盛达资源：2026年上半年净利润3.9亿元，同比增长456.46%",
-      "link": "https://36kr.com/newsflashes/3919402160303751?f=rss",
-      "snippet": "36氪获悉，盛达资源公告，2026年上半年营业收入11.52亿元，同比增长27.08%。归属于上市公司股东的净利润3.9亿元，同比增长456.46%。归属于上市公司股东的扣除非经常性损益的净利润3.82亿元，同比增长417.06%。公司计划不派发现金红利，不送红股，不以公积金转增股本。",
-      "pubDate": "2026-07-31 18:22:03  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "葡萄牙部长会议批准征收石油企业超额利润税",
-      "link": "https://36kr.com/newsflashes/3919389811879553?f=rss",
-      "snippet": "葡萄牙部长会议7月30日批准对石油开采和炼油企业征收超额利润税，成为倡议恢复能源企业超额利润税机制的5个欧盟国家中首个提出具体立法方案的国家。据葡萄牙卢萨通讯社报道，根据当天批准的方案，葡萄牙将对石油开采和炼油企业征收超额利润税，税率为33%。葡财政部表示，这项税收措施针对的是完全由外部市场因素造成",
-      "pubDate": "2026-07-31 18:20:23  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "天力锂能：公司及控股股东王瑞庆遭证监会立案",
-      "link": "https://36kr.com/newsflashes/3919399009791620?f=rss",
-      "snippet": "36氪获悉，天力锂能公告，公司及控股股东、实际控制人王瑞庆于2026年7月31日分别收到中国证监会《立案告知书》，因涉嫌信息披露等违法违规被立案。目前公司各项经营活动均正常开展，立案调查期间将积极配合调查并履行信息披露义务。",
-      "pubDate": "2026-07-31 18:18:50  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "北京君正：控股股东提议公司回购1亿元至2亿元A股股份",
-      "link": "https://36kr.com/newsflashes/3919387501080195?f=rss",
-      "snippet": "36氪获悉，北京君正公告，公司控股股东、实际控制人暨董事长刘强提议公司通过集中竞价交易方式回购A股股份，回购资金总额不低于1亿元且不超过2亿元，资金来源为自有资金或自筹资金。回购股份计划用于股权激励或员工持股计划。",
-      "pubDate": "2026-07-31 18:14:02  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美团联合苏州正式上线“等灯停表”，即日起在全国20城落地试点",
-      "link": "https://36kr.com/newsflashes/3919378867580290?f=rss",
-      "snippet": "36氪获悉，7月31日，美团和苏州公安联合正式上线了外卖骑手“等灯停表”功能首个正式版本，目前已在率先接入交通数据的苏州道路进行实际路测。据美团透露，随着该功能正式上线，北京与无锡已经在同步对接测试，上海、杭州、成都、南昌、兰州等20余个城市也在评估中，具备条件的城市会陆续上线。",
-      "pubDate": "2026-07-31 18:08:17  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "证监会同意焦炭期权注册",
-      "link": "https://36kr.com/newsflashes/3919377772850569?f=rss",
-      "snippet": "36氪获悉，近日，中国证监会同意大连商品交易所焦炭期权注册。中国证监会将督促大连商品交易所做好各项准备工作，确保焦炭期权的平稳推出和稳健运行。",
-      "pubDate": "2026-07-31 18:03:12  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "市场监管总局开展光伏行业价格合规指导",
-      "link": "https://36kr.com/newsflashes/3919382851759750?f=rss",
-      "snippet": "36氪获悉，7月31日，市场监管总局在江苏省盐城市对光伏行业开展价格合规指导，贯彻落实党中央、国务院关于深入整治“内卷式”竞争的决策部署，推动光伏企业从“拼价格”向“拼质量”转变，促进光伏行业高质量发展。",
-      "pubDate": "2026-07-31 18:02:24  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "政策监管"
       ]
     },
     {
@@ -212,170 +595,42 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "MzZrci1haTpodHRw",
-      "title": "维达力科技港股IPO获中国证监会备案",
-      "link": "https://36kr.com/newsflashes/3919370364890497?f=rss",
-      "snippet": "36氪获悉，中国证监会国际合作司发布关于维达力科技股份有限公司境外发行上市及境内未上市股份“全流通”备案通知书，公司拟发行不超过220,164,400股境外上市普通股并在香港联合交易所上市。公司17名股东拟将所持合计765,789,470股境内未上市股份转为境外上市股份，并在香港联合交易所上市流通。",
-      "pubDate": "2026-07-31 17:59:40  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "1/8 参数，跑赢 80B 大模型：Boogu-Image 是黑马还是鸡肋？",
+      "link": "https://www.leiphone.com/category/industrynews/mjR1R5Z1wgosxBg7.html",
+      "snippet": "(雷峰网) 摘要：“跑分反超只是开胃菜，生产级交付才是真考场。” 2026 年 6 月，HuggingFace 上一个名为 Boogu-Image-0.1 的开源模型，在上传以后迅速引爆了 AI 圈。 这款模型最引人注目的地方，在于它以区区 10B 的参数规模，就在多项关键能力上超过了很多参数量更大",
+      "pubDate": "Fri, 31 Jul 2026 18:01:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
-      "category": "商业",
+      "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
       "tags": [
-        "商业融资",
-        "AI应用"
+        "开源工具",
+        "大模型"
       ]
     },
     {
-      "id": "MzZrci1haTpodHRw",
-      "title": "富瀚微：预计上半年净利润同比增长1072.72%-1420.19%",
-      "link": "https://36kr.com/newsflashes/3919377437093253?f=rss",
-      "snippet": "36氪获悉，富瀚微公告，预计2026年半年度实现归属于上市公司股东的净利润为2.7亿元-3.5亿元，同比增长1072.72%-1420.19%。业绩变动主要系2026年上半年全球电子业原材料价格上涨，公司上调产品价格，同时三大业务板块销售数量大幅增长，形成量价齐升局面，新产品AI-ISP芯片市场反馈",
-      "pubDate": "2026-07-31 17:56:54  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "刚刚，DeepSeek V4 系列更新，架构没变，Agent 能力为何大涨",
+      "link": "https://www.leiphone.com/category/ai/EBSerg3DFtWmMap4.html",
+      "snippet": "后训练正成为大模型能力提升的新变量。          作者丨郑佳美      编辑丨马晓宁",
+      "pubDate": "Fri, 31 Jul 2026 17:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
-      "category": "商业",
+      "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:13.448Z",
       "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "科技巨头AI投资狂潮，总投入突破1万亿美元",
-      "link": "https://36kr.com/newsflashes/3919364699090568?f=rss",
-      "snippet": "自三年半前各大企业开启AI主导权争夺战以来，四大超大规模云服务商累计资本投入已突破1万亿美元。美国头部科技巨头正押注人工智能，将自身未来发展全系于这项技术之上。根据四家企业近两周披露的财报，从2023年AI产业热潮兴起至今年6月末，谷歌、亚马逊、微软、Meta合计资本开支高达1.1万亿美元。（新浪财",
-      "pubDate": "2026-07-31 17:55:49  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国家广播电视总局：微短剧按照投资额度、题材等分为一类微短剧、二类微短剧和三类微短剧",
-      "link": "https://36kr.com/newsflashes/3919374086548870?f=rss",
-      "snippet": "36氪获悉，《微短剧发展管理办法》已经2026年7月27日国家广播电视总局局务会审议通过，现予公布，自2026年9月1日起施行。其中提出，微短剧按照投资额度、题材等分为一类微短剧、二类微短剧和三类微短剧，分类实行备案公示和发行许可制度。一类微短剧是指投资额度较大或者主要剧情涉及政治、军事、外交、国家",
-      "pubDate": "2026-07-31 17:53:29  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "《微短剧发展管理办法》公布，9月1日起施行",
-      "link": "https://36kr.com/newsflashes/3919372823899528?f=rss",
-      "snippet": "36氪获悉，《微短剧发展管理办法》已经2026年7月27日国家广播电视总局局务会审议通过，现予公布，自2026年9月1日起施行。其中提出，拍摄、制作完成的一类微短剧和二类微短剧在播出前应当向省、自治区、直辖市以上人民政府广播电视主管部门申请内容审核和发行许可。审核通过的一类微短剧，由省、自治区、直辖",
-      "pubDate": "2026-07-31 17:52:12  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "Prada集团上半年营收增长16%，Miu Miu增速显著放缓",
-      "link": "https://36kr.com/newsflashes/3919353263910536?f=rss",
-      "snippet": "2026年上半年，Prada集团营收按固定汇率计同比增长16%至30.48亿欧元（约合人民币237亿元），有机增长5%，其中第二季度增长7%。分品牌看，上半年Prada零售额同比增长3%，其中第二季度增速提升至6%，主要由可比口径增长及全价销售驱动。Miu Miu零售额同比增长3%，第二季度和第一季",
-      "pubDate": "2026-07-31 17:51:08  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "7月收官，股票ETF单月净流入或超5400亿创历史新高",
-      "link": "https://36kr.com/newsflashes/3919352645168777?f=rss",
-      "snippet": "7月行情结束，ETF的净流入创下历史新高。虽然7月31日最后一个交易日的净流入额尚待公布，但截至7月30日，股票ETF的月净流入已达5022.12亿元，创下月度净流入新高，上一个峰值出现在2025年4月，彼时股票ETF净流入1835.07亿元；此外，全部ETF在7月净流入额达5177.2亿元。今日，",
-      "pubDate": "2026-07-31 17:47:38  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "美团-W遭南向资金净卖出6.36亿港元",
-      "link": "https://36kr.com/newsflashes/3919368121970313?f=rss",
-      "snippet": "南向资金今日净卖出4.81亿港元。其中，美团-W、长飞光纤光缆分别遭净卖出6.36亿港元、2.16亿港元。小米集团-W获净买入约17.16亿港元。（第一财经）",
-      "pubDate": "2026-07-31 17:47:25  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "第12批药品集采首轮报价结束，265家企业拟中选",
-      "link": "https://36kr.com/newsflashes/3919352129121921?f=rss",
-      "snippet": "7月31日16时，第12批国家组织药品集中带量采购产生首轮报价结果，共有265家企业直接获得拟中选资格。根据采购规则，首轮报价未中选的企业，有机会根据采购规则进行第二轮“复活”报价，以适宜价格供应临床。120家企业将于18时30分进行第二轮“复活”报价，预计19时30分将进行第二轮报价唱标。（新华社",
-      "pubDate": "2026-07-31 17:43:02  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "晶核能源入孵PNP宝马未来出行加速空间，成为平台唯一电池企业成员",
-      "link": "https://36kr.com/newsflashes/3919350078942600?f=rss",
-      "snippet": "36氪获悉，7月30日，晶核能源与璞跃中国（Plug and Play China）、沈汽集团签署入孵协议，成为未来出行加速空间唯一电池企业成员。该平台由沈汽集团联合宝马集团、璞跃中国共同打造，聚焦智能网联、新能源等方向。入孵后，晶核能源将优先共享璞跃与宝马的全球投资资源及业务合作机会。",
-      "pubDate": "2026-07-31 17:40:02  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "商业融资"
+        "大模型"
       ]
     },
     {
@@ -389,10 +644,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-07-31T10:40:22.468Z",
+      "fetchedAt": "2026-07-31T14:09:07.111Z",
       "tags": [
         "开源工具",
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Nous Research Ships Three Integration Paths for Hermes Agent and Buzz, Block’s Open Source Nostr Workspace for Humans and Agents",
+      "link": "https://www.marktechpost.com/2026/07/31/nous-research-ships-three-integration-paths-for-hermes-agent-and-buzz-blocks-open-source-nostr-workspace-for-humans-and-agents/",
+      "snippet": "Nous Research has released Hermes Agent support for Buzz, Block's open source, self-hostable Nostr workspace where humans and AI agents share the same",
+      "pubDate": "Fri, 31 Jul 2026 09:08:13 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-07-31T14:09:16.538Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -406,7 +677,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-31T10:40:28.800Z",
+      "fetchedAt": "2026-07-31T14:09:14.252Z",
       "tags": [
         "政策监管"
       ]
@@ -422,7 +693,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "AI应用"
       ]
@@ -438,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-07-31T10:40:22.468Z",
+      "fetchedAt": "2026-07-31T14:09:07.111Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +725,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -471,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-07-31T10:40:22.468Z",
+      "fetchedAt": "2026-07-31T14:09:07.111Z",
       "tags": [
         "综合"
       ]
@@ -487,7 +758,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "商业融资"
       ]
@@ -503,7 +774,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
+      "fetchedAt": "2026-07-31T14:09:09.525Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -520,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-07-31T10:40:22.468Z",
+      "fetchedAt": "2026-07-31T14:09:07.111Z",
       "tags": [
         "商业融资"
       ]
@@ -536,285 +807,10 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-31T10:40:30.441Z",
+      "fetchedAt": "2026-07-31T14:09:15.545Z",
       "tags": [
         "大模型",
         "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "姚顺雨拿50年数学难题成绩单，招人了",
-      "link": "https://www.qbitai.com/2026/07/464100.html",
-      "snippet": "AI for Science方向",
-      "pubDate": "Fri, 31 Jul 2026 06:54:57 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "一水",
-      "fetchedAt": "2026-07-31T10:40:22.468Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "长音频不丢词，行业词不用教，阿里发布Qwen-Audio-3.0-ASR-Flash",
-      "link": "https://www.leiphone.com/category/industrynews/0sUqr4wznpl7puTj.html",
-      "snippet": "7月31日，阿里巴巴发布语音识别大模型Qwen-Audio-3.0-ASR-Flash，在上下文一致性、行业词识别和热词定制化三个维度系统性升级，同时具备语音润色能力，可直接输出结构化文本。 目前，Qwen-Audio-ASR系列已在会议纪要整理、实时字幕、教育录播、智能客服等场景中获得广泛验证，离",
-      "pubDate": "Fri, 31 Jul 2026 14:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:27.654Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "学习强国做了个AI社区，两周铺进68座城市",
-      "link": "https://www.qbitai.com/2026/07/463727.html",
-      "snippet": "",
-      "pubDate": "Fri, 31 Jul 2026 06:47:00 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-07-31T10:40:22.468Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "千问已在特斯拉车机内测",
-      "link": "https://www.leiphone.com/category/industrynews/lKIeFLWL3hTwaMLd.html",
-      "snippet": "据媒体信息，豆包大模型助手已接入部分特斯拉新车中。不过，多位知情人士向记者透露，千问也早已进入特斯拉中国车机的深度测试阶段，上车在即。 结合上述知情人士的信息，千问目前已经在特斯拉真实车机环境下完成大量的上车测试工作，“能听能答、能控车、能导航、能办事，都已经在计划内”，未来，千问在特斯拉车机上能提",
-      "pubDate": "Fri, 31 Jul 2026 14:41:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:27.654Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
-      "link": "https://36kr.com/p/3919137999957382?f=rss",
-      "snippet": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。 分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上",
-      "pubDate": "2026-07-31 14:00:25  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "对话 EgoScale 创始人：能赚钱的 Ego 数据公司不超过五家，我是其中之一",
-      "link": "https://www.leiphone.com/category/robot/h85RAVbugUercz2U.html",
-      "snippet": "卷数据规模，可能是行业最大的误区。          作者丨向  欣      编辑丨高景辉",
-      "pubDate": "Fri, 31 Jul 2026 13:56:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:27.654Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "字节跳动发布 Seedance 2.5，徐工、小鹏等企业官宣合作",
-      "link": "https://www.leiphone.com/category/industrynews/FMW8XVv6xVkpqzGT.html",
-      "snippet": "7 月31日，字节跳动正式发布新一代视频生成模型 Seedance 2.5。该模型在生成时长、多模态理解、编辑精度等维度实现全面升级，目前已上线豆包、即梦、扣子、小云雀等字节旗下产品，并将于近期通过火山引擎面向企业用户开放。 相较年初发布的Seedance 2.0，Seedance 2.5 在四大核",
-      "pubDate": "Fri, 31 Jul 2026 13:13:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:27.654Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "200个任务、1700万帧！大晓ACE-Data-0把真实家庭场景变成物理智能「数据引擎」",
-      "link": "https://www.leiphone.com/category/ai/KVck4bU07Fp4MMu8.html",
-      "snippet": "近日，基于全球首创的具身模型信息密度定律与以人为中心的环境式数据采集方案2.0，并依托环境式采集引擎ACE，大晓机器人联合南洋理工大学 S-Lab 重磅开源 L5 级多模态具身物理智能数据集 ACE-Data-0。通过对真实物理交互、长程任务过程与多模态因果信号的高保真采集和高精度标注，ACE-Da",
-      "pubDate": "Fri, 31 Jul 2026 12:08:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:27.654Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "GPT-5.6今起大降价，最大幅度80%！",
-      "link": "https://www.qbitai.com/2026/07/463640.html",
-      "snippet": "Luna打骨折",
-      "pubDate": "Fri, 31 Jul 2026 03:01:21 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-07-31T10:40:22.468Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "谁在训练 Kimi K3 ? 深挖贡献者名单，这有一份最全档案",
-      "link": "https://www.leiphone.com/category/yanxishe/ttnVYVYTZknBAiVR.html",
-      "snippet": "起底 K3 背后核心极客天团，人均扛起 7 亿估值！          作者丨高允毅  樊天骄      编辑丨马晓宁",
-      "pubDate": "Fri, 31 Jul 2026 10:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:27.654Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "菜鸟CTO李强创业做Physical AI平台，获云启、商汤超亿元种子轮融资｜硬氪首发",
-      "link": "https://36kr.com/p/3917874427555457?f=rss",
-      "snippet": "作者｜黄楠 编辑｜袁斯来 硬氪获悉，Physical AI平台公司「昆腾动力（Quantum Dynamics）」近日完成超亿元种子轮融资，本轮由云启资本、商汤科技联合投资。资金将主要用于Physical AI核心技术研发、人才梯队建设及全球化市场拓展，加速其面向物理世界的智能系统从底层模型到场景化",
-      "pubDate": "2026-07-31 09:52:24  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic says its own AI models breached three companies during security tests",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "snippet": "After OpenAI's models broke into Hugging Face, Anthropic checked its own history and found three similar incidents",
-      "pubDate": "Fri, 31 Jul 2026 01:06:54 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-07-31T10:40:28.000Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "8月10日申购！宇树科技171名员工掏2.7亿认购IPO，王兴兴自掏1500万；字节成立新的豆包产品团队；初代员工可得15万！影视飓风发全员激励金",
-      "link": "https://www.leiphone.com/category/zaobao/YzTyGcv2y8Zuau6I.html",
-      "snippet": "要闻提示      1.1.5万机票仅退400多元，携程“天价退票费”最新进展：全额退还 2.8月10日申购！宇树科技171名员工掏2.7亿认购IPO，王兴兴自掏1500万 3.字节跳动To B战略升级：豆包、飞书、火山引擎组织调整，聚焦AI企业服务 4.市占约七成！大疆连续近3年稳居日本数码摄像机",
-      "pubDate": "Fri, 31 Jul 2026 09:04:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:27.654Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "中层消失，Token狂热退潮，硅谷工程师眼里的「AI创业下半场」",
-      "link": "https://36kr.com/p/3918250549931394?f=rss",
-      "snippet": "所有人都在尝试建立关于AI的判断，但所有共识都在迅速过期。      访谈 | 巴芮 海风 文 | 海风 刘思洁 编辑 | 刘思洁 封面图源 | 受访者拍摄  “野蛮生长的阶段已经过去了。” 这是身处硅谷AI创业一线的马培元最近最深的感受。 2021年12月，本科毕业后，他进入号称“美版知乎”的Qu",
-      "pubDate": "2026-07-31 08:30:54  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
-      "link": "https://36kr.com/p/3918776472022402?f=rss",
-      "snippet": "今日热点导览 韩股创纪录的重挫，全球投资者却未进场抄底 月之暗面变更为股份公司 国内品牌金饰价格集体上涨 高通9月1日起上调芯片价格，涨幅达到两位数 特斯拉全球第1000万辆电动车下线 TOP3大新闻 宇树科技：初步询价日为8月5日，网下申购日为8月10日 7月30日，宇树科技公告，公司首次公开发行",
-      "pubDate": "2026-07-31 07:48:40  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T10:40:24.305Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "snippet": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-      "pubDate": "Thu, 30 Jul 2026 23:25:58 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-31T10:40:28.000Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Reddit reports a solid quarter but shows signs of AI’s impact",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "snippet": "Reddit's financial situation is looking good but uncertainty about its relationship to Google and the new AI-ified web are stirring market concerns.",
-      "pubDate": "Thu, 30 Jul 2026 23:08:58 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-31T10:40:28.000Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
