@@ -1,60 +1,385 @@
 {
-  "generatedAt": "2026-07-31T02:58:10.386Z",
+  "generatedAt": "2026-07-31T06:54:39.503Z",
   "stats": {
-    "total": 137,
+    "total": 127,
     "shown": 50,
     "chinese": 60,
-    "english": 77,
-    "today": 24
+    "english": 67,
+    "today": 27
   },
   "articles": [
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "国家发改委：近期正在会同有关部门抓紧研究制定扩大内需战略实施方案（2026-2030年）",
-      "link": "https://36kr.com/newsflashes/3918960265620873?f=rss",
-      "snippet": "国家发展改革委国民经济综合司副司长周宏伟在新闻发布会上表示，近期，我委正在会同有关部门抓紧研究制定扩大内需战略实施方案（2026-2030年）。下一步，国家发展改革委将会同有关部门，以更大力度、更实举措有效扩大国内需求。（证券时报）",
-      "pubDate": "2026-07-31 10:52:32  +0800",
+      "title": "国开行上半年农业贷款发放量同比增长111%",
+      "link": "https://36kr.com/newsflashes/3919172206488965?f=rss",
+      "snippet": "从国家开发银行获悉，今年上半年，国开行聚焦高标准农田、现代设施农业、农业新质生产力和垦区发展等重点领域，发放农业贷款259亿元，同比增长111%，支持提升农业综合生产能力和质量效益。（新华社）",
+      "pubDate": "2026-07-31 14:28:07  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "千问已在特斯拉车机内测",
+      "link": "https://36kr.com/newsflashes/3919163762798213?f=rss",
+      "snippet": "36氪获悉，千问已进入特斯拉中国车机的深度测试阶段，上车在即。千问目前已经在特斯拉真实车机环境下完成大量的上车测试工作，“能听能答、能控车、能导航、能办事，都已经在计划内”。2026北京车展上，国内头部车企已经宣布纷纷接入千问，从披露的技术路线来看，千问上车至少具备三层能力：一是复杂语义与多任务路径",
+      "pubDate": "2026-07-31 14:19:32  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "浪潮数据发布自研AI数据操作系统",
+      "link": "https://36kr.com/newsflashes/3919160420609671?f=rss",
+      "snippet": "36氪获悉，浪潮数据正式官宣企业战略全面升级，从传统云计算、分布式存储服务商升级为AI基础设施服务商，并正式发布自研AI数据操作系统。该系统是管理算力、算法、数据三位一体资源的系统软件。采用“数据底座+算力引擎”双架构设计，具备创新数控分离架构、无锁协程调度框架、全闪原生布局算法等技术以及拥有全时全",
+      "pubDate": "2026-07-31 14:16:08  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "国家发改委：有关机构测算“十五五”时期算力网建设将新增直接投资4万亿元",
-      "link": "https://36kr.com/newsflashes/3918951167651461?f=rss",
-      "snippet": "国家发展改革委政策研究室主任、新闻发言人蒋毅在新闻发布会上表示，有关机构测算，“十五五”时期算力网建设将新增直接投资4万亿元，考虑到算力建设以企业投资为主，这将为民间投资创造巨大空间，我们将加强规划引导、要素保障等工作，为民间投资营造良好环境。（证券时报）",
-      "pubDate": "2026-07-31 10:43:16  +0800",
+      "title": "DeepSeek：DeepSeek-V4-Pro正式版将会尽快发布",
+      "link": "https://36kr.com/newsflashes/3919148874345861?f=rss",
+      "snippet": "36氪获悉，DeepSeek发布更新日志，DeepSeek-V4-Flash正式版API上线公测。DeepSeek-V4-Flash-0731的模型结构、尺寸和DeepSeek-V4-Flash-preview保持一致，仅重新进行了后训练。DeepSeek-V4-Pro正式版将会尽快发布。",
+      "pubDate": "2026-07-31 14:04:23  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
       "tags": [
-        "商业融资",
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "滴普科技首份半年报：AI业务收入增长209%，二季度已实现盈利",
+      "link": "https://36kr.com/p/3919137999957382?f=rss",
+      "snippet": "AI在企业端的快速渗透正在被持续验证。 7月30日，企业级大模型AI应用解决方案商滴普科技发布上市后的首份中期业绩。2026年上半年，公司实现营业收入2.84亿元，同比增长115.0%。 分业务来看，与AI应用直接相关的“DeepexiOS AI级企业操作系统平台解决方案”成为核心增长引擎。该业务上",
+      "pubDate": "2026-07-31 14:00:25  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "村田上调业绩预期，表明人工智能零部件需求旺盛",
+      "link": "https://36kr.com/newsflashes/3919137549397381?f=rss",
+      "snippet": "日本村田制作所上调盈利预期，凸显全球科技产业扩张所需的高端人工智能零部件需求强劲。这家总部位于京都的企业称，目前预计全年营业利润达4300亿日元（折合27亿美元），此前预期为3800亿日元。4至6月季度营业利润为985亿日元，高于分析师平均预期的906亿日元。（新浪财经）",
+      "pubDate": "2026-07-31 13:52:52  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "沪深两市成交额突破2万亿",
+      "link": "https://36kr.com/newsflashes/3919125432151432?f=rss",
+      "snippet": "36氪获悉，沪深两市成交额突破2万亿，较上日此时放量近2300亿。",
+      "pubDate": "2026-07-31 13:40:33  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "韩国KOSPI指数上涨18%",
+      "link": "https://36kr.com/newsflashes/3919117266808454?f=rss",
+      "snippet": "36氪获悉，韩国KOSPI指数站上6600点，日内涨18%。",
+      "pubDate": "2026-07-31 13:32:14  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "SK海力士股价在首尔涨幅扩大至30%，触及涨停",
+      "link": "https://36kr.com/newsflashes/3919103313423750?f=rss",
+      "snippet": "36氪获悉，SK海力士股价在首尔涨幅扩大至30%，触及涨停。",
+      "pubDate": "2026-07-31 13:18:03  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "南向资金净买入额达30亿港元",
+      "link": "https://36kr.com/newsflashes/3919100708155010?f=rss",
+      "snippet": "36氪获悉，南向资金净买入额达30亿港元。",
+      "pubDate": "2026-07-31 13:15:24  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "顺络电子：公司已实现多种工艺制作的AI电感产品量产出货",
+      "link": "https://36kr.com/newsflashes/3919088834162054?f=rss",
+      "snippet": "36氪获悉，顺络电子7月30日在业绩说明会上表示，公司AI电感主要为应用于AI服务器中GPU、CPU、ASIC芯片等各类xPU供电的电感产品，目前公司已实现多种工艺（组装/铜磁共烧/模压）制作的AI电感产品量产出货，与此同时，在AI电感的TLVR结构迭代趋势下，公司已在多位头部功率模块客户及终端云厂",
+      "pubDate": "2026-07-31 13:03:19  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
         "AI应用"
       ]
     },
     {
       "id": "MzZrci1haTpodHRw",
-      "title": "韩国拟向主权财富基金注资约140亿美元，对AI和数据中心进行战略投资",
-      "link": "https://36kr.com/newsflashes/3918947862392452?f=rss",
-      "snippet": "韩国政府7月31日宣布，计划向主权财富基金注入20万亿韩元（139亿美元），用于对人工智能、数据中心和基础设施进行战略投资。韩国政府将在韩国投资公司内设立一个战略投资账户，初始规模至少为20万亿韩元。资金来源将包括政策性银行等公共机构的出资。韩国政府表示，凭借韩国在构建AI生态系统方面的核心竞争力，",
-      "pubDate": "2026-07-31 10:39:55  +0800",
+      "title": "易点天下在海南成立网络科技公司，注册资本1.4亿元",
+      "link": "https://36kr.com/newsflashes/3919040366947715?f=rss",
+      "snippet": "36氪获悉，企查查App显示，近日，易点天下（海南）网络科技有限公司成立，法定代表人为刘庆文，注册资本为1.4亿元，经营范围包含：广告发布；广告设计、代理；广告制作；软件开发；销售代理；软件外包服务等。企查查股权穿透显示，该公司由易点天下间接全资持股。",
+      "pubDate": "2026-07-31 12:56:26  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "字节跳动发布视频创作模型Seedance 2.5",
+      "link": "https://36kr.com/newsflashes/3919079681715588?f=rss",
+      "snippet": "36氪获悉，字节跳动宣布正式发布新一代视频创作模型Seedance 2.5。Seedance 2.5正在陆续上线即梦AI、豆包专业版等平台，API服务也将在近期上线火山方舟。从火山引擎获悉，Seedance 2.5发布当日，徐工集团、小鹏汽车、灵初智能、微分智飞、穹彻智能等多家企业已确认合作，将率先",
+      "pubDate": "2026-07-31 12:54:00  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "全球芯片LOF：7月31日下午开市起停牌至当日收市",
+      "link": "https://36kr.com/newsflashes/3919071375306116?f=rss",
+      "snippet": "36氪获悉，景顺长城基金管理有限公司公告，全球芯片LOF（501225）二级市场交易价格明显高于基金份额净值，出现较大幅度溢价。为保护投资者利益，基金将于2026年7月31日下午开市起停牌至当日收市，停牌期间本基金赎回业务照常办理。",
+      "pubDate": "2026-07-31 12:45:33  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "印尼央行重申关注印尼盾和通胀",
+      "link": "https://36kr.com/newsflashes/3919063724371335?f=rss",
+      "snippet": "印尼当地新闻媒体Detik援引央行代理行长Destry Damayanti周五在线上编辑简报会的讲话报道称，央行继续通过现汇、NDF和DNDF等方式参与市场。印尼央行将指导相关政策，以吸引资金流入并加强与政府的协调，从而控制通货膨胀。据报道，她表示，政策立场保持不变，与之前的立场相同，印尼央行将继续",
+      "pubDate": "2026-07-31 12:37:46  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "495家企业投标第12批国家组织药品集采",
+      "link": "https://36kr.com/newsflashes/3919056801328769?f=rss",
+      "snippet": "7月31日10时30分，第12批国家组织药品集中带量采购企业递交报价材料结束，共有495家企业的859个产品投标。现场进入唱标环节。此前，医保部门已成功开展11批国家组织药品集中带量采购，已累计采购490种药品，800多家企业的2500多个产品中选，质优价宜的国家集采药广泛覆盖临床常用治疗领域。（央",
+      "pubDate": "2026-07-31 12:30:44  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "机构：2026年第二季度全球智能手机出货量同比下降6%",
+      "link": "https://36kr.com/newsflashes/3919030071029378?f=rss",
+      "snippet": "36氪获悉，根据Omdia最新发布的数据，2026年第二季度全球智能手机出货量同比下降6%，降至2.72亿部。 此前，2026年第一季度受提前备货需求带动，市场表现较强，而第二季度则进入存储器成本周期的调整阶段。持续高企的存储价格扰乱了供应，推高了元器件成本，迫使厂商重新思考定价策略、产品组合和渠道",
+      "pubDate": "2026-07-31 12:10:29  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "200个任务、1700万帧！大晓ACE-Data-0把真实家庭场景变成物理智能「数据引擎」",
+      "link": "https://www.leiphone.com/category/ai/KVck4bU07Fp4MMu8.html",
+      "snippet": "近日，基于全球首创的具身模型信息密度定律与以人为中心的环境式数据采集方案2.0，并依托环境式采集引擎ACE，大晓机器人联合南洋理工大学 S-Lab 重磅开源 L5 级多模态具身物理智能数据集 ACE-Data-0。通过对真实物理交互、长程任务过程与多模态因果信号的高保真采集和高精度标注，ACE-Da",
+      "pubDate": "Fri, 31 Jul 2026 12:08:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:46.176Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "恒指午间休盘跌0.11%，恒生科技指数涨0.7%",
+      "link": "https://36kr.com/newsflashes/3919028261907846?f=rss",
+      "snippet": "36氪获悉，恒指午间休盘跌0.11%，恒生科技指数涨0.7%；半导体、硬件设备、机械板块领涨，兆易创新涨超14%，剑桥科技涨超12%，潍柴动力涨超7%；食品饮料、石油石化、电信服务板块跌幅居前，现代牧业跌超4%，山东墨龙跌超3%，中国移动跌超1%；南向资金净买入24.59亿港元。",
+      "pubDate": "2026-07-31 12:01:42  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "半日主力资金加仓电子、计算机股",
+      "link": "https://36kr.com/newsflashes/3919008618851715?f=rss",
+      "snippet": "主力资金早间净流入电子、计算机、传媒、机械设备、通信、有色金属、电力设备等板块，净流出银行板块。具体到个股来看，兆易创新、东山精密、蓝色光标获净流入53.16亿元、45.90亿元、30.63亿元。净流出方面，C长鑫、国瓷材料、宁德时代遭抛售24.76亿元、16.35亿元、15.48亿元。（第一财经）",
+      "pubDate": "2026-07-31 11:47:40  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "Anthropic称AI模型在测试期间误侵三家真实机构系统",
+      "link": "https://36kr.com/newsflashes/3919008047132294?f=rss",
+      "snippet": "当地时间7月30日，人工智能公司Anthropic发布报告称，在OpenAI此前披露其模型突破隔离环境侵入Hugging Face基础设施后，公司开展了大规模内部自查。审查发现，在对Claude系列模型进行网络安全评估时，因与合作方存在配置误解，本应隔离的环境连通了互联网。模型将真实网络误认为虚拟考",
+      "pubDate": "2026-07-31 11:41:08  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "政策监管",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "乐道L90上市一周年累计交付超6万台",
+      "link": "https://36kr.com/newsflashes/3919007028555392?f=rss",
+      "snippet": "36氪获悉，7月31日，乐道L90上市一周年，累计交付突破60000台。",
+      "pubDate": "2026-07-31 11:40:06  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "GPT-5.6今起大降价，最大幅度80%！",
+      "link": "https://www.qbitai.com/2026/07/463640.html",
+      "snippet": "Luna打骨折",
+      "pubDate": "Fri, 31 Jul 2026 03:01:21 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "听雨",
+      "fetchedAt": "2026-07-31T06:44:40.736Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -68,138 +393,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:37.656Z",
+      "fetchedAt": "2026-07-31T06:44:46.176Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "小米已成功注册澎程商标",
-      "link": "https://36kr.com/newsflashes/3918942803029641?f=rss",
-      "snippet": "36氪获悉，天眼查知识产权信息显示，小米科技有限责任公司已申请注册多枚“SKYNOMAD”“澎程”商标，国际分类涉及运输工具、机械设备、通讯服务等，目前部分商标已成功注册。",
-      "pubDate": "2026-07-31 10:34:46  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "发改委：上半年现代化水网建设吸引民间资本超过108亿元",
-      "link": "https://36kr.com/newsflashes/3918933595156098?f=rss",
-      "snippet": "7月31日，国家发展改革委政策研究室主任、新闻发言人蒋毅在新闻发布会上表示，上半年现代化水网建设吸引民间资本超过108亿元，同比增长85.8%。后续，国家发展改革委还将推出一批经营收益稳定的项目，吸引民营企业参与。在算力网建设方面，也将加强规划引导和要素保障工作，为民间投资营造良好环境。（证券时报）",
-      "pubDate": "2026-07-31 10:25:24  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "AI应用",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国家发展改革委：共建“一带一路”投资合作向高科技等领域延伸",
-      "link": "https://36kr.com/newsflashes/3918925412773504?f=rss",
-      "snippet": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年上半年，共建“一带一路”取得扎实进展，共建“一带一路”投资合作持续向高科技、绿色低碳等领域延伸。国家发展改革委政策研究室主任、新闻发言人蒋毅介绍，经贸合作方面，与共建国家货物进出口总额达到12.97万亿元、同比增长14.",
-      "pubDate": "2026-07-31 10:17:04  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "今年7550亿元中央预算内投资已基本下达完毕",
-      "link": "https://36kr.com/newsflashes/3918920342843010?f=rss",
-      "snippet": "在今天举行的国家发展改革委7月份新闻发布会上，国家发展改革委新闻发言人表示，今年7550亿元中央预算内投资已基本下达完毕。（央视新闻）",
-      "pubDate": "2026-07-31 10:11:55  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "8月1日起，涉及脑机接口等488项国家标准将实施",
-      "link": "https://36kr.com/newsflashes/3918917508624004?f=rss",
-      "snippet": "8月1日起，488项国家标准开始实施，包括46项强制性国家标准和442项推荐性国家标准。其中，相关产品能源消耗限额、黄河流域用水定额、家用太阳能热水系统、脑机接口、数字孪生、北斗应用、光伏发电系统、绿色产品评价、旅游服务等重要国家标准，将为引领和规范新兴产业及未来产业的发展、促进环境保护和绿色发展、",
-      "pubDate": "2026-07-31 10:09:02  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "“十五五”规划109项重大工程加快实施",
-      "link": "https://36kr.com/newsflashes/3918915851431552?f=rss",
-      "snippet": "今天上午，国家发展改革委举行7月份新闻发布会。国家发展改革委新闻发言人表示，当前，“十五五”规划109项重大工程加快实施。今年新开工了三峡水运新通道、广州新机场、福建上白石水利枢纽等一批重大工程项目，新藏铁路东西路段、四川都江堰灌区现代化改造等项目前期工作正在加快推进，争取尽早开工建设、形成实物工作",
-      "pubDate": "2026-07-31 10:07:21  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国家发展改革委召开上半年发展改革形势通报会",
-      "link": "https://36kr.com/newsflashes/3918915182194053?f=rss",
-      "snippet": "36氪获悉，7月30日，国家发展改革委召开2026年上半年发展改革形势通报会。会议强调，抓好“十五五”规划部署落实，宏观政策要发力提效，加大逆周期调节力度，充分发挥各项存量政策效能，及时谋划出台务实管用的增量政策，强化宏观政策取向一致性。有效扩大国内需求，促进投资止跌回稳，协同推进109项重大工程和",
-      "pubDate": "2026-07-31 10:06:40  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "沪深两市成交额突破1万亿元",
-      "link": "https://36kr.com/newsflashes/3918910696598916?f=rss",
-      "snippet": "36氪获悉，沪深两市成交额突破1万亿元，较上一个交易日此时放量近3000亿元。",
-      "pubDate": "2026-07-31 10:02:06  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -213,151 +409,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "创业板指涨超6%",
-      "link": "https://36kr.com/newsflashes/3918897678069383?f=rss",
-      "snippet": "36氪获悉，创业板指涨超6%，沪指涨超1%，深成指涨近4%，科创50涨近8%；芯片、算力硬件等方向领涨，沪深京三市上涨个股超4500只。",
-      "pubDate": "2026-07-31 09:48:52  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国家统计局：7月份非制造业商务活动指数为49.0%",
-      "link": "https://36kr.com/newsflashes/3918891528252808?f=rss",
-      "snippet": "36氪获悉，据国家统计局，7月份，非制造业商务活动指数为49.0%，比上月下降1.2个百分点，非制造业景气水平较上月下降。7月份，综合PMI产出指数为49.3%，比上月下降1.3个百分点，表明我国企业生产经营活动较上月放缓。",
-      "pubDate": "2026-07-31 09:42:36  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "长鑫科技市值突破4万亿",
-      "link": "https://36kr.com/newsflashes/3918883642158472?f=rss",
-      "snippet": "36氪获悉，长鑫科技股价冲高，盘中涨超13%，总市值突破4万亿。",
-      "pubDate": "2026-07-31 09:34:35  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国家统计局：7月份制造业采购经理指数（PMI）为49.2%",
-      "link": "https://36kr.com/newsflashes/3918880849030792?f=rss",
-      "snippet": "36氪获悉，据国家统计局，7月份，制造业采购经理指数（PMI）为49.2%，比上月下降1.1个百分点，景气水平有所回落。",
-      "pubDate": "2026-07-31 09:31:44  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "A股三大指数集体高开，半导体板块大涨",
-      "link": "https://36kr.com/newsflashes/3918876377148808?f=rss",
-      "snippet": "36氪获悉，A股三大指数集体高开，沪指高开0.76%，深成指高开3.04%，创业板指高开5.15%；通信设备、半导体、电脑硬件板块领涨，源杰科技涨超16%，仕佳光子涨超14%，江波龙涨超13%；白酒、汽车、油气股跌幅居前，皇台酒业、泰山石油、北汽蓝谷跌超4%。",
-      "pubDate": "2026-07-31 09:27:12  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "恒指开盘跌0.08%，恒生科技指数涨0.3%",
-      "link": "https://36kr.com/newsflashes/3918871758417536?f=rss",
-      "snippet": "36氪获悉，恒指开盘跌0.08%，恒生科技指数涨0.3%；半导体、硬件设备板块领涨，中际旭创涨15%，华虹宏力涨超14%；消费、汽车板块跌幅居前，理想汽车跌超2%，泡泡玛特跌超1%。",
-      "pubDate": "2026-07-31 09:22:30  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "MiniMax H3正式发布",
-      "link": "https://36kr.com/newsflashes/3918865590677126?f=rss",
-      "snippet": "36氪获悉，MiniMax宣布正式发布MiniMax H3。据介绍，这是一款通用的全模态生成模型，支持对文本、图像、视频、声音组成的多模态上下文的统一理解能力、能够输出具备原生双声道的音视频，最高可支持15s 2K分辨率。MiniMax表示，计划在未来几天内，在符合相关法律法规的前提下，开放模型权重",
-      "pubDate": "2026-07-31 09:16:13  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "扩建算力数据中心后，智谱GLM Coding Plan开放订阅",
-      "link": "https://36kr.com/newsflashes/3918863627988358?f=rss",
-      "snippet": "7月31日，智谱宣布，随着基础设施持续扩容，面向开发者群体的付费订阅服务GLM Coding Plan开放订阅。此前因AI Coding需求爆发，用户需求增长，阶段性限制订阅名额。另据了解，智谱已落地1GW级国产AI算力数据中心建设，全部采用国产AI芯片，并持续投入算力基础设施建设。（第一财经）",
-      "pubDate": "2026-07-31 09:14:13  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "MSCI新兴市场股票指数飙升5%，创4月以来最大涨幅",
-      "link": "https://36kr.com/newsflashes/3918862232300929?f=rss",
-      "snippet": "36氪获悉，MSCI新兴市场股票指数飙升5%，创4月以来最大涨幅。",
-      "pubDate": "2026-07-31 09:12:48  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
       "tags": [
         "商业融资"
       ]
@@ -373,7 +425,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "开源工具"
       ]
@@ -389,7 +441,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
       "tags": [
         "商业融资"
       ]
@@ -405,7 +457,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
+      "fetchedAt": "2026-07-31T06:44:43.204Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -422,7 +474,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "学术研究"
       ]
@@ -438,7 +490,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +506,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +522,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:38.376Z",
+      "fetchedAt": "2026-07-31T06:44:46.701Z",
       "tags": [
         "AI应用"
       ]
@@ -486,7 +538,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:38.376Z",
+      "fetchedAt": "2026-07-31T06:44:46.701Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +554,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +570,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +586,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-07-31T02:53:39.838Z",
+      "fetchedAt": "2026-07-31T06:44:48.027Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +602,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lorenzo Franceschi-Bicchierai",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "综合"
       ]
@@ -566,7 +618,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:38.376Z",
+      "fetchedAt": "2026-07-31T06:44:46.701Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +634,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "综合"
       ]
@@ -598,23 +650,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-07-31T02:53:39.838Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
-      "link": "https://www.marktechpost.com/2026/07/30/google-deepmind-gemini-robotics-2-whole-body-control-dexterity-multi-robot-collaboration/",
-      "snippet": "Google DeepMind has released Gemini Robotics 2, the intelligence layer for its next generation of robots. The release ships three models: a vision-lan",
-      "pubDate": "Thu, 30 Jul 2026 17:20:50 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-07-31T02:53:42.706Z",
+      "fetchedAt": "2026-07-31T06:44:48.027Z",
       "tags": [
         "大模型"
       ]
@@ -630,7 +666,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:38.376Z",
+      "fetchedAt": "2026-07-31T06:44:46.701Z",
       "tags": [
         "大模型"
       ]
@@ -646,7 +682,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-07-31T02:53:38.716Z",
+      "fetchedAt": "2026-07-31T06:44:46.964Z",
       "tags": [
         "综合"
       ]
@@ -662,7 +698,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:37.656Z",
+      "fetchedAt": "2026-07-31T06:44:46.176Z",
       "tags": [
         "AI应用"
       ]
@@ -678,7 +714,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T02:53:38.376Z",
+      "fetchedAt": "2026-07-31T06:44:46.701Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -695,7 +731,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "商业融资"
       ]
@@ -711,7 +747,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "AI应用"
       ]
@@ -727,7 +763,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "商业融资"
       ]
@@ -743,7 +779,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "学术研究"
       ]
@@ -759,7 +795,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-07-31T02:53:39.838Z",
+      "fetchedAt": "2026-07-31T06:44:48.027Z",
       "tags": [
         "AI应用"
       ]
@@ -775,41 +811,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lorenzo Franceschi-Bicchierai",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
+      "fetchedAt": "2026-07-31T06:44:46.452Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-      "link": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-      "snippet": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-      "pubDate": "Thu, 30 Jul 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-07-31T02:53:38.003Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "氪星晚报 ｜国家统计局：2026年上半年全国规模以上文化及相关产业企业营业收入增长4.6%；OpenAI承认AI模型失控入侵事件涉及多个平台",
-      "link": "https://36kr.com/p/3917972674735747?f=rss",
-      "snippet": "大公司： 证监会同意沈鼓集团沪市主板IPO注册 36氪获悉，证监会同意沈鼓集团股份有限公司首次公开发行股票并在沪市主板上市的注册申请。 三星电子：已同全球五大数据中心客户签订合同 据报道，三星电子7月30日预测，明年存储芯片供不应求现象将进一步加剧，超大规模云服务商扩大对人工智能（AI）基础设施的投",
-      "pubDate": "2026-07-30 21:56:03  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T02:53:33.337Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
