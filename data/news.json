@@ -1,27 +1,60 @@
 {
-  "generatedAt": "2026-07-31T19:35:32.309Z",
+  "generatedAt": "2026-07-31T21:09:44.524Z",
   "stats": {
-    "total": 140,
+    "total": 130,
     "shown": 50,
     "chinese": 59,
-    "english": 81,
+    "english": 71,
     "today": 78
   },
   "articles": [
     {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Disrupting a Criminal Scam Operation",
-      "link": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-      "snippet": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Claude published malicious code to the Internet and attacked 3 real companies",
+      "link": "https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/",
+      "snippet": "Had the hacks used conventional methods, someone would likely go to prison.",
+      "pubDate": "Fri, 31 Jul 2026 20:39:14 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
       "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T19:26:44.543Z",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-07-31T21:05:11.624Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+      "snippet": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
+      "pubDate": "Fri, 31 Jul 2026 20:21:05 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-07-31T21:05:11.624Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "snippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-07-31T21:05:09.733Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
       ]
     },
     {
@@ -35,7 +68,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.959Z",
+      "fetchedAt": "2026-07-31T21:05:10.115Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -52,7 +85,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nate Anderson\n                ",
-      "fetchedAt": "2026-07-31T19:26:44.099Z",
+      "fetchedAt": "2026-07-31T21:05:11.624Z",
       "tags": [
         "商业融资"
       ]
@@ -68,7 +101,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-07-31T19:26:44.099Z",
+      "fetchedAt": "2026-07-31T21:05:11.624Z",
       "tags": [
         "政策监管"
       ]
@@ -84,7 +117,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-07-31T19:26:42.653Z",
+      "fetchedAt": "2026-07-31T21:05:09.733Z",
       "tags": [
         "综合"
       ]
@@ -93,14 +126,14 @@
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Here’s the problem with putting an AI image generator in Google Earth",
       "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-      "snippet": "Now a text prompt is all it takes to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery, like these images generat",
+      "snippet": "A text prompt was all it took to generate reality-warping images using Google Earth's satellite, aerial, and 3D imagery with a now-rolled back AI feat",
       "pubDate": "2026-07-31T17:05:46.000Z",
       "sourceName": "The Verge",
       "sourceId": "theverge-ai",
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.959Z",
+      "fetchedAt": "2026-07-31T21:05:10.115Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +149,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-07-31T19:26:42.653Z",
+      "fetchedAt": "2026-07-31T21:05:09.733Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +165,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.959Z",
+      "fetchedAt": "2026-07-31T21:05:10.115Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +181,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-07-31T19:26:42.653Z",
+      "fetchedAt": "2026-07-31T21:05:09.733Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +197,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +213,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-07-31T19:26:42.653Z",
+      "fetchedAt": "2026-07-31T21:05:09.733Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +229,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:44.543Z",
+      "fetchedAt": "2026-07-31T21:05:12.279Z",
       "tags": [
         "政策监管"
       ]
@@ -212,7 +245,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:44.543Z",
+      "fetchedAt": "2026-07-31T21:05:12.279Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +261,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-07-31T19:26:42.653Z",
+      "fetchedAt": "2026-07-31T21:05:09.733Z",
       "tags": [
         "商业融资"
       ]
@@ -244,7 +277,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.959Z",
+      "fetchedAt": "2026-07-31T21:05:10.115Z",
       "tags": [
         "开源工具"
       ]
@@ -260,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Andy Greenberg, wired.com\n                ",
-      "fetchedAt": "2026-07-31T19:26:44.099Z",
+      "fetchedAt": "2026-07-31T21:05:11.624Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +309,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec, Sean O'Kane, Anthony Ha, Theresa Loconsolo",
-      "fetchedAt": "2026-07-31T19:26:42.653Z",
+      "fetchedAt": "2026-07-31T21:05:09.733Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +325,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.959Z",
+      "fetchedAt": "2026-07-31T21:05:10.115Z",
       "tags": [
         "大模型"
       ]
@@ -308,7 +341,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "政策监管"
       ]
@@ -324,7 +357,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +373,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +389,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "政策监管"
       ]
@@ -372,7 +405,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +421,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +437,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "商业融资"
       ]
@@ -420,7 +453,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "商业融资"
       ]
@@ -436,7 +469,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "AI应用"
       ]
@@ -452,7 +485,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "商业融资"
       ]
@@ -468,7 +501,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-07-31T19:26:43.226Z",
+      "fetchedAt": "2026-07-31T21:05:10.481Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +517,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "商业融资"
       ]
@@ -500,7 +533,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "政策监管"
       ]
@@ -516,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.376Z",
+      "fetchedAt": "2026-07-31T21:05:09.400Z",
       "tags": [
         "开源工具"
       ]
@@ -532,7 +565,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "综合"
       ]
@@ -548,7 +581,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "综合"
       ]
@@ -564,7 +597,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "AI应用"
       ]
@@ -580,7 +613,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "AI应用"
       ]
@@ -596,7 +629,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "商业融资"
       ]
@@ -612,7 +645,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "商业融资"
       ]
@@ -628,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.376Z",
+      "fetchedAt": "2026-07-31T21:05:09.400Z",
       "tags": [
         "综合"
       ]
@@ -644,7 +677,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "综合"
       ]
@@ -660,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.376Z",
+      "fetchedAt": "2026-07-31T21:05:09.400Z",
       "tags": [
         "大模型"
       ]
@@ -676,7 +709,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
+      "fetchedAt": "2026-07-31T21:05:05.862Z",
       "tags": [
         "综合"
       ]
@@ -692,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.376Z",
+      "fetchedAt": "2026-07-31T21:05:09.400Z",
       "tags": [
         "AI应用"
       ]
@@ -708,7 +741,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.376Z",
+      "fetchedAt": "2026-07-31T21:05:09.400Z",
       "tags": [
         "大模型"
       ]
@@ -724,7 +757,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.376Z",
+      "fetchedAt": "2026-07-31T21:05:09.400Z",
       "tags": [
         "商业融资"
       ]
@@ -740,7 +773,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nate Anderson\n                ",
-      "fetchedAt": "2026-07-31T19:26:44.099Z",
+      "fetchedAt": "2026-07-31T21:05:11.624Z",
       "tags": [
         "AI应用"
       ]
@@ -756,7 +789,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.376Z",
+      "fetchedAt": "2026-07-31T21:05:09.400Z",
       "tags": [
         "AI应用"
       ]
@@ -772,41 +805,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-07-31T19:26:42.376Z",
+      "fetchedAt": "2026-07-31T21:05:09.400Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "JetBrains Open-Sources KotlinLLM: Smart Macros That Generate Kotlin Source Code at Runtime and Hot-Reload It Through JDI",
-      "link": "https://www.marktechpost.com/2026/07/31/jetbrains-research-open-sources-kotlinllm-intellij-plugin-kotlin-runtime-llm/",
-      "snippet": "JetBrains Research has open-sourced KotlinLLM under the Apache License 2.0. The IntelliJ IDEA plugin prototype adds Smart macros, asLlm and mockLlm, w",
-      "pubDate": "Fri, 31 Jul 2026 10:32:53 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-07-31T19:26:45.814Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "36氪独家｜曾爱玲入职B站担任AI视频生成业务负责人，向CEO陈睿汇报",
-      "link": "https://36kr.com/p/3910776673064073?f=rss",
-      "snippet": "文｜王毓婵 兰杰 编辑｜乔芊 36氪独家获悉，曾爱玲入职哔哩哔哩（下称“B站”），担任AI视频生成业务负责人，向CEO陈睿汇报。 36氪就此事向B站方面求证，对方暂无回应。  曾爱玲 B站此前已公开表示，AI投入主要聚焦视频理解、视频推荐和辅助视频创作等方向。曾爱玲入职后，或将参与相关业务。 曾爱玲",
-      "pubDate": "2026-07-31 18:27:38  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-07-31T19:26:38.273Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
