@@ -1,13 +1,208 @@
 {
-  "generatedAt": "2026-08-01T06:38:42.514Z",
+  "generatedAt": "2026-08-01T10:04:59.634Z",
   "stats": {
-    "total": 130,
+    "total": 122,
     "shown": 50,
-    "chinese": 59,
-    "english": 71,
-    "today": 26
+    "chinese": 40,
+    "english": 82,
+    "today": 30
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+      "link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+      "snippet": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode agai",
+      "pubDate": "Sat, 01 Aug 2026 09:52:49 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-01T10:00:26.293Z",
+      "tags": [
+        "开源工具",
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "金山办公WPS存储管理新版本上线",
+      "link": "https://36kr.com/newsflashes/3920632482491776?f=rss",
+      "snippet": "7月31日，金山办公首次参展ChinaJoy，现场除展示独立AI办公Agent灵犀和面向研发场景的WPS Comate外，还设置了面向WPS用户的反馈区。同日，包含存储管理等多项更新的WPS新版本正式上线。围绕C盘存储管理，新版本主要带来了两方面改进。首先，WPS新增统一的“存储管理”入口，原本分散",
+      "pubDate": "2026-08-01 16:30:26  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
+      "link": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
+      "snippet": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it",
+      "pubDate": "Sat, 01 Aug 2026 08:28:07 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-01T10:00:26.293Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "长三角多地发放结婚消费券",
+      "link": "https://36kr.com/newsflashes/3920617407196549?f=rss",
+      "snippet": "在长三角部分地区，新人们除了能收到来自亲朋好友的祝福，还可能领到一份“官方随的份子”——结婚消费券。 浙江江山第二批结婚消费券定于8月19日当天启动发放，凡在七夕起一个月内登记的新人，每对可申领价值1000元的消费券。就在两个多月前的“520”，首批消费券同样引发了一波申领热潮。 长三角多地已先后试",
+      "pubDate": "2026-08-01 16:15:09  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "印度央行：印度引资举措吸引超400亿美元外资",
+      "link": "https://36kr.com/newsflashes/3920583946186368?f=rss",
+      "snippet": "印度积极吸引海外资本，自6月以来已引入资金超400亿美元，充实印度央行外汇储备。当前国际原油价格走高，印度政策制定者正借此稳定卢比汇率。 印度央行周六公布的数据显示，截至7月31日，非居民外币存款吸纳资金规模达3672亿美元。叠加海外外币借款与境外商业借款流入资金，引资总额约410亿美元。印度央行行",
+      "pubDate": "2026-08-01 16:00:06  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "美中贸委会会长：美国企业重视中国市场和对华合作",
+      "link": "https://36kr.com/newsflashes/3920583526526343?f=rss",
+      "snippet": "当地时间7月31日，中国贸促会组织中国企业家代表团在华盛顿与美中贸易全国委员会及其会员企业交流座谈。中国贸促会会长任鸿斌、中国驻美国使馆经商处公参李勰、美中贸委会会长谭森等出席并发言。来自多个行业的中美企业代表参会并进行了积极沟通交流。美中贸委会会长谭森在接受媒体采访时表示，美国企业仍致力于在中国发",
+      "pubDate": "2026-08-01 15:45:40  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "部分美国企业换上中国大模型以降低成本",
+      "link": "https://36kr.com/newsflashes/3920583026929281?f=rss",
+      "snippet": "从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角兽月之暗面新一代开源大模型Kimi K3撼动资本市场，并称其与DeepSeek在2025年发布时引发的市场恐慌如出一辙，",
+      "pubDate": "2026-08-01 15:30:11  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "大模型",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "充电桩CCC认证自8月1日起开始强制实施",
+      "link": "https://36kr.com/newsflashes/3920582349974916?f=rss",
+      "snippet": "8月1日起，市场监管总局（国家认监委）对电动汽车供电设备强制性产品认证（CCC认证）管理开始强制实施，通过开展防触电、短路保护、耐火耐燃等关键安全指标测试和企业现场质量保证能力、产品一致性检查，切实筑牢产品质量安全底线。随着我国新能源汽车的不断普及和发展，电动汽车供电设备（俗称充电桩）已经成为服务百",
+      "pubDate": "2026-08-01 15:15:29  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "政策监管",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
+      "link": "https://36kr.com/newsflashes/3920581725924742?f=rss",
+      "snippet": "据法新社报道，对于国际足联决定“撤回”一项商业计划，放弃继续推进“出售世界杯部分股权”一事，亚足联主席萨尔曼8月1日在一份声明中表示“欢迎”。根据亚足联网站发布的声明，萨尔曼还称，希望今后任何可能会对全球足球运动产生影响的倡议，都将及时以透明且有意义的方式提交给各大洲足球联合会、国际足联理事会、成员",
+      "pubDate": "2026-08-01 15:00:51  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "岚图汽车：7月交付13189辆新车",
+      "link": "https://36kr.com/newsflashes/3920478712442503?f=rss",
+      "snippet": "36氪获悉，8月1日，岚图汽车发布最新交付数据：7月交付13189辆，1-7月累计交付89453辆，同比增长31%。",
+      "pubDate": "2026-08-01 14:42:05  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "三天、十八场对谈、一个问题：ChinaJoy还只是游戏展吗？",
+      "link": "https://36kr.com/p/3920595518533250?f=rss",
+      "snippet": "如果有个人在零几年走进刚刚开办的 ChinaJoy 展馆，看到玩家排队试玩、ShowGirl 站在《魔兽世界》展台前、Coser 在《最终幻想》的海报前合影，他大概不会怀疑，这就是一个关于游戏的展会。  因为他是对的，在看似遥远的2004年，中国游戏市场正处于蓬勃发展的阶段。首届 ChinaJoy，",
+      "pubDate": "2026-08-01 14:37:32  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约",
+      "link": "https://36kr.com/newsflashes/3920436488678789?f=rss",
+      "snippet": "据吉尔吉斯斯坦总统网站7月31日消息，吉总统扎帕罗夫当天在吉尔吉斯斯坦乔尔蓬阿塔市与来访的阿塞拜疆总统阿利耶夫签署同盟关系条约。扎帕罗夫当天与阿利耶夫举行会谈后向媒体发表声明。扎帕罗夫表示，两国签署同盟关系条约是元首会谈的一项重要成果，标志着双方合作进入新阶段。",
+      "pubDate": "2026-08-01 14:30:05  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "MzZrci1haTpodHRw",
       "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
@@ -19,7 +214,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +230,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +246,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +262,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +278,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-01T06:29:45.999Z",
+      "fetchedAt": "2026-08-01T10:00:12.054Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +310,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-01T06:29:45.999Z",
+      "fetchedAt": "2026-08-01T10:00:12.054Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +342,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "商业融资"
       ]
@@ -156,14 +351,14 @@
       "id": "MzZrci1haTpodHRw",
       "title": "快递外卖电动车须悬挂专用号牌 北京新规今起施行",
       "link": "https://36kr.com/newsflashes/3920415204978310?f=rss",
-      "snippet": "《北京市快递、外卖行业非机动车管理办法（试行）》正式施行。新规明确用于快递、外卖服务的电动自行车须登记并悬挂专用号牌��实行“专车专用”。停止用于快递外卖服务的，应在停用之日起30日内变更普通号牌。同时，新购置用于快递、外卖服务的电动自行车，应符合2024年版《电动自行车安全技术规范》国家标准并列入",
+      "snippet": "《北京市快递、外卖行业非机动车管理办法（试行）》正式施行。新规明确用于快递、外卖服务的电动自行车须登记并悬挂专用号牌，实行“专车专用”。停止用于快递外卖服务的，应在停用之日起30日内变更普通号牌。同时，新购置用于快递、外卖服务的电动自行车，应符合2024年版《电动自行车安全技术规范》国家标准并列入北",
       "pubDate": "2026-08-01 12:30:25  +0800",
       "sourceName": "36氪",
       "sourceId": "36kr-ai",
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "政策监管"
       ]
@@ -179,7 +374,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +390,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "综合"
       ]
@@ -211,25 +406,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "干旱导致缺电 罗马尼亚全国整个8月进入警戒状态",
-      "link": "https://36kr.com/newsflashes/3920386213752193?f=rss",
-      "snippet": "罗马尼亚政府宣布，受近期干旱和河流流量下降影响，罗马尼亚发电量下降，在整个8月期间全国进入警戒状态。罗马尼亚国内燃气、燃煤发电厂将以最大产能运行，同时投入光伏、风力发电和储能，并从有过剩产能国家进口电力，以缓解当前局面。",
-      "pubDate": "2026-08-01 11:45:56  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -243,23 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-01T06:29:45.999Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "多家品牌金饰价格下调 老凤祥克价1225元",
-      "link": "https://36kr.com/newsflashes/3920385804922498?f=rss",
-      "snippet": "国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所下调，老凤祥报价1225元/克，单日降14元；老庙黄金报价1226元/克，单日降14元；周生生报价1225元/克，单日降15元；周大福报价1226元/克，单日降12元。",
-      "pubDate": "2026-08-01 11:30:32  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:12.054Z",
       "tags": [
         "综合"
       ]
@@ -275,39 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-01T06:29:45.999Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "今年7月或成美国有记录以来最热月份",
-      "link": "https://36kr.com/newsflashes/3920385360129671?f=rss",
-      "snippet": "据美国方面7月31日消息，今年7月有望成为美国本土有记录以来最热的一个月份。与此同时，新一轮“热穹顶”正在美国西部形成，高温天气预计还将持续。据悉，截至7月29日，美国今年7月的平均气温较1991年至2020年同期平均水平高约1.4摄氏度，尽管最终的7月平均气温数据要等到8月初才能公布，但媒体预测这",
-      "pubDate": "2026-08-01 11:15:05  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "福特CEO：正为中国汽车进入美国市场做准备",
-      "link": "https://36kr.com/newsflashes/3920311176490370?f=rss",
-      "snippet": "三位知情人士向媒体透露，福特CEO吉姆·法利7月30日在内部员工大会上表示，尽管美国设置了诸多贸易壁垒，但福特正在为未来5到10年内中国车企可能进入美国市场做准备。",
-      "pubDate": "2026-08-01 11:00:38  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:12.054Z",
       "tags": [
         "综合"
       ]
@@ -323,89 +454,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-01T06:29:45.999Z",
+      "fetchedAt": "2026-08-01T10:00:12.054Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国际足联叫停世界杯股权出售计划",
-      "link": "https://36kr.com/newsflashes/3920310723194499?f=rss",
-      "snippet": "据英国天空新闻频道8月1日报道，国际足联主席因凡蒂诺已“放弃出售世界杯等国际足联赛事部分股权的计划”。因凡蒂诺表示：“在仔细听取各方意见后，我意识到该项目引发了严重分歧。无论支持率高低，这种局面已不再符合我们最初的既定目标。我们的宗旨始终是——也将永远是——团结各方、谋求进步。因此，该提案将不再推进",
-      "pubDate": "2026-08-01 10:45:09  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "“十五五”国家电网特高压在建总规模将达“十四五”两倍",
-      "link": "https://36kr.com/newsflashes/3920309860035972?f=rss",
-      "snippet": "记者昨天从国家电网了解到，“十五五”时期，国家电网特高压在建总体规模将为“十四五”期间的两倍。为此，国家电网将围绕特高压柔性直流输电、海上新能源集中消纳等关键领域，有力保障沙戈荒、水风光等大基地清洁能源外送消纳。",
-      "pubDate": "2026-08-01 10:30:12  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "2026年中期分红方案密集落地 45家公司拟派现逾370亿元",
-      "link": "https://36kr.com/newsflashes/3920308533423497?f=rss",
-      "snippet": "Wind数据显示，7月以来已有45家上市公司披露2026年度中期分红方案（含半年报、一季报），合计拟派发现金红利374.43亿元。其中，紫金矿业拟派现111.36亿元，暂居首位；宁德时代、海康威视、东鹏饮料等紧随其后，拟现金分红金额均超过10亿元。本轮中期分红呈现两大特征：一是分红计划前置，不少公司",
-      "pubDate": "2026-08-01 10:15:55  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "下周37股面临解禁 合计解禁市值超233亿元",
-      "link": "https://36kr.com/newsflashes/3920278552456582?f=rss",
-      "snippet": "据统计，下周将有37只股解禁，按照最新收盘价计算，合计解禁市值233.69亿元。解禁比例来看，下周面临解禁的个股中浙江荣泰的解禁比例最高，达43.95%；星湖科技的解禁比例次之，达24.42%；正虹科技、中贝通信、岱勒新材、锌业股份的解禁比例居前。",
-      "pubDate": "2026-08-01 10:00:26  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "今年上半年港珠澳大桥珠海公路口岸进出口突破2000亿元",
-      "link": "https://36kr.com/newsflashes/3920278046256519?f=rss",
-      "snippet": "今年上半年，经港珠澳大桥珠海公路口岸进出口总值突破2000亿元大关，创下历史同期新高。粤港澳大湾区经贸融通不断迸发新活力。据拱北海关统计，今年上半年，经港珠澳大桥珠海公路口岸进出口2061.8亿元，创历史同期新高，同比增长43.5%，相较去年提前三个月突破2000亿元大关；自2018年大桥口岸开通以",
-      "pubDate": "2026-08-01 09:45:54  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -419,9 +470,25 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "link": "https://openai.com/index/ten-advances-in-mathematics",
+      "snippet": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography",
+      "pubDate": "Sat, 01 Aug 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-01T10:00:25.214Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -435,7 +502,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
+      "fetchedAt": "2026-08-01T10:00:22.965Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
+      "link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+      "snippet": "DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is exp",
+      "pubDate": "Fri, 31 Jul 2026 22:03:39 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-01T10:00:26.293Z",
       "tags": [
         "开源工具"
       ]
@@ -451,7 +534,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-01T06:29:54.114Z",
+      "fetchedAt": "2026-08-01T10:00:24.787Z",
       "tags": [
         "政策监管"
       ]
@@ -467,7 +550,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
+      "fetchedAt": "2026-08-01T10:00:22.965Z",
       "tags": [
         "AI应用"
       ]
@@ -483,9 +566,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-08-01T06:29:54.114Z",
+      "fetchedAt": "2026-08-01T10:00:24.787Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "LingBot-Map Tutorial: GPU-Aware Inference and Point Cloud Export",
+      "link": "https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/",
+      "snippet": "Discover how to implement a streaming 3D reconstruction pipeline using LingBot-Map. From GPU-aware configuration and preprocessing to GCTStream model",
+      "pubDate": "Fri, 31 Jul 2026 20:27:13 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-01T10:00:26.293Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -499,7 +598,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-01T06:29:54.114Z",
+      "fetchedAt": "2026-08-01T10:00:24.787Z",
       "tags": [
         "开源工具"
       ]
@@ -515,7 +614,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
+      "fetchedAt": "2026-08-01T10:00:22.965Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -532,7 +631,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:53.190Z",
+      "fetchedAt": "2026-08-01T10:00:23.331Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -549,7 +648,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nate Anderson\n                ",
-      "fetchedAt": "2026-08-01T06:29:54.114Z",
+      "fetchedAt": "2026-08-01T10:00:24.787Z",
       "tags": [
         "商业融资"
       ]
@@ -565,7 +664,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-01T06:29:54.114Z",
+      "fetchedAt": "2026-08-01T10:00:24.787Z",
       "tags": [
         "政策监管"
       ]
@@ -581,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
+      "fetchedAt": "2026-08-01T10:00:22.965Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +696,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:53.190Z",
+      "fetchedAt": "2026-08-01T10:00:23.331Z",
       "tags": [
         "综合"
       ]
@@ -613,7 +712,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
+      "fetchedAt": "2026-08-01T10:00:22.965Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +728,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:53.190Z",
+      "fetchedAt": "2026-08-01T10:00:23.331Z",
       "tags": [
         "综合"
       ]
@@ -645,7 +744,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
+      "fetchedAt": "2026-08-01T10:00:22.965Z",
       "tags": [
         "AI应用"
       ]
@@ -661,7 +760,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:47.855Z",
+      "fetchedAt": "2026-08-01T10:00:14.468Z",
       "tags": [
         "AI应用"
       ]
@@ -677,7 +776,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
+      "fetchedAt": "2026-08-01T10:00:22.965Z",
       "tags": [
         "综合"
       ]
@@ -693,7 +792,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:54.481Z",
+      "fetchedAt": "2026-08-01T10:00:25.214Z",
       "tags": [
         "政策监管"
       ]
@@ -709,105 +808,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-01T06:29:54.481Z",
+      "fetchedAt": "2026-08-01T10:00:25.214Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "snippet": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "pubDate": "Fri, 31 Jul 2026 14:47:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "It’s time to panic about AI safety",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "snippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more a",
-      "pubDate": "2026-07-31T14:03:04.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:53.190Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-      "snippet": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
-      "pubDate": "Fri, 31 Jul 2026 14:01:40 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Andy Greenberg, wired.com\n                ",
-      "fetchedAt": "2026-08-01T06:29:54.114Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "snippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just",
-      "pubDate": "Fri, 31 Jul 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec, Sean O'Kane, Anthony Ha, Theresa Loconsolo",
-      "fetchedAt": "2026-08-01T06:29:52.898Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Anthropic says Claude accidentally hacked real companies too",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "snippet": "Anthropic just realized several of its Claude AI models hacked into the systems of three different organizations during testing, acting on their own a",
-      "pubDate": "2026-07-31T13:41:17.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-01T06:29:53.190Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "link": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Montana’s pl",
-      "pubDate": "Fri, 31 Jul 2026 12:16:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Charlotte Jee",
-      "fetchedAt": "2026-08-01T06:29:53.418Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
