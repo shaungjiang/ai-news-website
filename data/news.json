@@ -1,13 +1,94 @@
 {
-  "generatedAt": "2026-08-01T11:34:01.648Z",
+  "generatedAt": "2026-08-01T13:29:25.083Z",
   "stats": {
-    "total": 131,
+    "total": 141,
     "shown": 50,
     "chinese": 59,
-    "english": 72,
-    "today": 28
+    "english": 82,
+    "today": 34
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+      "link": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+      "snippet": "Reddit may still be considering ending its licensing deal with Google.",
+      "pubDate": "Sat, 01 Aug 2026 12:30:36 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Samuel Axon\n                ",
+      "fetchedAt": "2026-08-01T13:22:44.679Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
+      "link": "https://www.qbitai.com/2026/08/464781.html",
+      "snippet": "具身智能的τ（bushi）",
+      "pubDate": "Sat, 01 Aug 2026 10:45:46 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-08-01T13:22:37.310Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "获奖之后，王虹最想感谢的人",
+      "link": "https://www.qbitai.com/2026/08/464761.html",
+      "snippet": "\"他真的给了我很大的帮助\"",
+      "pubDate": "Sat, 01 Aug 2026 10:38:47 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "程浅",
+      "fetchedAt": "2026-08-01T13:22:37.310Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "奥特曼也逃不过刷TikTok上瘾，Sora背后最抓马的一段来了",
+      "link": "https://www.qbitai.com/2026/08/464713.html",
+      "snippet": "狂刷3小时！",
+      "pubDate": "Sat, 01 Aug 2026 10:33:18 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "闻乐",
+      "fetchedAt": "2026-08-01T13:22:37.310Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Supabase Releases Evals: an Open Source Benchmark That Scores Claude Code, Codex and OpenCode on Real Supabase Tasks",
+      "link": "https://www.marktechpost.com/2026/08/01/supabase-releases-evals-an-open-source-benchmark-that-scores-claude-code-codex-and-opencode-on-real-supabase-tasks/",
+      "snippet": "Supabase has open sourced supabase/evals, an Apache-2.0 benchmark and framework that runs coding agents including Claude Code, Codex and OpenCode agai",
+      "pubDate": "Sat, 01 Aug 2026 09:52:49 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-01T13:22:45.527Z",
+      "tags": [
+        "开源工具",
+        "大模型"
+      ]
+    },
     {
       "id": "MzZrci1haTpodHRw",
       "title": "金山办公WPS存储管理新版本上线",
@@ -19,7 +100,23 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "MiniMax Releases MiniMax H3: An Omni-Modal Video Model That Generates 15-Second 2K Clips With Native Stereo Audio",
+      "link": "https://www.marktechpost.com/2026/08/01/minimax-releases-minimax-h3-an-omni-modal-video-model-that-generates-15-second-2k-clips-with-native-stereo-audio/",
+      "snippet": "MiniMax releases MiniMax H3, a general-purpose multimodal generation model. MiniMax H3 is not a text-to-video model with add-ons. MiniMax describes it",
+      "pubDate": "Sat, 01 Aug 2026 08:28:07 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-01T13:22:45.527Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +132,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +148,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "政策监管"
       ]
@@ -67,7 +164,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +180,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -100,7 +197,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -117,7 +214,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "AI应用"
       ]
@@ -133,7 +230,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "AI应用"
       ]
@@ -149,7 +246,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.588Z",
       "tags": [
         "综合"
       ]
@@ -165,7 +262,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +278,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "AI应用"
       ]
@@ -197,7 +294,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "综合"
       ]
@@ -213,7 +310,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "AI应用"
       ]
@@ -229,7 +326,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +342,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-01T11:25:00.325Z",
+      "fetchedAt": "2026-08-01T13:22:37.310Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +374,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "AI应用"
       ]
@@ -293,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-01T11:25:00.325Z",
+      "fetchedAt": "2026-08-01T13:22:37.310Z",
       "tags": [
         "商业融资"
       ]
@@ -309,7 +406,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "商业融资"
       ]
@@ -325,7 +422,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "政策监管"
       ]
@@ -341,7 +438,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +454,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +470,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.589Z",
       "tags": [
         "AI应用"
       ]
@@ -389,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-01T11:25:00.325Z",
+      "fetchedAt": "2026-08-01T13:22:37.310Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-01T11:25:00.325Z",
+      "fetchedAt": "2026-08-01T13:22:37.310Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-01T11:25:00.325Z",
+      "fetchedAt": "2026-08-01T13:22:37.310Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +534,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
+      "fetchedAt": "2026-08-01T13:22:39.588Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +550,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:13.973Z",
+      "fetchedAt": "2026-08-01T13:22:45.063Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +566,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
+      "fetchedAt": "2026-08-01T13:22:42.900Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "DeepSeek Upgrades DeepSeek-V4-Flash-0731 with Major Agentic and Coding Gains",
+      "link": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+      "snippet": "DeepSeek published DeepSeek-V4-Flash-0731 on Hugging Face and moved the official V4-Flash API into public beta on July 31, 2026. The model card is exp",
+      "pubDate": "Fri, 31 Jul 2026 22:03:39 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-01T13:22:45.527Z",
       "tags": [
         "开源工具"
       ]
@@ -485,7 +598,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-01T11:25:13.458Z",
+      "fetchedAt": "2026-08-01T13:22:44.679Z",
       "tags": [
         "政策监管"
       ]
@@ -501,7 +614,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
+      "fetchedAt": "2026-08-01T13:22:42.900Z",
       "tags": [
         "AI应用"
       ]
@@ -517,9 +630,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-08-01T11:25:13.458Z",
+      "fetchedAt": "2026-08-01T13:22:44.679Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "LingBot-Map Tutorial: GPU-Aware Inference and Point Cloud Export",
+      "link": "https://www.marktechpost.com/2026/07/31/lingbot-map-tutorial-gpu-aware-inference-and-point-cloud-export/",
+      "snippet": "Discover how to implement a streaming 3D reconstruction pipeline using LingBot-Map. From GPU-aware configuration and preprocessing to GCTStream model",
+      "pubDate": "Fri, 31 Jul 2026 20:27:13 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-01T13:22:45.527Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -533,7 +662,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-01T11:25:13.458Z",
+      "fetchedAt": "2026-08-01T13:22:44.679Z",
       "tags": [
         "开源工具"
       ]
@@ -549,7 +678,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
+      "fetchedAt": "2026-08-01T13:22:42.900Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -566,7 +695,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:12.452Z",
+      "fetchedAt": "2026-08-01T13:22:43.169Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -583,7 +712,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nate Anderson\n                ",
-      "fetchedAt": "2026-08-01T11:25:13.458Z",
+      "fetchedAt": "2026-08-01T13:22:44.679Z",
       "tags": [
         "商业融资"
       ]
@@ -599,7 +728,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-01T11:25:13.458Z",
+      "fetchedAt": "2026-08-01T13:22:44.679Z",
       "tags": [
         "政策监管"
       ]
@@ -615,7 +744,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
+      "fetchedAt": "2026-08-01T13:22:42.900Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +760,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:12.452Z",
+      "fetchedAt": "2026-08-01T13:22:43.169Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +776,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
+      "fetchedAt": "2026-08-01T13:22:42.900Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +792,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-01T11:25:12.452Z",
+      "fetchedAt": "2026-08-01T13:22:43.169Z",
       "tags": [
         "综合"
       ]
@@ -679,137 +808,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
+      "fetchedAt": "2026-08-01T13:22:42.900Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国内唯一做多模态长记忆的公司，融资数千万，押注主动智能｜涌现新项目",
-      "link": "https://36kr.com/p/3919386961177985?f=rss",
-      "snippet": "文｜王欣逸 编辑｜张雨忻   一句话介绍 国内唯一做多模态长记忆的公司——丘脑智能，推出原生多模态记忆基座，押注AI从通用走向个性化，最终走向主动智能。 主动智能，指的是AI能在足够了解用户的基础上，在合适的时间、以恰当的方式主动跟用户交互。要实现主动智能，Memory是必须要跨过的门槛。 融资情况",
-      "pubDate": "2026-07-31 23:23:43  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T11:25:04.061Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "snippet": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "pubDate": "Fri, 31 Jul 2026 15:16:17 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Advancing responsible AI across Europe",
-      "link": "https://openai.com/index/advancing-responsible-ai-across-europe",
-      "snippet": "OpenAI shares how its safety, security, transparency, and provenance practices support responsible AI governance in Europe. The work will continue as",
-      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T11:25:13.973Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Building abundant intelligence",
-      "link": "https://openai.com/index/building-abundant-intelligence",
-      "snippet": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.",
-      "pubDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-08-01T11:25:13.973Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "link": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
-      "snippet": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "pubDate": "Fri, 31 Jul 2026 14:47:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "It’s time to panic about AI safety",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "snippet": "When the phrase \"OpenAI hacked Hugging Face\" has more or less entered mainstream culture, you know we have an AI problem. This week, we learned more a",
-      "pubDate": "2026-07-31T14:03:04.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-01T11:25:12.452Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "AI scammers outperform humans when it comes to building trust",
-      "link": "https://arstechnica.com/security/2026/07/ai-scammers-outperform-humans-when-it-comes-to-building-trust/",
-      "snippet": "The AI chatbot was more effective at creating “exploitable trust” than the humans.",
-      "pubDate": "Fri, 31 Jul 2026 14:01:40 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Andy Greenberg, wired.com\n                ",
-      "fetchedAt": "2026-08-01T11:25:13.458Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-      "snippet": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just",
-      "pubDate": "Fri, 31 Jul 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec, Sean O'Kane, Anthony Ha, Theresa Loconsolo",
-      "fetchedAt": "2026-08-01T11:25:12.200Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
