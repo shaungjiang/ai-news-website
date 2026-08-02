@@ -1,13 +1,209 @@
 {
-  "generatedAt": "2026-08-02T03:00:42.905Z",
+  "generatedAt": "2026-08-02T06:43:42.286Z",
   "stats": {
     "total": 141,
     "shown": 50,
     "chinese": 59,
     "english": 82,
-    "today": 7
+    "today": 19
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA AI Releases Molt: A PyTorch-Native Agentic Reinforcement Learning Framework",
+      "link": "https://www.marktechpost.com/2026/08/01/nvidia-ai-releases-molt-a-pytorch-native-agentic-reinforcement-learning-framework/",
+      "snippet": "Agentic RL research is constant algorithm modification, and in mainstream frameworks every change threads through trainer, distributed backend, and ro",
+      "pubDate": "Sun, 02 Aug 2026 06:21:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-02T06:33:54.237Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "中国产品包揽全球大模型调用量前五",
+      "link": "https://36kr.com/newsflashes/3921989528432259?f=rss",
+      "snippet": "近日，全球多模型聚合平台OpenRouter发布最新一周AI大模型调用量榜单，排名前五的产品全部由中国企业研发。登顶榜单首位的是小米MiMo-V2.5，单周调用量达到10.5万亿Token，环比增长12%。排名第二和第五的均来自DeepSeek，两款模型形成高低搭配，覆盖不同开发需求，其中旗舰Pro",
+      "pubDate": "2026-08-02 14:14:03  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "End-to-End Forecasting with TimesFM 2.5: Backtesting, Covariates, Anomaly Detection, and Scalable Colab Deployment",
+      "link": "https://www.marktechpost.com/2026/08/01/end-to-end-forecasting-with-timesfm-2-5-backtesting-covariates-anomaly-detection-and-scalable-colab-deployment/",
+      "snippet": "In this tutorial, we build an advanced end-to-end time-series forecasting workflow with TimesFM 2.5. We begin by configuring the runtime, installing t",
+      "pubDate": "Sun, 02 Aug 2026 05:44:14 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-02T06:33:54.237Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "新一代通信网建设加快，千兆光网覆盖���九成国民经济大类",
+      "link": "https://36kr.com/newsflashes/3921943840353668?f=rss",
+      "snippet": "记者从工业和信息化部了解到，我国正加快新一代通信网建设，目前千兆光网典型应用已覆盖超九成国民经济大类。工业和信息化部信息通信发展司副司长赵策介绍，千兆光网与人工智能、云计算、大数据等技术加速融合，覆盖我国国民经济97个大类中的91个，在智能制造、智慧交通、数字医疗、智慧教育等领域形成一批可复制、可推",
+      "pubDate": "2026-08-02 13:27:35  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "全国首票保税仓库注册登记电子证照落地山东",
+      "link": "https://36kr.com/newsflashes/3921922007920004?f=rss",
+      "snippet": "36氪获悉，据山东发布消息，近日，万华化学集团登录“互联网+海关”一体化网上办事服务平台，仅用几分钟，一份加盖青岛海关印章的《保税仓库注册登记证书》便打印出来，标志着全国首票保税仓库注册登记电子证照在烟台落地。“电子证照与纸质证照具备同等法律效力，同时满足全程可追溯、防篡改、无纸化管理要求，帮助企业",
+      "pubDate": "2026-08-02 13:05:22  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "住房公积金缴存覆盖面扩大 灵活就业人员可自愿缴纳",
+      "link": "https://36kr.com/newsflashes/3921921311452807?f=rss",
+      "snippet": "为了深化住房公积金制度改革，更好满足缴存人多元化住房需求，住房城乡建设部前不久启动了《住房公积金管理条例》修订工作，并就《住房公积金管理条例（修订征求意见稿）》向社会公开征求意见。记者梳理发现，征求意见稿主要体现出三大亮点。首先，缴存覆盖面扩大了，明确个体工商户、非全日制从业人员以及其他灵活就业人员",
+      "pubDate": "2026-08-02 13:04:40  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "银河证券：Kimi K3正式开源重塑大模型商业生态，建议关注国产超节点及产业链相关公司",
+      "link": "https://36kr.com/newsflashes/3921888283848068?f=rss",
+      "snippet": "银河证券研报指出，Kimi K3上线后仅48小时，请求量便把现有集群打满，随后Kimi宣布暂停C端新用户会员订阅，验证Kimi K3模型能力突出与算力紧缺。银河证券认为，Kimi K3并非抑制算力需求，一方面国产开源模型的能力逼近全球顶级闭源模型，倒逼顶级大模型厂商通过更大规模的训练以及更快的迭代来",
+      "pubDate": "2026-08-02 12:31:04  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "山东：力争3年内集聚万名人工智能OPC创新人才",
+      "link": "https://36kr.com/newsflashes/3921849987706240?f=rss",
+      "snippet": "36氪获悉，据山东政府网官微消息，山东省工信厅等12部门近日联合印发《关于支持人工智能OPC创新发展的行动方案》，培育壮大人工智能OPC（One Person Company，一人公司）新型市场主体，推动“AI+超级个体”新型创业模式加速落地。力争3年内，建成百个定位清晰、功能完善的特色载体，培育千",
+      "pubDate": "2026-08-02 12:07:01  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从翻译到桌面Agent，网易有道全线产品完成DeepSeek-V4-Flash正式版升级",
+      "link": "https://www.leiphone.com/category/industrynews/2kEmhUVR27NJL1rC.html",
+      "snippet": "日前，网易有道宣布旗下AI Agent产品矩阵已完成DeepSeek-V4-Flash正式版的全面接入，覆盖全场景办公助手 Agent LobsterAI、有道词典、有道翻译、有道AI同传、Hi Echo、有道AI答疑笔、企业级大模型聚合平台ThinkFlow等系列产品和服务。这是继今年5月有道接入",
+      "pubDate": "Sun, 02 Aug 2026 12:07:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:50.902Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "微信地震预警能力更新，地震预警小程序可反馈震感",
+      "link": "https://36kr.com/newsflashes/3921848794164866?f=rss",
+      "snippet": "36氪获悉，8月2日，中国地震台网小程序正式上线“震感上报”能力。当用户收到地震预警并确认自身安全后，可进入小程序上报位置并反馈震感情况。你反馈的信息，经处理后会形成震感分布图。 此外，小程序还上线了“位置更新”能力。当你的地理位置发生变化时，小程序会主动识别并提醒你将目前所在地添加为预警位置。",
+      "pubDate": "2026-08-02 11:50:53  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "政策监管",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "长三角（嘉兴）Token运营中心正式启动",
+      "link": "https://36kr.com/newsflashes/3921838043065736?f=rss",
+      "snippet": "36氪获悉，长三角（嘉兴）Token运营中心发布会日前在嘉兴沙龙宾馆举行。发布会上，作为长三角（嘉兴）Token运营中心面向市场的统一服务窗口，长三角（嘉兴）Token运营中心门户网站同步上线。企业不再需要找代码、配环境、调参数。平台如同一个大型的“数据模型超市”，企业一次接入，即可按需调用Deep",
+      "pubDate": "2026-08-02 11:39:57  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "MzZrci1haTpodHRw",
+      "title": "上半年全国二手房交易占比超新房",
+      "link": "https://36kr.com/newsflashes/3921834901974659?f=rss",
+      "snippet": "今年上半年，全国二手房交易占比超过新房，达到50.4%，传统以新房销售为主的增量交易格局正加快向新房和二手房并举转变，房地产市场进入存量时代。在中央经济工作会议“控增量、去库存、优供给”的要求下，多个城市也在通过多种方式盘活存量房源，推动既有住房资源的优化配置，激活存量住房价值。（央视财经）",
+      "pubDate": "2026-08-02 11:36:46  +0800",
+      "sourceName": "36氪",
+      "sourceId": "36kr-ai",
+      "lang": "zh",
+      "category": "商业",
+      "creator": "",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "MzZrci1haTpodHRw",
       "title": "吉利汽车集团架构调整 林杰任销售总公司总经理",
@@ -19,7 +215,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +231,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +247,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +263,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +279,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +295,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +311,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +327,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-02T02:51:53.042Z",
+      "fetchedAt": "2026-08-02T06:33:51.129Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -148,7 +344,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-02T02:51:53.042Z",
+      "fetchedAt": "2026-08-02T06:33:51.129Z",
       "tags": [
         "大模型"
       ]
@@ -164,7 +360,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-02T02:51:55.615Z",
+      "fetchedAt": "2026-08-02T06:33:54.237Z",
       "tags": [
         "大模型"
       ]
@@ -180,7 +376,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-02T02:51:55.615Z",
+      "fetchedAt": "2026-08-02T06:33:54.237Z",
       "tags": [
         "大模型"
       ]
@@ -196,7 +392,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:53.388Z",
+      "fetchedAt": "2026-08-02T06:33:51.402Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +408,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-02T02:51:53.042Z",
+      "fetchedAt": "2026-08-02T06:33:51.129Z",
       "tags": [
         "大模型"
       ]
@@ -228,7 +424,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-02T02:51:53.042Z",
+      "fetchedAt": "2026-08-02T06:33:51.129Z",
       "tags": [
         "AI应用"
       ]
@@ -244,7 +440,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-02T02:51:54.645Z",
+      "fetchedAt": "2026-08-02T06:33:52.517Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +456,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-02T02:51:47.409Z",
+      "fetchedAt": "2026-08-02T06:33:44.414Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +472,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-08-02T02:51:47.409Z",
+      "fetchedAt": "2026-08-02T06:33:44.414Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +488,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-02T02:51:47.409Z",
+      "fetchedAt": "2026-08-02T06:33:44.414Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +504,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-02T02:51:55.615Z",
+      "fetchedAt": "2026-08-02T06:33:54.237Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -325,7 +521,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +537,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-02T02:51:55.615Z",
+      "fetchedAt": "2026-08-02T06:33:54.237Z",
       "tags": [
         "AI应用"
       ]
@@ -357,7 +553,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +569,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "政策监管"
       ]
@@ -389,75 +585,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "部分美国企业换上中国大模型以降低成本",
-      "link": "https://36kr.com/newsflashes/3920583026929281?f=rss",
-      "snippet": "从AlphaGo称霸围棋界到ChatGPT面世，美国在算法大模型领域积累了显著的先发优势。但近年中国大模型的崛起对AI格局有所冲击。美国《华尔街日报》等多家媒体提到，中国大模型独角兽月之暗面新一代开源大模型Kimi K3撼动资本市场，并称其与DeepSeek在2025年发布时引发的市场恐慌如出一辙，",
-      "pubDate": "2026-08-01 15:30:11  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "大模型",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "充电桩CCC认证自8月1日起开始强制实施",
-      "link": "https://36kr.com/newsflashes/3920582349974916?f=rss",
-      "snippet": "8月1日起，市场监管总局（国家认监委）对电动汽车供电设备强制性产品认证（CCC认证）管理开始强制实施，通过开展防触电、短路保护、耐火耐燃等关键安全指标测试和企业现场质量保证能力、产品一致性检查，切实筑牢产品质量安全底线。随着我国新能源汽车的不断普及和发展，电动汽车供电设备（俗称充电桩）已经成为服务百",
-      "pubDate": "2026-08-01 15:15:29  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "政策监管",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "国际足联放弃“出售世界杯部分股权”计划，亚足联主席发声",
-      "link": "https://36kr.com/newsflashes/3920581725924742?f=rss",
-      "snippet": "据法新社报道，对于国际足联决定“撤回”一项商业计划，放弃继续推进“出售世界杯部分股权”一事，亚足联主席萨尔曼8月1日在一份声明中表示“欢迎”。根据亚足联网站发布的声明，萨尔曼还称，希望今后任何可能会对全球足球运动产生影响的倡议，都将及时以透明且有意义的方式提交给各大洲足球联合会、国际足联理事会、成员",
-      "pubDate": "2026-08-01 15:00:51  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "岚图汽车：7月交付13189辆新车",
-      "link": "https://36kr.com/newsflashes/3920478712442503?f=rss",
-      "snippet": "36氪获悉，8月1日，岚图汽车发布最新交付数据：7月交付13189辆，1-7月累计交付89453辆，同比增长31%。",
-      "pubDate": "2026-08-01 14:42:05  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -471,89 +601,9 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "吉尔吉斯斯坦与阿塞拜疆签署同盟关系条约",
-      "link": "https://36kr.com/newsflashes/3920436488678789?f=rss",
-      "snippet": "据吉尔吉斯斯坦总统网站7月31日消息，吉总统扎帕罗夫当天在吉尔吉斯斯坦乔尔蓬阿塔市与来访的阿塞拜疆总统阿利耶夫签署同盟关系条约。扎帕罗夫当天与阿利耶夫举行会谈后向媒体发表声明。扎帕罗夫表示，两国签署同盟关系条约是元首会谈的一项重要成果，标志着双方合作进入新阶段。",
-      "pubDate": "2026-08-01 14:30:05  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "浙江实施人工智能OPC术语团体标准：由1名核心自然人主导",
-      "link": "https://36kr.com/newsflashes/3920435807923841?f=rss",
-      "snippet": "由浙江省数字经济发展中心等编制的《人工智能OPC术语》团体标准2026年8月1日起实施，将人工智能OPC（One Person Company，一人公司）界定为由1名核心自然人主导控制，员工一般不超过10人，以AI技术研究、开发、应用或服务为主营业务的公司。",
-      "pubDate": "2026-08-01 14:15:22  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "鸿蒙智行月交付45046台",
-      "link": "https://36kr.com/newsflashes/3920418360569216?f=rss",
-      "snippet": "鸿蒙智行：7月交付45,046台，1-7月累计交付28.6万台，同比增长13.7%。",
-      "pubDate": "2026-08-01 14:00:40  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "中国国家博物馆严正声明：从未在馆外开展扫码入群、信息采集活动",
-      "link": "https://36kr.com/newsflashes/3920419149573509?f=rss",
-      "snippet": "中国国家博物馆网站7月31日发布公告称，近日，观众反映有社会人员冒用“国家博物馆工作人员”名义从事引导公众扫码，收集获取手机号码、身份证号码等个人信息的活动。对此，国家博物馆高度重视，特此发布严正声明：国家博物馆从未授权任何机构、个人在馆外公共场所开展扫码入群、信息采集等活动，凡是以国家博物馆名义进",
-      "pubDate": "2026-08-01 13:45:29  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "MzZrci1haTpodHRw",
-      "title": "2025年地方养老基金投资收益率为5.76%",
-      "link": "https://36kr.com/newsflashes/3920417829416325?f=rss",
-      "snippet": "全国社会保障基金理事会今天（1日）发布报告，2025年地方养老基金投资收益额1420.71亿元，投资收益率5.76%。自2016年12月受托运营以来，地方养老基金累计投资收益额5544.30亿元，年均投资收益率5.14%，超过年均保底收益率2.63%约2.51个百分点。报告指出，社保基金会坚持并持续",
-      "pubDate": "2026-08-01 13:30:07  +0800",
-      "sourceName": "36氪",
-      "sourceId": "36kr-ai",
-      "lang": "zh",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -567,7 +617,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-02T02:51:47.409Z",
+      "fetchedAt": "2026-08-02T06:33:44.414Z",
       "tags": [
         "商业融资"
       ]
@@ -583,7 +633,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-02T02:51:47.409Z",
+      "fetchedAt": "2026-08-02T06:33:44.414Z",
       "tags": [
         "商业融资"
       ]
@@ -599,7 +649,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-02T02:51:47.409Z",
+      "fetchedAt": "2026-08-02T06:33:44.414Z",
       "tags": [
         "综合"
       ]
@@ -615,7 +665,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-02T02:51:47.409Z",
+      "fetchedAt": "2026-08-02T06:33:44.414Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +681,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-02T02:51:47.409Z",
+      "fetchedAt": "2026-08-02T06:33:44.414Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +697,7 @@
       "lang": "zh",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:49.126Z",
+      "fetchedAt": "2026-08-02T06:33:46.649Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +713,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-02T02:51:55.002Z",
+      "fetchedAt": "2026-08-02T06:33:53.120Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +729,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-02T02:51:53.042Z",
+      "fetchedAt": "2026-08-02T06:33:51.129Z",
       "tags": [
         "开源工具"
       ]
@@ -695,7 +745,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-02T02:51:55.615Z",
+      "fetchedAt": "2026-08-02T06:33:54.237Z",
       "tags": [
         "开源工具"
       ]
@@ -711,7 +761,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-02T02:51:54.645Z",
+      "fetchedAt": "2026-08-02T06:33:52.517Z",
       "tags": [
         "政策监管"
       ]
@@ -727,7 +777,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-02T02:51:53.042Z",
+      "fetchedAt": "2026-08-02T06:33:51.129Z",
       "tags": [
         "AI应用"
       ]
@@ -743,7 +793,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-08-02T02:51:54.645Z",
+      "fetchedAt": "2026-08-02T06:33:52.517Z",
       "tags": [
         "大模型"
       ]
@@ -759,59 +809,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-02T02:51:55.615Z",
+      "fetchedAt": "2026-08-02T06:33:54.237Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
-      "link": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
-      "snippet": "“What on earth is Google doing?” Misinformation fears spur walk-back of AI tool.",
-      "pubDate": "Fri, 31 Jul 2026 20:21:05 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-02T02:51:54.645Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "snippet": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "pubDate": "Fri, 31 Jul 2026 19:47:28 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-02T02:51:53.042Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google Earth&#8217;s AI deepfake tool only lasted one day",
-      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "snippet": "Pompeii reimagined with Nano Banana 2 in Google Earth. | Image: Google\t  Google has shut down Google Earth feature it launched Thursday that allowed u",
-      "pubDate": "2026-07-31T19:13:29.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-02T02:51:53.388Z",
-      "tags": [
-        "AI应用",
-        "政策监管"
       ]
     }
   ]
