@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-08-05T23:08:45.910Z",
+  "generatedAt": "2026-08-06T02:43:02.952Z",
   "stats": {
-    "total": 111,
+    "total": 110,
     "shown": 50,
     "chinese": 30,
-    "english": 81,
-    "today": 50
+    "english": 80,
+    "today": 3
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft’s SkillOpt Shows Optimized Agent Skill Artifacts Transfer Across Model Scales and Between Codex and Claude Code Harnesses",
+      "link": "https://www.marktechpost.com/2026/08/05/microsoft-skillopt-agent-skill-transfer-portability/",
+      "snippet": "Most coverage of Microsoft's SkillOpt centers on its 52/52 result. The more consequential finding is in Section 4.3: the exported best_skill.md keeps",
+      "pubDate": "Thu, 06 Aug 2026 00:37:42 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-06T02:38:21.600Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士；马斯克个人财富亏掉2个「黄仁勋」；宇树上市在即，王兴兴身价即将突破百亿",
+      "link": "https://www.leiphone.com/category/zaobao/aMdQoqYpcE7D7eWa.html",
+      "snippet": "要闻提示      1.马斯克个人财富缩水约合人民币2.45万亿元，相当于亏掉2个“黄仁勋” 2.长鑫拒绝苹果压价：坚持要求不低于三星电子和SK海力士 3.余承东：手机要大规模涨价，否则都在亏损销售 4.宇树科技IPO初步询价开启，王兴兴身价即将突破百亿 5.曝DeepSeek低调重启第二轮融资，拟",
+      "pubDate": "Thu, 06 Aug 2026 08:34:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "snippet": "xAI's Grokipedia, an online encyclopedia with AI-generated articles that Elon Musk once promised would be a \"massive improvement\" over Wikipedia, appa",
+      "pubDate": "2026-08-06T00:25:10.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-06T02:38:19.023Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "突发，Jeff Dean离职创业！谷歌股价应声蒸发1.34万亿",
+      "link": "https://www.qbitai.com/2026/08/467196.html",
+      "snippet": "与此同时，哈萨比斯卸任谷歌DeepMind CEO",
+      "pubDate": "Wed, 05 Aug 2026 23:52:10 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "鱼羊",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "End-to-End Bayesian Marketing Mix Modeling with Google Meridian: Media Measurement, ROI Analysis, and Budget Optimization",
@@ -19,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-05T22:59:58.900Z",
+      "fetchedAt": "2026-08-06T02:38:21.600Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-05T22:59:57.608Z",
+      "fetchedAt": "2026-08-06T02:38:20.433Z",
       "tags": [
         "开源工具"
       ]
@@ -67,7 +131,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-05T22:59:58.900Z",
+      "fetchedAt": "2026-08-06T02:38:21.600Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-08-05T22:59:57.608Z",
+      "fetchedAt": "2026-08-06T02:38:20.433Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nate Anderson\n                ",
-      "fetchedAt": "2026-08-05T22:59:57.608Z",
+      "fetchedAt": "2026-08-06T02:38:20.433Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:56.388Z",
+      "fetchedAt": "2026-08-06T02:38:19.023Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +227,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:56.388Z",
+      "fetchedAt": "2026-08-06T02:38:19.023Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:56.388Z",
+      "fetchedAt": "2026-08-06T02:38:19.023Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +259,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:56.388Z",
+      "fetchedAt": "2026-08-06T02:38:19.023Z",
       "tags": [
         "开源工具"
       ]
@@ -211,7 +275,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +307,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-05T22:59:57.608Z",
+      "fetchedAt": "2026-08-06T02:38:20.433Z",
       "tags": [
         "大模型"
       ]
@@ -259,7 +323,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:56.388Z",
+      "fetchedAt": "2026-08-06T02:38:19.023Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +339,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "AI应用"
       ]
@@ -291,7 +355,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michael S. Branicky, ScD ’95",
-      "fetchedAt": "2026-08-05T22:59:56.726Z",
+      "fetchedAt": "2026-08-06T02:38:19.340Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +371,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "大模型"
       ]
@@ -323,7 +387,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-05T22:59:52.026Z",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
       "tags": [
         "AI应用"
       ]
@@ -339,7 +403,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    George Hammond, Financial Times\n                ",
-      "fetchedAt": "2026-08-05T22:59:57.608Z",
+      "fetchedAt": "2026-08-06T02:38:20.433Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +419,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-05T22:59:52.026Z",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
       "tags": [
         "AI应用"
       ]
@@ -371,7 +435,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-05T22:59:52.026Z",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
       "tags": [
         "开源工具"
       ]
@@ -387,7 +451,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "AI应用"
       ]
@@ -403,7 +467,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-08-05T22:59:56.726Z",
+      "fetchedAt": "2026-08-06T02:38:19.340Z",
       "tags": [
         "综合"
       ]
@@ -419,7 +483,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -436,7 +500,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:56.388Z",
+      "fetchedAt": "2026-08-06T02:38:19.023Z",
       "tags": [
         "AI应用"
       ]
@@ -452,7 +516,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -469,7 +533,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-05T22:59:56.024Z",
+      "fetchedAt": "2026-08-06T02:38:18.717Z",
       "tags": [
         "商业融资"
       ]
@@ -485,7 +549,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:56.388Z",
+      "fetchedAt": "2026-08-06T02:38:19.024Z",
       "tags": [
         "开源工具"
       ]
@@ -501,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -518,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-05T22:59:52.026Z",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +598,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-05T22:59:58.900Z",
+      "fetchedAt": "2026-08-06T02:38:21.600Z",
       "tags": [
         "AI应用"
       ]
@@ -550,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -567,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +663,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Robin George Andrews",
-      "fetchedAt": "2026-08-05T22:59:56.726Z",
+      "fetchedAt": "2026-08-06T02:38:19.340Z",
       "tags": [
         "AI应用"
       ]
@@ -615,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -632,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "AI应用"
       ]
@@ -648,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-08-05T22:59:52.026Z",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
       "tags": [
         "开源工具"
       ]
@@ -664,7 +728,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-05T22:59:52.026Z",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
       "tags": [
         "大模型"
       ]
@@ -680,7 +744,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-05T22:59:52.026Z",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
       "tags": [
         "综合"
       ]
@@ -696,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "综合"
       ]
@@ -712,7 +776,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-05T22:59:58.900Z",
+      "fetchedAt": "2026-08-06T02:38:21.600Z",
       "tags": [
         "开源工具"
       ]
@@ -728,7 +792,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-05T22:59:52.026Z",
+      "fetchedAt": "2026-08-06T02:38:13.188Z",
       "tags": [
         "综合"
       ]
@@ -744,74 +808,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
+      "fetchedAt": "2026-08-06T02:38:18.383Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "20万星里程碑达成！GitHub 封神技能包，专治 AI 瞎写、失忆、造屎山",
-      "link": "https://www.leiphone.com/category/yanxishe/mBdAuQmsVFjBiMiy.html",
-      "snippet": "20多个技能，包含需求规划、代码开发、工具安全、知识管理全流程。          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Wed, 05 Aug 2026 12:22:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
-      "tags": [
-        "政策监管",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "IDC发布全球基础模型评估报告，阿里云是唯一入选“领导者”象限的中国厂商",
-      "link": "https://www.leiphone.com/category/industrynews/1gS0E0CcUDxEgbQR.html",
-      "snippet": "近日，IDC发布《IDC MarketScape：Worldwide Foundation Model Software 2026 Vendor Assessment》（全球基础模型软件厂商评估）报告。全球共11家厂商上榜，阿里云凭借千问（Qwen）模型家族与千问AI平台入选“领导者（Leaders",
-      "pubDate": "Wed, 05 Aug 2026 10:53:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨入股亿能智光，拓竹首次对外投资昭示其扩张野心",
-      "link": "https://www.leiphone.com/category/weiwu/uuLwEc9qyRqTr2Ol.html",
-      "snippet": "亿能智光是第三代激光器领域的翘楚，拓竹入股此举昭示其对激光雕刻领域的觊觎。 作者丨姚单  编辑丨董子博         雷峰网·鲸犀独家获悉，亿能智光（深圳）科技有限公司（简称：亿能智光）自 2025 年 8 月成立以来，已相继完成种子轮、天使轮融资。其中，种子轮投资方为拓竹，天使轮投资方为中科创星",
-      "pubDate": "Wed, 05 Aug 2026 10:34:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "资本重仓端侧物理AI:前海母基金数亿元押注,Om AI联汇加速端侧AI商业化落地",
-      "link": "https://www.leiphone.com/category/industrynews/tAlZoYMQpcDwWWi2.html",
-      "snippet": "近日,杭州联汇科技股份有限公司(简称:Om AI 联汇)宣布完成新一轮数亿元融资。本轮由前海母基金加码领投,杭州政府产业基金与多方资本协同参投。与此同时,公司正式开源VLX-Seek 1.5端侧原生细粒度感知多模态模型,以同参数级超越英伟达核心模型的硬核性能,进一步夯实领先地位,本次募集资金将用于V",
-      "pubDate": "Wed, 05 Aug 2026 10:20:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-05T22:59:55.710Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
