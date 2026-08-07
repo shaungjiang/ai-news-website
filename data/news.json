@@ -1,13 +1,78 @@
 {
-  "generatedAt": "2026-08-07T09:04:14.984Z",
+  "generatedAt": "2026-08-07T13:14:15.984Z",
   "stats": {
-    "total": 109,
+    "total": 98,
     "shown": 50,
     "chinese": 28,
-    "english": 81,
-    "today": 18
+    "english": 70,
+    "today": 20
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+      "snippet": "Meta's total fine has raked up to $942 million in this case",
+      "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "82 篇论文撑起的判断：IJCAI 凭什么是推理、规划、知识的「第一主场」",
+      "link": "https://www.leiphone.com/category/private/iME7Xg5tMwxIyZqU.html",
+      "snippet": "50篇推理加32篇规划，IJCAI里最硬的8%。          作者丨陆毅 陈淑瑜      编辑丨岑峰",
+      "pubDate": "Fri, 07 Aug 2026 18:29:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "美团王莆中：将AI融入家庭健康，助力建设“15分钟医疗圈”",
+      "link": "https://www.leiphone.com/category/industrynews/iGjt6GWE2NRHORMU.html",
+      "snippet": "8月7日，2026全球医疗峰会在香港举行。美团核心本地商业CEO王莆中在会上表示，美团将立足医疗资源连接者角色，与行业伙伴共建“15分钟医疗卫生服务圈”。 “过去，‘15分钟医疗卫生服务圈’的建设重心主要落在基建层面，但物理基础设施总有边界。”王莆中表示，在医疗健康领域，美团扮演的始终是连接者角色，",
+      "pubDate": "Fri, 07 Aug 2026 18:26:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "link": "https://openai.com/index/hsp-gruppe",
+      "snippet": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client serv",
+      "pubDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-07T13:05:28.077Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
@@ -19,7 +84,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +100,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +132,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -84,25 +149,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
-      "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
-      "snippet": "Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a reposi",
-      "pubDate": "Fri, 07 Aug 2026 05:42:45 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-07T08:59:52.278Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -116,25 +165,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
-      "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
-      "snippet": "Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model",
-      "pubDate": "Fri, 07 Aug 2026 03:42:27 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-07T08:59:52.278Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -148,7 +181,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "商业融资"
       ]
@@ -164,7 +197,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "大模型"
       ]
@@ -180,7 +213,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -197,7 +230,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "综合"
       ]
@@ -213,7 +246,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "AI应用"
       ]
@@ -229,7 +262,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "大模型"
       ]
@@ -245,7 +278,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "AI应用"
       ]
@@ -277,7 +310,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-07T08:59:42.747Z",
+      "fetchedAt": "2026-08-07T13:05:19.321Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -310,7 +343,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +359,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.977Z",
+      "fetchedAt": "2026-08-07T13:05:26.610Z",
       "tags": [
         "AI应用"
       ]
@@ -342,7 +375,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-07T08:59:50.314Z",
+      "fetchedAt": "2026-08-07T13:05:27.731Z",
       "tags": [
         "综合"
       ]
@@ -358,25 +391,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-07T08:59:50.314Z",
+      "fetchedAt": "2026-08-07T13:05:27.731Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
-      "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
-      "snippet": "Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, wi",
-      "pubDate": "Thu, 06 Aug 2026 19:35:32 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-07T08:59:52.278Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -390,7 +407,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-08-07T08:59:50.314Z",
+      "fetchedAt": "2026-08-07T13:05:27.731Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +423,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.977Z",
+      "fetchedAt": "2026-08-07T13:05:26.610Z",
       "tags": [
         "综合"
       ]
@@ -422,25 +439,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Adaptive Experimentation with Meta’s Ax: A Practical Coding Guide",
-      "link": "https://www.marktechpost.com/2026/08/06/adaptive-experimentation-with-metas-ax-a-practical-coding-guide/",
-      "snippet": "In this tutorial, we explore adaptive experimentation using Meta’s Ax with the modern Client API. We work through a complete workflow where we tune a",
-      "pubDate": "Thu, 06 Aug 2026 17:17:52 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-07T08:59:52.278Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -454,7 +455,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "商业融资"
       ]
@@ -470,7 +471,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.977Z",
+      "fetchedAt": "2026-08-07T13:05:26.610Z",
       "tags": [
         "大模型"
       ]
@@ -486,7 +487,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-07T08:59:50.314Z",
+      "fetchedAt": "2026-08-07T13:05:27.731Z",
       "tags": [
         "开源工具"
       ]
@@ -502,7 +503,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +519,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +535,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.977Z",
+      "fetchedAt": "2026-08-07T13:05:26.610Z",
       "tags": [
         "政策监管"
       ]
@@ -550,7 +551,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.977Z",
+      "fetchedAt": "2026-08-07T13:05:26.610Z",
       "tags": [
         "政策监管"
       ]
@@ -566,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "大模型"
       ]
@@ -582,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "大模型"
       ]
@@ -598,7 +599,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "AI应用"
       ]
@@ -614,7 +615,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.977Z",
+      "fetchedAt": "2026-08-07T13:05:26.610Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +631,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -647,7 +648,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "学术研究"
       ]
@@ -663,7 +664,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.977Z",
+      "fetchedAt": "2026-08-07T13:05:26.610Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -696,7 +697,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "政策监管"
       ]
@@ -712,7 +713,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "综合"
       ]
@@ -728,7 +729,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-07T08:59:49.319Z",
+      "fetchedAt": "2026-08-07T13:05:26.862Z",
       "tags": [
         "综合"
       ]
@@ -744,7 +745,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T08:59:48.703Z",
+      "fetchedAt": "2026-08-07T13:05:26.293Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -761,7 +762,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "综合"
       ]
@@ -777,7 +778,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-08-07T08:59:50.314Z",
+      "fetchedAt": "2026-08-07T13:05:27.731Z",
       "tags": [
         "综合"
       ]
@@ -793,7 +794,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:48.384Z",
+      "fetchedAt": "2026-08-07T13:05:26.055Z",
       "tags": [
         "大模型"
       ]
@@ -809,7 +810,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-07T08:59:50.683Z",
+      "fetchedAt": "2026-08-07T13:05:28.077Z",
       "tags": [
         "大模型"
       ]
