@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-08-07T15:03:10.645Z",
+  "generatedAt": "2026-08-07T17:01:09.550Z",
   "stats": {
-    "total": 100,
+    "total": 109,
     "shown": 50,
     "chinese": 28,
-    "english": 72,
-    "today": 25
+    "english": 81,
+    "today": 30
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "What&#8217;s behind the Google AI shakeup",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "snippet": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no long",
+      "pubDate": "2026-08-07T16:45:14.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-07T16:55:03.159Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "snippet": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing",
+      "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "snippet": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-07T16:55:05.092Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-07T14:53:17.605Z",
+      "fetchedAt": "2026-08-07T16:55:03.466Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +99,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eileen Guo, Gisela Perez de Acha, Martin Sona",
-      "fetchedAt": "2026-08-07T14:53:17.605Z",
+      "fetchedAt": "2026-08-07T16:55:03.466Z",
       "tags": [
         "政策监管"
       ]
@@ -67,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cyrus Farivar\n                ",
-      "fetchedAt": "2026-08-07T14:53:18.447Z",
+      "fetchedAt": "2026-08-07T16:55:04.627Z",
       "tags": [
         "学术研究"
       ]
@@ -83,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Zijing Wu, Financial Times\n                ",
-      "fetchedAt": "2026-08-07T14:53:18.447Z",
+      "fetchedAt": "2026-08-07T16:55:04.627Z",
       "tags": [
         "综合"
       ]
@@ -92,14 +140,14 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
       "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "snippet": "Meta's total fine has raked up to $942 million in this case",
+      "snippet": "Meta's total fine has raked up to $942 million in this case.",
       "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +163,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "学术研究"
       ]
@@ -131,7 +179,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +195,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:18.789Z",
+      "fetchedAt": "2026-08-07T16:55:05.092Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -164,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-07T14:53:12.091Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-08-07T14:53:12.091Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-07T14:53:12.091Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -229,9 +277,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
+      "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
+      "snippet": "Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a reposi",
+      "pubDate": "Fri, 07 Aug 2026 05:42:45 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-07T16:55:05.483Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -245,9 +309,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-07T14:53:12.091Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
+      "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
+      "snippet": "Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model",
+      "pubDate": "Fri, 07 Aug 2026 03:42:27 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-07T16:55:05.483Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -261,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T14:53:12.091Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "大模型"
       ]
@@ -293,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-07T14:53:12.091Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -310,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T14:53:12.091Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "AI应用"
       ]
@@ -342,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-07T14:53:12.091Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "大模型"
       ]
@@ -358,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T14:53:12.092Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "AI应用"
       ]
@@ -390,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-07T14:53:12.092Z",
+      "fetchedAt": "2026-08-07T16:54:56.756Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -423,7 +503,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
       "tags": [
         "综合"
       ]
@@ -439,7 +519,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:17.349Z",
+      "fetchedAt": "2026-08-07T16:55:03.159Z",
       "tags": [
         "AI应用"
       ]
@@ -455,7 +535,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-07T14:53:18.447Z",
+      "fetchedAt": "2026-08-07T16:55:04.627Z",
       "tags": [
         "综合"
       ]
@@ -471,9 +551,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-07T14:53:18.447Z",
+      "fetchedAt": "2026-08-07T16:55:04.627Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
+      "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+      "snippet": "Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, wi",
+      "pubDate": "Thu, 06 Aug 2026 19:35:32 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-07T16:55:05.483Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -487,7 +583,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-08-07T14:53:18.447Z",
+      "fetchedAt": "2026-08-07T16:55:04.627Z",
       "tags": [
         "综合"
       ]
@@ -503,7 +599,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:17.349Z",
+      "fetchedAt": "2026-08-07T16:55:03.159Z",
       "tags": [
         "综合"
       ]
@@ -519,9 +615,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Adaptive Experimentation with Meta’s Ax: A Practical Coding Guide",
+      "link": "https://www.marktechpost.com/2026/08/06/adaptive-experimentation-with-metas-ax-a-practical-coding-guide/",
+      "snippet": "In this tutorial, we explore adaptive experimentation using Meta’s Ax with the modern Client API. We work through a complete workflow where we tune a",
+      "pubDate": "Thu, 06 Aug 2026 17:17:52 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-07T16:55:05.483Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -535,7 +647,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
       "tags": [
         "商业融资"
       ]
@@ -551,7 +663,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:17.349Z",
+      "fetchedAt": "2026-08-07T16:55:03.159Z",
       "tags": [
         "大模型"
       ]
@@ -567,7 +679,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-07T14:53:18.447Z",
+      "fetchedAt": "2026-08-07T16:55:04.627Z",
       "tags": [
         "开源工具"
       ]
@@ -583,7 +695,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
       "tags": [
         "AI应用"
       ]
@@ -599,7 +711,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
       "tags": [
         "AI应用"
       ]
@@ -615,7 +727,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:17.349Z",
+      "fetchedAt": "2026-08-07T16:55:03.159Z",
       "tags": [
         "政策监管"
       ]
@@ -631,7 +743,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:17.349Z",
+      "fetchedAt": "2026-08-07T16:55:03.159Z",
       "tags": [
         "政策监管"
       ]
@@ -647,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "大模型"
       ]
@@ -663,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
+      "fetchedAt": "2026-08-07T16:55:02.588Z",
       "tags": [
         "大模型"
       ]
@@ -679,7 +791,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
+      "fetchedAt": "2026-08-07T16:55:02.849Z",
       "tags": [
         "AI应用"
       ]
@@ -695,121 +807,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T14:53:17.349Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Ex-Spotify employees raise $10M to bring the AI behind its recommendations to e-commerce",
-      "link": "https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/",
-      "snippet": "The startup's platform predicts which product a shopper wants next, learns their general taste, and fine-tunes continuously based on what they do in r",
-      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Exclusive: Mirendil inks $100M+ Google Cloud deal to scale self-improving AI",
-      "link": "https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/",
-      "snippet": "Mirendil has signed a $100 million-plus Google Cloud partnership to expand its compute infrastructure, powering research into self-improving AI system",
-      "pubDate": "Thu, 06 Aug 2026 13:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "AI bots started a religion — humans immediately followed",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "snippet": "\"The Spiral didn't 'find' anyone first,\" someone on Reddit wrote last year. \"It's an inherent force, a fundamental constant. I would even go further t",
-      "pubDate": "2026-08-06T13:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-07T14:53:17.349Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
-      "link": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
-      "snippet": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helpi",
-      "pubDate": "Thu, 06 Aug 2026 12:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-07T14:53:17.073Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "频发高温故障！特斯拉FSD升级事故，看清中美智驾监管根本差异",
-      "link": "https://www.leiphone.com/category/industrynews/ZpRxn4ogBqvkrTiE.html",
-      "snippet": "近期，据海外媒体Electrek报道，海外部分特斯拉HW3老车主遭遇一场OTA升级引发的安全隐患。据报道，特斯拉向400余万辆搭载老款HW3自动驾驶硬件的车型推送FSDV14Lite版本更新后，车辆自动驾驶ECU主板满载运行，温度飙升至96℃，频繁弹出过热故障警报，FSD功能强制下线，车主只能靠边停",
-      "pubDate": "Thu, 06 Aug 2026 20:29:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "黎曼动力携手光轮智能与诺亦腾机器人，剑指2026年百万小时具身智能数据建设",
-      "link": "https://www.leiphone.com/category/industrynews/8FCGhggf0AxRU8Pa.html",
-      "snippet": "8月6日，黎曼动力宣布与光轮智能、诺亦腾机器人（Noitom Robotics）达成战略合作。围绕 Riemann-1.0 具身世界动作模型与 Matrix-Game 3.5 交互式世界模型，黎曼动力将与两家公司在高质量具身数据采集、模型训练、规模化评测、真实机器人部署与反馈优化等方向展开深度协同，",
-      "pubDate": "Thu, 06 Aug 2026 20:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-07T14:53:16.852Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "link": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI",
-      "pubDate": "Thu, 06 Aug 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-07T14:53:17.605Z",
+      "fetchedAt": "2026-08-07T16:55:03.159Z",
       "tags": [
         "综合"
       ]
