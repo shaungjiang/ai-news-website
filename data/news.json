@@ -1,13 +1,62 @@
 {
-  "generatedAt": "2026-08-07T04:35:04.340Z",
+  "generatedAt": "2026-08-07T07:25:43.886Z",
   "stats": {
-    "total": 111,
+    "total": 109,
     "shown": 50,
-    "chinese": 29,
-    "english": 82,
-    "today": 12
+    "chinese": 28,
+    "english": 81,
+    "today": 16
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "openJiuwen发布业界首个企业级分布式蜂群架构，联合邮储成功落地金融生产环境",
+      "link": "https://www.qbitai.com/2026/08/468305.html",
+      "snippet": "从「能用」走向「规模化落地」",
+      "pubDate": "Fri, 07 Aug 2026 06:18:51 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
+      "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
+      "snippet": "Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a reposi",
+      "pubDate": "Fri, 07 Aug 2026 05:42:45 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-07T07:16:56.950Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "link": "https://www.qbitai.com/2026/08/467878.html",
+      "snippet": "AI卷向运动赛道，Keep的新答卷能否跑通？",
+      "pubDate": "Fri, 07 Aug 2026 05:30:08 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
@@ -19,9 +68,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-07T04:26:18.674Z",
+      "fetchedAt": "2026-08-07T07:16:56.950Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山",
+      "link": "https://www.leiphone.com/category/yanxishe/Ga2vGDMkzS2dp4Ew.html",
+      "snippet": "杨植麟也是 Jeff Dean PPT 中列出的谷歌系创始人名单中的一位。          作者丨高允毅 郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 07 Aug 2026 11:28:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -35,7 +100,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T04:26:09.000Z",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
       "tags": [
         "大模型"
       ]
@@ -51,10 +116,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-07T04:26:09.000Z",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
       "tags": [
         "大模型",
         "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "汪峰：我现在买衣服，80%都是淘宝",
+      "link": "https://www.leiphone.com/category/industrynews/FqaTMocwsNfeul2p.html",
+      "snippet": "日前，汪峰在一档视频采访中提及，孩子爱买奢侈品，他认为这不是他们应该有的消费行为，谈及自身，他说到，“我现在挑衣服只希望合适，买衣服 80% 都是淘宝”。   此言一出，引发不少网友共鸣：“汪峰演我日常购物习惯”。还有网友表示：希望解锁汪峰选款思路学学省钱穿搭术”。也有人想扒汪峰同款店铺，“好奇摇滚",
+      "pubDate": "Fri, 07 Aug 2026 11:12:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -68,7 +149,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T04:26:09.000Z",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
       "tags": [
         "AI应用"
       ]
@@ -84,7 +165,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-07T04:26:09.001Z",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
       "tags": [
         "大模型"
       ]
@@ -100,7 +181,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +197,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T04:26:09.001Z",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
       "tags": [
         "AI应用"
       ]
@@ -132,7 +213,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-07T04:26:09.001Z",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-07T04:26:09.001Z",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
       "tags": [
         "大模型"
       ]
@@ -164,7 +245,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-07T04:26:09.001Z",
+      "fetchedAt": "2026-08-07T07:16:47.451Z",
       "tags": [
         "综合"
       ]
@@ -180,26 +261,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "开源工具",
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
-      "link": "https://www.qbitai.com/2026/08/467487.html",
-      "snippet": "此后模型、算力、数据中心都在合作范围内",
-      "pubDate": "Fri, 07 Aug 2026 00:25:07 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-08-07T04:26:09.001Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -213,25 +278,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "snippet": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doug",
-      "pubDate": "2026-08-06T20:55:39.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.816Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -245,7 +294,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-07T04:26:16.170Z",
+      "fetchedAt": "2026-08-07T07:16:55.840Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +310,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-07T04:26:16.170Z",
+      "fetchedAt": "2026-08-07T07:16:55.840Z",
       "tags": [
         "大模型"
       ]
@@ -277,7 +326,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-07T04:26:18.674Z",
+      "fetchedAt": "2026-08-07T07:16:56.950Z",
       "tags": [
         "AI应用"
       ]
@@ -293,23 +342,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-08-07T04:26:16.170Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Suno shares plans to combat spammy AI music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "snippet": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t  Suno announced plans to imp",
-      "pubDate": "2026-08-06T17:39:43.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.816Z",
+      "fetchedAt": "2026-08-07T07:16:55.840Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +358,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "大模型"
       ]
@@ -341,7 +374,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-07T04:26:18.674Z",
+      "fetchedAt": "2026-08-07T07:16:56.950Z",
       "tags": [
         "开源工具"
       ]
@@ -357,7 +390,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "商业融资"
       ]
@@ -366,14 +399,14 @@
       "id": "dGhldmVyZ2UtYWk6",
       "title": "OpenAI is giving ChatGPT free users unlimited text chats",
       "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text",
+      "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: starting next week, users on those tiers will be able to have unlimited text",
       "pubDate": "2026-08-06T17:00:00.000Z",
       "sourceName": "The Verge",
       "sourceId": "theverge-ai",
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.816Z",
+      "fetchedAt": "2026-08-07T07:16:54.561Z",
       "tags": [
         "大模型"
       ]
@@ -389,7 +422,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-07T04:26:16.170Z",
+      "fetchedAt": "2026-08-07T07:16:55.840Z",
       "tags": [
         "开源工具"
       ]
@@ -405,7 +438,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "AI应用"
       ]
@@ -421,7 +454,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +470,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.816Z",
+      "fetchedAt": "2026-08-07T07:16:54.561Z",
       "tags": [
         "政策监管"
       ]
@@ -453,7 +486,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.816Z",
+      "fetchedAt": "2026-08-07T07:16:54.561Z",
       "tags": [
         "政策监管"
       ]
@@ -469,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "大模型"
       ]
@@ -485,25 +518,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Jeff Dean 创业路演 PPT，惊现 34 位创始人，谷歌系人才占领半壁江山",
-      "link": "https://www.leiphone.com/category/ai/woyyD9TFUP2pnDOC.html",
-      "snippet": "杨植麟也是 Jeff Dean PPT 中列出的谷歌系创始人名单中的一位。          作者丨高允毅 郑佳美      编辑丨岑   峰",
-      "pubDate": "Thu, 06 Aug 2026 21:40:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -517,7 +534,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "AI应用"
       ]
@@ -533,7 +550,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.816Z",
+      "fetchedAt": "2026-08-07T07:16:54.561Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +566,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -566,7 +583,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "学术研究"
       ]
@@ -582,7 +599,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.816Z",
+      "fetchedAt": "2026-08-07T07:16:54.561Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +615,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -615,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "政策监管"
       ]
@@ -631,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +664,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-07T04:26:15.095Z",
+      "fetchedAt": "2026-08-07T07:16:54.864Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-07T04:26:14.509Z",
+      "fetchedAt": "2026-08-07T07:16:54.227Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -680,7 +697,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "综合"
       ]
@@ -696,7 +713,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-08-07T04:26:16.170Z",
+      "fetchedAt": "2026-08-07T07:16:55.840Z",
       "tags": [
         "综合"
       ]
@@ -712,7 +729,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "大模型"
       ]
@@ -728,25 +745,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:16.644Z",
+      "fetchedAt": "2026-08-07T07:16:56.352Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
-      "link": "https://www.qbitai.com/2026/08/467478.html",
-      "snippet": "正式公开了安卓液态玻璃设计的完整技术底座",
-      "pubDate": "Thu, 06 Aug 2026 09:58:21 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-07T04:26:09.001Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -760,7 +761,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.816Z",
+      "fetchedAt": "2026-08-07T07:16:54.561Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -777,7 +778,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-07T04:26:18.674Z",
+      "fetchedAt": "2026-08-07T07:16:56.950Z",
       "tags": [
         "AI应用"
       ]
@@ -793,7 +794,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "商业融资"
       ]
@@ -809,7 +810,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-07T04:26:14.111Z",
+      "fetchedAt": "2026-08-07T07:16:53.919Z",
       "tags": [
         "学术研究"
       ]
