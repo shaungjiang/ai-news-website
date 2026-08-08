@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-08-08T06:58:43.384Z",
+  "generatedAt": "2026-08-08T08:46:38.022Z",
   "stats": {
-    "total": 95,
+    "total": 106,
     "shown": 50,
-    "chinese": 28,
-    "english": 67,
-    "today": 3
+    "chinese": 29,
+    "english": 77,
+    "today": 7
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
+      "link": "https://www.qbitai.com/2026/08/468631.html",
+      "snippet": "这就有些尴尬了。",
+      "pubDate": "Sat, 08 Aug 2026 07:57:35 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "中国NeoLab时刻：EverMind用3篇论文，交出全栈自进化首份答卷",
+      "link": "https://www.qbitai.com/2026/08/468555.html",
+      "snippet": "海外团队纷纷下注，NeoLab浪潮狂飙",
+      "pubDate": "Sat, 08 Aug 2026 07:56:09 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Jeff Dean创业BP曝光，杨植麟也在上面！硅谷VC抢破头送钱",
+      "link": "https://www.qbitai.com/2026/08/468498.html",
+      "snippet": "「我，Jeff Dean，打钱」",
+      "pubDate": "Sat, 08 Aug 2026 07:51:53 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+      "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
+      "snippet": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single y",
+      "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-08T08:42:01.248Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "都学坏了！奥特曼亲手封锁最强模型Astra，重蹈Mythos覆辙",
@@ -19,7 +83,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-08T06:54:04.001Z",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-08T06:54:04.001Z",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-08T06:54:04.001Z",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
       "tags": [
         "综合"
       ]
@@ -67,9 +131,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
+      "fetchedAt": "2026-08-08T08:41:58.728Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+      "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
+      "snippet": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, r",
+      "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-08T08:42:01.248Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -83,7 +163,39 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
+      "fetchedAt": "2026-08-08T08:41:58.728Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+      "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+      "snippet": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python",
+      "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-08T08:42:01.248Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
+      "link": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
+      "snippet": "NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today i",
+      "pubDate": "Fri, 07 Aug 2026 20:42:02 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-08T08:42:01.248Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
+      "fetchedAt": "2026-08-08T08:41:58.978Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +227,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
+      "fetchedAt": "2026-08-08T08:41:58.978Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
+      "fetchedAt": "2026-08-08T08:41:58.978Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +259,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-08-08T06:54:11.981Z",
+      "fetchedAt": "2026-08-08T08:42:00.353Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +275,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
+      "fetchedAt": "2026-08-08T08:41:58.978Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
+      "fetchedAt": "2026-08-08T08:41:58.728Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +307,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +323,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:13.912Z",
+      "fetchedAt": "2026-08-08T08:42:00.859Z",
       "tags": [
         "商业融资"
       ]
@@ -227,7 +339,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
+      "fetchedAt": "2026-08-08T08:41:58.728Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +355,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-08T06:54:11.049Z",
+      "fetchedAt": "2026-08-08T08:41:59.265Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +371,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Theresa Loconsolo",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
+      "fetchedAt": "2026-08-08T08:41:58.728Z",
       "tags": [
         "AI应用"
       ]
@@ -275,7 +387,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eileen Guo, Gisela Perez de Acha, Martin Sona",
-      "fetchedAt": "2026-08-08T06:54:11.049Z",
+      "fetchedAt": "2026-08-08T08:41:59.265Z",
       "tags": [
         "政策监管"
       ]
@@ -291,7 +403,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cyrus Farivar\n                ",
-      "fetchedAt": "2026-08-08T06:54:11.981Z",
+      "fetchedAt": "2026-08-08T08:42:00.353Z",
       "tags": [
         "学术研究"
       ]
@@ -307,7 +419,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Zijing Wu, Financial Times\n                ",
-      "fetchedAt": "2026-08-08T06:54:11.981Z",
+      "fetchedAt": "2026-08-08T08:42:00.353Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +435,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
+      "fetchedAt": "2026-08-08T08:41:58.728Z",
       "tags": [
         "商业融资"
       ]
@@ -339,7 +451,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "学术研究"
       ]
@@ -355,7 +467,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "综合"
       ]
@@ -371,7 +483,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:13.912Z",
+      "fetchedAt": "2026-08-08T08:42:00.859Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -388,7 +500,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-08T06:54:04.001Z",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
       "tags": [
         "AI应用"
       ]
@@ -404,7 +516,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +532,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-08-08T06:54:04.001Z",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +548,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-08T06:54:04.002Z",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -453,9 +565,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
+      "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
+      "snippet": "Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a reposi",
+      "pubDate": "Fri, 07 Aug 2026 05:42:45 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-08T08:42:01.248Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -469,9 +597,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-08T06:54:04.002Z",
+      "fetchedAt": "2026-08-08T08:41:50.014Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
+      "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
+      "snippet": "Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model",
+      "pubDate": "Fri, 07 Aug 2026 03:42:27 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-08T08:42:01.248Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -485,42 +629,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-      "link": "https://www.qbitai.com/2026/08/467877.html",
-      "snippet": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测",
-      "pubDate": "Fri, 07 Aug 2026 03:23:54 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-08T06:54:04.002Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
-      "link": "https://www.qbitai.com/2026/08/467879.html",
-      "snippet": "Chat优化版",
-      "pubDate": "Fri, 07 Aug 2026 03:23:01 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-08-08T06:54:04.002Z",
-      "tags": [
-        "大模型",
-        "开源工具"
       ]
     },
     {
@@ -534,25 +645,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "蚂蚁集团开源Avernet，让人与智能体像组织一样高效协作",
-      "link": "https://www.qbitai.com/2026/08/467871.html",
-      "snippet": "蚂蚁集团正式开源多智能体协作基础设施Avernet，社区版本已上线",
-      "pubDate": "Fri, 07 Aug 2026 03:08:51 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "link": "https://www.leiphone.com/category/industrynews/Wp4SCQ5wu1Lbhtr1.html",
+      "snippet": "8月6日，阿里巴巴视频生成大模型Wan 3.0开启公测，在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级：单次可生成30秒视频，完整表达创作意图；在文本、图片、音频、视频四种基础模态之外，首次支持doc、xls、ppt、pdf、md等文档格式输入；力求准确还原真实世界——人物千人千面，每",
+      "pubDate": "Fri, 07 Aug 2026 10:24:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
       "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-08T06:54:04.002Z",
+      "creator": "",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
-        "AI应用"
+        "大模型"
       ]
     },
     {
@@ -566,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:09.972Z",
+      "fetchedAt": "2026-08-08T08:41:58.427Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -599,7 +710,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
+      "fetchedAt": "2026-08-08T08:41:58.728Z",
       "tags": [
         "综合"
       ]
@@ -615,7 +726,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
+      "fetchedAt": "2026-08-08T08:41:58.978Z",
       "tags": [
         "AI应用"
       ]
@@ -631,7 +742,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-08T06:54:11.981Z",
+      "fetchedAt": "2026-08-08T08:42:00.353Z",
       "tags": [
         "综合"
       ]
@@ -647,9 +758,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-08T06:54:11.981Z",
+      "fetchedAt": "2026-08-08T08:42:00.353Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
+      "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+      "snippet": "Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, wi",
+      "pubDate": "Thu, 06 Aug 2026 19:35:32 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-08T08:42:01.248Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -663,7 +790,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-08-08T06:54:11.981Z",
+      "fetchedAt": "2026-08-08T08:42:00.353Z",
       "tags": [
         "综合"
       ]
@@ -679,137 +806,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
+      "fetchedAt": "2026-08-08T08:41:58.978Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "snippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "snippet": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "pubDate": "Thu, 06 Aug 2026 17:00:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ram Iyer",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text",
-      "pubDate": "2026-08-06T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "snippet": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
-      "pubDate": "Thu, 06 Aug 2026 16:15:30 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-08T06:54:11.981Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "snippet": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "pubDate": "Thu, 06 Aug 2026 15:53:03 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "snippet": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices —",
-      "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-08T06:54:10.431Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "snippet": "The Portsmouth, Ohio site where SoftBank will build its data center. | Image: US Department of Energy\t  SoftBank contributed $50 million to the Trump",
-      "pubDate": "2026-08-06T14:30:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The left and right agree on one thing: no data centers",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "snippet": "Today, I’m talking with Gaby Del Valle, a policy reporter here at The Verge, about the growing backlash against AI data centers.  Gaby recently report",
-      "pubDate": "2026-08-06T14:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-08T06:54:10.721Z",
-      "tags": [
-        "政策监管"
       ]
     }
   ]
