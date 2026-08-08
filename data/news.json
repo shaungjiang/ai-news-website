@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-08T10:44:17.449Z",
+  "generatedAt": "2026-08-08T12:54:35.973Z",
   "stats": {
-    "total": 96,
+    "total": 106,
     "shown": 50,
     "chinese": 29,
-    "english": 67,
-    "today": 6
+    "english": 77,
+    "today": 9
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
+      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
+      "snippet": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
+      "pubDate": "Sat, 08 Aug 2026 11:05:50 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Victoria Turk, wired.com\n                ",
+      "fetchedAt": "2026-08-08T12:49:51.116Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export",
+      "link": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/",
+      "snippet": "Dive into the advanced visualization capabilities of the Reflex XY Python library. This tutorial guides you through building high-performance, interac",
+      "pubDate": "Sat, 08 Aug 2026 09:42:18 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-08T12:49:53.603Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -19,7 +51,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.354Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +67,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "学术研究"
       ]
@@ -51,9 +83,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+      "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
+      "snippet": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single y",
+      "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-08T12:49:53.603Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -67,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "综合"
       ]
@@ -115,9 +163,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
+      "fetchedAt": "2026-08-08T12:49:49.395Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+      "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
+      "snippet": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, r",
+      "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-08T12:49:53.603Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -131,7 +195,39 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
+      "fetchedAt": "2026-08-08T12:49:49.395Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+      "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+      "snippet": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python",
+      "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-08T12:49:53.603Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA AI Releases NOOA: An Object-Oriented Python Framework That Turns an AI Agent Into a Single Python Class",
+      "link": "https://www.marktechpost.com/2026/08/07/nvidia-ai-releases-nooa-an-object-oriented-python-framework/",
+      "snippet": "NVIDIA Labs has open-sourced NOOA (NVIDIA Object-Oriented Agents), a model-agnostic Python framework for building AI agents. Agent development today i",
+      "pubDate": "Fri, 07 Aug 2026 20:42:02 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-08T12:49:53.603Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:25.499Z",
+      "fetchedAt": "2026-08-08T12:49:49.705Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +259,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:25.499Z",
+      "fetchedAt": "2026-08-08T12:49:49.705Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +275,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:25.499Z",
+      "fetchedAt": "2026-08-08T12:49:49.705Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +291,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-08-08T10:34:26.531Z",
+      "fetchedAt": "2026-08-08T12:49:51.116Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +307,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:25.499Z",
+      "fetchedAt": "2026-08-08T12:49:49.705Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +323,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
+      "fetchedAt": "2026-08-08T12:49:49.395Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +339,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +355,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:26.869Z",
+      "fetchedAt": "2026-08-08T12:49:52.646Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +371,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
+      "fetchedAt": "2026-08-08T12:49:49.395Z",
       "tags": [
         "AI应用"
       ]
@@ -291,7 +387,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-08T10:34:25.800Z",
+      "fetchedAt": "2026-08-08T12:49:50.052Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +403,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Theresa Loconsolo",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
+      "fetchedAt": "2026-08-08T12:49:49.395Z",
       "tags": [
         "AI应用"
       ]
@@ -323,7 +419,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eileen Guo, Gisela Perez de Acha, Martin Sona",
-      "fetchedAt": "2026-08-08T10:34:25.800Z",
+      "fetchedAt": "2026-08-08T12:49:50.052Z",
       "tags": [
         "政策监管"
       ]
@@ -339,7 +435,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cyrus Farivar\n                ",
-      "fetchedAt": "2026-08-08T10:34:26.531Z",
+      "fetchedAt": "2026-08-08T12:49:51.116Z",
       "tags": [
         "学术研究"
       ]
@@ -355,7 +451,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Zijing Wu, Financial Times\n                ",
-      "fetchedAt": "2026-08-08T10:34:26.531Z",
+      "fetchedAt": "2026-08-08T12:49:51.116Z",
       "tags": [
         "综合"
       ]
@@ -371,7 +467,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
+      "fetchedAt": "2026-08-08T12:49:49.395Z",
       "tags": [
         "商业融资"
       ]
@@ -387,7 +483,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "学术研究"
       ]
@@ -403,7 +499,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "综合"
       ]
@@ -419,7 +515,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:26.869Z",
+      "fetchedAt": "2026-08-08T12:49:52.646Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -436,7 +532,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "AI应用"
       ]
@@ -452,7 +548,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +564,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +580,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -501,9 +597,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft Open Sources code-testing-generator: a Polyglot Unit-Test Agent That Hits 92.1% Task Completion Versus 78.9% for Stock Copilot",
+      "link": "https://www.marktechpost.com/2026/08/06/microsoft-open-sources-code-testing-generator/",
+      "snippet": "Microsoft has open sourced code-testing-generator, a polyglot unit-test agent shipping in the MIT-licensed dotnet/skills repository. It reads a reposi",
+      "pubDate": "Fri, 07 Aug 2026 05:42:45 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-08T12:49:53.603Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -517,9 +629,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-08T10:34:19.583Z",
+      "fetchedAt": "2026-08-08T12:49:41.355Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LFM2.5-2.6B: An On-Device Agentic Model With 128K Context, Tool Calling, And Open Weights",
+      "link": "https://www.marktechpost.com/2026/08/06/liquid-ai-lfm2-5-2-6b-on-device-agentic-model/",
+      "snippet": "Liquid AI released LFM2.5-2.6B, an agentic model that plans, calls tools, and completes multi-step tasks entirely on-device. The 2.69B parameter model",
+      "pubDate": "Fri, 07 Aug 2026 03:42:27 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-08T12:49:53.603Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -533,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "商业融资"
       ]
@@ -549,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "大模型"
       ]
@@ -581,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:24.989Z",
+      "fetchedAt": "2026-08-08T12:49:49.120Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -614,7 +742,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
+      "fetchedAt": "2026-08-08T12:49:49.395Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +758,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-08T10:34:25.499Z",
+      "fetchedAt": "2026-08-08T12:49:49.705Z",
       "tags": [
         "AI应用"
       ]
@@ -646,7 +774,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-08T10:34:26.531Z",
+      "fetchedAt": "2026-08-08T12:49:51.116Z",
       "tags": [
         "综合"
       ]
@@ -662,153 +790,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-08T10:34:26.531Z",
+      "fetchedAt": "2026-08-08T12:49:51.116Z",
       "tags": [
         "大模型"
       ]
     },
     {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Large genome models used to design new viruses",
-      "link": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
-      "snippet": "The AI system makes genetically distant versions of a bacteria-killing virus.",
-      "pubDate": "Thu, 06 Aug 2026 19:04:57 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Cloudflare Introduces Kitesurf: An Agent-First Web Browser That Runs Entirely in V8 Isolates on Cloudflare Workers",
+      "link": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+      "snippet": "Cloudflare has released Kitesurf, a stateless web browser built specifically for AI agents that runs entirely in V8 isolates on Cloudflare Workers, wi",
+      "pubDate": "Thu, 06 Aug 2026 19:35:32 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
       "lang": "en",
-      "category": "科技",
-      "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-08-08T10:34:26.531Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Suno shares plans to combat spammy AI music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "snippet": "Suno’s AI vocalists could learn a thing or two from this glitchy image. | Image: Cath Virginia / The Verge, Getty Images\t  Suno announced plans to imp",
-      "pubDate": "2026-08-06T17:39:43.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-08T10:34:25.499Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "snippet": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "pubDate": "Thu, 06 Aug 2026 17:34:42 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "snippet": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "pubDate": "Thu, 06 Aug 2026 17:00:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ram Iyer",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI is giving ChatGPT free users unlimited text chats",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "snippet": "OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text",
-      "pubDate": "2026-08-06T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-08T10:34:25.499Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
-      "link": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
-      "snippet": "Cloudflare built an AI agent workspace for its employees. Now it’s open source.",
-      "pubDate": "Thu, 06 Aug 2026 16:15:30 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-08T10:34:26.531Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Gen Z dating apps like Ditto ditch swiping in favor of AI matchmaking",
-      "link": "https://techcrunch.com/2026/08/06/gen-z-dating-apps-like-ditto-ditch-swiping-in-favor-of-ai-matchmaking/",
-      "snippet": "This generation of twentysomethings is so disillusioned with swipe-based dating apps that they'll try literally anything else — even an AI matchmaker.",
-      "pubDate": "Thu, 06 Aug 2026 15:53:03 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-08T12:49:53.603Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
-      "link": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/",
-      "snippet": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices —",
-      "pubDate": "Thu, 06 Aug 2026 15:10:32 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-08T10:34:25.214Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "SoftBank donated $50 million to Trump’s library months before federal data center deal",
-      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "snippet": "The Portsmouth, Ohio site where SoftBank will build its data center. | Image: US Department of Energy\t  SoftBank contributed $50 million to the Trump",
-      "pubDate": "2026-08-06T14:30:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-08T10:34:25.499Z",
-      "tags": [
-        "政策监管"
       ]
     }
   ]
