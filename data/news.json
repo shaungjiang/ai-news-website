@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-10T19:02:32.691Z",
+  "generatedAt": "2026-08-10T20:51:38.282Z",
   "stats": {
-    "total": 101,
+    "total": 110,
     "shown": 50,
     "chinese": 29,
-    "english": 72,
-    "today": 36
+    "english": 81,
+    "today": 40
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "snippet": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "pubDate": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-08-10T20:42:48.473Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "link": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I",
+      "pubDate": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Grace Huckins",
+      "fetchedAt": "2026-08-10T20:42:49.040Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "b3BlbmFpLWJsb2c6",
       "title": "What building an AI-native finance function taught me",
@@ -19,7 +51,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:08.244Z",
+      "fetchedAt": "2026-08-10T20:42:50.276Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
+      "fetchedAt": "2026-08-10T20:42:48.473Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +83,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -68,7 +100,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "AI应用"
       ]
@@ -84,9 +116,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:06.403Z",
+      "fetchedAt": "2026-08-10T20:42:48.766Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meta AI Releases Muse Glimmer: A 30B Open-Weights Agentic Model That Runs on One Consumer GPU",
+      "link": "https://www.marktechpost.com/2026/08/10/meta-ai-releases-muse-glimmer/",
+      "snippet": "Meta's Muse Glimmer is a 30B open-weights agentic model under Apache 2.0. It fits 24 GB VRAM and decodes 3.1x faster with DFlash speculation. The post",
+      "pubDate": "Mon, 10 Aug 2026 15:11:51 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-10T20:42:50.897Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -100,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:06.403Z",
+      "fetchedAt": "2026-08-10T20:42:48.766Z",
       "tags": [
         "AI应用"
       ]
@@ -116,7 +164,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:08.244Z",
+      "fetchedAt": "2026-08-10T20:42:50.276Z",
       "tags": [
         "政策监管"
       ]
@@ -132,7 +180,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.039Z",
       "tags": [
         "学术研究"
       ]
@@ -148,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.039Z",
       "tags": [
         "学术研究"
       ]
@@ -164,7 +212,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-10T18:58:06.677Z",
+      "fetchedAt": "2026-08-10T20:42:49.040Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
+      "fetchedAt": "2026-08-10T20:42:48.473Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +244,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:08.244Z",
+      "fetchedAt": "2026-08-10T20:42:50.276Z",
       "tags": [
         "大模型"
       ]
@@ -212,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Saima Sidik\n                ",
-      "fetchedAt": "2026-08-10T18:58:07.811Z",
+      "fetchedAt": "2026-08-10T20:42:49.849Z",
       "tags": [
         "学术研究"
       ]
@@ -228,7 +276,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:06.403Z",
+      "fetchedAt": "2026-08-10T20:42:48.766Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +292,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:08.244Z",
+      "fetchedAt": "2026-08-10T20:42:50.276Z",
       "tags": [
         "大模型"
       ]
@@ -260,7 +308,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:08.244Z",
+      "fetchedAt": "2026-08-10T20:42:50.276Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +324,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.039Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +340,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eric Schmidt, Suhas Mahesh",
-      "fetchedAt": "2026-08-10T18:58:06.677Z",
+      "fetchedAt": "2026-08-10T20:42:49.040Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +356,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-08-10T18:58:06.677Z",
+      "fetchedAt": "2026-08-10T20:42:49.040Z",
       "tags": [
         "大模型"
       ]
@@ -324,7 +372,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "商业融资"
       ]
@@ -340,7 +388,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "AI应用"
       ]
@@ -356,7 +404,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "商业融资"
       ]
@@ -372,7 +420,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "商业融资"
       ]
@@ -388,9 +436,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.039Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+      "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
+      "snippet": "ByteDance’s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified ar",
+      "pubDate": "Mon, 10 Aug 2026 05:48:17 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-10T20:42:50.897Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -404,7 +468,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.039Z",
       "tags": [
         "大模型"
       ]
@@ -420,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.039Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -437,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.040Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.040Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -502,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -551,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.040Z",
       "tags": [
         "AI应用"
       ]
@@ -567,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-10T18:58:01.291Z",
+      "fetchedAt": "2026-08-10T20:42:43.040Z",
       "tags": [
         "综合"
       ]
@@ -583,9 +647,25 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:08.244Z",
+      "fetchedAt": "2026-08-10T20:42:50.276Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "link": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
+      "snippet": "NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms latency and live tool calling. The post NVIDIA Rele",
+      "pubDate": "Sun, 09 Aug 2026 23:58:34 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-10T20:42:50.897Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -599,7 +679,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
+      "fetchedAt": "2026-08-10T20:42:48.473Z",
       "tags": [
         "商业融资"
       ]
@@ -615,7 +695,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
+      "fetchedAt": "2026-08-10T20:42:48.473Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+      "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+      "snippet": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing. The post",
+      "pubDate": "Sun, 09 Aug 2026 18:15:30 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-10T20:42:50.897Z",
       "tags": [
         "大模型"
       ]
@@ -631,7 +727,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
+      "fetchedAt": "2026-08-10T20:42:48.473Z",
       "tags": [
         "政策监管"
       ]
@@ -647,7 +743,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
+      "fetchedAt": "2026-08-10T20:42:48.473Z",
       "tags": [
         "开源工具"
       ]
@@ -663,7 +759,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:06.403Z",
+      "fetchedAt": "2026-08-10T20:42:48.766Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "商业融资"
       ]
@@ -695,121 +791,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T18:58:05.862Z",
+      "fetchedAt": "2026-08-10T20:42:48.201Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the US",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "snippet": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that",
-      "pubDate": "Sat, 08 Aug 2026 21:24:02 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
+      "link": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/",
+      "snippet": "This tutorial provides a comprehensive guide to building a robust sentiment analysis workflow. By combining classical TF-IDF baselines with modern par",
+      "pubDate": "Sun, 09 Aug 2026 07:17:35 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
       "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-10T20:42:50.897Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "snippet": "Founder Ahmed Beshry describes the startup’s product as one “that could turn prompts, notes, documents, or research into a polished, editable presenta",
-      "pubDate": "Sat, 08 Aug 2026 19:41:13 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "An Amazon data center could have the worst polluting power plant in the country",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "snippet": "To power its new West Texas data center, Amazon is investing in the construction of a new power plant that could be one of the largest single producer",
-      "pubDate": "2026-08-08T17:53:34.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-10T18:58:06.403Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "DeepMind’s hurricane breakthrough has surprised weather scientists",
-      "link": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/",
-      "snippet": "Open source WeatherNext model can make accurate predictions with lower-resolution weather data.",
-      "pubDate": "Sat, 08 Aug 2026 11:05:50 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Victoria Turk, wired.com\n                ",
-      "fetchedAt": "2026-08-10T18:58:07.811Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "snippet": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and car",
-      "pubDate": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "snippet": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "pubDate": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-08-10T18:58:06.116Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "snippet": "That cover art is almost certainly AI too. | Image: Fenix Flexin\t  It took long enough, but now LA rapper Fenix Flexin appears to have admitted using",
-      "pubDate": "2026-08-07T20:01:51.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-10T18:58:06.403Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
