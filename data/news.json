@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-10T11:18:07.879Z",
+  "generatedAt": "2026-08-10T13:19:37.206Z",
   "stats": {
-    "total": 95,
+    "total": 105,
     "shown": 50,
     "chinese": 29,
-    "english": 66,
-    "today": 20
+    "english": 76,
+    "today": 24
   },
   "articles": [
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "link": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for scien",
+      "pubDate": "Mon, 10 Aug 2026 12:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-08-10T13:09:45.998Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+      "snippet": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "pubDate": "Mon, 10 Aug 2026 12:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "Peer review is overwhelmed—can it survive in the AI era?",
@@ -19,9 +51,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Saima Sidik\n                ",
-      "fetchedAt": "2026-08-10T11:09:19.653Z",
+      "fetchedAt": "2026-08-10T13:09:47.284Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Ford’s new AI assistant can check your fuel levels and tire pressure",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "snippet": "Ford is rolling out a new AI-powered assistant that can answer questions about your Ford or Lincoln vehicle, such as how much fuel you'll need for you",
+      "pubDate": "2026-08-10T11:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-10T13:09:45.591Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,7 +83,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +99,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eric Schmidt, Suhas Mahesh",
-      "fetchedAt": "2026-08-10T11:09:18.806Z",
+      "fetchedAt": "2026-08-10T13:09:45.998Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +115,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-08-10T11:09:18.806Z",
+      "fetchedAt": "2026-08-10T13:09:45.998Z",
       "tags": [
         "大模型"
       ]
@@ -83,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +163,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +179,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "商业融资"
       ]
@@ -147,9 +195,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "ByteDance Seed Introduces SeedRealtime: a Native Audio-Visual Full-Duplex LLM That Watches, Listens and Speaks in One Model",
+      "link": "https://www.marktechpost.com/2026/08/09/bytedance-seed-introduces-seedrealtime-a-native-audio-visual-full-duplex-llm-that-watches-listens-and-speaks-in-one-model/",
+      "snippet": "ByteDance’s Seed team has introduced SeedRealtime, a native audio-visual full-duplex LLM. The model fuses audio, video and text in a single unified ar",
+      "pubDate": "Mon, 10 Aug 2026 05:48:17 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -163,7 +227,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "大模型"
       ]
@@ -179,7 +243,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -196,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +308,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -261,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "AI应用"
       ]
@@ -277,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "AI应用"
       ]
@@ -293,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -310,7 +374,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "AI应用"
       ]
@@ -326,9 +390,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "link": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
+      "snippet": "NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms latency and live tool calling. The post NVIDIA Rele",
+      "pubDate": "Sun, 09 Aug 2026 23:58:34 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -342,7 +422,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
       "tags": [
         "商业融资"
       ]
@@ -358,7 +438,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Top LLM Observability and Evaluation Platforms in 2026: Langfuse, LangSmith, Braintrust, Arize, and More Compared",
+      "link": "https://www.marktechpost.com/2026/08/09/top-llm-observability-and-evaluation-platforms-in-2026-langfuse-langsmith-braintrust-arize-and-more-compared/",
+      "snippet": "A verified 2026 comparison of LLM observability platforms covering tracing depth, evaluation capability, production monitoring, and pricing. The post",
+      "pubDate": "Sun, 09 Aug 2026 18:15:30 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
       "tags": [
         "大模型"
       ]
@@ -374,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
       "tags": [
         "政策监管"
       ]
@@ -390,7 +486,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
       "tags": [
         "开源工具"
       ]
@@ -406,7 +502,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:18.549Z",
+      "fetchedAt": "2026-08-10T13:09:45.591Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "商业融资"
       ]
@@ -438,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "大模型"
       ]
@@ -454,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-08-10T11:09:12.339Z",
+      "fetchedAt": "2026-08-10T13:09:38.724Z",
       "tags": [
         "大模型"
       ]
@@ -470,9 +566,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
+      "fetchedAt": "2026-08-10T13:09:45.068Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "IMDb Sentiment Analysis with DistilBERT LoRA, TF-IDF Baselines, Calibration, Interpretability, Robustness Testing, and Semi-Supervised Learning",
+      "link": "https://www.marktechpost.com/2026/08/09/imdb-sentiment-analysis-with-distilbert-lora-tf-idf-baselines-calibration-interpretability-robustness-testing-and-semi-supervised-learning/",
+      "snippet": "This tutorial provides a comprehensive guide to building a robust sentiment analysis workflow. By combining classical TF-IDF baselines with modern par",
+      "pubDate": "Sun, 09 Aug 2026 07:17:35 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -486,7 +598,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet Shepherd: An Open-Source Python Substrate That Lets Meta-Agents Fork, Replay, and Revert Any Agent Run",
+      "link": "https://www.marktechpost.com/2026/08/08/meet-shepherd-an-open-source-python-substrate-that-lets-meta-agents-fork-replay-and-revert-any-agent-run/",
+      "snippet": "Long agent runs accumulate state that no transcript records — edited files, a live dev server, installed packages, a warm prompt cache. When an agent",
+      "pubDate": "Sat, 08 Aug 2026 20:54:49 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +630,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
       "tags": [
         "大模型",
         "商业融资"
@@ -519,9 +647,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:18.549Z",
+      "fetchedAt": "2026-08-10T13:09:45.591Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Pokee AI Releases Pokee-Isaac 28B: A 10M-Token Context Agentic Model Built to Run Inside the Customer Boundary",
+      "link": "https://www.marktechpost.com/2026/08/08/pokee-ai-releases-pokee-isaac-28b-a-10m-token-context-agentic-model-built-to-run-inside-the-customer-boundary/",
+      "snippet": "Pokee AI released Pokee-Isaac 28B, a 28B text-only foundation model with a 10M-token context window built to run inside the customer boundary. It scor",
+      "pubDate": "Sat, 08 Aug 2026 17:04:39 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -535,9 +679,41 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Victoria Turk, wired.com\n                ",
-      "fetchedAt": "2026-08-10T11:09:19.653Z",
+      "fetchedAt": "2026-08-10T13:09:47.284Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Designing Scalable Interactive Visualizations with Reflex XY: Composition, Million-Point Rendering, Streaming, Custom Marks, and Export",
+      "link": "https://www.marktechpost.com/2026/08/08/designing-scalable-interactive-visualizations-with-reflex-xy-composition-million-point-rendering-streaming-custom-marks-and-export/",
+      "snippet": "Dive into the advanced visualization capabilities of the Reflex XY Python library. This tutorial guides you through building high-performance, interac",
+      "pubDate": "Sat, 08 Aug 2026 09:42:18 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Mistral AI Releases Shieldstral 1.0 3B: An Open-Weights Policy-Adaptive Multimodal Safety Classifier Matching Models 7× Its Size",
+      "link": "https://www.marktechpost.com/2026/08/07/mistral-ai-releases-shieldstral-1-0-3b/",
+      "snippet": "Mistral AI has released Shieldstral 1.0 3B, an open-weights, policy-adaptive multimodal safety classifier that frames content moderation as a single y",
+      "pubDate": "Sat, 08 Aug 2026 04:36:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -551,9 +727,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Tencent Cloud Open-Sources TencentDB Agent Memory v2.0: A Team-Level Memory Hub for AI Coding Agents",
+      "link": "https://www.marktechpost.com/2026/08/07/tencent-cloud-open-sources-tencentdb-agent-memory-v2-0/",
+      "snippet": "Tencent Cloud has open-sourced TencentDB Agent Memory v2.0, a team-level memory hub that turns conversations, documents and code into four governed, r",
+      "pubDate": "Fri, 07 Aug 2026 21:52:48 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -567,9 +759,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
+      "fetchedAt": "2026-08-10T13:09:45.335Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building a Multimodal RAG Pipeline with NVIDIA NeMo Retriever, Hosted NIMs, LanceDB, Reranking, and Grounded Generation",
+      "link": "https://www.marktechpost.com/2026/08/07/building-a-multimodal-rag-pipeline-with-nvidia-nemo-retriever-hosted-nims-lancedb-reranking-and-grounded-generation/",
+      "snippet": "In this tutorial, we build an advanced multimodal retrieval-augmented generation pipeline with NVIDIA NeMo Retriever. We begin by configuring a Python",
+      "pubDate": "Fri, 07 Aug 2026 21:13:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-10T13:09:48.188Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -583,7 +791,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:18.549Z",
+      "fetchedAt": "2026-08-10T13:09:45.591Z",
       "tags": [
         "AI应用"
       ]
@@ -599,217 +807,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-10T11:09:18.549Z",
+      "fetchedAt": "2026-08-10T13:09:45.591Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI puts the brakes on a new model because it&#8217;s supposedly too powerful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "snippet": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the compa",
-      "pubDate": "2026-08-07T18:40:34.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-10T11:09:18.549Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "OpenAI’s expensive smart speaker will use moving parts to seem “more alive”",
-      "link": "https://arstechnica.com/gadgets/2026/08/openais-expensive-smart-speaker-will-use-moving-parts-to-seem-more-alive/",
-      "snippet": "Gurman report claims OpenAI confirmed the speaker is not an Apple ripoff.",
-      "pubDate": "Fri, 07 Aug 2026 17:36:22 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-08-10T11:09:19.653Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "What&#8217;s behind the Google AI shake-up",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "snippet": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no long",
-      "pubDate": "2026-08-07T16:45:14.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-10T11:09:18.549Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "snippet": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, h",
-      "pubDate": "Fri, 07 Aug 2026 16:16:09 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "赌注十万亿：字节拒绝走蒸馏捷径背后，张一鸣的长期主义有多狠？",
-      "link": "https://www.leiphone.com/category/yanxishe/JR3ppBP5VOxND55d.html",
-      "snippet": "张一鸣要的是，下一轮竞争中，Seed模型能力跻身世界第一梯队          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Fri, 07 Aug 2026 23:29:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-10T11:09:17.905Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "link": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
-      "snippet": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "pubDate": "Fri, 07 Aug 2026 15:20:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-08-10T11:09:20.017Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "snippet": "Airbnb will debut a new AI-powered search experience with a toggle.",
-      "pubDate": "Fri, 07 Aug 2026 14:22:49 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "link": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of",
-      "pubDate": "Fri, 07 Aug 2026 14:20:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-10T11:09:18.806Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Jill Lepore on the ‘Artificial State’ and why Silicon Valley’s leaders are bad sci-fi readers",
-      "link": "https://techcrunch.com/podcast/jill-lepore-on-the-artificial-state-and-why-silicon-valleys-leaders-are-bad-sci-fi-readers/",
-      "snippet": "Historian Jill Lepore has a theory about why tech companies often use soaring language to describe their products — almost as if they’re forming a new",
-      "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha, Theresa Loconsolo",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "link": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "snippet": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees o",
-      "pubDate": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Eileen Guo, Gisela Perez de Acha, Martin Sona",
-      "fetchedAt": "2026-08-10T11:09:18.806Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "AI chatbots have failed people in crisis. Can that be fixed?",
-      "link": "https://arstechnica.com/ai/2026/08/ai-chatbots-have-failed-people-in-crisis-can-that-be-fixed/",
-      "snippet": "Clinicians and researchers say AI companies need to open up their safety data.",
-      "pubDate": "Fri, 07 Aug 2026 13:49:37 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Cyrus Farivar\n                ",
-      "fetchedAt": "2026-08-10T11:09:19.653Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "ByteDance trains massive AI model in bid to rival Anthropic",
-      "link": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/",
-      "snippet": "TikTok owner training a model with 10 trillion parameters.",
-      "pubDate": "Fri, 07 Aug 2026 13:29:22 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Zijing Wu, Financial Times\n                ",
-      "fetchedAt": "2026-08-10T11:09:19.653Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-      "snippet": "Meta's total fine has racked up to $942 million in this case.",
-      "pubDate": "Fri, 07 Aug 2026 11:40:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-10T11:09:18.230Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
