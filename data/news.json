@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-08-11T05:18:39.485Z",
+  "generatedAt": "2026-08-11T07:15:26.196Z",
   "stats": {
     "total": 111,
     "shown": 50,
     "chinese": 29,
     "english": 82,
-    "today": 5
+    "today": 10
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "webAI Releases TwIL-LM: A 1.7B and 3B Formal-Logic Model Family for Autoformalization on Local Hardware",
+      "link": "https://www.marktechpost.com/2026/08/10/webai-releases-twil-lm-a-1-7b-and-3b-formal-logic-model-family-for-autoformalization-on-local-hardware/",
+      "snippet": "webAI has released TwIL-LM, a family of formal-logic models at 1.7B and 3B parameters that translate English into first-order logic and check whether",
+      "pubDate": "Tue, 11 Aug 2026 06:20:09 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-11T07:08:50.812Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Implementing a MiniMax-H3 Multimodal Video and Audio Generation Pipeline with ComfyUI APIs",
+      "link": "https://www.marktechpost.com/2026/08/10/implementing-a-minimax-h3-multimodal-video-and-audio-generation-pipeline-with-comfyui-apis/",
+      "snippet": "In this comprehensive guide, we demonstrate how to implement a complete, programmable MiniMax-H3 multimodal generation pipeline. By leveraging ComfyUI",
+      "pubDate": "Tue, 11 Aug 2026 05:44:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-11T07:08:50.812Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "link": "https://www.qbitai.com/2026/08/470485.html",
+      "snippet": "把下界推高了一大截",
+      "pubDate": "Tue, 11 Aug 2026 05:12:20 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-08-11T07:08:39.078Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "宇树会破发吗？王兴兴回应了",
+      "link": "https://www.qbitai.com/2026/08/470307.html",
+      "snippet": "200问回应一切",
+      "pubDate": "Tue, 11 Aug 2026 04:42:50 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-08-11T07:08:39.078Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "link": "https://www.qbitai.com/2026/08/470254.html",
+      "snippet": "真就把GPU当理财产品了～",
+      "pubDate": "Tue, 11 Aug 2026 04:31:39 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-08-11T07:08:39.078Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "Claude骂声中启动「隐形水印」：新模型全量嵌入，标记所有文字",
@@ -19,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
+      "fetchedAt": "2026-08-11T07:08:39.078Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
+      "fetchedAt": "2026-08-11T07:08:39.078Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
+      "fetchedAt": "2026-08-11T07:08:39.078Z",
       "tags": [
         "政策监管"
       ]
@@ -67,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
+      "fetchedAt": "2026-08-11T07:08:39.079Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-11T05:09:49.643Z",
+      "fetchedAt": "2026-08-11T07:08:44.316Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-11T05:09:49.643Z",
+      "fetchedAt": "2026-08-11T07:08:44.316Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-11T05:09:51.249Z",
+      "fetchedAt": "2026-08-11T07:08:45.805Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.973Z",
+      "fetchedAt": "2026-08-11T07:08:44.618Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-11T05:09:49.643Z",
+      "fetchedAt": "2026-08-11T07:08:44.316Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-11T05:09:51.249Z",
+      "fetchedAt": "2026-08-11T07:08:45.805Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-11T05:09:49.643Z",
+      "fetchedAt": "2026-08-11T07:08:44.316Z",
       "tags": [
         "大模型"
       ]
@@ -195,7 +275,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-08-11T05:09:50.317Z",
+      "fetchedAt": "2026-08-11T07:08:44.901Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +291,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:51.641Z",
+      "fetchedAt": "2026-08-11T07:08:50.455Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +307,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-11T05:09:49.643Z",
+      "fetchedAt": "2026-08-11T07:08:44.316Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +323,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -260,7 +340,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +356,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.973Z",
+      "fetchedAt": "2026-08-11T07:08:44.618Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +372,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-11T05:09:52.336Z",
+      "fetchedAt": "2026-08-11T07:08:50.812Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +388,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.973Z",
+      "fetchedAt": "2026-08-11T07:08:44.618Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +404,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:51.641Z",
+      "fetchedAt": "2026-08-11T07:08:50.455Z",
       "tags": [
         "政策监管"
       ]
@@ -340,7 +420,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
+      "fetchedAt": "2026-08-11T07:08:39.079Z",
       "tags": [
         "学术研究"
       ]
@@ -356,7 +436,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
+      "fetchedAt": "2026-08-11T07:08:39.079Z",
       "tags": [
         "学术研究"
       ]
@@ -372,7 +452,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-11T05:09:50.317Z",
+      "fetchedAt": "2026-08-11T07:08:44.901Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +468,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-11T05:09:49.643Z",
+      "fetchedAt": "2026-08-11T07:08:44.316Z",
       "tags": [
         "商业融资"
       ]
@@ -404,7 +484,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:51.641Z",
+      "fetchedAt": "2026-08-11T07:08:50.455Z",
       "tags": [
         "大模型"
       ]
@@ -420,7 +500,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Saima Sidik\n                ",
-      "fetchedAt": "2026-08-11T05:09:51.249Z",
+      "fetchedAt": "2026-08-11T07:08:45.805Z",
       "tags": [
         "学术研究"
       ]
@@ -436,7 +516,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.973Z",
+      "fetchedAt": "2026-08-11T07:08:44.618Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +532,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:51.641Z",
+      "fetchedAt": "2026-08-11T07:08:50.455Z",
       "tags": [
         "大模型"
       ]
@@ -468,7 +548,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:51.641Z",
+      "fetchedAt": "2026-08-11T07:08:50.455Z",
       "tags": [
         "AI应用"
       ]
@@ -484,7 +564,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
+      "fetchedAt": "2026-08-11T07:08:39.079Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +580,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eric Schmidt, Suhas Mahesh",
-      "fetchedAt": "2026-08-11T05:09:50.317Z",
+      "fetchedAt": "2026-08-11T07:08:44.901Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +596,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-08-11T05:09:50.317Z",
+      "fetchedAt": "2026-08-11T07:08:44.901Z",
       "tags": [
         "大模型"
       ]
@@ -532,7 +612,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "商业融资"
       ]
@@ -548,7 +628,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "AI应用"
       ]
@@ -564,7 +644,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "商业融资"
       ]
@@ -580,23 +660,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "对话郎咸朋：具身也会有“蔚小理”，靠融资实现不了物理AGI",
-      "link": "https://www.qbitai.com/2026/08/469520.html",
-      "snippet": "“我们90天就成了独角兽”",
-      "pubDate": "Mon, 10 Aug 2026 06:58:58 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "商业融资"
       ]
@@ -612,42 +676,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-11T05:09:52.336Z",
+      "fetchedAt": "2026-08-11T07:08:50.812Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-      "link": "https://www.qbitai.com/2026/08/469500.html",
-      "snippet": "会话越长，人的表现越差",
-      "pubDate": "Mon, 10 Aug 2026 05:37:51 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦晨",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Meoo秒悟团队版全量上线， 接入Qwen-3.8-Max、即日起可直接订阅",
-      "link": "https://www.qbitai.com/2026/08/469493.html",
-      "snippet": "从面向个人的AI创作工具，扩展为可供组织使用的生产力平台",
-      "pubDate": "Mon, 10 Aug 2026 03:24:23 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦晨",
-      "fetchedAt": "2026-08-11T05:09:43.431Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
       ]
     },
     {
@@ -661,7 +692,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "AI应用"
       ]
@@ -677,7 +708,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -694,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "AI应用"
       ]
@@ -710,7 +741,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "AI应用"
       ]
@@ -726,7 +757,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:49.330Z",
+      "fetchedAt": "2026-08-11T07:08:44.069Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -743,7 +774,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:51.641Z",
+      "fetchedAt": "2026-08-11T07:08:50.455Z",
       "tags": [
         "大模型"
       ]
@@ -759,7 +790,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:51.641Z",
+      "fetchedAt": "2026-08-11T07:08:50.455Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -776,42 +807,10 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T05:09:51.641Z",
+      "fetchedAt": "2026-08-11T07:08:50.455Z",
       "tags": [
         "大模型",
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
-      "link": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling/",
-      "snippet": "NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms latency and live tool calling. The post NVIDIA Rele",
-      "pubDate": "Sun, 09 Aug 2026 23:58:34 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-11T05:09:52.336Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "snippet": "The AI-focused hedge fund is still making some big bets.",
-      "pubDate": "Sun, 09 Aug 2026 20:35:17 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-11T05:09:49.643Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
