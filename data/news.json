@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-08-11T15:02:24.816Z",
+  "generatedAt": "2026-08-11T17:03:15.777Z",
   "stats": {
-    "total": 111,
+    "total": 112,
     "shown": 50,
     "chinese": 29,
-    "english": 82,
-    "today": 23
+    "english": 83,
+    "today": 28
   },
   "articles": [
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Humans aren’t electronics",
+      "link": "https://www.technologyreview.com/2026/08/11/1141238/humans-arent-electronics/",
+      "snippet": "The following essay, originally titled “Guaranteeing Agency in the Age of Neural Prosthetics,” was selected as one of three finalists in MIT’s 2026 En",
+      "pubDate": "Tue, 11 Aug 2026 16:40:53 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Strahinja Janjušević, SM ’26",
+      "fetchedAt": "2026-08-11T16:58:01.664Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "An unreleased Anthropic model made progress on one of math’s biggest unsolved problems",
+      "link": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+      "snippet": "For more than 150 years, the Riemann hypothesis has stood as one of the major unsolved problems in mathematics. Anthropic hasn't solved it — but the c",
+      "pubDate": "Tue, 11 Aug 2026 16:25:20 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Apple could help you prove your iPhone photos aren’t deepfakes",
+      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
+      "snippet": "Apple is seemingly developing an iOS feature that can verify when a photograph was taken using an iPhone camera. 9to5Mac reports that the iOS 27 beta",
+      "pubDate": "2026-08-11T16:19:15.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building and Validating a Quantitative Trading Strategy with OctoBot, Walk-Forward Backtesting, Parameter Optimization, and Interactive Analysis",
+      "link": "https://www.marktechpost.com/2026/08/11/building-and-validating-a-quantitative-trading-strategy-with-octobot-walk-forward-backtesting-parameter-optimization-and-interactive-analysis/",
+      "snippet": "In this tutorial, we build a complete quantitative backtesting workflow with OctoBot and OctoBot-Script while keeping the environment isolated from Co",
+      "pubDate": "Tue, 11 Aug 2026 15:17:29 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-11T16:58:03.410Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
@@ -19,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-11T14:58:00.919Z",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-11T14:58:00.919Z",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +195,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-11T14:58:01.538Z",
+      "fetchedAt": "2026-08-11T16:58:01.664Z",
       "tags": [
         "大模型"
       ]
@@ -147,7 +211,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "综合"
       ]
@@ -163,9 +227,26 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Testing ads in ChatGPT",
+      "link": "https://openai.com/index/testing-ads-in-chatgpt",
+      "snippet": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+      "pubDate": "Tue, 11 Aug 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-11T16:58:03.052Z",
+      "tags": [
+        "大模型",
+        "政策监管"
       ]
     },
     {
@@ -179,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "大模型"
       ]
@@ -195,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:00.603Z",
+      "fetchedAt": "2026-08-11T16:58:00.867Z",
       "tags": [
         "商业融资",
         "学术研究"
@@ -212,7 +293,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-11T14:58:03.958Z",
+      "fetchedAt": "2026-08-11T16:58:03.410Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +309,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-11T14:58:03.958Z",
+      "fetchedAt": "2026-08-11T16:58:03.410Z",
       "tags": [
         "开源工具"
       ]
@@ -244,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "大模型"
       ]
@@ -260,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "AI应用"
       ]
@@ -292,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "大模型"
       ]
@@ -308,7 +389,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "政策监管"
       ]
@@ -340,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-11T14:57:55.494Z",
+      "fetchedAt": "2026-08-11T16:57:56.606Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:00.603Z",
+      "fetchedAt": "2026-08-11T16:58:00.867Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +453,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-11T14:58:00.919Z",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
       "tags": [
         "商业融资"
       ]
@@ -388,7 +469,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-11T14:58:00.919Z",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
       "tags": [
         "AI应用"
       ]
@@ -404,7 +485,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-11T14:58:02.611Z",
+      "fetchedAt": "2026-08-11T16:58:02.646Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +501,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +517,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-11T14:58:00.919Z",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +533,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-11T14:58:02.611Z",
+      "fetchedAt": "2026-08-11T16:58:02.646Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +549,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-11T14:58:00.919Z",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
       "tags": [
         "大模型"
       ]
@@ -484,7 +565,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-08-11T14:58:01.538Z",
+      "fetchedAt": "2026-08-11T16:58:01.664Z",
       "tags": [
         "AI应用"
       ]
@@ -500,7 +581,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:03.091Z",
+      "fetchedAt": "2026-08-11T16:58:03.052Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +597,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-11T14:58:00.919Z",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
       "tags": [
         "综合"
       ]
@@ -532,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:00.603Z",
+      "fetchedAt": "2026-08-11T16:58:00.867Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -549,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:00.603Z",
+      "fetchedAt": "2026-08-11T16:58:00.867Z",
       "tags": [
         "AI应用"
       ]
@@ -565,7 +646,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +662,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-11T14:58:03.958Z",
+      "fetchedAt": "2026-08-11T16:58:03.410Z",
       "tags": [
         "AI应用"
       ]
@@ -597,7 +678,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "AI应用"
       ]
@@ -613,7 +694,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:03.091Z",
+      "fetchedAt": "2026-08-11T16:58:03.052Z",
       "tags": [
         "政策监管"
       ]
@@ -629,7 +710,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-11T14:58:01.538Z",
+      "fetchedAt": "2026-08-11T16:58:01.664Z",
       "tags": [
         "综合"
       ]
@@ -645,7 +726,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-11T14:58:00.919Z",
+      "fetchedAt": "2026-08-11T16:58:01.137Z",
       "tags": [
         "商业融资"
       ]
@@ -661,7 +742,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:03.091Z",
+      "fetchedAt": "2026-08-11T16:58:03.052Z",
       "tags": [
         "大模型"
       ]
@@ -677,7 +758,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Saima Sidik\n                ",
-      "fetchedAt": "2026-08-11T14:58:02.611Z",
+      "fetchedAt": "2026-08-11T16:58:02.646Z",
       "tags": [
         "学术研究"
       ]
@@ -693,7 +774,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:01.237Z",
+      "fetchedAt": "2026-08-11T16:58:01.380Z",
       "tags": [
         "综合"
       ]
@@ -709,7 +790,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:03.091Z",
+      "fetchedAt": "2026-08-11T16:58:03.052Z",
       "tags": [
         "大模型"
       ]
@@ -725,89 +806,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-11T14:58:03.091Z",
+      "fetchedAt": "2026-08-11T16:58:03.052Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "AI for science needs reasoning, not just data",
-      "link": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
-      "snippet": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physic",
-      "pubDate": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Eric Schmidt, Suhas Mahesh",
-      "fetchedAt": "2026-08-11T14:58:01.538Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "These startups are chasing the next big thing in LLMs",
-      "link": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
-      "snippet": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the",
-      "pubDate": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-08-11T14:58:01.538Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "阿里云将数据中心交付周期缩短至100天，全球领先",
-      "link": "https://www.leiphone.com/category/industrynews/mu3h6gC4Fx0CZl8K.html",
-      "snippet": "8月10日，记者获悉，基于首创全模块化设计架构，阿里云已将大型AIDC数据中心的交付工期缩短至100天，全球领先。同样的工期，国内传统交付周期为6至12个月，美国为12至18个月。在大幅缩短工期的同时，阿里云数据中心整体建设成本反而降低10%以上。今年，阿里云正计划将模块化数据中心的全球产能提升两倍",
-      "pubDate": "Mon, 10 Aug 2026 16:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-11T14:58:00.603Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "理想汽车范皓宇：把产品打磨到极致，不问终点迎风向前",
-      "link": "https://www.leiphone.com/category/industrynews/y4r7kWai6uAZPcch.html",
-      "snippet": "《人物》这期专访理想汽车高级副总裁范皓宇的视频上线后，在朋友圈流传得挺广，被问到为什么还在北京、在理想折腾，这位在行业里摸爬滚打二十多年的产品人突然泪目。他说在这儿能遇到方向一致的朋友，大家都揣着点浪漫主义：“想要年轻的时候开天辟地，长大的时候能够功成名就，最终让自己平和地过完这一生。”   这段采",
-      "pubDate": "Mon, 10 Aug 2026 16:21:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-11T14:58:00.603Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "百花奖AIGC推优单元获奖名单揭晓，即梦AI独家技术合作助力AI影像创作",
-      "link": "https://www.leiphone.com/category/industrynews/LtHzwwLa5uF6ZQ3Q.html",
-      "snippet": "8月8日，第38届大众电影百花奖配套活动AIGC推优单元荣誉盛典在北京举行。今年是百花奖创办64年来首次设立AIGC影像专属征集通道，即梦AI作为独家AIGC技术合作伙伴参与支持。自6月30日启动全球作品征集以来，该单元在一个多月内累计收到征稿2038件，抖音话题#即梦百花AIGC推优单元 播放量达",
-      "pubDate": "Mon, 10 Aug 2026 16:20:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-11T14:58:00.603Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
