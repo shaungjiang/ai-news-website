@@ -1,13 +1,126 @@
 {
-  "generatedAt": "2026-08-12T17:07:11.112Z",
+  "generatedAt": "2026-08-12T19:12:22.085Z",
   "stats": {
     "total": 113,
     "shown": 50,
     "chinese": 30,
     "english": 83,
-    "today": 39
+    "today": 46
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "snippet": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how Amer",
+      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Kate Park",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "snippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capit",
+      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
+      "tags": [
+        "商业融资",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "AllenAI Open Instruct Tulu 3 Post-Training with SFT, DPO, RLVR, GRPO, and Verifier-Based Evaluation",
+      "link": "https://www.marktechpost.com/2026/08/12/allenai-open-instruct-tulu-3-post-training-with-sft-dpo-rlvr-grpo-and-verifier-based-evaluation/",
+      "snippet": "Build a custom LLM post-training pipeline using AllenAI’s Open Instruct framework. This comprehensive guide walks through Supervised Fine-Tuning (SFT)",
+      "pubDate": "Wed, 12 Aug 2026 17:37:37 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-12T19:02:30.264Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, c",
+      "pubDate": "2026-08-12T17:29:10.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-12T19:02:27.717Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "snippet": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "pubDate": "Wed, 12 Aug 2026 16:57:58 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "snippet": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives",
+      "pubDate": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review Insights",
+      "fetchedAt": "2026-08-12T19:02:28.137Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
@@ -19,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
       "tags": [
         "商业融资"
       ]
@@ -51,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:18.356Z",
+      "fetchedAt": "2026-08-12T19:02:27.717Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-12T16:57:19.782Z",
+      "fetchedAt": "2026-08-12T19:02:29.395Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Rebecca Bellan",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -132,7 +245,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:18.356Z",
+      "fetchedAt": "2026-08-12T19:02:27.717Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-12T16:57:12.619Z",
+      "fetchedAt": "2026-08-12T19:02:23.489Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-12T16:57:12.619Z",
+      "fetchedAt": "2026-08-12T19:02:23.489Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-12T16:57:12.619Z",
+      "fetchedAt": "2026-08-12T19:02:23.489Z",
       "tags": [
         "商业融资"
       ]
@@ -212,7 +325,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-12T16:57:18.659Z",
+      "fetchedAt": "2026-08-12T19:02:28.137Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +341,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:18.356Z",
+      "fetchedAt": "2026-08-12T19:02:27.717Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -245,7 +358,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:18.356Z",
+      "fetchedAt": "2026-08-12T19:02:27.717Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +374,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-12T16:57:12.619Z",
+      "fetchedAt": "2026-08-12T19:02:23.489Z",
       "tags": [
         "AI应用"
       ]
@@ -293,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "政策监管",
         "商业融资"
@@ -310,7 +423,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "AI应用"
       ]
@@ -326,7 +439,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -343,7 +456,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "综合"
       ]
@@ -359,7 +472,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Amy Nordrum",
-      "fetchedAt": "2026-08-12T16:57:18.659Z",
+      "fetchedAt": "2026-08-12T19:02:28.137Z",
       "tags": [
         "综合"
       ]
@@ -375,7 +488,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -392,7 +505,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-12T16:57:12.619Z",
+      "fetchedAt": "2026-08-12T19:02:23.489Z",
       "tags": [
         "商业融资"
       ]
@@ -408,7 +521,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-12T16:57:20.615Z",
+      "fetchedAt": "2026-08-12T19:02:30.264Z",
       "tags": [
         "AI应用"
       ]
@@ -424,7 +537,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "综合"
       ]
@@ -440,7 +553,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -457,7 +570,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:20.249Z",
+      "fetchedAt": "2026-08-12T19:02:29.807Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -474,7 +587,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "AI应用"
       ]
@@ -490,7 +603,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-12T16:57:20.615Z",
+      "fetchedAt": "2026-08-12T19:02:30.264Z",
       "tags": [
         "AI应用"
       ]
@@ -506,7 +619,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -523,7 +636,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-12T16:57:12.619Z",
+      "fetchedAt": "2026-08-12T19:02:23.489Z",
       "tags": [
         "综合"
       ]
@@ -539,7 +652,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "AI应用"
       ]
@@ -555,7 +668,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "AI应用"
       ]
@@ -571,7 +684,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -588,7 +701,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-12T16:57:12.619Z",
+      "fetchedAt": "2026-08-12T19:02:23.489Z",
       "tags": [
         "综合"
       ]
@@ -604,7 +717,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "AI应用"
       ]
@@ -620,7 +733,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:17.829Z",
+      "fetchedAt": "2026-08-12T19:02:27.100Z",
       "tags": [
         "AI应用"
       ]
@@ -636,7 +749,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:18.356Z",
+      "fetchedAt": "2026-08-12T19:02:27.717Z",
       "tags": [
         "大模型"
       ]
@@ -652,7 +765,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
+      "fetchedAt": "2026-08-12T19:02:27.448Z",
       "tags": [
         "商业融资"
       ]
@@ -668,7 +781,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jean-marc Mommessin&nbsp;and&nbsp;Asif Razzaq",
-      "fetchedAt": "2026-08-12T16:57:20.615Z",
+      "fetchedAt": "2026-08-12T19:02:30.264Z",
       "tags": [
         "AI应用"
       ]
@@ -684,7 +797,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-12T16:57:19.782Z",
+      "fetchedAt": "2026-08-12T19:02:29.395Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -701,123 +814,10 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-12T16:57:18.356Z",
+      "fetchedAt": "2026-08-12T19:02:27.717Z",
       "tags": [
         "大模型",
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-      "snippet": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "pubDate": "Tue, 11 Aug 2026 19:15:35 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google’s Gemini app surges to 1 billion users",
-      "link": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
-      "snippet": "Google also shared numbers of how people are actually using the chatbot, with 63% of Gemini users talking directly to the assistant using the voice fe",
-      "pubDate": "Tue, 11 Aug 2026 18:49:12 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-      "link": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
-      "snippet": "I first heard the term “censorship-industrial complex” on April 15, 2025.  That’s when I got the tip that a small office in the U.S. State Department,",
-      "pubDate": "Tue, 11 Aug 2026 17:58:57 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Eileen Guo",
-      "fetchedAt": "2026-08-12T16:57:18.659Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Another OpenAI executive takes off",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "snippet": "Brad Lightcap, OpenAI's special projects lead and the company's former COO, announced his departure after an eight-year stint at the AI lab. In an int",
-      "pubDate": "2026-08-11T17:50:01.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-12T16:57:18.356Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’",
-      "link": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/",
-      "snippet": "One of OpenAI's longest-serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance t",
-      "pubDate": "Tue, 11 Aug 2026 17:41:34 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
-      "link": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
-      "snippet": "River AI, a startup founded by xAI co-founder Igor Babuschkin, has a fascinating vision for personal agents and secured $1.1 billion out of the gate.",
-      "pubDate": "Tue, 11 Aug 2026 17:41:22 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-08-12T16:57:18.091Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Made by Google 2026: all the Pixel news and announcements",
-      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "snippet": "Google has revealed a bunch of new Pixel devices ahead of its Made by Google event. The colorful Pixel 11 lineup comes with upgraded cameras and perfo",
-      "pubDate": "2026-08-11T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-12T16:57:18.356Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
