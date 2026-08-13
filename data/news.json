@@ -1,13 +1,109 @@
 {
-  "generatedAt": "2026-08-13T17:01:44.813Z",
+  "generatedAt": "2026-08-13T19:12:24.465Z",
   "stats": {
-    "total": 112,
+    "total": 116,
     "shown": 50,
     "chinese": 30,
-    "english": 82,
-    "today": 46
+    "english": 86,
+    "today": 54
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "snippet": "Anthropic researchers found AI agents can clash, collude and coordinate in unexpected ways, raising new questions about whether today’s safety tests c",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-08-13T19:03:34.691Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Building a practical path to post-quantum cryptography",
+      "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "snippet": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a t",
+      "pubDate": "Thu, 13 Aug 2026 18:11:42 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jesse Schrater",
+      "fetchedAt": "2026-08-13T19:03:35.349Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
+      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
+      "snippet": "Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, a",
+      "pubDate": "Thu, 13 Aug 2026 17:47:41 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-13T19:03:37.245Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "The new Instagram logo is the perfect embodiment of AI slop",
+      "link": "https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/",
+      "snippet": "Opinion: Some remarks about the new wordmark accidentally being perfectly awful.",
+      "pubDate": "Thu, 13 Aug 2026 17:32:10 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Aurich Lawson\n                ",
+      "fetchedAt": "2026-08-13T19:03:36.115Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI hires new CRO as executive shake-up continues",
+      "link": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+      "snippet": "Dali Rajic will take over as OpenAI's top salesperson.",
+      "pubDate": "Thu, 13 Aug 2026 17:07:13 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-08-13T19:03:34.691Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google announces Gemini 3.7 Flash just three weeks after previous release",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/",
+      "snippet": "Gemini 3.6 Flash debuted just 3 weeks ago, but Google says 3.7 has \"substantial improvements.\"",
+      "pubDate": "Thu, 13 Aug 2026 17:00:13 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-08-13T19:03:36.115Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "深度体验DeepSeek Harness，我原谅它涨价了",
@@ -19,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.171Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:49.007Z",
+      "fetchedAt": "2026-08-13T19:03:35.037Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-13T16:56:51.809Z",
+      "fetchedAt": "2026-08-13T19:03:37.245Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-13T16:56:48.726Z",
+      "fetchedAt": "2026-08-13T19:03:34.691Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -84,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:49.007Z",
+      "fetchedAt": "2026-08-13T19:03:35.037Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-13T16:56:48.726Z",
+      "fetchedAt": "2026-08-13T19:03:34.691Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-13T16:56:48.726Z",
+      "fetchedAt": "2026-08-13T19:03:34.691Z",
       "tags": [
         "AI应用"
       ]
@@ -132,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:49.007Z",
+      "fetchedAt": "2026-08-13T19:03:35.037Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +244,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    George Hammond, Financial Times\n                ",
-      "fetchedAt": "2026-08-13T16:56:50.523Z",
+      "fetchedAt": "2026-08-13T19:03:36.115Z",
       "tags": [
         "大模型"
       ]
@@ -164,7 +260,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-08-13T16:56:49.431Z",
+      "fetchedAt": "2026-08-13T19:03:35.349Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +276,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:49.007Z",
+      "fetchedAt": "2026-08-13T19:03:35.037Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.171Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +308,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-13T16:56:49.431Z",
+      "fetchedAt": "2026-08-13T19:03:35.349Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +324,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.171Z",
       "tags": [
         "商业融资"
       ]
@@ -244,7 +340,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.171Z",
       "tags": [
         "商业融资"
       ]
@@ -260,7 +356,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.171Z",
       "tags": [
         "大模型"
       ]
@@ -276,7 +372,23 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-13T16:56:50.523Z",
+      "fetchedAt": "2026-08-13T19:03:36.115Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "The builder’s guide to GPT‑5.6",
+      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
+      "snippet": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-13T19:03:36.474Z",
       "tags": [
         "大模型"
       ]
@@ -292,7 +404,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.458Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +420,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.171Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +436,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.458Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.171Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -357,9 +469,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-08-13T16:56:49.431Z",
+      "fetchedAt": "2026-08-13T19:03:35.349Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "link": "https://openai.com/index/previewing-ultrafast",
+      "snippet": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per",
+      "pubDate": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-13T19:03:36.474Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -373,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "AI应用"
       ]
@@ -389,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -406,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "AI应用"
       ]
@@ -422,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "政策监管",
         "学术研究"
@@ -455,7 +583,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jen Swetzoff, Keeley McNamara",
-      "fetchedAt": "2026-08-13T16:56:49.431Z",
+      "fetchedAt": "2026-08-13T19:03:35.349Z",
       "tags": [
         "综合"
       ]
@@ -471,7 +599,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:50.911Z",
+      "fetchedAt": "2026-08-13T19:03:36.474Z",
       "tags": [
         "AI应用"
       ]
@@ -487,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "开源工具"
       ]
@@ -503,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.171Z",
       "tags": [
         "综合"
       ]
@@ -519,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "AI应用"
       ]
@@ -535,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "综合"
       ]
@@ -551,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "开源工具"
       ]
@@ -567,7 +695,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-13T16:56:51.809Z",
+      "fetchedAt": "2026-08-13T19:03:37.245Z",
       "tags": [
         "AI应用"
       ]
@@ -583,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.172Z",
       "tags": [
         "商业融资"
       ]
@@ -599,7 +727,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-13T16:56:51.809Z",
+      "fetchedAt": "2026-08-13T19:03:37.245Z",
       "tags": [
         "大模型"
       ]
@@ -615,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-13T16:56:43.747Z",
+      "fetchedAt": "2026-08-13T19:03:29.172Z",
       "tags": [
         "AI应用"
       ]
@@ -647,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "AI应用"
       ]
@@ -679,137 +807,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
+      "fetchedAt": "2026-08-13T19:03:34.459Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "360纳米大片流水线携手《知识就是力量》发布“知力·纳米”科普科幻AI大片创作平台",
-      "link": "https://www.leiphone.com/category/industrynews/HvM51v44hA6xaezw.html",
-      "snippet": "8月11日，《知识就是力量》杂志社携手360科技集团举行“知力·纳米 科普科幻AI大片创作平台”发布暨AI创作交流活动。《知识就是力量》杂志社社长、主编郭晶，360集团高级副总裁、360互联网集团总裁赵君，360集团AI视频总经理吴琼出席活动。来自科普、教育、科研、科技传播、人工智能与内容创作领域的",
-      "pubDate": "Thu, 13 Aug 2026 11:17:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "为什么智能硬件出海龙头，集体押注这家AI原生达人营销平台？",
-      "link": "https://www.leiphone.com/category/industrynews/D9k6TJVcep5GNzfC.html",
-      "snippet": "在Hakko AI团队的飞书群里，一个机器人主动弹出了几张卡片：一张汇总了当天的海外达人营销数据，一张更新了最新触达达人的报价，还有一张提醒团队审核达人刚刚提交的脚本和视频。 Hakko AI团队给这个机器人取了一个颇具亲切感的名字——“铁墩儿”。   作为AhaCreator飞书端的机器人，“铁墩",
-      "pubDate": "Thu, 13 Aug 2026 11:06:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "迷失秦岭后，00后毛榉做了个不一样的外骨骼",
-      "link": "https://www.leiphone.com/category/weiwu/iQXIVkoDdPOX4yaI.html",
-      "snippet": "极壳肯綮珠玉在前，无待动力试图弯道超车，后发先至。 作者丨陈玘凡  编辑丨吴优 董子博         毛榉差点没从秦岭走回来。 2024年，他徒步秦岭鳌太线终点的一段下撤线。 下撤时有一段很长的陡坡，路也难走，毛榉随着反复屈膝，左膝侧面逐渐发烫疼痛，不一会儿腿已经开始瘸了。原定15小时的路程走了3",
-      "pubDate": "Thu, 13 Aug 2026 11:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "有人称中签宇树不敢发朋友圈：怕被嫉妒；DeepSeek V4 Pro正式版上线；美国政府设备重新允许使用TikTok！特朗普：我在TikTok一直霸榜第一",
-      "link": "https://www.leiphone.com/category/zaobao/x8GFW1VA0hEwYPGe.html",
-      "snippet": "要闻提示      1.美国政府设备重新允许使用TikTok！特朗普：我在TikTok上一直霸榜第一名 2.有人称中签宇树不敢发朋友圈：怕被嫉妒 3.DeepSeek V4 Pro 正式版上线，对打Fable 5 4.这也敢假冒？苹果商店现山寨版政务APP，官方：相关部门正处理 5.传蜜雪冰城将代工",
-      "pubDate": "Thu, 13 Aug 2026 08:22:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T16:56:47.906Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
-      "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-13T16:56:48.726Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "The web’s newest weapon against AI scrapers is a font",
-      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
-      "snippet": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
-      "pubDate": "Wed, 12 Aug 2026 22:02:25 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-13T16:56:50.523Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Terabytes of credentials leaked in massive supply-chain attack",
-      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
-      "snippet": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
-      "pubDate": "Wed, 12 Aug 2026 21:43:21 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-08-13T16:56:50.523Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
-      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
-      "snippet": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
-      "pubDate": "Wed, 12 Aug 2026 21:00:30 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-08-13T16:56:50.523Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
