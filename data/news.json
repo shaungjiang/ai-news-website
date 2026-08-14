@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-14T09:17:24.507Z",
+  "generatedAt": "2026-08-14T11:02:33.805Z",
   "stats": {
-    "total": 112,
+    "total": 102,
     "shown": 50,
     "chinese": 30,
-    "english": 82,
+    "english": 72,
     "today": 11
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募",
+      "link": "https://www.qbitai.com/2026/08/473149.html",
+      "snippet": "",
+      "pubDate": "Fri, 14 Aug 2026 10:25:36 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-08-14T10:57:56.423Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Apple trained its own AI model for China with help from Alibaba",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "snippet": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts a",
+      "pubDate": "2026-08-14T09:21:17.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-14T10:58:02.454Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "This scientist is helping build a missing map of childhood",
@@ -19,7 +51,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Colleen de Bellefonds",
-      "fetchedAt": "2026-08-14T09:07:30.139Z",
+      "fetchedAt": "2026-08-14T10:58:02.677Z",
       "tags": [
         "学术研究"
       ]
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Linda Childers",
-      "fetchedAt": "2026-08-14T09:07:30.139Z",
+      "fetchedAt": "2026-08-14T10:58:02.677Z",
       "tags": [
         "商业融资"
       ]
@@ -51,9 +83,26 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-08-14T09:07:30.139Z",
+      "fetchedAt": "2026-08-14T10:58:02.677Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "刚刚，GLM-5.3发布：Coding更接近Fable 5！潜伏40年的bug都被揪出来了",
+      "link": "https://www.qbitai.com/2026/08/473038.html",
+      "snippet": "顺手拿下最强开源安全模型",
+      "pubDate": "Fri, 14 Aug 2026 08:47:51 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "十三",
+      "fetchedAt": "2026-08-14T10:57:56.423Z",
+      "tags": [
+        "政策监管",
+        "开源工具"
       ]
     },
     {
@@ -67,25 +116,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-14T09:07:25.711Z",
+      "fetchedAt": "2026-08-14T10:57:56.423Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
-      "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
-      "snippet": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more",
-      "pubDate": "Fri, 14 Aug 2026 08:03:22 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-14T09:07:32.132Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -99,7 +132,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-14T09:07:25.711Z",
+      "fetchedAt": "2026-08-14T10:57:56.423Z",
       "tags": [
         "综合"
       ]
@@ -115,25 +148,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-14T09:07:25.711Z",
+      "fetchedAt": "2026-08-14T10:57:56.423Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
-      "link": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/",
-      "snippet": "Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB",
-      "pubDate": "Fri, 14 Aug 2026 05:45:47 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-14T09:07:32.132Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -147,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.228Z",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
       "tags": [
         "商业融资"
       ]
@@ -163,26 +180,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.228Z",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
       "tags": [
         "AI应用",
         "开源工具"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
-      "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-      "snippet": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from",
-      "pubDate": "Fri, 14 Aug 2026 03:09:45 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Microsoft’s Clippy-like Mico character is no longer the face of Copilot",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "snippet": "Mico is headed to Learn Live. | Image: Microsoft\t  Microsoft Copilot will no longer show its emotive yellow blob, Mico, when you use the chatbot's voi",
+      "pubDate": "2026-08-13T21:42:38.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
       "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-14T09:07:32.132Z",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-14T10:58:02.454Z",
       "tags": [
-        "大模型"
+        "综合"
       ]
     },
     {
@@ -196,7 +213,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "开源工具"
       ]
@@ -212,7 +229,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-08-14T09:07:30.139Z",
+      "fetchedAt": "2026-08-14T10:58:02.677Z",
       "tags": [
         "政策监管",
         "学术研究"
@@ -229,7 +246,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "商业融资"
       ]
@@ -245,7 +262,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.877Z",
+      "fetchedAt": "2026-08-14T10:58:02.454Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +278,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "大模型"
       ]
@@ -277,7 +294,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +310,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "学术研究"
       ]
@@ -309,25 +326,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jesse Schrater",
-      "fetchedAt": "2026-08-14T09:07:30.139Z",
+      "fetchedAt": "2026-08-14T10:58:02.677Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-      "snippet": "Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, a",
-      "pubDate": "Thu, 13 Aug 2026 17:47:41 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-14T09:07:32.132Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -341,7 +342,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Aurich Lawson\n                ",
-      "fetchedAt": "2026-08-14T09:07:31.251Z",
+      "fetchedAt": "2026-08-14T10:58:03.540Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +358,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "AI应用"
       ]
@@ -373,7 +374,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-14T09:07:31.251Z",
+      "fetchedAt": "2026-08-14T10:58:03.540Z",
       "tags": [
         "大模型"
       ]
@@ -389,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-14T09:07:25.711Z",
+      "fetchedAt": "2026-08-14T10:57:56.423Z",
       "tags": [
         "AI应用"
       ]
@@ -405,23 +406,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.877Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device",
-      "link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
-      "snippet": "Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts Re",
-      "pubDate": "Thu, 13 Aug 2026 15:56:03 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-14T09:07:32.132Z",
+      "fetchedAt": "2026-08-14T10:58:02.454Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +422,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -454,7 +439,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.877Z",
+      "fetchedAt": "2026-08-14T10:58:02.454Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +455,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +471,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-14T09:07:29.544Z",
+      "fetchedAt": "2026-08-14T10:58:02.097Z",
       "tags": [
         "AI应用"
       ]
@@ -502,7 +487,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.878Z",
+      "fetchedAt": "2026-08-14T10:58:02.454Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +503,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    George Hammond, Financial Times\n                ",
-      "fetchedAt": "2026-08-14T09:07:31.251Z",
+      "fetchedAt": "2026-08-14T10:58:03.540Z",
       "tags": [
         "大模型"
       ]
@@ -534,7 +519,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-08-14T09:07:30.139Z",
+      "fetchedAt": "2026-08-14T10:58:02.677Z",
       "tags": [
         "AI应用"
       ]
@@ -550,7 +535,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.878Z",
+      "fetchedAt": "2026-08-14T10:58:02.454Z",
       "tags": [
         "AI应用"
       ]
@@ -566,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-14T09:07:25.711Z",
+      "fetchedAt": "2026-08-14T10:57:56.424Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +567,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-14T09:07:30.139Z",
+      "fetchedAt": "2026-08-14T10:58:02.677Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-08-14T09:07:25.712Z",
+      "fetchedAt": "2026-08-14T10:57:56.424Z",
       "tags": [
         "商业融资"
       ]
@@ -614,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-14T09:07:25.712Z",
+      "fetchedAt": "2026-08-14T10:57:56.424Z",
       "tags": [
         "商业融资"
       ]
@@ -630,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-14T09:07:25.712Z",
+      "fetchedAt": "2026-08-14T10:57:56.424Z",
       "tags": [
         "大模型"
       ]
@@ -646,7 +631,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-14T09:07:31.251Z",
+      "fetchedAt": "2026-08-14T10:58:03.540Z",
       "tags": [
         "大模型"
       ]
@@ -662,7 +647,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:31.707Z",
+      "fetchedAt": "2026-08-14T10:58:03.881Z",
       "tags": [
         "大模型"
       ]
@@ -678,23 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.228Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "中国人能飞！杭州发布全球首款站姿载人飞行器",
-      "link": "https://www.qbitai.com/2026/08/471893.html",
-      "snippet": "让一部分人先飞起来",
-      "pubDate": "Thu, 13 Aug 2026 10:20:32 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-08-14T09:07:25.712Z",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
       "tags": [
         "AI应用"
       ]
@@ -710,26 +679,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.228Z",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "科大讯飞发布企业服务全系列产品 覆盖七大核心场景",
-      "link": "https://www.qbitai.com/2026/08/471884.html",
-      "snippet": "",
-      "pubDate": "Thu, 13 Aug 2026 10:01:47 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-14T09:07:25.712Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     },
     {
@@ -743,7 +695,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-08-14T09:07:30.139Z",
+      "fetchedAt": "2026-08-14T10:58:02.677Z",
       "tags": [
         "综合"
       ]
@@ -759,7 +711,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:31.707Z",
+      "fetchedAt": "2026-08-14T10:58:03.881Z",
       "tags": [
         "大模型"
       ]
@@ -775,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.228Z",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
       "tags": [
         "AI应用"
       ]
@@ -791,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.228Z",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -808,9 +760,58 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T09:07:29.228Z",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "中国大厂消失在赞助商名单，却在不莱梅重构 AI 的灵魂丨IJCAI 2026",
+      "link": "https://www.leiphone.com/category/private/s0Uh2zV14wto02c2.html",
+      "snippet": "2026 年 8 月 15 日至 21 日，第 35 届国际人工智能联合会议（IJCAI 2026）即将在德国“航天之都”不莱梅（Bremen）举行。 作为 AI 领域历史最悠久、最强调理论深度的顶级盛会，IJCAI 在很多从业者眼中是“System 2（慢思考）”的代名词。但在 2026 年，这场",
+      "pubDate": "Thu, 13 Aug 2026 17:07:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "给黑盒导航机器人「使绊子」：AdvNav 如何揭示具身智能系统潜在安全风险 | GAIR Paper 117",
+      "link": "https://www.leiphone.com/category/private/yXsTeayhNBwW2ZUH.html",
+      "snippet": "AdvNav 首次在黑盒条件下，对导航智能体完成系统性安全验证。          作者丨李晨阳      编辑丨陈淑瑜",
+      "pubDate": "Thu, 13 Aug 2026 17:02:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-14T10:58:01.766Z",
+      "tags": [
+        "政策监管",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "How kids feel about AI, in their own words",
+      "link": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/",
+      "snippet": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to ch",
+      "pubDate": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jen Swetzoff, Keeley McNamara",
+      "fetchedAt": "2026-08-14T10:58:02.678Z",
+      "tags": [
+        "综合"
       ]
     }
   ]
