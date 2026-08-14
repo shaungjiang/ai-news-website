@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-08-13T22:52:11.263Z",
+  "generatedAt": "2026-08-14T02:10:53.206Z",
   "stats": {
-    "total": 113,
+    "total": 83,
     "shown": 50,
-    "chinese": 30,
-    "english": 83,
-    "today": 61
+    "chinese": 10,
+    "english": 73,
+    "today": 0
   },
   "articles": [
     {
@@ -19,7 +19,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:17.133Z",
+      "fetchedAt": "2026-08-14T02:01:05.513Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +35,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "开源工具"
       ]
@@ -51,7 +51,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-08-13T22:42:17.534Z",
+      "fetchedAt": "2026-08-14T02:01:05.738Z",
       "tags": [
         "政策监管",
         "学术研究"
@@ -68,7 +68,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "商业融资"
       ]
@@ -84,7 +84,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:17.133Z",
+      "fetchedAt": "2026-08-14T02:01:05.513Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +100,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "大模型"
       ]
@@ -116,7 +116,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "学术研究"
       ]
@@ -148,25 +148,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jesse Schrater",
-      "fetchedAt": "2026-08-13T22:42:17.534Z",
+      "fetchedAt": "2026-08-14T02:01:05.738Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Just Released Gemini 3.7 Flash: A Coding and Agent Model at $0.75/1M Input Tokens",
-      "link": "https://www.marktechpost.com/2026/08/13/google-ai-just-released-gemini-3-7-flash/",
-      "snippet": "Google has released Gemini 3.7 Flash, a refinement of Gemini 3.6 Flash with algorithmic improvements to its reasoning core. It handles text, images, a",
-      "pubDate": "Thu, 13 Aug 2026 17:47:41 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-13T22:42:19.473Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -180,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Aurich Lawson\n                ",
-      "fetchedAt": "2026-08-13T22:42:18.647Z",
+      "fetchedAt": "2026-08-14T02:01:06.468Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-13T22:42:18.647Z",
+      "fetchedAt": "2026-08-14T02:01:06.468Z",
       "tags": [
         "大模型"
       ]
@@ -228,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-13T22:42:12.312Z",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "AI应用"
       ]
@@ -244,23 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:17.133Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Liquid AI Releases LFM2.5-VL-3B: A 3B Vision-Language Model That Reads Screens, Grounds Objects, and Calls Tools On-Device",
-      "link": "https://www.marktechpost.com/2026/08/13/liquid-ai-lfm2-5-vl-3b-on-device-vision-language-model/",
-      "snippet": "Liquid AI released LFM2.5-VL-3B, a 3.1B-parameter vision-language model built for on-device deployment. It averages 80.7 on ScreenSpot-v2 and lifts Re",
-      "pubDate": "Thu, 13 Aug 2026 15:56:03 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-13T22:42:19.473Z",
+      "fetchedAt": "2026-08-14T02:01:05.513Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -293,7 +261,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:17.133Z",
+      "fetchedAt": "2026-08-14T02:01:05.513Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +277,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +293,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-13T22:42:16.854Z",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +309,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:17.133Z",
+      "fetchedAt": "2026-08-14T02:01:05.513Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +325,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    George Hammond, Financial Times\n                ",
-      "fetchedAt": "2026-08-13T22:42:18.647Z",
+      "fetchedAt": "2026-08-14T02:01:06.468Z",
       "tags": [
         "大模型"
       ]
@@ -373,7 +341,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-08-13T22:42:17.534Z",
+      "fetchedAt": "2026-08-14T02:01:05.738Z",
       "tags": [
         "AI应用"
       ]
@@ -389,7 +357,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:17.133Z",
+      "fetchedAt": "2026-08-14T02:01:05.513Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-13T22:42:12.312Z",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +389,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-13T22:42:17.534Z",
+      "fetchedAt": "2026-08-14T02:01:05.738Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-08-13T22:42:12.312Z",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "商业融资"
       ]
@@ -453,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-13T22:42:12.312Z",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "商业融资"
       ]
@@ -469,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-13T22:42:12.312Z",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "大模型"
       ]
@@ -485,7 +453,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-13T22:42:18.647Z",
+      "fetchedAt": "2026-08-14T02:01:06.468Z",
       "tags": [
         "大模型"
       ]
@@ -501,25 +469,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:19.036Z",
+      "fetchedAt": "2026-08-14T02:01:07.047Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "以服务驱动增长 滴滴中国出行单量连续14个季度上涨",
-      "link": "https://www.leiphone.com/category/industrynews/5sFrL8UuJpyLrJ6B.html",
-      "snippet": "8月13日，滴滴在其官网发布2026年二季度业绩报告。 二季度公司核心平台订单量同比增长13.2%至50.52亿单，季度日均超5500万单。中国出行已经连续14季度稳定上涨，国际业务延续了上季度的强劲动能，双轮驱动下，同期公司核心平台总交易额增长22.2%，达到1339亿元。 滴滴创始人、CEO程维",
-      "pubDate": "Thu, 13 Aug 2026 18:26:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -533,25 +485,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-13T22:42:12.312Z",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "DeepSeek Harness 入选项目疑似曝光，不选万星「花瓶」，死磕 Agent 基建",
-      "link": "https://www.leiphone.com/category/yanxishe/RZ78QNjvboOQZhCS.html",
-      "snippet": "当下刚需的基建方向，全被 DeepSeek Harness 锁定          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Thu, 13 Aug 2026 18:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -565,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-13T22:42:12.312Z",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -582,7 +518,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-08-13T22:42:17.534Z",
+      "fetchedAt": "2026-08-14T02:01:05.738Z",
       "tags": [
         "综合"
       ]
@@ -598,91 +534,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:19.036Z",
+      "fetchedAt": "2026-08-14T02:01:07.047Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中国新能源车出海，不再是车企独角戏",
-      "link": "https://www.leiphone.com/category/transportation/gUic5TjJzhEnccLN.html",
-      "snippet": "总人口超过2亿的巴西，网约车早已成为当地城市出行的重要组成部分，出行行业的渗透率甚至比中国还高。这里是Uber海外司机人数最多的国家，99出行平台也有超过100万合作司机。 市场规模很大，但司机却没有更轻松。 今年6月，巴西高等劳工法院发布的相关数据显示，当地网约车司机每月运营成本高企，油费、维修、",
-      "pubDate": "Thu, 13 Aug 2026 17:55:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "完成Modular收购，高通瞄准数据中心、基础设施、个人及工业AI",
-      "link": "https://www.leiphone.com/category/chips/f6iZg80ZvYz2BZmN.html",
-      "snippet": "要点：  Modular的AI原生软件平台与高通技术公司的解决方案优势互补，加速推动从端到云的生成式与智能体AI技术落地。  高通技术公司与Modular携手打造领先的AI计算平台，可应用于数据中心、边缘基础设施、个人与工业AI等多个高增长领域。  Modular将继续秉持开放生态系统的使命，Moj",
-      "pubDate": "Thu, 13 Aug 2026 17:49:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "灵犀专业版首批接入DeepSeek-V4-Pro正式版，交付能力再升级",
-      "link": "https://www.leiphone.com/category/industrynews/a6tI2iy4DnB3jOir.html",
-      "snippet": "雷峰网8月13日消息，金山办公旗下AI办公智能体灵犀专业版宣布，已首批接入DeepSeek-V4-Pro正式版。用户在灵犀专业版内切换至该模型即可直接使用，无需额外配置。  据DeepSeek官方文档及公布的评测数据，V4-Pro-0813是DeepSeek最新旗舰模型，原生支持100万token超",
-      "pubDate": "Thu, 13 Aug 2026 17:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中国大厂消失在赞助商名单，却在不莱梅重构 AI 的灵魂丨IJCAI 2026",
-      "link": "https://www.leiphone.com/category/private/s0Uh2zV14wto02c2.html",
-      "snippet": "2026 年 8 月 15 日至 21 日，第 35 届国际人工智能联合会议（IJCAI 2026）即将在德国“航天之都”不莱梅（Bremen）举行。 作为 AI 领域历史最悠久、最强调理论深度的顶级盛会，IJCAI 在很多从业者眼中是“System 2（慢思考）”的代名词。但在 2026 年，这场",
-      "pubDate": "Thu, 13 Aug 2026 17:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "给黑盒导航机器人「使绊子」：AdvNav 如何揭示具身智能系统潜在安全风险 | GAIR Paper 117",
-      "link": "https://www.leiphone.com/category/private/yXsTeayhNBwW2ZUH.html",
-      "snippet": "AdvNav 首次在黑盒条件下，对导航智能体完成系统性安全验证。          作者丨李晨阳      编辑丨陈淑瑜",
-      "pubDate": "Thu, 13 Aug 2026 17:02:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
-      "tags": [
-        "政策监管",
-        "学术研究"
       ]
     },
     {
@@ -696,7 +550,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jen Swetzoff, Keeley McNamara",
-      "fetchedAt": "2026-08-13T22:42:17.534Z",
+      "fetchedAt": "2026-08-14T02:01:05.738Z",
       "tags": [
         "综合"
       ]
@@ -712,25 +566,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-13T22:42:19.036Z",
+      "fetchedAt": "2026-08-14T02:01:07.047Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Qwen3.8首日可用，助力存量算力长期有用：智源FlagOS开源开放生态共享",
-      "link": "https://www.leiphone.com/category/ai/rbIV873aEJjUGpyU.html",
-      "snippet": "阿里巴巴开源超大规模Mo E模型Qwen3.8-2.4T-A95B,众智Flag OS社区同步完成Day0多芯片适配。Qwen3.8-2.4T-A95B已在平头哥、英伟达、摩尔线程、华为昇腾、沐曦、昆仑芯、海光、清微智能、隧原等9家AI芯片上完成基于Flag OS统一开源技术栈的多芯适配、精度对齐与",
-      "pubDate": "Thu, 13 Aug 2026 16:56:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -744,73 +582,234 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-13T22:42:12.312Z",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "追觅个护亮相哥本哈根时装周，以专业造型科技闪耀国际时尚舞台",
-      "link": "https://www.leiphone.com/category/industrynews/HyAVtUR4WEbZPbXg.html",
-      "snippet": "近日，哥本哈根时装周SS27春夏系列活动圆满落幕，全球高端科技品牌追觅科技作为时装周官方合作伙伴重磅亮相，追觅个护为本届时装周开幕大秀 —— 丹麦新锐可持续设计品牌OpéraSPORT专场提供后台造型支持，还于时装周重点展区内打造 Dreame Air Atelier专属品牌体验空间。立足专业个护科",
-      "pubDate": "Thu, 13 Aug 2026 16:36:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "联想集团Q1再创史上最佳业绩，AI服务器业务迎来爆发期",
+      "link": "https://www.qbitai.com/2026/08/471697.html",
+      "snippet": "当季实现营收1834亿元人民币，同比猛增43%，创历史新高",
+      "pubDate": "Thu, 13 Aug 2026 06:33:52 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
+      "creator": "允中",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
+      "link": "https://www.qbitai.com/2026/08/471668.html",
+      "snippet": "",
+      "pubDate": "Thu, 13 Aug 2026 05:10:50 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-08-14T02:00:55.408Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "追觅洗地机登顶澳大利亚，全球第一版图持续扩张",
-      "link": "https://www.leiphone.com/category/industrynews/0Mi1CKgaVWfuM03s.html",
-      "snippet": "近日，据GFK最新市场监测数据显示，追觅洗地机2026年6月在澳大利亚市场份额超过25%，跃居当地洗地机市场第一。继波兰、瑞士等近多个海外市场取得领先后，追觅洗地机的全球市占第一版图，再添澳大利亚这一重要市场。  在澳大利亚，戴森、必胜、鲨客等国际品牌长期占据消费者心智，市场竞争相对成熟，消费者对清",
-      "pubDate": "Thu, 13 Aug 2026 16:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "snippet": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.",
+      "pubDate": "Wed, 12 Aug 2026 22:26:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "The web’s newest weapon against AI scrapers is a font",
+      "link": "https://arstechnica.com/ai/2026/08/new-font-turns-ordinary-webpages-into-nonsense-for-ai-scrapers/",
+      "snippet": "“ShieldFont” aims to poison AI training data without making pages unreadable for people.",
+      "pubDate": "Wed, 12 Aug 2026 22:02:25 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-08-14T02:01:06.468Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Maker Tool出海：百亿赛道的增长与暗礁",
-      "link": "https://www.leiphone.com/category/weiwu/M8AyKk3oBilCyytD.html",
-      "snippet": "近日，在PingPong主办的国内首届Maker Tool行业联盟会上，PingPong中国区电商业务负责人郑志坤抛出了一个对比：目前，扫地机器人的全球家庭渗透率大约在9%，而Maker Tool未来的家庭渗透率，会比这个数字更高。  支撑这一判断的是市场数据——多份国际调研报告显示，2025年全球",
-      "pubDate": "Thu, 13 Aug 2026 15:57:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-13T22:42:16.480Z",
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Terabytes of credentials leaked in massive supply-chain attack",
+      "link": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "snippet": "The data was scraped and exfiltrated from 2,500 users of a compromised AI package.",
+      "pubDate": "Wed, 12 Aug 2026 21:43:21 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-08-14T02:01:06.468Z",
       "tags": [
-        "开源工具"
+        "综合"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Dyna Robotics Introduces Dyna-2: A World-Action Model Pre-Trained on 1 Million Hours of Human Video",
-      "link": "https://www.marktechpost.com/2026/08/13/dyna-robotics-introduces-dyna-2-a-world-action-model-pre-trained-on-1-million-hours-of-human-video/",
-      "snippet": "Dyna Robotics has released Dyna-2, a world-action model pre-trained on more than one million hours of egocentric human video. The technical report est",
-      "pubDate": "Thu, 13 Aug 2026 07:42:02 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Twitch content has trained Amazon AI for years, but users can opt out now",
+      "link": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/",
+      "snippet": "Streaming platform says user-generated content \"may be used for future Gen AI model improvements.\"",
+      "pubDate": "Wed, 12 Aug 2026 21:00:30 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Scharon Harding\n                ",
+      "fetchedAt": "2026-08-14T02:01:06.468Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "snippet": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "pubDate": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Scientists just created female clones of male mice",
+      "link": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "snippet": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove t",
+      "pubDate": "Wed, 12 Aug 2026 18:59:48 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
       "lang": "en",
       "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-13T22:42:19.473Z",
+      "creator": "Jessica Hamzelou",
+      "fetchedAt": "2026-08-14T02:01:05.738Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "snippet": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "pubDate": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+      "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+      "snippet": "At Ai4, three of the world's most respected AI experts — Geoffrey Hinton, Fei-Fei Li, and Andrew Ng — debated regulation, open source access, and how",
+      "pubDate": "Wed, 12 Aug 2026 17:51:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Kate Park",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+      "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+      "snippet": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capit",
+      "pubDate": "Wed, 12 Aug 2026 17:41:29 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
+      "tags": [
+        "商业融资",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Twitch streamers can now opt out from training Amazon’s AI",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "snippet": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, c",
+      "pubDate": "2026-08-12T17:29:10.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-14T02:01:05.513Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+      "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+      "snippet": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+      "pubDate": "Wed, 12 Aug 2026 16:57:58 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-08-14T02:01:05.207Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Scaling AI agents with trustworthy data",
+      "link": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "snippet": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives",
+      "pubDate": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review Insights",
+      "fetchedAt": "2026-08-14T02:01:05.738Z",
+      "tags": [
+        "开源工具"
       ]
     }
   ]
