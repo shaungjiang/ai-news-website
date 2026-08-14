@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-08-14T13:17:27.881Z",
+  "generatedAt": "2026-08-14T14:57:25.853Z",
   "stats": {
-    "total": 112,
+    "total": 111,
     "shown": 50,
     "chinese": 30,
-    "english": 82,
-    "today": 17
+    "english": 81,
+    "today": 22
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Kog is going deeper to squeeze more inference out of GPUs",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
+      "pubDate": "Fri, 14 Aug 2026 14:50:11 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anna Heim",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
+      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
+      "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
+      "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jamie John\n                ",
+      "fetchedAt": "2026-08-14T14:52:25.869Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "pubDate": "Fri, 14 Aug 2026 14:05:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim De Chant",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -19,9 +67,42 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-14T13:07:35.760Z",
+      "fetchedAt": "2026-08-14T14:52:24.693Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百度文库网盘GenFlow官宣中文名「库库AI」，推出「库库AI」办公独立端",
+      "link": "https://www.leiphone.com/category/industrynews/jlbLtAX6KzW9yYGJ.html",
+      "snippet": "8月14日，在百度AI Day开放日上，百度文库网盘通用智能体GenFlow官宣中文名「库库AI」。早在今年4月，GenFlow月活用户已突破1亿，其中办公用户体量指数级飙升，目前AI办公MAU超过2500万，位居通用AI办公赛道行业第一。 关注到用户在AI办公上的强烈需求和高频互动，文库网盘宣布进",
+      "pubDate": "Fri, 14 Aug 2026 20:01:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-14T14:52:23.576Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "GLM-5.3 来了：底座没换，编程暴涨 50%，还顺手揪出潜伏 40 年的世界级漏洞",
+      "link": "https://www.leiphone.com/category/yanxishe/TfPPSAIdcR2ijWkU.html",
+      "snippet": "GLM-5.3三大标签，最强安全模型，最强编程模型，最强开源模型          作者丨高允毅      编辑丨岑   峰",
+      "pubDate": "Fri, 14 Aug 2026 19:10:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-14T14:52:23.576Z",
+      "tags": [
+        "政策监管",
+        "开源工具"
       ]
     },
     {
@@ -35,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:34.983Z",
+      "fetchedAt": "2026-08-14T14:52:23.576Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +132,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.940Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:34.983Z",
+      "fetchedAt": "2026-08-14T14:52:23.576Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:35.466Z",
+      "fetchedAt": "2026-08-14T14:52:24.293Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +180,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Colleen de Bellefonds",
-      "fetchedAt": "2026-08-14T13:07:35.760Z",
+      "fetchedAt": "2026-08-14T14:52:24.693Z",
       "tags": [
         "学术研究"
       ]
@@ -115,7 +196,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Linda Childers",
-      "fetchedAt": "2026-08-14T13:07:35.760Z",
+      "fetchedAt": "2026-08-14T14:52:24.693Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +212,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-08-14T13:07:35.760Z",
+      "fetchedAt": "2026-08-14T14:52:24.693Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.940Z",
       "tags": [
         "政策监管",
         "开源工具"
@@ -164,7 +245,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.940Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +261,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-14T13:07:37.516Z",
+      "fetchedAt": "2026-08-14T14:52:26.750Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.940Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.940Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +309,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-14T13:07:37.516Z",
+      "fetchedAt": "2026-08-14T14:52:26.750Z",
       "tags": [
         "AI应用"
       ]
@@ -244,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:34.983Z",
+      "fetchedAt": "2026-08-14T14:52:23.576Z",
       "tags": [
         "商业融资"
       ]
@@ -260,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:34.983Z",
+      "fetchedAt": "2026-08-14T14:52:23.576Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -277,7 +358,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-14T13:07:37.516Z",
+      "fetchedAt": "2026-08-14T14:52:26.750Z",
       "tags": [
         "大模型"
       ]
@@ -293,7 +374,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:35.466Z",
+      "fetchedAt": "2026-08-14T14:52:24.293Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +390,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "开源工具"
       ]
@@ -325,7 +406,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-08-14T13:07:35.760Z",
+      "fetchedAt": "2026-08-14T14:52:24.693Z",
       "tags": [
         "政策监管",
         "学术研究"
@@ -342,7 +423,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "商业融资"
       ]
@@ -358,7 +439,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:35.466Z",
+      "fetchedAt": "2026-08-14T14:52:24.293Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +455,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "大模型"
       ]
@@ -390,7 +471,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +487,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "学术研究"
       ]
@@ -422,7 +503,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jesse Schrater",
-      "fetchedAt": "2026-08-14T13:07:35.760Z",
+      "fetchedAt": "2026-08-14T14:52:24.693Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +519,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-14T13:07:37.516Z",
+      "fetchedAt": "2026-08-14T14:52:26.750Z",
       "tags": [
         "大模型"
       ]
@@ -454,7 +535,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Aurich Lawson\n                ",
-      "fetchedAt": "2026-08-14T13:07:36.735Z",
+      "fetchedAt": "2026-08-14T14:52:25.869Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +551,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "AI应用"
       ]
@@ -486,7 +567,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-08-14T13:07:36.735Z",
+      "fetchedAt": "2026-08-14T14:52:25.869Z",
       "tags": [
         "大模型"
       ]
@@ -502,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.940Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +599,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:35.466Z",
+      "fetchedAt": "2026-08-14T14:52:24.293Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +615,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-14T13:07:37.516Z",
+      "fetchedAt": "2026-08-14T14:52:26.750Z",
       "tags": [
         "AI应用"
       ]
@@ -550,7 +631,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -567,7 +648,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:35.466Z",
+      "fetchedAt": "2026-08-14T14:52:24.293Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +664,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-14T13:07:35.234Z",
+      "fetchedAt": "2026-08-14T14:52:23.949Z",
       "tags": [
         "AI应用"
       ]
@@ -615,7 +696,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:35.466Z",
+      "fetchedAt": "2026-08-14T14:52:24.293Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +712,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    George Hammond, Financial Times\n                ",
-      "fetchedAt": "2026-08-14T13:07:36.735Z",
+      "fetchedAt": "2026-08-14T14:52:25.869Z",
       "tags": [
         "大模型"
       ]
@@ -647,7 +728,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-08-14T13:07:35.760Z",
+      "fetchedAt": "2026-08-14T14:52:24.693Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +744,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-14T13:07:35.466Z",
+      "fetchedAt": "2026-08-14T14:52:24.293Z",
       "tags": [
         "AI应用"
       ]
@@ -679,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.940Z",
       "tags": [
         "综合"
       ]
@@ -695,7 +776,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-14T13:07:35.760Z",
+      "fetchedAt": "2026-08-14T14:52:24.693Z",
       "tags": [
         "综合"
       ]
@@ -711,7 +792,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.941Z",
       "tags": [
         "商业融资"
       ]
@@ -727,89 +808,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
+      "fetchedAt": "2026-08-14T14:52:18.941Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
-      "link": "https://www.qbitai.com/2026/08/472016.html",
-      "snippet": "好数学家不挑AI模型",
-      "pubDate": "Thu, 13 Aug 2026 11:29:04 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-08-14T13:07:29.432Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Claude's new Scarlet Letter watermark is invisible—for now",
-      "link": "https://arstechnica.com/tech-policy/2026/08/claudes-new-scarlet-letter-watermark-is-invisible-for-now/",
-      "snippet": "The mark flags anything Claude processed, even human writing it only edited.",
-      "pubDate": "Thu, 13 Aug 2026 11:10:18 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-14T13:07:36.735Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "The builder’s guide to GPT‑5.6",
-      "link": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "snippet": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-08-14T13:07:37.105Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "以服务驱动增长 滴滴中国出行单量连续14个季度上涨",
-      "link": "https://www.leiphone.com/category/industrynews/5sFrL8UuJpyLrJ6B.html",
-      "snippet": "8月13日，滴滴在其官网发布2026年二季度业绩报告。 二季度公司核心平台订单量同比增长13.2%至50.52亿单，季度日均超5500万单。中国出行已经连续14季度稳定上涨，国际业务延续了上季度的强劲动能，双轮驱动下，同期公司核心平台总交易额增长22.2%，达到1339亿元。 滴滴创始人、CEO程维",
-      "pubDate": "Thu, 13 Aug 2026 18:26:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-14T13:07:34.983Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "DeepSeek Harness 入选项目疑似曝光，不选万星「花瓶」，死磕 Agent 基建",
-      "link": "https://www.leiphone.com/category/yanxishe/RZ78QNjvboOQZhCS.html",
-      "snippet": "当下刚需的基建方向，全被 DeepSeek Harness 锁定          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Thu, 13 Aug 2026 18:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-14T13:07:34.983Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
