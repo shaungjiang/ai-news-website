@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-08-16T10:27:58.768Z",
+  "generatedAt": "2026-08-16T12:44:16.156Z",
   "stats": {
-    "total": 109,
+    "total": 99,
     "shown": 50,
     "chinese": 30,
-    "english": 79,
-    "today": 2
+    "english": 69,
+    "today": 6
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Rogue AI aren’t science fiction anymore",
+      "link": "https://www.theverge.com/column/980337/rogue-ai-science-fiction-openai",
+      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on AI safety, follow Robert Hart. The Stepba",
+      "pubDate": "2026-08-16T12:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-16T12:39:40.023Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "杭州95后小伙，5亿买走硅谷城堡",
+      "link": "https://www.qbitai.com/2026/08/474245.html",
+      "snippet": "辞别马斯克xAI半年之后…",
+      "pubDate": "Sun, 16 Aug 2026 11:51:08 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "鹭羽",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "李飞飞最新访谈：AI咋能代替人呢？",
+      "link": "https://www.qbitai.com/2026/08/474140.html",
+      "snippet": "AI不是替代者，而是个人能力的放大镜",
+      "pubDate": "Sun, 16 Aug 2026 10:45:47 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+      "link": "https://www.qbitai.com/2026/08/474064.html",
+      "snippet": "“错过种一棵树最好的时间”",
+      "pubDate": "Sun, 16 Aug 2026 10:36:47 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
@@ -19,7 +83,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
       "tags": [
         "商业融资"
       ]
@@ -51,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "开源工具"
       ]
@@ -67,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:36.004Z",
+      "fetchedAt": "2026-08-16T12:39:40.023Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "大模型"
       ]
@@ -99,25 +163,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
-      "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
-      "snippet": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extract",
-      "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-16T10:23:38.817Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -131,7 +179,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
       "tags": [
         "大模型"
       ]
@@ -147,7 +195,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
       "tags": [
         "开源工具"
       ]
@@ -163,7 +211,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
       "tags": [
         "大模型"
       ]
@@ -179,7 +227,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
       "tags": [
         "开源工具"
       ]
@@ -195,7 +243,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
+      "fetchedAt": "2026-08-16T12:39:35.429Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +259,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "AI应用"
       ]
@@ -227,25 +275,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
-      "link": "https://www.qbitai.com/2026/08/473395.html",
-      "snippet": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环。",
-      "pubDate": "Sat, 15 Aug 2026 04:03:37 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "允中",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -259,7 +291,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "AI应用"
       ]
@@ -275,7 +307,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -292,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-16T10:23:37.508Z",
+      "fetchedAt": "2026-08-16T12:39:41.356Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +340,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:36.004Z",
+      "fetchedAt": "2026-08-16T12:39:40.023Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +356,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:36.004Z",
+      "fetchedAt": "2026-08-16T12:39:40.023Z",
       "tags": [
         "大模型"
       ]
@@ -340,7 +372,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "综合"
       ]
@@ -356,25 +388,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "刚刚，Qwen3.8-27B 开源了！家用显卡也能跑",
-      "link": "https://www.qbitai.com/2026/08/473379.html",
-      "snippet": "所有人都可免费下载部署及商用。",
-      "pubDate": "Fri, 14 Aug 2026 15:41:12 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -388,25 +404,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "7亿年薪留不住！余家辉离职Meta创业",
-      "link": "https://www.qbitai.com/2026/08/473261.html",
-      "snippet": "真就只待了一年",
-      "pubDate": "Fri, 14 Aug 2026 14:59:25 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-08-16T10:23:28.198Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -420,7 +420,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "商业融资"
       ]
@@ -436,7 +436,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jamie John\n                ",
-      "fetchedAt": "2026-08-16T10:23:37.508Z",
+      "fetchedAt": "2026-08-16T12:39:41.356Z",
       "tags": [
         "AI应用"
       ]
@@ -452,7 +452,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +468,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Rebecca Bellan",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "AI应用"
       ]
@@ -484,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +500,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-16T10:23:36.422Z",
+      "fetchedAt": "2026-08-16T12:39:40.339Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +516,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "AI应用"
       ]
@@ -532,7 +532,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "政策监管",
         "开源工具"
@@ -549,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +581,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:36.004Z",
+      "fetchedAt": "2026-08-16T12:39:40.023Z",
       "tags": [
         "AI应用"
       ]
@@ -597,7 +597,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Colleen de Bellefonds",
-      "fetchedAt": "2026-08-16T10:23:36.422Z",
+      "fetchedAt": "2026-08-16T12:39:40.339Z",
       "tags": [
         "学术研究"
       ]
@@ -613,7 +613,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Linda Childers",
-      "fetchedAt": "2026-08-16T10:23:36.422Z",
+      "fetchedAt": "2026-08-16T12:39:40.339Z",
       "tags": [
         "商业融资"
       ]
@@ -629,39 +629,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-08-16T10:23:36.422Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
-      "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
-      "snippet": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more",
-      "pubDate": "Fri, 14 Aug 2026 08:03:22 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-16T10:23:38.817Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
-      "link": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/",
-      "snippet": "Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB",
-      "pubDate": "Fri, 14 Aug 2026 05:45:47 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-16T10:23:38.817Z",
+      "fetchedAt": "2026-08-16T12:39:40.339Z",
       "tags": [
         "AI应用"
       ]
@@ -677,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "商业融资"
       ]
@@ -693,26 +661,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:35.218Z",
+      "fetchedAt": "2026-08-16T12:39:39.382Z",
       "tags": [
         "AI应用",
         "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
-      "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-      "snippet": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from",
-      "pubDate": "Fri, 14 Aug 2026 03:09:45 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-16T10:23:38.817Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -726,7 +678,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:36.004Z",
+      "fetchedAt": "2026-08-16T12:39:40.023Z",
       "tags": [
         "综合"
       ]
@@ -742,7 +694,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "开源工具"
       ]
@@ -758,7 +710,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-08-16T10:23:36.422Z",
+      "fetchedAt": "2026-08-16T12:39:40.339Z",
       "tags": [
         "政策监管",
         "学术研究"
@@ -775,7 +727,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "商业融资"
       ]
@@ -791,7 +743,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T10:23:36.004Z",
+      "fetchedAt": "2026-08-16T12:39:40.023Z",
       "tags": [
         "综合"
       ]
@@ -807,9 +759,57 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-16T10:23:35.589Z",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-08-16T12:39:39.702Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Building a practical path to post-quantum cryptography",
+      "link": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+      "snippet": "Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a t",
+      "pubDate": "Thu, 13 Aug 2026 18:11:42 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jesse Schrater",
+      "fetchedAt": "2026-08-16T12:39:40.339Z",
+      "tags": [
+        "综合"
       ]
     }
   ]
