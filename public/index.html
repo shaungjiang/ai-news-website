@@ -28,7 +28,7 @@
         <span class="logo-text">AI 新闻日报</span>
       </a>
       <div class="header-stats">
-        今日 <strong>0 条</strong> · 共 99 条
+        今日 <strong>2 条</strong> · 共 109 条
       </div>
     </div>
     <div class="header-right">
@@ -51,7 +51,7 @@
     <div class="hero-stats">
       <div class="hero-stat">
         <span class="hero-stat-icon">📰</span>
-        <span>今日 <strong>0</strong> 篇</span>
+        <span>今日 <strong>2</strong> 篇</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🇨🇳</span>
@@ -59,7 +59,7 @@
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🌐</span>
-        <span>英文 <strong>69</strong> 篇</span>
+        <span>英文 <strong>79</strong> 篇</span>
       </div>
     </div>
   </div>
@@ -80,9 +80,9 @@
 
     <!-- ====== Language Filter ====== -->
     <div class="filter-bar">
-      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">99</span></button>
+      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">109</span></button>
       <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">30</span></button>
-      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">69</span></button>
+      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">79</span></button>
     </div>
 
     <!-- ====== Time Filter ====== -->
@@ -117,11 +117,75 @@
       <p>没有匹配的新闻</p>
     </div>
 
+    <section class="date-section" data-date="今日">
+      <div class="date-heading">
+        <span class="date-icon">📅</span>
+        <span class="date-label">今日</span>
+        <span class="date-count">2 篇</span>
+      </div>
+
+      <div class="news-grid">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/08/473972.html" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 16 Aug 2026 05:37:39 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Sun, 16 Aug 2026 05:37:39 +0000" title="Sun, 16 Aug 2026 05:37:39 +0000">2 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/08/473972.html" target="_blank" rel="noopener">WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队</a>
+          </h3>
+
+          <p class="card-snippet">背后是四项关键能力</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/08/473972.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/08/473947.html" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="Sun, 16 Aug 2026 05:28:42 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Sun, 16 Aug 2026 05:28:42 +0000" title="Sun, 16 Aug 2026 05:28:42 +0000">3 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/08/473947.html" target="_blank" rel="noopener">牛来！A社营收暴涨1400%，最新季度入账115亿美元</a>
+          </h3>
+
+          <p class="card-snippet">将超越马斯克的SpaceX，成为史上上市估值最高的IPO。</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/08/473947.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+      </div>
+    </section>
     <section class="date-section" data-date="昨天">
       <div class="date-heading">
         <span class="date-icon">📆</span>
         <span class="date-label">昨天</span>
-        <span class="date-count">14 篇</span>
+        <span class="date-count">15 篇</span>
       </div>
 
       <div class="news-grid">
@@ -134,7 +198,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 15 Aug 2026 21:29:19 +0000" title="Sat, 15 Aug 2026 21:29:19 +0000">9 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 15 Aug 2026 21:29:19 +0000" title="Sat, 15 Aug 2026 21:29:19 +0000">11 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -161,7 +225,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-08-15T20:45:00.000Z" title="2026-08-15T20:45:00.000Z">10 小时前</span>
+            <span class="card-time" data-pubdate="2026-08-15T20:45:00.000Z" title="2026-08-15T20:45:00.000Z">11 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -188,7 +252,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 15 Aug 2026 18:58:39 +0000" title="Sat, 15 Aug 2026 18:58:39 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 15 Aug 2026 18:58:39 +0000" title="Sat, 15 Aug 2026 18:58:39 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -215,7 +279,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 15 Aug 2026 16:30:00 +0000" title="Sat, 15 Aug 2026 16:30:00 +0000">14 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 15 Aug 2026 16:30:00 +0000" title="Sat, 15 Aug 2026 16:30:00 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -229,6 +293,33 @@
               <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
             </div>
             <a href="https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 15 Aug 2026 11:28:29 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sat, 15 Aug 2026 11:28:29 +0000" title="Sat, 15 Aug 2026 11:28:29 +0000">21 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/" target="_blank" rel="noopener">Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3</a>
+          </h3>
+
+          <p class="card-snippet">Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extract</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/" target="_blank" rel="noopener" class="read-btn">
               📖 Read Article
             </a>
           </div>
@@ -510,7 +601,7 @@
       <div class="date-heading">
         <span class="date-icon">📋</span>
         <span class="date-label">8月14日星期五</span>
-        <span class="date-count">26 篇</span>
+        <span class="date-count">27 篇</span>
       </div>
 
       <div class="news-grid">
@@ -726,33 +817,6 @@
               <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
             </div>
             <a href="https://www.qbitai.com/2026/08/473261.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/08/473153.html" data-date="8月14日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 14 Aug 2026 14:51:48 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Fri, 14 Aug 2026 14:51:48 +0000" title="Fri, 14 Aug 2026 14:51:48 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/08/473153.html" target="_blank" rel="noopener">谷歌开始肢解DeepMind，数个团队被划归总部</a>
-          </h3>
-
-          <p class="card-snippet">布林亲自下场督战</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/08/473153.html" target="_blank" rel="noopener" class="read-btn">
               📖 阅读原文
             </a>
           </div>
@@ -1001,33 +1065,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/08/473149.html" data-date="8月14日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 14 Aug 2026 10:25:36 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Fri, 14 Aug 2026 10:25:36 +0000" title="Fri, 14 Aug 2026 10:25:36 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/08/473149.html" target="_blank" rel="noopener">太初元碁助力国家级“AI+教育”大赛 “AI+加速卡模型适配赛道”开启招募</a>
-          </h3>
-
-          <p class="card-snippet"></p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/08/473149.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
         <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/weiwu/FZhNkt6nFQ1Mi8La.html" data-date="8月14日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 14 Aug 2026 17:43:00 +0800">
           <div class="card-hd">
             <span class="card-source">
@@ -1163,6 +1200,60 @@
             </a>
           </div>
         </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/" data-date="8月14日星期五" data-tags='[&quot;AI应用&quot;]' data-pubdate="Fri, 14 Aug 2026 08:03:22 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Fri, 14 Aug 2026 08:03:22 +0000" title="Fri, 14 Aug 2026 08:03:22 +0000">2 天前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/" target="_blank" rel="noopener">Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks</a>
+          </h3>
+
+          <p class="card-snippet">Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/" data-date="8月14日星期五" data-tags='[&quot;AI应用&quot;]' data-pubdate="Fri, 14 Aug 2026 05:45:47 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Fri, 14 Aug 2026 05:45:47 +0000" title="Fri, 14 Aug 2026 05:45:47 +0000">2 天前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/" target="_blank" rel="noopener">Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM</a>
+          </h3>
+
+          <p class="card-snippet">Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
         <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/Edo1aa9elrarVNM5.html" data-date="8月14日星期五" data-tags='[&quot;商业融资&quot;]' data-pubdate="Fri, 14 Aug 2026 12:35:00 +0800">
           <div class="card-hd">
             <span class="card-source">
@@ -1218,13 +1309,40 @@
             </a>
           </div>
         </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/" data-date="8月14日星期五" data-tags='[&quot;大模型&quot;]' data-pubdate="Fri, 14 Aug 2026 03:09:45 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Fri, 14 Aug 2026 03:09:45 +0000" title="Fri, 14 Aug 2026 03:09:45 +0000">2 天前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/" target="_blank" rel="noopener">Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus</a>
+          </h3>
+
+          <p class="card-snippet">This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
       </div>
     </section>
     <section class="date-section" data-date="8月13日星期四">
       <div class="date-heading">
         <span class="date-icon">📋</span>
         <span class="date-label">8月13日星期四</span>
-        <span class="date-count">10 篇</span>
+        <span class="date-count">6 篇</span>
       </div>
 
       <div class="news-grid">
@@ -1391,114 +1509,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/" data-date="8月13日星期四" data-tags='[&quot;综合&quot;]' data-pubdate="Thu, 13 Aug 2026 19:19:49 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#0a9e4a"></span>
-              TechCrunch
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Thu, 13 Aug 2026 19:19:49 +0000" title="Thu, 13 Aug 2026 19:19:49 +0000">2 天前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/" target="_blank" rel="noopener">IBM partners with OpenAI to bolster enterprise AI push</a>
-          </h3>
-
-          <p class="card-snippet">IBM plans to train and certify tens of thousands of consultants on OpenAI&#x27;s technologies as part of this deal.</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/" data-date="8月13日星期四" data-tags='[&quot;学术研究&quot;]' data-pubdate="Thu, 13 Aug 2026 18:28:14 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#0a9e4a"></span>
-              TechCrunch
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Thu, 13 Aug 2026 18:28:14 +0000" title="Thu, 13 Aug 2026 18:28:14 +0000">2 天前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/" target="_blank" rel="noopener">Anthropic set AI agents loose on the same task. They started a turf war.</a>
-          </h3>
-
-          <p class="card-snippet">Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag research" onclick="event.stopPropagation(); filterByTag('学术研究')">学术研究</span>
-            </div>
-            <a href="https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/" data-date="8月13日星期四" data-tags='[&quot;综合&quot;]' data-pubdate="Thu, 13 Aug 2026 18:11:42 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#b91c1c"></span>
-              MIT Tech Review
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Thu, 13 Aug 2026 18:11:42 +0000" title="Thu, 13 Aug 2026 18:11:42 +0000">2 天前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/" target="_blank" rel="noopener">Building a practical path to post-quantum cryptography</a>
-          </h3>
-
-          <p class="card-snippet">Quantum computing has alternated between breakthrough darling and overhyped promise in technology circles. Its powerful new capabilities come with a t</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/" data-date="8月13日星期四" data-tags='[&quot;综合&quot;]' data-pubdate="Thu, 13 Aug 2026 17:32:10 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              Ars Technica
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Thu, 13 Aug 2026 17:32:10 +0000" title="Thu, 13 Aug 2026 17:32:10 +0000">2 天前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/" target="_blank" rel="noopener">The new Instagram logo is the perfect embodiment of AI slop</a>
-          </h3>
-
-          <p class="card-snippet">Opinion: Some remarks about the new wordmark accidentally being perfectly awful.</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://arstechnica.com/ai/2026/08/the-new-instagram-logo-is-the-perfect-embodiment-of-ai-slop/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
       </div>
     </section>
 
@@ -1519,7 +1529,7 @@
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
   <p>全天候实时更新 · 免费 · 开源</p>
-  <p>更新于 2026/8/16 06:49:19 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
+  <p>更新于 2026/8/16 08:34:40 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
 </footer>
 
 <!-- ====== Back to Top ====== -->
