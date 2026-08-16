@@ -1,13 +1,30 @@
 {
-  "generatedAt": "2026-08-16T14:33:25.087Z",
+  "generatedAt": "2026-08-16T16:30:09.502Z",
   "stats": {
-    "total": 109,
+    "total": 99,
     "shown": 50,
     "chinese": 30,
-    "english": 79,
-    "today": 6
+    "english": 69,
+    "today": 7
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "ChatGPT’s Computer History tracks your clicks and keystrokes",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980742/chatgpts-computer-history-tracks-your-clicks-and-keystrokes",
+      "snippet": "ChatGPT's desktop app on macOS has a new feature called Computer History that turns your actions into training data, learning how you work, suggesting",
+      "pubDate": "2026-08-16T14:56:40.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-16T16:25:33.700Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Rogue AI aren’t science fiction anymore",
@@ -19,7 +36,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.947Z",
+      "fetchedAt": "2026-08-16T16:25:33.700Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +52,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +68,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +84,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +100,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "开源工具"
       ]
@@ -131,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.947Z",
+      "fetchedAt": "2026-08-16T16:25:33.700Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +164,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "大模型"
       ]
@@ -163,25 +180,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Fine-Tuning Tool-Calling LLMs: A Complete Guide Using XYZ-Aquila-SFT and Qwen3",
-      "link": "https://www.marktechpost.com/2026/08/15/fine-tuning-tool-calling-llms-a-complete-guide-using-xyz-aquila-sft-and-qwen3/",
-      "snippet": "Implement an end-to-end fine-tuning pipeline for tool-calling language models. This tutorial covers parsing trajectories, structured tool-call extract",
-      "pubDate": "Sat, 15 Aug 2026 11:28:29 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-16T14:23:37.959Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -195,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "大模型"
       ]
@@ -211,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "开源工具"
       ]
@@ -227,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "大模型"
       ]
@@ -243,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "开源工具"
       ]
@@ -259,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-16T14:23:26.494Z",
+      "fetchedAt": "2026-08-16T16:25:21.443Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "AI应用"
       ]
@@ -291,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "AI应用"
       ]
@@ -307,7 +308,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "AI应用"
       ]
@@ -323,7 +324,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -340,7 +341,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-16T14:23:37.275Z",
+      "fetchedAt": "2026-08-16T16:25:35.032Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +357,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.947Z",
+      "fetchedAt": "2026-08-16T16:25:33.700Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +373,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.947Z",
+      "fetchedAt": "2026-08-16T16:25:33.700Z",
       "tags": [
         "大模型"
       ]
@@ -388,7 +389,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "AI应用"
       ]
@@ -420,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "大模型"
       ]
@@ -436,7 +437,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "商业融资"
       ]
@@ -452,7 +453,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jamie John\n                ",
-      "fetchedAt": "2026-08-16T14:23:37.275Z",
+      "fetchedAt": "2026-08-16T16:25:35.032Z",
       "tags": [
         "AI应用"
       ]
@@ -468,7 +469,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Rebecca Bellan",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "AI应用"
       ]
@@ -500,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +517,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-16T14:23:36.276Z",
+      "fetchedAt": "2026-08-16T16:25:34.102Z",
       "tags": [
         "综合"
       ]
@@ -532,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "AI应用"
       ]
@@ -548,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "政策监管",
         "开源工具"
@@ -565,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +598,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.947Z",
+      "fetchedAt": "2026-08-16T16:25:33.700Z",
       "tags": [
         "AI应用"
       ]
@@ -613,7 +614,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Colleen de Bellefonds",
-      "fetchedAt": "2026-08-16T14:23:36.276Z",
+      "fetchedAt": "2026-08-16T16:25:34.102Z",
       "tags": [
         "学术研究"
       ]
@@ -629,7 +630,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Linda Childers",
-      "fetchedAt": "2026-08-16T14:23:36.276Z",
+      "fetchedAt": "2026-08-16T16:25:34.102Z",
       "tags": [
         "商业融资"
       ]
@@ -645,39 +646,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-08-16T14:23:36.276Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Z.ai Ships GLM-5.3 Without Retraining the Base Model: Better at Complex Coding and Long-Horizon Tasks",
-      "link": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
-      "snippet": "Z.ai released GLM-5.3 on August 14, 2026. The model reuses the 743B GLM-5.2 base unchanged. Every reported gain comes from scaled post-training: more",
-      "pubDate": "Fri, 14 Aug 2026 08:03:22 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-16T14:23:37.959Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Needle 2: An Open 45M-Parameter Tool-Calling Model That Ships as a 14MB Binary and Runs a Full Session in 28MB of RAM",
-      "link": "https://www.marktechpost.com/2026/08/13/cactus-compute-needle-2-45m-parameter-tool-calling-model/",
-      "snippet": "Cactus Compute released Needle 2, an open 45M-parameter model for tool calling, device use, and structured extraction. The full model is a single 14MB",
-      "pubDate": "Fri, 14 Aug 2026 05:45:47 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-16T14:23:37.959Z",
+      "fetchedAt": "2026-08-16T16:25:34.103Z",
       "tags": [
         "AI应用"
       ]
@@ -693,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "商业融资"
       ]
@@ -709,26 +678,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.388Z",
+      "fetchedAt": "2026-08-16T16:25:33.107Z",
       "tags": [
         "AI应用",
         "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Create a Reasoning-Focused LLM: A Practical Guide to Streaming, Curating, and Fine-Tuning the SupraLabs Reasoning Corpus",
-      "link": "https://www.marktechpost.com/2026/08/13/a-practical-guide-to-streaming-curating-and-fine-tuning-the-supralabs-reasoning-corpus/",
-      "snippet": "This tutorial provides a complete workflow for building a compact, reasoning-focused language model. By streaming the SupraLabs reasoning corpus from",
-      "pubDate": "Fri, 14 Aug 2026 03:09:45 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-16T14:23:37.959Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -742,7 +695,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.947Z",
+      "fetchedAt": "2026-08-16T16:25:33.700Z",
       "tags": [
         "综合"
       ]
@@ -758,7 +711,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "开源工具"
       ]
@@ -774,7 +727,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-08-16T14:23:36.276Z",
+      "fetchedAt": "2026-08-16T16:25:34.103Z",
       "tags": [
         "政策监管",
         "学术研究"
@@ -791,7 +744,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-16T14:23:35.703Z",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
       "tags": [
         "商业融资"
       ]
@@ -807,9 +760,57 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-16T14:23:35.947Z",
+      "fetchedAt": "2026-08-16T16:25:33.700Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "link": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "snippet": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "pubDate": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "link": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "snippet": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "pubDate": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "link": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+      "snippet": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests",
+      "pubDate": "Thu, 13 Aug 2026 18:28:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-08-16T16:25:33.395Z",
+      "tags": [
+        "学术研究"
       ]
     }
   ]
