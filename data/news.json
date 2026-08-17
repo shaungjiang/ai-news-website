@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-08-17T10:42:10.926Z",
+  "generatedAt": "2026-08-17T12:54:18.757Z",
   "stats": {
-    "total": 104,
+    "total": 102,
     "shown": 50,
-    "chinese": 30,
-    "english": 74,
-    "today": 17
+    "chinese": 29,
+    "english": 73,
+    "today": 30
   },
   "articles": [
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens",
+      "pubDate": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-08-17T12:44:26.615Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
+      "snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rule",
+      "pubDate": "2026-08-17T10:57:13.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:26.389Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "HTML正在成为 AI 办公的新载体？WorkBuddy 升级了一个关键能力",
+      "link": "https://www.leiphone.com/category/yanxishe/oKb8M5M7ub7JmG47.html",
+      "snippet": "HTML也能人机协同编辑了。（雷峰网）          作者丨李娜      编辑丨岑峰",
+      "pubDate": "Mon, 17 Aug 2026 18:19:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "共生知行发布人形机器人赛车Demo：以卡丁车测试双足机器人的“全身智能”",
+      "link": "https://www.qbitai.com/2026/08/474537.html",
+      "snippet": "8月17日，具身智能初创公司共生知行发布双足人形机器人驾驶卡丁车Demo",
+      "pubDate": "Mon, 17 Aug 2026 09:30:49 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
@@ -19,9 +83,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-17T10:32:20.116Z",
+      "fetchedAt": "2026-08-17T12:44:28.874Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "YC 开源自家 Harness，3 天斩获 3.9k Star，QM 如何划清 Agent 的权限边界",
+      "link": "https://www.leiphone.com/category/ai/5fYkbR7Q1K3l0ImP.html",
+      "snippet": "从拼模型能力，到搭管控骨架。          作者丨樊天骄      编辑丨郑佳美                                                                                                           过",
+      "pubDate": "Mon, 17 Aug 2026 17:05:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -35,9 +115,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "拆解 Mistral AI 新项目Shieldstral，看 3B 小模型如何重构 AI 安全审核范式",
+      "link": "https://www.leiphone.com/category/ai/mx99nwAcQHgHCbka.html",
+      "snippet": "一款 3B 级分类器，可通过统一接口审核文本、图片以及图文混合内容。          作者丨樊天骄      编辑丨郑佳美",
+      "pubDate": "Mon, 17 Aug 2026 17:02:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "关于 Hugging Face 入侵事件，OpenAI 终于放出了时间线",
+      "link": "https://www.leiphone.com/category/ai/JyuBFwcuu4VhHQjM.html",
+      "snippet": "一批原本彼此独立运行的 AI 智能体，在 OpenAI 内部创建了一块留言板。          作者丨樊天骄      编辑丨郑佳美",
+      "pubDate": "Mon, 17 Aug 2026 17:00:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -51,7 +163,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Dinneen",
-      "fetchedAt": "2026-08-17T10:32:18.354Z",
+      "fetchedAt": "2026-08-17T12:44:26.615Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +179,88 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sara Harrison",
-      "fetchedAt": "2026-08-17T10:32:18.354Z",
+      "fetchedAt": "2026-08-17T12:44:26.615Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "为了「自我锤炼」，OpenAI 造了一个攻击力极强的「AI 黑客」",
+      "link": "https://www.leiphone.com/category/ai/2b8vHYIEycW0DmQE.html",
+      "snippet": "红队模型高危安全任务完成率达到 95%。          作者丨樊天骄      编辑丨郑佳美",
+      "pubDate": "Mon, 17 Aug 2026 16:57:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "豆包“工作任务”升级，支持手机远程操控电脑",
+      "link": "https://www.leiphone.com/category/industrynews/u0uYIWvrxUmEXHxx.html",
+      "snippet": "近日豆包发布产品更新，“工作任务”模式新增手机远程控制电脑功能。同一账号授权后，用户在手机端下达任务指令，可以由已连接的电脑端读取本地文件、操作软件完成执行，进度和结果实时回传手机，帮助用户在通勤、离开工位等各类场景中自动执行任务，提升效率。   今年6月豆包上线“工作任务”模式，AI 可在授权后直",
+      "pubDate": "Mon, 17 Aug 2026 16:56:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Seedance 2.5 正式支持 1080P，API 同步开放",
+      "link": "https://www.leiphone.com/category/industrynews/xvsvCI7gPqM0YzFJ.html",
+      "snippet": "8月17日，火山引擎官网显示 Seedance 2.5 正式支持原生1080P视频生成，API 同步上线。 Seedance 2.5 定位为“电影级长叙事”的真实画面质感和长镜头能力，此前已支持480P、720P 视频生成。随着 1080P 能力上线，Seedance2.5 进一步提升画面清晰度和影",
+      "pubDate": "Mon, 17 Aug 2026 16:54:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "深度拆解 DeepSeek Harness 架构：AGI 的自进化，终于有了「后悔药」",
+      "link": "https://www.leiphone.com/category/ai/u43j44fx6Rly10nI.html",
+      "snippet": "DeepSeek：一切皆插件，包括 Harness          作者丨樊天骄      编辑丨岑   峰",
+      "pubDate": "Mon, 17 Aug 2026 16:53:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "原生全模态路线进阶，智象未来发布交互式世界模型HiDream-O1-World",
+      "link": "https://www.leiphone.com/category/ai/ZBZ8uxaPm2OTe7nN.html",
+      "snippet": "HiDream-O1-World，一款原生全模态交互式世界模型。 HiDream-O1-World 具备漫游、编辑、交互三大功能，支持文本、图像、交互等多模态方式输入。用户可一键生成时空一致、符合物理规律、可长时推演的完整世界。  HiDream-O1-World 搭载的是智象自研的原生全模态（Ui",
+      "pubDate": "Mon, 17 Aug 2026 16:46:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "AI应用"
       ]
@@ -83,9 +276,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+      "link": "https://www.leiphone.com/category/industrynews/hGcCVT4LhwHEpOh9.html",
+      "snippet": "8月17日，阿里巴巴发布AI音乐模型HappyShrimp（中文名：快乐虾米）。HappyShrimp能精准理解自然语言，用户只需描述一种情绪、一个故事或一段记忆，模型便能完成从作词、作曲、编曲到演唱的完整创作。其核心优势在于：端到端整曲生成，让歌词、旋律、编曲与人声一体成型；深度的意图理解能力让模",
+      "pubDate": "Mon, 17 Aug 2026 16:33:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
       ]
     },
     {
@@ -99,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "开源工具"
       ]
@@ -163,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -180,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "大模型"
       ]
@@ -196,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "学术研究"
       ]
@@ -212,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -229,7 +439,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "开源工具"
       ]
@@ -245,7 +455,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "综合"
       ]
@@ -261,25 +471,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:25.923Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "裁员1600人！诺基亚计划关闭中国研发中心；DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍；Claude出现大规模服务故障",
-      "link": "https://www.leiphone.com/category/zaobao/oRfuqgy8MLhvuQax.html",
-      "snippet": "要闻提示       1.诺基亚计划关闭中国杭州研发中心，裁员 1600 人 2.DeepSeek API 峰谷定价方案今日生效，高峰时段价格翻倍 3.苹果阿里合作再深入：不止千问接入，还参与模型训练 4.华为天才少年宁博宇离职：焦虑对不起公司，回村卖玉米，将赴瑞典深造 5.字节付费小说平台红烛故事",
-      "pubDate": "Mon, 17 Aug 2026 08:32:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "New policy ideas for the Intelligence Age",
+      "link": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
+      "snippet": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligen",
+      "pubDate": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
+      "fetchedAt": "2026-08-17T12:44:27.936Z",
       "tags": [
-        "大模型"
+        "政策监管"
       ]
     },
     {
@@ -293,7 +503,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:18.104Z",
+      "fetchedAt": "2026-08-17T12:44:26.389Z",
       "tags": [
         "政策监管"
       ]
@@ -309,7 +519,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
+      "fetchedAt": "2026-08-17T12:44:26.161Z",
       "tags": [
         "商业融资"
       ]
@@ -325,7 +535,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
+      "fetchedAt": "2026-08-17T12:44:26.161Z",
       "tags": [
         "综合"
       ]
@@ -341,7 +551,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
+      "fetchedAt": "2026-08-17T12:44:26.161Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +567,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:18.104Z",
+      "fetchedAt": "2026-08-17T12:44:26.389Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -374,7 +584,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:18.104Z",
+      "fetchedAt": "2026-08-17T12:44:26.389Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +600,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +664,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
+      "fetchedAt": "2026-08-17T12:44:20.235Z",
       "tags": [
         "商业融资"
       ]
@@ -470,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
+      "fetchedAt": "2026-08-17T12:44:26.161Z",
       "tags": [
         "开源工具"
       ]
@@ -486,7 +696,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:18.104Z",
+      "fetchedAt": "2026-08-17T12:44:26.389Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +712,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
+      "fetchedAt": "2026-08-17T12:44:26.161Z",
       "tags": [
         "大模型"
       ]
@@ -518,7 +728,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
+      "fetchedAt": "2026-08-17T12:44:26.161Z",
       "tags": [
         "商业融资"
       ]
@@ -534,90 +744,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-17T10:32:20.116Z",
+      "fetchedAt": "2026-08-17T12:44:28.874Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
-      "link": "https://www.qbitai.com/2026/08/473876.html",
-      "snippet": "理解大模型，无需再训练一个替代网络",
-      "pubDate": "Sat, 15 Aug 2026 06:42:23 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-08-17T10:32:12.472Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "发布即热销：大疆 Osmo 360 II 首日拿下全渠道销量 TOP1",
-      "link": "https://www.leiphone.com/category/industrynews/WvOWhJBIPKxhzMoo.html",
-      "snippet": "8月13日20:00，大疆正式发布全新 8K 全景相机 Osmo 360 II。根据24小时战报数据，Osmo 360 II 全渠道首日销量位列 TOP1，并在京东、天猫、抖音三大平台全景相机相关榜单中登顶，上市首日即展现出强劲市场表现。  战报显示，Osmo 360 II 发布4小时后，已拿下京东",
-      "pubDate": "Sat, 15 Aug 2026 12:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "索塔无界：全球首家原生物理世界模型落地商超，具身智能迎来“索塔时刻”",
-      "link": "https://www.leiphone.com/category/industrynews/aEyXlap53PQXDDYJ.html",
-      "snippet": "在具身智能仍陷于“资本热、落地冷”之际，成立仅4个月的索塔无界，率先以欧洲最大商超集团的战略合作，打破商业落地僵局。根据规划，双方未来3年将在真实商超场景中部署超过千台具身智能机器人。索塔无界不造硬件，而是为机器人打造“原生物理大脑”——首次将4D世界动作模型部署于真实商超货架之间，开启物理智能的“",
-      "pubDate": "Sat, 15 Aug 2026 12:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "鹿明发布MOS2：全球首个双臂负载50kg轮臂式机器人，加速AI Worker进入产业现场",
-      "link": "https://www.leiphone.com/category/industrynews/24fbshcNUNahZuQz.html",
-      "snippet": "8月14日，鹿明机器人发布全新重载轮臂式具身智能机器人Lumos MOS2。 面向真实工业场景，Lumos MOS2具备50kg双臂负载能力，同时在硬件性能、全向移动能力、多模态感知系统和整机控制架构等方面实现全面升级，胜任真实工业场景高强度、持续性作业任务。 鹿明机器人创始人兼CEO喻超表示，具身",
-      "pubDate": "Sat, 15 Aug 2026 12:01:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "限量手办 + 实景体验，浙江人行NAVIAI2026WRC 福利提前曝光",
-      "link": "https://www.leiphone.com/category/industrynews/YW6iXkaDum3xwwBJ.html",
-      "snippet": "8 月 19 日至 23 日，2026 世界机器人大会（WRC2026）将在北京亦庄亦创国际会展中心举办。浙江人形机器人创新中心将携旗下 NAVIAI 人形机器人亮相 C-105 展位，集中展示人形机器人在多元场景的落地应用成果。 本次展会上，NAVIAI 将呈现工业制造、智慧零售、家庭服务、遥操数",
-      "pubDate": "Sat, 15 Aug 2026 09:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
       ]
     },
     {
@@ -631,7 +760,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-17T10:32:19.092Z",
+      "fetchedAt": "2026-08-17T12:44:27.576Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +776,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:18.104Z",
+      "fetchedAt": "2026-08-17T12:44:26.389Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +792,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T10:32:18.104Z",
+      "fetchedAt": "2026-08-17T12:44:26.389Z",
       "tags": [
         "大模型"
       ]
@@ -679,135 +808,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s m",
-      "pubDate": "Fri, 14 Aug 2026 15:43:28 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "阿里开源Qwen3.8，千问大模型全球下载超30亿次",
-      "link": "https://www.leiphone.com/category/industrynews/GJAhmR3wyL91CzjO.html",
-      "snippet": "8月14日晚，阿里千问正式开源Qwen3.8系列模型，所有开发者、科研机构和企业均可自由下载、部署和使用。全新开源的Qwen3.8-27B，系原生多模态稠密（Dense）模型，仅270亿参数规模，整体水平便超越了Qwen3.7-Plus，在编程及办公的真实场景中表现出色。新模型响应速度快，完成质量高",
-      "pubDate": "Fri, 14 Aug 2026 23:08:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Kog is going deeper to squeeze more inference out of GPUs",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "snippet": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
-      "pubDate": "Fri, 14 Aug 2026 14:50:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anna Heim",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
-      "link": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground/",
-      "snippet": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
-      "pubDate": "Fri, 14 Aug 2026 14:27:14 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jamie John\n                ",
-      "fetchedAt": "2026-08-17T10:32:19.092Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "snippet": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "pubDate": "Fri, 14 Aug 2026 14:05:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta’s ‘open’ AI, and a $250M deal gone very wrong",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "snippet": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s m",
-      "pubDate": "Fri, 14 Aug 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Rebecca Bellan",
-      "fetchedAt": "2026-08-17T10:32:17.866Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "商汤大装置首提TPW，重新定义AI基础设施效能标尺",
-      "link": "https://www.leiphone.com/category/ai/XzQc2DEYciB5M57I.html",
-      "snippet": "如何用有限的能源和成本，产出更多Token？这是Token经济时代，AI基础设施面临的新课题。 Token消耗指数级增长，算力需求持续攀升，随之带动的是AIDC用电量在全社会用电结构中的占比快速提高。行业对AIDC关注的焦点不再只是“谁拥有更多算力”，更开始关心“谁能以更低成本、更高效率生产更多高质",
-      "pubDate": "Fri, 14 Aug 2026 21:09:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-17T10:32:17.568Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "link": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tig",
-      "pubDate": "Fri, 14 Aug 2026 12:17:21 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-17T10:32:18.354Z",
+      "fetchedAt": "2026-08-17T12:44:26.161Z",
       "tags": [
         "综合"
       ]
