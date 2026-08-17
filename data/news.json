@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-17T20:33:32.498Z",
+  "generatedAt": "2026-08-17T22:34:46.102Z",
   "stats": {
-    "total": 103,
+    "total": 92,
     "shown": 50,
     "chinese": 29,
-    "english": 74,
-    "today": 40
+    "english": 63,
+    "today": 39
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "snippet": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay found",
+      "pubDate": "Mon, 17 Aug 2026 21:27:05 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Former SpaceX engineers are building a robotic factory for making steel parts",
+      "link": "https://arstechnica.com/ai/2026/08/former-spacex-engineers-are-building-a-robotic-factory-for-making-steel-parts/",
+      "snippet": "“We're not necessarily building in a dogmatic fashion towards full autonomy.”",
+      "pubDate": "Mon, 17 Aug 2026 21:18:49 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-08-17T22:24:54.797Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "What Flock’s defenders are missing",
@@ -19,23 +51,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-08-17T20:27:52.077Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "MiniMax Releases MiniMax-Music3: An Open-Weights Music Model Generating Complete Five-Minute Songs From Lyrics and a Structured Caption",
-      "link": "https://www.marktechpost.com/2026/08/17/minimax-releases-minimax-music3/",
-      "snippet": "MiniMax released MiniMax-Music3, an open-weights text-to-music model. Given lyrics with section tags and a structured caption, it generates a complete",
-      "pubDate": "Mon, 17 Aug 2026 18:36:40 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-17T20:27:53.857Z",
+      "fetchedAt": "2026-08-17T22:24:54.032Z",
       "tags": [
         "AI应用"
       ]
@@ -51,25 +67,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-17T20:27:52.862Z",
+      "fetchedAt": "2026-08-17T22:24:54.797Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Developing an End-to-End Document Intelligence Pipeline with docTR for OCR, Layout Analysis, KIE, Benchmarking, and Searchable PDFs",
-      "link": "https://www.marktechpost.com/2026/08/17/end-to-end-document-intelligence-pipeline-with-doctr-for-ocr/",
-      "snippet": "Develop a complete document intelligence pipeline with docTR, integrating OCR, layout analysis, and KIE for production-oriented extraction and searcha",
-      "pubDate": "Mon, 17 Aug 2026 17:52:50 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-17T20:27:53.857Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -83,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-17T20:27:51.528Z",
+      "fetchedAt": "2026-08-17T22:24:53.508Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-17T20:27:51.528Z",
+      "fetchedAt": "2026-08-17T22:24:53.508Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-17T20:27:51.528Z",
+      "fetchedAt": "2026-08-17T22:24:53.508Z",
       "tags": [
         "政策监管"
       ]
@@ -124,16 +124,17 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
       "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "snippet": "Wispr’s total funding is now over $361 million.",
+      "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
       "pubDate": "Mon, 17 Aug 2026 13:10:05 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-17T20:27:51.528Z",
+      "fetchedAt": "2026-08-17T22:24:53.508Z",
       "tags": [
-        "商业融资"
+        "商业融资",
+        "AI应用"
       ]
     },
     {
@@ -147,7 +148,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-17T20:27:52.077Z",
+      "fetchedAt": "2026-08-17T22:24:54.032Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.780Z",
+      "fetchedAt": "2026-08-17T22:24:53.811Z",
       "tags": [
         "大模型"
       ]
@@ -179,7 +180,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "综合"
       ]
@@ -195,23 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-17T20:27:45.993Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "DeepSeek AI Releases DeepSeek Harness in Developer Preview: An MIT-Licensed Agent Harness Where Everything is a Plugin",
-      "link": "https://www.marktechpost.com/2026/08/17/deepseek-ai-releases-deepseek-harness-in-developer-preview/",
-      "snippet": "DeepSeek Harness v0.1 is an MIT-licensed agent harness where every capability is a Cordis plugin. Four runtime modes, append-only session logs, and pr",
-      "pubDate": "Mon, 17 Aug 2026 09:06:32 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-17T20:27:53.857Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "AI应用"
       ]
@@ -227,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "开源工具"
       ]
@@ -243,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-17T20:27:45.993Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "政策监管"
       ]
@@ -275,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "开源工具"
       ]
@@ -291,7 +276,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Dinneen",
-      "fetchedAt": "2026-08-17T20:27:52.077Z",
+      "fetchedAt": "2026-08-17T22:24:54.032Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +292,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sara Harrison",
-      "fetchedAt": "2026-08-17T20:27:52.077Z",
+      "fetchedAt": "2026-08-17T22:24:54.032Z",
       "tags": [
         "AI应用"
       ]
@@ -323,7 +308,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "政策监管"
       ]
@@ -339,7 +324,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -356,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "AI应用"
       ]
@@ -404,7 +389,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-17T20:27:45.993Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -437,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-17T20:27:45.993Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "AI应用"
       ]
@@ -469,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "AI应用"
       ]
@@ -485,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-17T20:27:45.993Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "开源工具"
       ]
@@ -501,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -518,7 +503,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:53.209Z",
+      "fetchedAt": "2026-08-17T22:24:55.160Z",
       "tags": [
         "开源工具"
       ]
@@ -534,7 +519,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:53.209Z",
+      "fetchedAt": "2026-08-17T22:24:55.160Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "大模型"
       ]
@@ -566,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "学术研究"
       ]
@@ -582,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -599,7 +584,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "开源工具"
       ]
@@ -615,7 +600,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.270Z",
+      "fetchedAt": "2026-08-17T22:24:53.282Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +632,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:53.209Z",
+      "fetchedAt": "2026-08-17T22:24:55.160Z",
       "tags": [
         "政策监管"
       ]
@@ -663,7 +648,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.780Z",
+      "fetchedAt": "2026-08-17T22:24:53.811Z",
       "tags": [
         "政策监管"
       ]
@@ -679,7 +664,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T20:27:51.528Z",
+      "fetchedAt": "2026-08-17T22:24:53.508Z",
       "tags": [
         "商业融资"
       ]
@@ -695,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T20:27:51.528Z",
+      "fetchedAt": "2026-08-17T22:24:53.508Z",
       "tags": [
         "综合"
       ]
@@ -711,7 +696,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T20:27:51.528Z",
+      "fetchedAt": "2026-08-17T22:24:53.508Z",
       "tags": [
         "综合"
       ]
@@ -727,7 +712,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.780Z",
+      "fetchedAt": "2026-08-17T22:24:53.811Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -744,7 +729,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T20:27:51.780Z",
+      "fetchedAt": "2026-08-17T22:24:53.811Z",
       "tags": [
         "综合"
       ]
@@ -760,7 +745,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-08-17T20:27:45.994Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "综合"
       ]
@@ -776,7 +761,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-17T20:27:45.994Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "综合"
       ]
@@ -792,7 +777,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-17T20:27:45.994Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "综合"
       ]
@@ -808,9 +793,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-17T20:27:45.994Z",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
+      "link": "https://www.qbitai.com/2026/08/473947.html",
+      "snippet": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
+      "pubDate": "Sun, 16 Aug 2026 05:28:42 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "tags": [
+        "商业融资"
       ]
     }
   ]
