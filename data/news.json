@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-17T22:34:46.102Z",
+  "generatedAt": "2026-08-18T01:20:58.285Z",
   "stats": {
     "total": 92,
     "shown": 50,
     "chinese": 29,
     "english": 63,
-    "today": 39
+    "today": 0
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "snippet": "The model maker added $18 billion in annualized revenue in two months.",
+      "pubDate": "Mon, 17 Aug 2026 23:56:26 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
@@ -19,7 +35,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
       "tags": [
         "政策监管"
       ]
@@ -35,7 +51,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-17T22:24:54.797Z",
+      "fetchedAt": "2026-08-18T01:15:39.778Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +67,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-08-17T22:24:54.032Z",
+      "fetchedAt": "2026-08-18T01:15:38.700Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-17T22:24:54.797Z",
+      "fetchedAt": "2026-08-18T01:15:39.778Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
       "tags": [
         "政策监管"
       ]
@@ -131,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -148,7 +164,23 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-17T22:24:54.032Z",
+      "fetchedAt": "2026-08-18T01:15:38.700Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
+      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
+      "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else coul",
+      "pubDate": "2026-08-17T11:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-18T01:15:38.361Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.811Z",
+      "fetchedAt": "2026-08-18T01:15:38.361Z",
       "tags": [
         "大模型"
       ]
@@ -180,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "fetchedAt": "2026-08-18T01:15:32.970Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "开源工具"
       ]
@@ -228,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "fetchedAt": "2026-08-18T01:15:32.970Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "政策监管"
       ]
@@ -260,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "开源工具"
       ]
@@ -276,7 +308,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Dinneen",
-      "fetchedAt": "2026-08-17T22:24:54.032Z",
+      "fetchedAt": "2026-08-18T01:15:38.700Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +324,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sara Harrison",
-      "fetchedAt": "2026-08-17T22:24:54.032Z",
+      "fetchedAt": "2026-08-18T01:15:38.700Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +340,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "政策监管"
       ]
@@ -324,7 +356,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -341,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "AI应用"
       ]
@@ -357,7 +389,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "AI应用"
       ]
@@ -389,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "fetchedAt": "2026-08-18T01:15:32.971Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -422,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "fetchedAt": "2026-08-18T01:15:32.971Z",
       "tags": [
         "AI应用"
       ]
@@ -438,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "AI应用"
       ]
@@ -454,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "fetchedAt": "2026-08-18T01:15:32.971Z",
       "tags": [
         "开源工具"
       ]
@@ -486,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -503,7 +535,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:55.160Z",
+      "fetchedAt": "2026-08-18T01:15:40.457Z",
       "tags": [
         "开源工具"
       ]
@@ -519,7 +551,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:55.160Z",
+      "fetchedAt": "2026-08-18T01:15:40.457Z",
       "tags": [
         "综合"
       ]
@@ -535,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "大模型"
       ]
@@ -551,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "学术研究"
       ]
@@ -567,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -584,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "开源工具"
       ]
@@ -600,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "综合"
       ]
@@ -616,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.282Z",
+      "fetchedAt": "2026-08-18T01:15:37.675Z",
       "tags": [
         "综合"
       ]
@@ -632,7 +664,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:55.160Z",
+      "fetchedAt": "2026-08-18T01:15:40.457Z",
       "tags": [
         "政策监管"
       ]
@@ -648,7 +680,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.811Z",
+      "fetchedAt": "2026-08-18T01:15:38.361Z",
       "tags": [
         "政策监管"
       ]
@@ -664,7 +696,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
       "tags": [
         "商业融资"
       ]
@@ -680,7 +712,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
       "tags": [
         "综合"
       ]
@@ -696,7 +728,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-17T22:24:53.508Z",
+      "fetchedAt": "2026-08-18T01:15:38.021Z",
       "tags": [
         "综合"
       ]
@@ -712,7 +744,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.811Z",
+      "fetchedAt": "2026-08-18T01:15:38.361Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -729,7 +761,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-17T22:24:53.811Z",
+      "fetchedAt": "2026-08-18T01:15:38.361Z",
       "tags": [
         "综合"
       ]
@@ -745,7 +777,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "fetchedAt": "2026-08-18T01:15:32.971Z",
       "tags": [
         "综合"
       ]
@@ -761,7 +793,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "fetchedAt": "2026-08-18T01:15:32.971Z",
       "tags": [
         "综合"
       ]
@@ -777,41 +809,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
+      "fetchedAt": "2026-08-18T01:15:32.971Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "link": "https://www.qbitai.com/2026/08/473972.html",
-      "snippet": "背后是四项关键能力",
-      "pubDate": "Sun, 16 Aug 2026 05:37:39 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "一水",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
-      "link": "https://www.qbitai.com/2026/08/473947.html",
-      "snippet": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO。",
-      "pubDate": "Sun, 16 Aug 2026 05:28:42 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-08-17T22:24:47.727Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
