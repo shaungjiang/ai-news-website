@@ -1,13 +1,110 @@
 {
-  "generatedAt": "2026-08-18T12:51:44.210Z",
+  "generatedAt": "2026-08-18T14:39:09.460Z",
   "stats": {
-    "total": 101,
+    "total": 102,
     "shown": 50,
     "chinese": 28,
-    "english": 73,
-    "today": 36
+    "english": 74,
+    "today": 42
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
+      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
+      "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastrructure system designed to make building AI software factories as easy as possible.",
+      "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-08-18T14:34:10.502Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
+      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "snippet": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and",
+      "pubDate": "Tue, 18 Aug 2026 13:50:30 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-08-18T14:34:10.502Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Perplexity’s free AI offer left it with millions more users in India",
+      "link": "https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/",
+      "snippet": "Perplexity's India revenue rose about 60% after the Airtel offer ended for new users, even as downloads declined.",
+      "pubDate": "Tue, 18 Aug 2026 13:45:40 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-08-18T14:34:10.502Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
+      "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
+      "snippet": "Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust",
+      "pubDate": "Tue, 18 Aug 2026 13:29:10 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-18T14:34:13.248Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Microsoft Copilot reveals secret input that allowed it to be hacked",
+      "link": "https://arstechnica.com/security/2026/08/microsoft-copilot-reveals-secret-input-that-allowed-it-to-be-hacked/",
+      "snippet": "Secret parameter allowed hackers to steal passwords when a target clicked on a link.",
+      "pubDate": "Tue, 18 Aug 2026 13:00:04 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-08-18T14:34:12.314Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Firefox&#8217;s Smart Window promises a better AI browser",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "snippet": "Starting today, AI chats in Firefox's Smart Window AI browsing mode can pull from current web info and show source links in chat responses through a p",
+      "pubDate": "2026-08-18T13:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-18T14:34:10.798Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "The Download: how people really use AI, and Flock’s design choices",
@@ -19,7 +116,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-18T12:47:22.001Z",
+      "fetchedAt": "2026-08-18T14:34:11.116Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +132,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:21.601Z",
+      "fetchedAt": "2026-08-18T14:34:10.798Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.941Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:21.601Z",
+      "fetchedAt": "2026-08-18T14:34:10.798Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:21.601Z",
+      "fetchedAt": "2026-08-18T14:34:10.798Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +196,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:23.512Z",
+      "fetchedAt": "2026-08-18T14:34:12.849Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +212,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:23.512Z",
+      "fetchedAt": "2026-08-18T14:34:12.849Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -132,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.941Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +245,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-18T12:47:24.153Z",
+      "fetchedAt": "2026-08-18T14:34:13.248Z",
       "tags": [
         "大模型"
       ]
@@ -164,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "学术研究"
       ]
@@ -180,7 +277,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eileen Guo",
-      "fetchedAt": "2026-08-18T12:47:22.001Z",
+      "fetchedAt": "2026-08-18T14:34:11.116Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -197,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.942Z",
       "tags": [
         "AI应用"
       ]
@@ -213,7 +310,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.942Z",
       "tags": [
         "AI应用"
       ]
@@ -229,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "大模型"
       ]
@@ -245,7 +342,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.942Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -262,7 +359,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:21.601Z",
+      "fetchedAt": "2026-08-18T14:34:10.798Z",
       "tags": [
         "AI应用"
       ]
@@ -278,7 +375,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Becky Ferreira",
-      "fetchedAt": "2026-08-18T12:47:22.001Z",
+      "fetchedAt": "2026-08-18T14:34:11.116Z",
       "tags": [
         "综合"
       ]
@@ -294,7 +391,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michelle Kim",
-      "fetchedAt": "2026-08-18T12:47:22.001Z",
+      "fetchedAt": "2026-08-18T14:34:11.116Z",
       "tags": [
         "大模型"
       ]
@@ -310,7 +407,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "商业融资"
       ]
@@ -326,7 +423,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -343,7 +440,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "大模型"
       ]
@@ -359,7 +456,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.942Z",
       "tags": [
         "开源工具"
       ]
@@ -375,7 +472,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.942Z",
       "tags": [
         "综合"
       ]
@@ -391,7 +488,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.942Z",
       "tags": [
         "综合"
       ]
@@ -407,7 +504,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "大模型"
       ]
@@ -423,7 +520,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.942Z",
       "tags": [
         "商业融资"
       ]
@@ -439,7 +536,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-18T12:47:14.151Z",
+      "fetchedAt": "2026-08-18T14:34:05.942Z",
       "tags": [
         "综合"
       ]
@@ -455,7 +552,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -472,7 +569,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "AI应用"
       ]
@@ -488,7 +585,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -505,7 +602,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "AI应用"
       ]
@@ -521,7 +618,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "AI应用"
       ]
@@ -537,7 +634,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "大模型"
       ]
@@ -553,7 +650,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-18T12:47:24.153Z",
+      "fetchedAt": "2026-08-18T14:34:13.248Z",
       "tags": [
         "学术研究"
       ]
@@ -569,7 +666,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-18T12:47:24.153Z",
+      "fetchedAt": "2026-08-18T14:34:13.248Z",
       "tags": [
         "大模型"
       ]
@@ -585,7 +682,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-18T12:47:20.947Z",
+      "fetchedAt": "2026-08-18T14:34:10.213Z",
       "tags": [
         "商业融资"
       ]
@@ -601,7 +698,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-18T12:47:21.256Z",
+      "fetchedAt": "2026-08-18T14:34:10.502Z",
       "tags": [
         "商业融资"
       ]
@@ -617,7 +714,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-18T12:47:21.256Z",
+      "fetchedAt": "2026-08-18T14:34:10.502Z",
       "tags": [
         "政策监管"
       ]
@@ -633,7 +730,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-08-18T12:47:23.058Z",
+      "fetchedAt": "2026-08-18T14:34:12.314Z",
       "tags": [
         "综合"
       ]
@@ -649,7 +746,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-08-18T12:47:22.001Z",
+      "fetchedAt": "2026-08-18T14:34:11.116Z",
       "tags": [
         "AI应用"
       ]
@@ -665,7 +762,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-18T12:47:24.153Z",
+      "fetchedAt": "2026-08-18T14:34:13.248Z",
       "tags": [
         "AI应用"
       ]
@@ -681,7 +778,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-18T12:47:23.058Z",
+      "fetchedAt": "2026-08-18T14:34:12.314Z",
       "tags": [
         "综合"
       ]
@@ -697,7 +794,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-18T12:47:24.153Z",
+      "fetchedAt": "2026-08-18T14:34:13.248Z",
       "tags": [
         "AI应用"
       ]
@@ -713,104 +810,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-18T12:47:21.256Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "snippet": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data cent",
-      "pubDate": "Mon, 17 Aug 2026 16:15:12 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-18T12:47:21.256Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "snippet": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
-      "pubDate": "Mon, 17 Aug 2026 15:16:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-18T12:47:21.256Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "snippet": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
-      "pubDate": "Mon, 17 Aug 2026 13:10:05 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-18T12:47:21.256Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "link": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens",
-      "pubDate": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-18T12:47:22.001Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Whisker’s AI-powered litter robot thinks my cats swapped bodies",
-      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "snippet": "The greatest invention in pet tech in recent years is the litter robot. A machine that scoops your kitties' poop so you don't have to - what else coul",
-      "pubDate": "2026-08-17T11:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-18T12:47:21.601Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Anthropic explains how Claude&#8217;s invisible text watermarks will work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "snippet": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rule",
-      "pubDate": "2026-08-17T10:57:13.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-18T12:47:21.601Z",
+      "fetchedAt": "2026-08-18T14:34:10.502Z",
       "tags": [
         "大模型"
       ]
