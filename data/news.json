@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-19T01:26:00.734Z",
+  "generatedAt": "2026-08-19T03:03:14.865Z",
   "stats": {
-    "total": 104,
+    "total": 94,
     "shown": 50,
     "chinese": 28,
-    "english": 76,
-    "today": 0
+    "english": 66,
+    "today": 1
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "郭富城换车，30万级顶配华为全家桶",
+      "link": "https://www.qbitai.com/2026/08/475009.html",
+      "snippet": "5.3米六座家用SUV",
+      "pubDate": "Wed, 19 Aug 2026 00:59:23 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Cursor capitalizes on GitHub frustration, launches rival hosting platform",
@@ -19,25 +35,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-19T01:17:11.021Z",
+      "fetchedAt": "2026-08-19T02:57:33.923Z",
       "tags": [
         "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
-      "link": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
-      "snippet": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to",
-      "pubDate": "Tue, 18 Aug 2026 21:49:04 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-19T01:17:13.362Z",
-      "tags": [
         "AI应用"
       ]
     },
@@ -52,7 +52,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:11.299Z",
+      "fetchedAt": "2026-08-19T02:57:34.159Z",
       "tags": [
         "综合"
       ]
@@ -68,7 +68,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:11.299Z",
+      "fetchedAt": "2026-08-19T02:57:34.159Z",
       "tags": [
         "开源工具"
       ]
@@ -84,7 +84,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:12.726Z",
+      "fetchedAt": "2026-08-19T02:57:35.604Z",
       "tags": [
         "AI应用"
       ]
@@ -100,7 +100,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-19T01:17:11.021Z",
+      "fetchedAt": "2026-08-19T02:57:33.923Z",
       "tags": [
         "开源工具"
       ]
@@ -116,7 +116,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-19T01:17:11.021Z",
+      "fetchedAt": "2026-08-19T02:57:33.923Z",
       "tags": [
         "商业融资"
       ]
@@ -132,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-19T01:17:11.021Z",
+      "fetchedAt": "2026-08-19T02:57:33.923Z",
       "tags": [
         "AI应用"
       ]
@@ -148,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -165,7 +165,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-19T01:17:11.021Z",
+      "fetchedAt": "2026-08-19T02:57:33.923Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +181,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-19T01:17:11.021Z",
+      "fetchedAt": "2026-08-19T02:57:33.923Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -198,25 +198,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-19T01:17:11.021Z",
+      "fetchedAt": "2026-08-19T02:57:33.923Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet SAM (Sovereign Agent Mesh): A Zero-Config, Zero-Trust P2P Network for AI Agents",
-      "link": "https://www.marktechpost.com/2026/08/18/meet-sam-sovereign-agent-mesh-a-zero-config-zero-trust-p2p-network-for-ai-agents/",
-      "snippet": "Google has open-sourced SAM (Sovereign Agent Mesh) under Apache-2.0 — and it has nothing to do with Segment Anything. SAM is a zero-config, zero-trust",
-      "pubDate": "Tue, 18 Aug 2026 13:29:10 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-19T01:17:13.362Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -230,7 +214,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "AI应用"
       ]
@@ -246,7 +230,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-08-19T01:17:12.388Z",
+      "fetchedAt": "2026-08-19T02:57:35.244Z",
       "tags": [
         "综合"
       ]
@@ -262,7 +246,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:11.299Z",
+      "fetchedAt": "2026-08-19T02:57:34.159Z",
       "tags": [
         "综合"
       ]
@@ -278,7 +262,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-19T01:17:11.584Z",
+      "fetchedAt": "2026-08-19T02:57:34.427Z",
       "tags": [
         "综合"
       ]
@@ -294,7 +278,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:11.299Z",
+      "fetchedAt": "2026-08-19T02:57:34.159Z",
       "tags": [
         "综合"
       ]
@@ -310,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "AI应用"
       ]
@@ -326,7 +310,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:11.299Z",
+      "fetchedAt": "2026-08-19T02:57:34.159Z",
       "tags": [
         "综合"
       ]
@@ -342,7 +326,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:11.299Z",
+      "fetchedAt": "2026-08-19T02:57:34.159Z",
       "tags": [
         "大模型"
       ]
@@ -358,7 +342,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:12.726Z",
+      "fetchedAt": "2026-08-19T02:57:35.604Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +358,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:12.726Z",
+      "fetchedAt": "2026-08-19T02:57:35.604Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +374,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:12.726Z",
+      "fetchedAt": "2026-08-19T02:57:35.604Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -407,25 +391,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cartesia Ships Sonic-3.6: A Streaming TTS Model That Now Leads Both Artificial Analysis Speech Arenas",
-      "link": "https://www.marktechpost.com/2026/08/18/cartesia-ships-sonic-3-6-a-streaming-tts-model-that-now-leads-both-artificial-analysis-speech-arenas/",
-      "snippet": "Cartesia has released Sonic-3.6, a streaming text-to-speech model built on state space models rather than transformers. It now ranks #1 on both Artifi",
-      "pubDate": "Tue, 18 Aug 2026 10:37:49 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-19T01:17:13.362Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -439,7 +407,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "学术研究"
       ]
@@ -455,7 +423,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eileen Guo",
-      "fetchedAt": "2026-08-19T01:17:11.584Z",
+      "fetchedAt": "2026-08-19T02:57:34.427Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -472,7 +440,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "AI应用"
       ]
@@ -488,7 +456,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "AI应用"
       ]
@@ -504,7 +472,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "大模型"
       ]
@@ -520,7 +488,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -537,7 +505,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:11.299Z",
+      "fetchedAt": "2026-08-19T02:57:34.159Z",
       "tags": [
         "AI应用"
       ]
@@ -553,7 +521,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Becky Ferreira",
-      "fetchedAt": "2026-08-19T01:17:11.584Z",
+      "fetchedAt": "2026-08-19T02:57:34.427Z",
       "tags": [
         "综合"
       ]
@@ -569,7 +537,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michelle Kim",
-      "fetchedAt": "2026-08-19T01:17:11.584Z",
+      "fetchedAt": "2026-08-19T02:57:34.427Z",
       "tags": [
         "大模型"
       ]
@@ -585,7 +553,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "商业融资"
       ]
@@ -601,7 +569,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -618,7 +586,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "大模型"
       ]
@@ -634,7 +602,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "开源工具"
       ]
@@ -650,7 +618,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "综合"
       ]
@@ -666,7 +634,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:12.726Z",
+      "fetchedAt": "2026-08-19T02:57:35.604Z",
       "tags": [
         "综合"
       ]
@@ -682,7 +650,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "综合"
       ]
@@ -698,7 +666,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "大模型"
       ]
@@ -714,25 +682,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
+      "fetchedAt": "2026-08-19T02:57:28.474Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阿里杀进Agent上下文战场：钉钉聊天、企业文档、工作数据终于要被Agent吃进去了",
-      "link": "https://www.qbitai.com/2026/08/474647.html",
-      "snippet": "MyContext补上Agent的数据加工层",
-      "pubDate": "Tue, 18 Aug 2026 04:40:03 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦瑶",
-      "fetchedAt": "2026-08-19T01:17:06.028Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -746,7 +698,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -763,7 +715,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "AI应用"
       ]
@@ -779,7 +731,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -796,7 +748,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "AI应用"
       ]
@@ -812,9 +764,57 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T01:17:10.763Z",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "DeepSeek 为什么把缓存涨了 11 倍？长上下文需求暴涨，得交点「存储税」了",
+      "link": "https://www.leiphone.com/category/yanxishe/NfnH0gxun9dwHGGX.html",
+      "snippet": "缓存涨价背后，是大模型的存储与数据搬运困境。          作者丨高允毅      编辑丨岑   峰",
+      "pubDate": "Tue, 18 Aug 2026 10:22:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "101亿元大交易！阿里巴巴正式出售灵犀互娱；大疆诉美国国防部案赢得程序性胜利；李书福辞任董事会主席，吉利汽车管理层大调整",
+      "link": "https://www.leiphone.com/category/zaobao/dNBHoP0JtJIaed0b.html",
+      "snippet": "要闻提示      1.101亿元大交易！阿里巴巴正式出售灵犀互娱，买方为信宸资本 2.发回重审！大疆诉美国国防部案赢得程序性胜利 3.宇树科技：将于8月19日科创板上市 4.李书福辞任董事会主席，吉利汽车管理层大调整 5.瑞幸新联动被指抄袭，网友：羊了个羊里都能消除的程度 6.钉钉全球商业总裁杨猛",
+      "pubDate": "Tue, 18 Aug 2026 08:42:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-19T02:57:33.697Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "link": "https://openai.com/index/nvidia/chatgpt-work",
+      "snippet": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+      "pubDate": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-19T02:57:35.604Z",
+      "tags": [
+        "大模型"
       ]
     }
   ]
