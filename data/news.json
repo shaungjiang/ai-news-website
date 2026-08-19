@@ -1,17 +1,82 @@
 {
-  "generatedAt": "2026-08-19T18:41:48.334Z",
+  "generatedAt": "2026-08-19T20:33:03.556Z",
   "stats": {
-    "total": 109,
+    "total": 100,
     "shown": 50,
     "chinese": 30,
-    "english": 79,
-    "today": 43
+    "english": 70,
+    "today": 48
   },
   "articles": [
     {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "snippet": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+      "pubDate": "Wed, 19 Aug 2026 20:04:41 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-08-19T20:28:32.999Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "snippet": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t",
+      "pubDate": "Wed, 19 Aug 2026 19:11:40 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "snippet": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as",
+      "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "snippet": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting",
+      "pubDate": "2026-08-19T19:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-19T20:28:31.678Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
       "id": "b3BlbmFpLWJsb2c6",
       "title": "Offering Zero Data Retention for frontier models",
-      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "snippet": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising dat",
       "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
       "sourceName": "OpenAI",
@@ -19,9 +84,25 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:09.597Z",
+      "fetchedAt": "2026-08-19T20:28:33.469Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "snippet": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to co",
+      "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lorenzo Franceschi-Bicchierai",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -35,7 +116,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-08-19T18:36:07.174Z",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
       "tags": [
         "商业融资"
       ]
@@ -51,7 +132,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:07.452Z",
+      "fetchedAt": "2026-08-19T20:28:31.678Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:07.452Z",
+      "fetchedAt": "2026-08-19T20:28:31.678Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Vittoria Elliott, Matt Burgess\n                ",
-      "fetchedAt": "2026-08-19T18:36:09.069Z",
+      "fetchedAt": "2026-08-19T20:28:32.999Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-19T18:36:07.174Z",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -132,7 +213,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-19T18:36:07.174Z",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +229,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "mmarshall@venturebeat.com (Matt Marshall)",
-      "fetchedAt": "2026-08-19T18:36:08.363Z",
+      "fetchedAt": "2026-08-19T20:28:32.545Z",
       "tags": [
         "学术研究"
       ]
@@ -164,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-19T18:36:07.174Z",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +293,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-19T18:36:07.872Z",
+      "fetchedAt": "2026-08-19T20:28:32.014Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +309,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-19T18:36:07.174Z",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
       "tags": [
         "商业融资"
       ]
@@ -244,7 +325,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:07.452Z",
+      "fetchedAt": "2026-08-19T20:28:31.678Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "大模型"
       ]
@@ -292,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "大模型"
       ]
@@ -308,7 +389,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-19T18:36:07.174Z",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
       "tags": [
         "商业融资"
       ]
@@ -340,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -357,7 +438,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Kelly Clancy",
-      "fetchedAt": "2026-08-19T18:36:07.872Z",
+      "fetchedAt": "2026-08-19T20:28:32.014Z",
       "tags": [
         "AI应用"
       ]
@@ -373,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "AI应用"
       ]
@@ -389,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -422,7 +503,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "大模型"
       ]
@@ -454,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "大模型"
       ]
@@ -502,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "商业融资"
       ]
@@ -518,7 +599,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:09.597Z",
+      "fetchedAt": "2026-08-19T20:28:33.469Z",
       "tags": [
         "大模型"
       ]
@@ -534,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.649Z",
       "tags": [
         "综合"
       ]
@@ -566,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "大模型"
       ]
@@ -646,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "政策监管"
       ]
@@ -662,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "大模型"
       ]
@@ -678,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-19T18:36:03.135Z",
+      "fetchedAt": "2026-08-19T20:28:26.650Z",
       "tags": [
         "综合"
       ]
@@ -694,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "fetchedAt": "2026-08-19T20:28:31.005Z",
       "tags": [
         "商业融资"
       ]
@@ -710,7 +791,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-19T18:36:07.174Z",
+      "fetchedAt": "2026-08-19T20:28:31.336Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -727,89 +808,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T18:36:09.597Z",
+      "fetchedAt": "2026-08-19T20:28:33.469Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "NVIDIA Releases TensorRT Model Connect in Public Preview: Hugging Face Checkpoint to Native C++ Inference in Two Commands",
-      "link": "https://www.marktechpost.com/2026/08/18/nvidia-releases-tensorrt-model-connect-in-public-preview-hugging-face-checkpoint-to-native-c-inference-in-two-commands/",
-      "snippet": "NVIDIA has released TensorRT Model Connect (TRTMC) in public preview, an Apache-2.0 project that takes a supported Hugging Face or local checkpoint to",
-      "pubDate": "Tue, 18 Aug 2026 21:49:04 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-19T18:36:10.154Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Robin Williams’ Instagram account brought back to fight ‘AI abuse’",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "snippet": "Robin Williams' children are taking over their father's Instagram account after his daughter spoke out against the use of his AI likeness, as reported",
-      "pubDate": "2026-08-18T19:48:26.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-19T18:36:07.452Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI lays out new security changes after its AI hacked Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "snippet": "OpenAI is announcing security updates following the July news that its AI broke out of a sandboxed environment and accidentally hacked Hugging Face, i",
-      "pubDate": "2026-08-18T19:28:30.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-19T18:36:07.452Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Strengthening democratic oversight in national security",
-      "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "snippet": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training,",
-      "pubDate": "Tue, 18 Aug 2026 19:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-08-19T18:36:09.597Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "link": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "snippet": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security du",
-      "pubDate": "Tue, 18 Aug 2026 18:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-19T18:36:07.174Z",
-      "tags": [
-        "开源工具"
       ]
     }
   ]
