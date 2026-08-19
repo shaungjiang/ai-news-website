@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-08-19T16:37:02.686Z",
+  "generatedAt": "2026-08-19T18:41:48.334Z",
   "stats": {
-    "total": 108,
+    "total": 109,
     "shown": 50,
     "chinese": 30,
-    "english": 78,
-    "today": 38
+    "english": 79,
+    "today": 43
   },
   "articles": [
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+      "snippet": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising dat",
+      "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-19T18:36:09.597Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "snippet": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the si",
+      "pubDate": "Wed, 19 Aug 2026 17:26:48 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo",
+      "fetchedAt": "2026-08-19T18:36:07.174Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI hit the brakes. Now what?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "snippet": "With a looming IPO, intense competition from Anthropic, and Chinese and open-weight rivals nipping at its heels, OpenAI has plenty of reasons to move",
+      "pubDate": "2026-08-19T17:10:09.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-19T18:36:07.452Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta AI is getting a Mac app",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "snippet": "Meta AI can create content and make suggestions based on what it “sees” on your screen. | Image: Meta\t  Meta is launching a new Mac app dedicated to i",
+      "pubDate": "2026-08-19T17:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-19T18:36:07.452Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "Meta ran ads for an app promising to nudify female politicians",
@@ -19,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Vittoria Elliott, Matt Burgess\n                ",
-      "fetchedAt": "2026-08-19T16:32:19.870Z",
+      "fetchedAt": "2026-08-19T18:36:09.069Z",
       "tags": [
         "AI应用"
       ]
@@ -35,9 +99,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
+      "fetchedAt": "2026-08-19T18:36:07.174Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Ray7全球首搭华为DriveONE芯片级驱制融合，纯电底盘技术行业领先",
+      "link": "https://www.leiphone.com/category/industrynews/TiUZCBlzFMfGXUiK.html",
+      "snippet": "8月19日，埃安全新车系Ray首款车型Ray7于东莞松山湖正式亮相。作为埃安焕新LOGO第一车，Ray7定位中大型纯电轿车，为都市悦己青年带来高品质出行体验。   Ray7首搭HUAWEI DriveONE多项先进技术。此次发布会上，埃安和华为举行签约仪式，双方将继续深化技术合作，致力于把最顶尖的科",
+      "pubDate": "Wed, 19 Aug 2026 23:21:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
+      "tags": [
+        "AI应用",
+        "政策监管"
       ]
     },
     {
@@ -51,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
+      "fetchedAt": "2026-08-19T18:36:07.174Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "mmarshall@venturebeat.com (Matt Marshall)",
-      "fetchedAt": "2026-08-19T16:32:19.412Z",
+      "fetchedAt": "2026-08-19T18:36:08.363Z",
       "tags": [
         "学术研究"
       ]
@@ -83,7 +164,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
+      "fetchedAt": "2026-08-19T18:36:07.174Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +180,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.665Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.665Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +212,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-19T16:32:18.910Z",
+      "fetchedAt": "2026-08-19T18:36:07.872Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
+      "fetchedAt": "2026-08-19T18:36:07.174Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +244,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:18.651Z",
+      "fetchedAt": "2026-08-19T18:36:07.452Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.665Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "大模型"
       ]
@@ -211,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.665Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "大模型"
       ]
@@ -227,7 +308,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +324,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
+      "fetchedAt": "2026-08-19T18:36:07.174Z",
       "tags": [
         "商业融资"
       ]
@@ -259,7 +340,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.665Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -276,7 +357,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Kelly Clancy",
-      "fetchedAt": "2026-08-19T16:32:18.910Z",
+      "fetchedAt": "2026-08-19T18:36:07.872Z",
       "tags": [
         "AI应用"
       ]
@@ -292,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.665Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +389,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.665Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -341,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.665Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "大模型"
       ]
@@ -373,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "大模型"
       ]
@@ -421,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "商业融资"
       ]
@@ -437,7 +518,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:20.287Z",
+      "fetchedAt": "2026-08-19T18:36:09.597Z",
       "tags": [
         "大模型"
       ]
@@ -453,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "综合"
       ]
@@ -501,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "大模型"
       ]
@@ -565,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "政策监管"
       ]
@@ -581,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "大模型"
       ]
@@ -597,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-19T16:32:11.021Z",
+      "fetchedAt": "2026-08-19T18:36:03.135Z",
       "tags": [
         "综合"
       ]
@@ -613,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
+      "fetchedAt": "2026-08-19T18:36:06.769Z",
       "tags": [
         "商业融资"
       ]
@@ -629,7 +710,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
+      "fetchedAt": "2026-08-19T18:36:07.174Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -646,7 +727,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:20.287Z",
+      "fetchedAt": "2026-08-19T18:36:09.597Z",
       "tags": [
         "大模型"
       ]
@@ -662,7 +743,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-19T16:32:21.063Z",
+      "fetchedAt": "2026-08-19T18:36:10.154Z",
       "tags": [
         "AI应用"
       ]
@@ -678,7 +759,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:18.651Z",
+      "fetchedAt": "2026-08-19T18:36:07.452Z",
       "tags": [
         "综合"
       ]
@@ -694,7 +775,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:18.651Z",
+      "fetchedAt": "2026-08-19T18:36:07.452Z",
       "tags": [
         "开源工具"
       ]
@@ -710,7 +791,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-19T16:32:20.287Z",
+      "fetchedAt": "2026-08-19T18:36:09.597Z",
       "tags": [
         "AI应用"
       ]
@@ -726,91 +807,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
+      "fetchedAt": "2026-08-19T18:36:07.174Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Etched’s valuation doubles to $21B in a month",
-      "link": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "snippet": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
-      "pubDate": "Tue, 18 Aug 2026 17:21:58 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Why Apple’s camera-equipped AirPods may not be the ‘pervert pods’ consumers fear",
-      "link": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "snippet": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
-      "pubDate": "Tue, 18 Aug 2026 16:19:10 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "29.98万元起，奕境X9正式开启预售，华为乾崑携手东风打造第二代家庭旗舰",
-      "link": "https://www.leiphone.com/category/industrynews/f5eBtu877ZOCgqNo.html",
-      "snippet": "2026年8月18日，奕境X9预售发布会在成都盛大启幕。作为东风与华为乾崑全栈合作打造的新能源汽车品牌，奕境首款车型——第二代家庭旗舰SUV奕境X9正式开启预售，预售价29.98万起。    当下，多成员家庭出游意愿越来越强烈，家庭消费者购车需求也随之升级，希望进一步享受到最前沿的智能科技、座舱体验",
-      "pubDate": "Tue, 18 Aug 2026 22:37:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-19T16:32:17.666Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Warp’s new system is an out-of-the-box software factory for AI development",
-      "link": "https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/",
-      "snippet": "On Tuesday, Warp introduced Warp Factories, a new infrastructure system designed to make building AI software factories as easy as possible.",
-      "pubDate": "Tue, 18 Aug 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "link": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
-      "snippet": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and",
-      "pubDate": "Tue, 18 Aug 2026 13:50:30 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-19T16:32:18.333Z",
-      "tags": [
-        "大模型",
-        "AI应用"
       ]
     }
   ]
