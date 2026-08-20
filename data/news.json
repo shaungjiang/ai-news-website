@@ -1,25 +1,58 @@
 {
-  "generatedAt": "2026-08-20T20:37:58.861Z",
+  "generatedAt": "2026-08-20T22:32:21.800Z",
   "stats": {
-    "total": 101,
+    "total": 83,
     "shown": 50,
-    "chinese": 28,
-    "english": 73,
-    "today": 47
+    "chinese": 20,
+    "english": 63,
+    "today": 40
   },
   "articles": [
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
-      "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
-      "snippet": "PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF",
-      "pubDate": "Thu, 20 Aug 2026 19:34:10 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plugin",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
       "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-20T20:29:11.650Z",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "snippet": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"",
+      "pubDate": "2026-08-20T21:50:22.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-20T22:27:57.803Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OK, can we actually cool data centers with our pee?",
+      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
+      "snippet": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
+      "pubDate": "Thu, 20 Aug 2026 20:53:13 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +68,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "综合"
       ]
@@ -51,23 +84,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
-      "link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
-      "snippet": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output. The post Liquid AI Rel",
-      "pubDate": "Thu, 20 Aug 2026 18:53:09 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-20T20:29:11.650Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +100,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +116,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -132,7 +149,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "大模型"
       ]
@@ -148,7 +165,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +181,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "商业融资"
       ]
@@ -180,7 +197,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:09.569Z",
+      "fetchedAt": "2026-08-20T22:27:57.803Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +213,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Rumman Chowdhury",
-      "fetchedAt": "2026-08-20T20:29:09.837Z",
+      "fetchedAt": "2026-08-20T22:27:58.079Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +229,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:09.569Z",
+      "fetchedAt": "2026-08-20T22:27:57.803Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +245,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-08-20T20:29:10.604Z",
+      "fetchedAt": "2026-08-20T22:27:58.805Z",
       "tags": [
         "大模型"
       ]
@@ -244,9 +261,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.225Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "章鱼动力亮相WRC 2026，  携“脑-手-数据”技术体系探索具身智能未来范式",
+      "link": "https://www.leiphone.com/category/industrynews/L6IQmDmj1sCKOrJO.html",
+      "snippet": "8月19日，2026世界机器人大会（WRC）于北京正式开幕。作为全球机器人领域极具影响力的产研盛会，大会以“人机共生，产需共融”为主题，集中展示机器人与AI行业技术创新、应用落地的最新突破性成果。 章鱼动力（SynapX）作为物理AI赛道备受瞩目的新锐势力，受邀亮相本次大会，正式发布并展出由SYNW",
+      "pubDate": "Thu, 20 Aug 2026 20:48:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-20T22:27:57.225Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
       ]
     },
     {
@@ -260,7 +294,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -277,7 +311,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-20T20:29:09.837Z",
+      "fetchedAt": "2026-08-20T22:27:58.079Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +327,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:09.569Z",
+      "fetchedAt": "2026-08-20T22:27:57.803Z",
       "tags": [
         "AI应用"
       ]
@@ -309,42 +343,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.225Z",
       "tags": [
         "AI应用",
         "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-      "link": "https://www.qbitai.com/2026/08/476280.html",
-      "snippet": "",
-      "pubDate": "Thu, 20 Aug 2026 10:17:47 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "林, 方舟",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-      "link": "https://www.qbitai.com/2026/08/476281.html",
-      "snippet": "韶音宣布与光帆科技达成AI技术合作，将上线基于光帆自研AI OS的效率功能合集——\"AI 实验室\"",
-      "pubDate": "Thu, 20 Aug 2026 10:13:45 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -358,7 +360,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.225Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -375,7 +377,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-08-20T20:29:09.837Z",
+      "fetchedAt": "2026-08-20T22:27:58.079Z",
       "tags": [
         "综合"
       ]
@@ -391,7 +393,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.225Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -408,39 +410,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-08-20T20:29:09.837Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-      "link": "https://www.qbitai.com/2026/08/476199.html",
-      "snippet": "经典RSI剧本开始动摇",
-      "pubDate": "Thu, 20 Aug 2026 09:46:23 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "今年WRC最大展台，预告具身智能未来",
-      "link": "https://www.qbitai.com/2026/08/476141.html",
-      "snippet": "从自主泛化到真生产力",
-      "pubDate": "Thu, 20 Aug 2026 09:42:44 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
+      "fetchedAt": "2026-08-20T22:27:58.079Z",
       "tags": [
         "综合"
       ]
@@ -456,26 +426,10 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "大模型",
         "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
-      "link": "https://www.qbitai.com/2026/08/476129.html",
-      "snippet": "全栈自研，真机叠衣ICRA夺冠",
-      "pubDate": "Thu, 20 Aug 2026 09:22:05 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -489,7 +443,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.225Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -506,7 +460,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sarah Scoles",
-      "fetchedAt": "2026-08-20T20:29:09.837Z",
+      "fetchedAt": "2026-08-20T22:27:58.079Z",
       "tags": [
         "综合"
       ]
@@ -522,7 +476,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.225Z",
       "tags": [
         "综合"
       ]
@@ -538,25 +492,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.225Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
-      "link": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
-      "snippet": "This tutorial provides an end-to-end workflow for fine-tuning language models using Direct Preference Optimization (DPO). We demonstrate how to audit",
-      "pubDate": "Thu, 20 Aug 2026 08:51:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-20T20:29:11.650Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -570,7 +508,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.226Z",
       "tags": [
         "AI应用"
       ]
@@ -586,7 +524,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.226Z",
       "tags": [
         "AI应用"
       ]
@@ -602,23 +540,23 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:11.013Z",
+      "fetchedAt": "2026-08-20T22:27:59.222Z",
       "tags": [
         "政策监管"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
+      "id": "bGVpcGhvbmU6aHR0",
       "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
-      "link": "https://www.qbitai.com/2026/08/476120.html",
-      "snippet": "这几个玩家或可被“押注”",
-      "pubDate": "Thu, 20 Aug 2026 06:17:10 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
+      "link": "https://www.leiphone.com/category/ai/RWqTJlvzkwXLamiH.html",
+      "snippet": "8月19日，北京亦庄北人亦创国际会展中心，2026 WRC世界机器人大会在万众瞩目下拉开帷幕。同一天，“人形机器人第一股”宇树科技正式登陆上交所科创板，开盘暴涨629.44%，最终以460.34%、总市值超3400亿元交出首个交易日答卷。  一家明星公司上市、一场行业盛会开幕的背后都可以看出，市场对",
+      "pubDate": "Thu, 20 Aug 2026 14:32:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
       "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
+      "creator": "",
+      "fetchedAt": "2026-08-20T22:27:57.226Z",
       "tags": [
         "商业融资"
       ]
@@ -634,7 +572,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.226Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -651,7 +589,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.226Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -668,7 +606,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.226Z",
       "tags": [
         "大模型"
       ]
@@ -684,57 +622,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.226Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "墨奇亮相WRC：一台机器人长程任务实战背后的“具身大脑”革命",
-      "link": "https://www.qbitai.com/2026/08/476078.html",
-      "snippet": "墨奇智能（MORPHI）首次在国内系统亮相，公开展示其新近发布的具身智能模型架构MoRA",
-      "pubDate": "Thu, 20 Aug 2026 01:37:34 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "完美世界2026半年报：《异环》全球流水破20亿 Q3起释放业绩",
-      "link": "https://www.qbitai.com/2026/08/476075.html",
-      "snippet": "完美世界今年4月底推出的重磅新游《异环》截至8月18日已取得全球累计流水超20亿元，业绩贡献将在Q3起逐步释放",
-      "pubDate": "Thu, 20 Aug 2026 01:21:07 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "华尔街实测8款全球主流Agent：千问办公综合排名第一",
-      "link": "https://www.qbitai.com/2026/08/476070.html",
-      "snippet": "成本也正成为Agent商业化需要考虑的重要因素",
-      "pubDate": "Thu, 20 Aug 2026 01:06:45 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-20T20:29:04.342Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -748,14 +638,14 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:08.984Z",
+      "fetchedAt": "2026-08-20T22:27:57.226Z",
       "tags": [
         "大模型"
       ]
     },
     {
       "id": "b3BlbmFpLWJsb2c6",
-      "title": "How ChatGPT Work helps Stampli move ideas to market",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
       "link": "https://openai.com/index/stampli",
       "snippet": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "pubDate": "Thu, 20 Aug 2026 00:00:00 GMT",
@@ -764,7 +654,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-20T20:29:11.013Z",
+      "fetchedAt": "2026-08-20T22:27:59.222Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -781,7 +671,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "商业融资"
       ]
@@ -797,7 +687,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "政策监管"
       ]
@@ -813,7 +703,120 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-20T20:29:09.256Z",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
+      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
+      "snippet": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
+      "pubDate": "Wed, 19 Aug 2026 20:04:41 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-08-20T22:27:58.805Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI was supposed to win people over by now — it hasn’t",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "snippet": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t",
+      "pubDate": "Wed, 19 Aug 2026 19:11:40 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+      "snippet": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as",
+      "pubDate": "Wed, 19 Aug 2026 19:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google Gemini is getting a dedicated student hub",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "snippet": "As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting",
+      "pubDate": "2026-08-19T19:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-20T22:27:57.803Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Offering Zero Data Retention for frontier models",
+      "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "snippet": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising dat",
+      "pubDate": "Wed, 19 Aug 2026 19:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-20T22:27:59.222Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Researchers say OpenAI revoked their access to limited cyber program",
+      "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+      "snippet": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to co",
+      "pubDate": "Wed, 19 Aug 2026 18:46:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lorenzo Franceschi-Bicchierai",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+      "snippet": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the si",
+      "pubDate": "Wed, 19 Aug 2026 17:26:48 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo",
+      "fetchedAt": "2026-08-20T22:27:57.469Z",
       "tags": [
         "商业融资"
       ]
