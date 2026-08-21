@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-21T03:13:28.068Z",
+  "generatedAt": "2026-08-21T04:44:33.684Z",
   "stats": {
-    "total": 92,
+    "total": 103,
     "shown": 50,
-    "chinese": 29,
-    "english": 63,
-    "today": 5
+    "chinese": 30,
+    "english": 73,
+    "today": 7
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "WRC最忙机器人：猛干15分钟家务，收纳、补货、叠衣服…",
+      "link": "https://www.qbitai.com/2026/08/476413.html",
+      "snippet": "墨奇，开始加速了",
+      "pubDate": "Fri, 21 Aug 2026 03:14:40 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "国产“预制算力”来了：工厂预制率超90% 24小时内投运 交付效率提升70%",
@@ -19,7 +35,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +51,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +67,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "98年中科大博士段逸凡创立灵犀智涌 以“模型+Harness”架构打破工业具身“唯模型困局”",
+      "link": "https://www.leiphone.com/category/robot/XHIUJbympcOX8dDK.html",
+      "snippet": "当前，工业具身智能的规模化落地正卡在关键瓶颈：预训练模型在真实产线的部署成功率普遍不足60%，吞吐率不及人工，叠加居高不下的运维成本，让“机器人进厂干活”迟迟无法大规模兑现。 这一横亘在实验室与工厂之间的“最后一公里”，正在被一家年轻的创业公司打破。  近日，中科大机器人博士段逸凡宣布在上海创立具身",
+      "pubDate": "Fri, 21 Aug 2026 10:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "开源工具"
       ]
@@ -99,9 +131,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
+      "link": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
+      "snippet": "S1-mini is a 462 MB open-weights normalizer that sits after ASR, removing fillers and resolving self-corrections locally. The post Meet S1-mini: Super",
+      "pubDate": "Thu, 20 Aug 2026 22:23:17 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-21T04:38:52.633Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -115,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -132,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.792Z",
+      "fetchedAt": "2026-08-21T04:38:49.435Z",
       "tags": [
         "AI应用"
       ]
@@ -148,7 +196,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
+      "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
+      "snippet": "PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF",
+      "pubDate": "Thu, 20 Aug 2026 19:34:10 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-21T04:38:52.633Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +244,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
+      "link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+      "snippet": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output. The post Liquid AI Rel",
+      "pubDate": "Thu, 20 Aug 2026 18:53:09 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-21T04:38:52.633Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +308,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -245,7 +325,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "大模型"
       ]
@@ -261,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "AI应用"
       ]
@@ -277,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "商业融资"
       ]
@@ -293,7 +373,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.792Z",
+      "fetchedAt": "2026-08-21T04:38:49.436Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +389,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Rumman Chowdhury",
-      "fetchedAt": "2026-08-21T03:03:36.045Z",
+      "fetchedAt": "2026-08-21T04:38:49.873Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +405,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.792Z",
+      "fetchedAt": "2026-08-21T04:38:49.436Z",
       "tags": [
         "综合"
       ]
@@ -341,7 +421,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-08-21T03:03:36.859Z",
+      "fetchedAt": "2026-08-21T04:38:51.006Z",
       "tags": [
         "大模型"
       ]
@@ -357,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -390,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -407,7 +487,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-21T03:03:36.045Z",
+      "fetchedAt": "2026-08-21T04:38:49.873Z",
       "tags": [
         "综合"
       ]
@@ -423,7 +503,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.792Z",
+      "fetchedAt": "2026-08-21T04:38:49.436Z",
       "tags": [
         "AI应用"
       ]
@@ -439,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -456,7 +536,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
       "tags": [
         "综合"
       ]
@@ -472,7 +552,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
       "tags": [
         "AI应用"
       ]
@@ -488,7 +568,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -505,7 +585,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-08-21T03:03:36.045Z",
+      "fetchedAt": "2026-08-21T04:38:49.873Z",
       "tags": [
         "综合"
       ]
@@ -521,7 +601,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -538,7 +618,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-08-21T03:03:36.045Z",
+      "fetchedAt": "2026-08-21T04:38:49.873Z",
       "tags": [
         "综合"
       ]
@@ -554,7 +634,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
       "tags": [
         "综合"
       ]
@@ -570,7 +650,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
       "tags": [
         "综合"
       ]
@@ -586,7 +666,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-21T03:03:35.502Z",
+      "fetchedAt": "2026-08-21T04:38:49.151Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -603,7 +683,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
+      "fetchedAt": "2026-08-21T04:38:43.730Z",
       "tags": [
         "综合"
       ]
@@ -619,7 +699,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -636,7 +716,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sarah Scoles",
-      "fetchedAt": "2026-08-21T03:03:36.045Z",
+      "fetchedAt": "2026-08-21T04:38:49.873Z",
       "tags": [
         "综合"
       ]
@@ -652,7 +732,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "综合"
       ]
@@ -668,9 +748,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Auditing Preference Biases and Fine-Tuning Language Models with Direct Preference Optimization on Anthropic HH-RLHF Using TRL and LoRA",
+      "link": "https://www.marktechpost.com/2026/08/20/auditing-preference-biases-and-fine-tuning-language-models-with-direct-preference-optimization-on-anthropic-hh-rlhf-using-trl-and-lora/",
+      "snippet": "This tutorial provides an end-to-end workflow for fine-tuning language models using Direct Preference Optimization (DPO). We demonstrate how to audit",
+      "pubDate": "Thu, 20 Aug 2026 08:51:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-21T04:38:52.633Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -684,7 +780,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用"
       ]
@@ -700,7 +796,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
+      "fetchedAt": "2026-08-21T04:38:48.778Z",
       "tags": [
         "AI应用"
       ]
@@ -716,107 +812,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-21T03:03:37.204Z",
+      "fetchedAt": "2026-08-21T04:38:51.417Z",
       "tags": [
         "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "宇树科技上市首日大涨629%，世界机器人大会里谁是“下一个宇树”？",
-      "link": "https://www.qbitai.com/2026/08/476120.html",
-      "snippet": "这几个玩家或可被“押注”",
-      "pubDate": "Thu, 20 Aug 2026 06:17:10 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T03:03:29.690Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中国信通院联合淘宝闪购发布首份即时零售智能体可信规范",
-      "link": "https://www.leiphone.com/category/industrynews/xVJthZockA9RDYB6.html",
-      "snippet": "8月18日，中国人工智能产业发展联盟第十八次全体会议上，中国信息通信研究院联合淘宝闪购正式发布《即时零售智能体可信基本要求》。这是即时零售领域首份针对AI Agent的系统性可信规范，标志着即时零售智能体应用迈入“有规可依”的新阶段。       该规范由中国人工智能产业发展联盟安全治理委员会发起，",
-      "pubDate": "Thu, 20 Aug 2026 13:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
-      "tags": [
-        "AI应用",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中科通量推出OmniMate移动AI数字员工，用本地智能重构线下服务场景",
-      "link": "https://www.leiphone.com/category/industrynews/LvcXHrAYqLNnxcpo.html",
-      "snippet": "当下，实体网点、展厅、门店等普遍面临人力成本高企、人员流动带来服务标准难以统一、高峰时段服务供给不足等现实问题。传统云端数字人方案受网络条件制约，同时存在业务数据外溢、交互时延波动等风险，一定程度限制了AI数字人在线下场景的规模化落地。近日，中科通量发布OmniMate移动AI数字员工产品，依托本地",
-      "pubDate": "Thu, 20 Aug 2026 12:08:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Harness 神器 J-Space 造假案背后，思维链作者暴论，小模型 + 工具干不掉顶级大模型",
-      "link": "https://www.leiphone.com/category/yanxishe/EwXFwuIZiBRqbgCs.html",
-      "snippet": "外挂补不了模型智商，《苦涩的教训》再次上演。          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Thu, 20 Aug 2026 11:53:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "欧洲五城「落子」2000辆，小马智行跨过Robotaxi出海分水岭",
-      "link": "https://www.leiphone.com/category/transportation/B2nCxK9toeTqdkCJ.html",
-      "snippet": "2000辆Robotaxi，把中国自动驾驶公司的海外竞争推向新高度。 8月14日，小马智行宣布进一步扩大与Uber的合作，双方计划在欧洲五个城市部署超过2000辆Robotaxi。 据悉，克罗地亚首都萨格勒布将率先接入Uber平台，用户通过Uber App即可呼叫小马智行Robotaxi，此后双方还",
-      "pubDate": "Thu, 20 Aug 2026 10:46:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "奕境X9发布会送假Labubu？品牌方回应；宇树科技IPO名场面：王兴兴表情极为平静像「打工人」；豆包大模型，正式上车特斯拉丨雷峰早报",
-      "link": "https://www.leiphone.com/category/zaobao/qx0OhNlDup8GY2uR.html",
-      "snippet": "要闻提示      1.奕境X9发布会送假Labubu？品牌方回应 2.宇树科技股价暴涨，IPO名场面：王兴兴表情极为平静像“打工人”！ 3.豆包大模型，正式上车特斯拉 4.歌词照进现实？月之暗面杨植麟十年前写的歌词成真了 5.快手Q2总收入355亿元，经调整净利润39亿元 6.计划训超大模型后，字",
-      "pubDate": "Thu, 20 Aug 2026 08:41:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-21T03:03:35.257Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
