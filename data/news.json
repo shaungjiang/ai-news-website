@@ -1,13 +1,63 @@
 {
-  "generatedAt": "2026-08-21T12:53:53.002Z",
+  "generatedAt": "2026-08-21T14:45:25.376Z",
   "stats": {
-    "total": 104,
+    "total": 93,
     "shown": 50,
     "chinese": 30,
-    "english": 74,
-    "today": 35
+    "english": 63,
+    "today": 38
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "snippet": "There's about to be a big fight to secure access to space.",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Major YouTube creators are facing backlash for accepting AI money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "snippet": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselv",
+      "pubDate": "2026-08-21T13:37:52.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-21T14:35:32.474Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "SenseNova U1.5 Lite正式版发布：支持超长指令，解锁原生4K真实视觉创作流",
+      "link": "https://www.leiphone.com/category/industrynews/6sNCkUYytWV6ixlf.html",
+      "snippet": "今天，商汤科技正式开源轻量级、原生统一多模态大模型 SenseNova U1.5 Lite。与预览版（U1.5 Lite Preview）呈现的原生统一多模态模型能力相比，正式版更关注的是，这些能力能否更准确、更稳定地进入真实视觉创作流程。 模型重点围绕真实视觉任务重新完善训练数据、任务设计与后训练",
+      "pubDate": "Fri, 21 Aug 2026 20:33:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
+      "tags": [
+        "开源工具",
+        "大模型"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "The Download: threats from space mirrors and credit for AI drugs",
@@ -19,9 +69,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-21T12:49:19.354Z",
+      "fetchedAt": "2026-08-21T14:35:32.798Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "最大运力自动驾驶轻卡落地，来自无人车巨头",
+      "link": "https://www.qbitai.com/2026/08/476778.html",
+      "snippet": "载重4.2吨、容积19.32m³",
+      "pubDate": "Fri, 21 Aug 2026 11:47:27 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -35,7 +101,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-21T12:49:20.431Z",
+      "fetchedAt": "2026-08-21T14:35:33.847Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +117,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "学术研究"
       ]
@@ -67,7 +133,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +149,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +165,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jenny Williams",
-      "fetchedAt": "2026-08-21T12:49:19.354Z",
+      "fetchedAt": "2026-08-21T14:35:32.798Z",
       "tags": [
         "政策监管"
       ]
@@ -115,7 +181,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Antonio Regalado",
-      "fetchedAt": "2026-08-21T12:49:19.354Z",
+      "fetchedAt": "2026-08-21T14:35:32.798Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +197,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jonathan O'Callaghan",
-      "fetchedAt": "2026-08-21T12:49:19.354Z",
+      "fetchedAt": "2026-08-21T14:35:32.798Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +213,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "大模型"
       ]
@@ -179,7 +245,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -196,7 +262,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +278,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +310,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "商业融资"
       ]
@@ -260,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "学术研究"
       ]
@@ -276,7 +342,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +374,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "AI应用"
       ]
@@ -404,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "AI应用"
       ]
@@ -420,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "大模型"
       ]
@@ -484,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "综合"
       ]
@@ -500,25 +566,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
+      "fetchedAt": "2026-08-21T14:35:26.704Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "首批！优必选行者具身智能大模型完成生成式人工智能服务备案",
-      "link": "https://www.qbitai.com/2026/08/476406.html",
-      "snippet": "",
-      "pubDate": "Fri, 21 Aug 2026 02:26:49 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-21T12:49:14.373Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -532,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "AI应用"
       ]
@@ -548,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:18.461Z",
+      "fetchedAt": "2026-08-21T14:35:31.901Z",
       "tags": [
         "商业融资"
       ]
@@ -564,7 +614,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "开源工具"
       ]
@@ -580,25 +630,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet S1-mini: Superwhisper’s 462 MB Open-Weights Text Normalizer That Turns Raw ASR Transcripts Into Clean Written Text",
-      "link": "https://www.marktechpost.com/2026/08/20/meet-s1-mini-superwhispers-462-mb-open-weights-text-normalizer-that-turns-raw-asr-transcripts-into-clean-written-text/",
-      "snippet": "S1-mini is a 462 MB open-weights normalizer that sits after ASR, removing fillers and resolving self-corrections locally. The post Meet S1-mini: Super",
-      "pubDate": "Thu, 20 Aug 2026 22:23:17 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-21T12:49:21.670Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -612,7 +646,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -629,7 +663,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-21T12:49:19.029Z",
+      "fetchedAt": "2026-08-21T14:35:32.474Z",
       "tags": [
         "AI应用"
       ]
@@ -645,23 +679,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet UPDF: A Lightweight Adobe Alternative Built for the Agentic Era",
-      "link": "https://www.marktechpost.com/2026/08/20/meet-updf-a-lightweight-adobe-alternative-built-for-the-agentic-era/",
-      "snippet": "PDFs are easy to read and hard to change. AI can now summarize a 90-page contract in seconds, but it still won't rewrite the source file cleanly. UPDF",
-      "pubDate": "Thu, 20 Aug 2026 19:34:10 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-21T12:49:21.670Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "综合"
       ]
@@ -677,7 +695,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "综合"
       ]
@@ -693,23 +711,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Liquid AI Releases LFM2.5-DSpark Draft Models That Deliver Up to 3.18x Faster Decoding Without Changing Model Outputs",
-      "link": "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
-      "snippet": "Three ~300M drafters bring speculative decoding to LFM2.5, delivering up to 3.18x faster decoding with identical greedy output. The post Liquid AI Rel",
-      "pubDate": "Thu, 20 Aug 2026 18:53:09 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-21T12:49:21.670Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "AI应用"
       ]
@@ -725,7 +727,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "AI应用"
       ]
@@ -741,7 +743,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "综合"
       ]
@@ -757,7 +759,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -774,7 +776,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "大模型"
       ]
@@ -790,7 +792,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "AI应用"
       ]
@@ -806,7 +808,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-08-21T12:49:18.727Z",
+      "fetchedAt": "2026-08-21T14:35:32.227Z",
       "tags": [
         "商业融资"
       ]
