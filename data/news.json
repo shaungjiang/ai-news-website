@@ -1,13 +1,30 @@
 {
-  "generatedAt": "2026-08-22T22:31:11.819Z",
+  "generatedAt": "2026-08-23T01:26:43.143Z",
   "stats": {
-    "total": 91,
+    "total": 101,
     "shown": 50,
     "chinese": 29,
-    "english": 62,
-    "today": 13
+    "english": 72,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+      "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+      "snippet": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simp",
+      "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-23T01:22:18.133Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
@@ -19,7 +36,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
       "tags": [
         "商业融资"
       ]
@@ -35,7 +52,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
       "tags": [
         "学术研究",
         "AI应用"
@@ -52,7 +69,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
       "tags": [
         "综合"
       ]
@@ -68,7 +85,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
       "tags": [
         "学术研究"
       ]
@@ -84,7 +101,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "AI应用"
       ]
@@ -100,7 +117,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +133,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "AI应用"
       ]
@@ -132,9 +149,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+      "snippet": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Be",
+      "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-23T01:22:18.133Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -148,7 +181,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +197,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +213,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "综合"
       ]
@@ -212,9 +245,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+      "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+      "snippet": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading tow",
+      "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-23T01:22:18.133Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -228,7 +277,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
       "tags": [
         "大模型"
       ]
@@ -244,9 +293,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+      "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+      "snippet": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research pap",
+      "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-23T01:22:18.133Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -260,9 +325,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:22.466Z",
+      "fetchedAt": "2026-08-23T01:22:15.039Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+      "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+      "snippet": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mytho",
+      "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-23T01:22:18.133Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -276,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
       "tags": [
         "学术研究"
       ]
@@ -292,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "学术研究"
       ]
@@ -308,26 +389,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "snippet": "There's about to be a big fight to secure access to space.",
-      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
       ]
     },
     {
@@ -341,9 +405,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "snippet": "There's about to be a big fight to secure access to space.",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-08-23T01:22:14.697Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
       ]
     },
     {
@@ -357,7 +438,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:22.466Z",
+      "fetchedAt": "2026-08-23T01:22:15.039Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -390,7 +471,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-22T22:22:22.696Z",
+      "fetchedAt": "2026-08-23T01:22:15.371Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +487,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "AI应用"
       ]
@@ -422,7 +503,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-22T22:22:23.567Z",
+      "fetchedAt": "2026-08-23T01:22:16.477Z",
       "tags": [
         "AI应用"
       ]
@@ -438,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "学术研究"
       ]
@@ -454,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-22T22:22:17.000Z",
+      "fetchedAt": "2026-08-23T01:22:10.657Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +551,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jenny Williams",
-      "fetchedAt": "2026-08-22T22:22:22.696Z",
+      "fetchedAt": "2026-08-23T01:22:15.371Z",
       "tags": [
         "政策监管"
       ]
@@ -486,7 +567,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Antonio Regalado",
-      "fetchedAt": "2026-08-22T22:22:22.696Z",
+      "fetchedAt": "2026-08-23T01:22:15.371Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +583,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jonathan O'Callaghan",
-      "fetchedAt": "2026-08-22T22:22:22.696Z",
+      "fetchedAt": "2026-08-23T01:22:15.371Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -551,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "综合"
       ]
@@ -567,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "AI应用"
       ]
@@ -583,7 +664,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +680,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "学术研究"
       ]
@@ -615,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "AI应用"
       ]
@@ -647,7 +728,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +744,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "AI应用"
       ]
@@ -679,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "综合"
       ]
@@ -695,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "AI应用"
       ]
@@ -711,7 +792,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "AI应用"
       ]
@@ -727,88 +808,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-22T22:22:21.940Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"",
-      "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "snippet": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"",
-      "pubDate": "2026-08-20T21:50:22.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-22T22:22:22.466Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "snippet": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "pubDate": "Thu, 20 Aug 2026 20:53:13 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-22T22:22:22.189Z",
+      "fetchedAt": "2026-08-23T01:22:14.387Z",
       "tags": [
         "综合"
       ]
