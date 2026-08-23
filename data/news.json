@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-23T12:45:14.676Z",
+  "generatedAt": "2026-08-23T14:34:13.369Z",
   "stats": {
-    "total": 92,
+    "total": 102,
     "shown": 50,
     "chinese": 30,
-    "english": 62,
-    "today": 13
+    "english": 72,
+    "today": 18
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "link": "https://www.qbitai.com/2026/08/478319.html",
+      "snippet": "玩的就是真实",
+      "pubDate": "Sun, 23 Aug 2026 13:20:00 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "具身创业里的香港教授们",
@@ -19,9 +35,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "机器人首秀网球场，银河通用突破具身智能「AstraTennis时刻」",
+      "link": "https://www.leiphone.com/category/ai/DtuJryomWlykalLZ.html",
+      "snippet": "银河通用用一场真实对抗证明：大脑、小脑与数据闭环正在融合。          作者丨邓哲敏      编辑丨董子博",
+      "pubDate": "Sun, 23 Aug 2026 19:19:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,9 +67,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
+      "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
+      "snippet": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet Free",
+      "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-23T14:24:22.627Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -51,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -68,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "综合"
       ]
@@ -84,7 +132,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "AI应用"
       ]
@@ -116,9 +164,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
+      "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
+      "snippet": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extract",
+      "pubDate": "Sun, 23 Aug 2026 07:51:22 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-23T14:24:22.627Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
+      "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
+      "snippet": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a",
+      "pubDate": "Sun, 23 Aug 2026 07:37:14 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-23T14:24:22.627Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -132,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -149,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "综合"
       ]
@@ -165,7 +245,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "商业融资"
       ]
@@ -197,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "AI应用"
       ]
@@ -213,9 +293,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
+      "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
+      "snippet": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simp",
+      "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-23T14:24:22.627Z",
+      "tags": [
+        "AI应用",
+        "大模型"
       ]
     },
     {
@@ -229,7 +326,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
       "tags": [
         "商业融资"
       ]
@@ -245,7 +342,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
       "tags": [
         "学术研究",
         "AI应用"
@@ -262,7 +359,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
       "tags": [
         "综合"
       ]
@@ -278,7 +375,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
       "tags": [
         "学术研究"
       ]
@@ -294,23 +391,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "fetchedAt": "2026-08-23T14:24:14.895Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "伽利略机器人首发“陆行具身系统”，打通轮车足底层技术壁垒",
-      "link": "https://www.qbitai.com/2026/08/477246.html",
-      "snippet": "直击WRC",
-      "pubDate": "Sat, 22 Aug 2026 14:19:39 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
+      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
+      "snippet": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Be",
+      "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-23T14:24:22.627Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +423,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "综合"
       ]
@@ -342,7 +439,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
+      "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
+      "snippet": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading tow",
+      "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-23T14:24:22.627Z",
       "tags": [
         "综合"
       ]
@@ -358,7 +471,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
       "tags": [
         "大模型"
       ]
@@ -374,9 +487,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
+      "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
+      "snippet": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research pap",
+      "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-23T14:24:22.627Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -390,9 +519,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.937Z",
+      "fetchedAt": "2026-08-23T14:24:20.660Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
+      "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
+      "snippet": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mytho",
+      "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-23T14:24:22.627Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -406,7 +551,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
       "tags": [
         "学术研究"
       ]
@@ -422,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "学术研究"
       ]
@@ -438,25 +583,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado",
-      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -470,10 +599,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
       "tags": [
         "商业融资",
         "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "snippet": "Andreessen Horowitz has two partners sitting on the boards of companies that now compete with each other: Ben Horowitz at Databricks and Martin Casado",
+      "pubDate": "Fri, 21 Aug 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
+      "fetchedAt": "2026-08-23T14:24:20.432Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -487,7 +632,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.937Z",
+      "fetchedAt": "2026-08-23T14:24:20.660Z",
       "tags": [
         "综合"
       ]
@@ -503,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -520,7 +665,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-23T12:40:46.296Z",
+      "fetchedAt": "2026-08-23T14:24:20.996Z",
       "tags": [
         "综合"
       ]
@@ -536,7 +681,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-23T12:40:47.400Z",
+      "fetchedAt": "2026-08-23T14:24:21.941Z",
       "tags": [
         "AI应用"
       ]
@@ -552,7 +697,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "学术研究"
       ]
@@ -568,7 +713,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jenny Williams",
-      "fetchedAt": "2026-08-23T12:40:46.296Z",
+      "fetchedAt": "2026-08-23T14:24:20.996Z",
       "tags": [
         "政策监管"
       ]
@@ -584,7 +729,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Antonio Regalado",
-      "fetchedAt": "2026-08-23T12:40:46.296Z",
+      "fetchedAt": "2026-08-23T14:24:20.996Z",
       "tags": [
         "综合"
       ]
@@ -600,7 +745,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jonathan O'Callaghan",
-      "fetchedAt": "2026-08-23T12:40:46.296Z",
+      "fetchedAt": "2026-08-23T14:24:20.996Z",
       "tags": [
         "综合"
       ]
@@ -616,7 +761,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "AI应用"
       ]
@@ -632,7 +777,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -649,7 +794,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "综合"
       ]
@@ -665,152 +810,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "云大厂“亏钱卖”友商AI，重回21年恶性竞争老路",
-      "link": "https://www.leiphone.com/category/CorporateServices/2OndXI7BTP3zV3vO.html",
-      "snippet": "“4.8折？你确定？” 看到刚打探到的友商报价，云销售张小雨的第一反应是：不可能。 之前有智谱原厂销售跟他说，他们都是卖 8.5 折，现在友商竟然直接报出4.8折，比原厂最低价还低了四成多，而且智谱、DeepSeek、Kimi第三方模型，都执行这一折扣价。 “这简直没得玩。”张小雨愤懑说道。“原本大",
-      "pubDate": "Fri, 21 Aug 2026 14:41:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨可灵核心技术骨干王鑫涛离职",
-      "link": "https://www.leiphone.com/category/CorporateServices/87Q2pIwkIFaVENkQ.html",
-      "snippet": "雷峰网独家获悉，快手可灵AI核心技术骨干王鑫涛离职。 王鑫涛本科毕业于浙江大学，博士毕业于香港中文大学多媒体实验室（MMLab），师从汤晓鸥等。他长期研究图像与视频生成，也是Real-ESRGAN、GFPGAN等开源项目的主要作者，在视觉生成领域具有较高影响力。 在加入快手前，他曾任职于腾讯AI实验",
-      "pubDate": "Fri, 21 Aug 2026 14:37:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家对话百度智能云尹英利：AI 蓬勃时代，云生态发生了哪些巨变？",
-      "link": "https://www.leiphone.com/category/CorporateServices/2KIUmbKfDbnMV0cA.html",
-      "snippet": "2026年Q1，百度智能云增速达到79%，在中国头部云厂商中增速居首。在5月的百度开发者大会上，百度智能云副总裁、渠道生态部总经理尹英利在百度开发者大会上披露：有10%的核心伙伴业绩增速超过了百度智能云大盘。 过去一年多，百度智能云的渠道生态从伙伴分类、场景聚焦到收益分配机制，都发生了一些显著的变化",
-      "pubDate": "Fri, 21 Aug 2026 14:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "看完阿里财报才发现，AI烧越猛，越「养肥」卖铲人",
-      "link": "https://www.leiphone.com/category/CorporateServices/P1HvrZW6Ns8qTz5R.html",
-      "snippet": "看完阿里昨晚发的最新财报，不想承认，却不得不承认的一个事实是：虽然市场聚光灯打在模型层和应用层，但短期来，AI 商业化最强的还是在云和芯片，而且是，当上层模型用得越凶，底层卖铲人越赚钱。 最新财报显示，2027 财年第一季度（2026 年第二季度）阿里云的营收达到了 487.37 亿元，同比增速达到",
-      "pubDate": "Fri, 21 Aug 2026 14:28:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "希望之光组织HIE/脑瘫跨领域研讨，基础科研与临床转化多方对话",
-      "link": "https://www.leiphone.com/category/aihealth/IUBNjcE5wSbn71oZ.html",
-      "snippet": "在全球脑科学快速发展的背景下，神经调控、人工智能、康复工程等方向正在不断取得突破。然而，围绕脑瘫，特别是由缺氧缺血性脑病（HIE）引发的长期功能障碍，如何连接基础脑科学、工程技术、临床康复与家庭真实需求，仍需要更多跨领域讨论。  希望之光（BRIGHT Foundation）是一家由患者家庭发起的支",
-      "pubDate": "Fri, 21 Aug 2026 14:27:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.292Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"",
-      "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
-      "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-23T12:40:45.599Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google Discover is getting an AI chatbot-tuned feed",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "snippet": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"",
-      "pubDate": "2026-08-20T21:50:22.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-23T12:40:45.937Z",
+      "fetchedAt": "2026-08-23T14:24:20.171Z",
       "tags": [
         "AI应用"
       ]
