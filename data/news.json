@@ -1,43 +1,124 @@
 {
-  "generatedAt": "2026-08-23T10:29:38.302Z",
+  "generatedAt": "2026-08-23T12:45:14.676Z",
   "stats": {
-    "total": 101,
+    "total": 92,
     "shown": 50,
-    "chinese": 29,
-    "english": 72,
-    "today": 8
+    "chinese": 30,
+    "english": 62,
+    "today": 13
   },
   "articles": [
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
-      "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-      "snippet": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extract",
-      "pubDate": "Sun, 23 Aug 2026 07:51:22 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-23T10:24:56.711Z",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "具身创业里的香港教授们",
+      "link": "https://www.qbitai.com/2026/08/478289.html",
+      "snippet": "香港的大学里冒出了一批很特别的人",
+      "pubDate": "Sun, 23 Aug 2026 11:20:13 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
+      "link": "https://www.qbitai.com/2026/08/478234.html",
+      "snippet": "多多支持像王兴兴这样优秀的具身机器人创业者",
+      "pubDate": "Sun, 23 Aug 2026 11:17:22 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
+      "link": "https://www.qbitai.com/2026/08/478191.html",
+      "snippet": "Tokenizer、视频编码、API报错全扒一遍",
+      "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "tags": [
+        "开源工具",
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "link": "https://www.qbitai.com/2026/08/478164.html",
+      "snippet": "内存成本飙升逼涨硬件",
+      "pubDate": "Sun, 23 Aug 2026 09:51:49 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
-      "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-      "snippet": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a",
-      "pubDate": "Sun, 23 Aug 2026 07:37:14 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-23T10:24:56.711Z",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+      "link": "https://www.qbitai.com/2026/08/478093.html",
+      "snippet": "AstraTennis时刻背后的硬核技术",
+      "pubDate": "Sun, 23 Aug 2026 09:45:27 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "浙江人形携 NAVIAI 亮相 2026 世界机器人大会， 一脑多机方案落地多场景",
+      "link": "https://www.leiphone.com/category/industrynews/5PmgwJZ7NFR6jvie.html",
+      "snippet": "2026世界机器人大会（WRC）于8月19日在北京亦创国际会展中心燃情启幕。相较往届，这场全球机器人领域规格最高、规模最大的行业盛会，已从“机器人秀场”进阶为人机共生、产需共融的“实战考场”。 浙江人形机器人创新中心有限公司（下称“浙江人形”）携NAVIAI核心机器人矩阵亮相智创馆C－105展位，集",
+      "pubDate": "Sun, 23 Aug 2026 17:37:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
+      "link": "https://www.qbitai.com/2026/08/478020.html",
+      "snippet": "机器人开卡丁车连续过弯，一镜到底全自主",
+      "pubDate": "Sun, 23 Aug 2026 09:29:59 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -51,7 +132,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -68,7 +149,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
       "tags": [
         "综合"
       ]
@@ -84,7 +165,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +181,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "商业融资"
       ]
@@ -116,7 +197,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "AI应用"
       ]
@@ -132,26 +213,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "The Developer’s Guide to NeMo Guardrails for Enterprise AI Safety",
-      "link": "https://www.marktechpost.com/2026/08/22/the-developers-guide-to-nemo-guardrails-for-enterprise-ai-safety/",
-      "snippet": "In this tutorial, we explore how to design production-grade safety for LLM-based applications using the NeMo Guardrails framework. We move beyond simp",
-      "pubDate": "Sat, 22 Aug 2026 23:49:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-23T10:24:56.711Z",
-      "tags": [
-        "AI应用",
-        "大模型"
       ]
     },
     {
@@ -165,7 +229,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "商业融资"
       ]
@@ -181,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "学术研究",
         "AI应用"
@@ -198,7 +262,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "综合"
       ]
@@ -214,7 +278,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "学术研究"
       ]
@@ -230,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
       "tags": [
         "AI应用"
       ]
@@ -246,71 +310,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "魔法原子亮相WRC 2026，三大场景解决方案实景展示物理AI真·上岗",
-      "link": "https://www.qbitai.com/2026/08/477155.html",
-      "snippet": "一脑驱动多形落地",
-      "pubDate": "Sat, 22 Aug 2026 14:11:20 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
-      "link": "https://www.qbitai.com/2026/08/477094.html",
-      "snippet": "采集，从一条腕带开始",
-      "pubDate": "Sat, 22 Aug 2026 13:56:00 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Decoding AI’s Open-Source Course Maps Three Ways to Run an Agent Loop and the Provider Economics Behind Each",
-      "link": "https://www.marktechpost.com/2026/08/22/decoding-ais-open-source-course-maps-three-ways-to-run-an-agent-loop-and-the-provider-economics-behind-each/",
-      "snippet": "Most teams treat ‘which model’ as the important decision. The harness engineering literature keeps pointing somewhere else. In LangChain’s Terminal-Be",
-      "pubDate": "Sat, 22 Aug 2026 13:43:13 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-23T10:24:56.711Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Eon用LIF“上传”果蝇脑，中国团队直接上精细神经元和跨身体平台",
-      "link": "https://www.qbitai.com/2026/08/477090.html",
-      "snippet": "将真实场景重建为持续更新、可计算的4D数字世界。",
-      "pubDate": "Sat, 22 Aug 2026 12:21:07 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦晨",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
+      "fetchedAt": "2026-08-23T12:40:40.970Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "综合"
       ]
@@ -342,55 +342,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "当机器人大脑飞上天！替人奔赴危险作业现场，对话硅羽科技",
-      "link": "https://www.qbitai.com/2026/08/476965.html",
-      "snippet": "",
-      "pubDate": "Sat, 22 Aug 2026 08:53:13 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "从模型到生产力：星海图与产业朋友圈共探具身智能的下一站",
-      "link": "https://www.qbitai.com/2026/08/476930.html",
-      "snippet": "让具身智能技术真正落地千行万业。",
-      "pubDate": "Sat, 22 Aug 2026 08:41:41 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-08-23T10:24:49.135Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-      "link": "https://www.marktechpost.com/2026/08/21/best-gpu-neoclouds-2026/",
-      "snippet": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading tow",
-      "pubDate": "Fri, 21 Aug 2026 23:20:12 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-23T10:24:56.711Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +358,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "大模型"
       ]
@@ -422,25 +374,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-      "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-      "snippet": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research pap",
-      "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-23T10:24:56.711Z",
-      "tags": [
-        "学术研究"
       ]
     },
     {
@@ -454,25 +390,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:53.695Z",
+      "fetchedAt": "2026-08-23T12:40:45.937Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Anthropic Brings Claude Mythos 5 to Claude Security: Enterprise Teams Get Frontier Vulnerability Scanning Without Direct Model Access",
-      "link": "https://www.marktechpost.com/2026/08/21/anthropic-brings-claude-mythos-5-to-claude-security/",
-      "snippet": "Anthropic has moved its most cyber-capable model into a product security teams can switch on themselves. Claude Security scans now run on Claude Mytho",
-      "pubDate": "Fri, 21 Aug 2026 21:15:53 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-23T10:24:56.711Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -486,7 +406,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "学术研究"
       ]
@@ -502,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "学术研究"
       ]
@@ -518,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "大模型"
       ]
@@ -534,7 +454,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "开源工具"
       ]
@@ -550,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-23T10:24:53.345Z",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -567,7 +487,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:53.696Z",
+      "fetchedAt": "2026-08-23T12:40:45.937Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +503,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -600,7 +520,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-23T10:24:54.041Z",
+      "fetchedAt": "2026-08-23T12:40:46.296Z",
       "tags": [
         "综合"
       ]
@@ -616,7 +536,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-23T10:24:55.122Z",
+      "fetchedAt": "2026-08-23T12:40:47.400Z",
       "tags": [
         "AI应用"
       ]
@@ -632,7 +552,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "学术研究"
       ]
@@ -648,7 +568,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jenny Williams",
-      "fetchedAt": "2026-08-23T10:24:54.041Z",
+      "fetchedAt": "2026-08-23T12:40:46.296Z",
       "tags": [
         "政策监管"
       ]
@@ -664,7 +584,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Antonio Regalado",
-      "fetchedAt": "2026-08-23T10:24:54.041Z",
+      "fetchedAt": "2026-08-23T12:40:46.296Z",
       "tags": [
         "综合"
       ]
@@ -680,7 +600,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jonathan O'Callaghan",
-      "fetchedAt": "2026-08-23T10:24:54.041Z",
+      "fetchedAt": "2026-08-23T12:40:46.296Z",
       "tags": [
         "综合"
       ]
@@ -696,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "AI应用"
       ]
@@ -712,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -729,7 +649,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "综合"
       ]
@@ -745,7 +665,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "AI应用"
       ]
@@ -761,7 +681,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "综合"
       ]
@@ -777,7 +697,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "学术研究"
       ]
@@ -793,7 +713,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
       "tags": [
         "综合"
       ]
@@ -809,7 +729,88 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-23T10:24:52.996Z",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "希望之光组织HIE/脑瘫跨领域研讨，基础科研与临床转化多方对话",
+      "link": "https://www.leiphone.com/category/aihealth/IUBNjcE5wSbn71oZ.html",
+      "snippet": "在全球脑科学快速发展的背景下，神经调控、人工智能、康复工程等方向正在不断取得突破。然而，围绕脑瘫，特别是由缺氧缺血性脑病（HIE）引发的长期功能障碍，如何连接基础脑科学、工程技术、临床康复与家庭真实需求，仍需要更多跨领域讨论。  希望之光（BRIGHT Foundation）是一家由患者家庭发起的支",
+      "pubDate": "Fri, 21 Aug 2026 14:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-23T12:40:45.292Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
+      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "snippet": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
+      "pubDate": "Fri, 21 Aug 2026 00:13:44 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI is gaining on Anthropic with business users, new data indicates",
+      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "snippet": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"",
+      "pubDate": "Thu, 20 Aug 2026 22:36:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "ChatGPT can now send texts for you with new Apple Messages plug-in",
+      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "snippet": "Ever wanted someone else to do your texting for you? ChatGPT is being offered up as an automated text scribe via a new Apple Messages integration.",
+      "pubDate": "Thu, 20 Aug 2026 22:09:51 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-08-23T12:40:45.599Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google Discover is getting an AI chatbot-tuned feed",
+      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
+      "snippet": "Google will soon allow you to customize your Discover feed by describing what you want to see. The new feature, rolling out to the Google app in the \"",
+      "pubDate": "2026-08-20T21:50:22.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-23T12:40:45.937Z",
       "tags": [
         "AI应用"
       ]
