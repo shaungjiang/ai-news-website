@@ -1,13 +1,126 @@
 {
-  "generatedAt": "2026-08-24T12:56:22.298Z",
+  "generatedAt": "2026-08-24T14:46:50.061Z",
   "stats": {
     "total": 97,
     "shown": 50,
     "chinese": 28,
     "english": 69,
-    "today": 23
+    "today": 30
   },
   "articles": [
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "How to encourage smarter AI use in the classroom",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "snippet": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in yo",
+      "pubDate": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Peter Hall",
+      "fetchedAt": "2026-08-24T14:42:25.872Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo",
+      "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
+      "snippet": "Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensori",
+      "pubDate": "Mon, 24 Aug 2026 14:17:01 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds “How a Place Is Used” to Text-Based POI Embeddings",
+      "link": "https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/",
+      "snippet": "framework that folds aggregate human movement into text-based place embeddings. Language models describe what a place is; they miss how it is used. ME",
+      "pubDate": "Mon, 24 Aug 2026 13:56:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "snippet": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the founders' feeling of responsibi",
+      "pubDate": "Mon, 24 Aug 2026 13:47:26 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+      "link": "https://www.qbitai.com/2026/08/478670.html",
+      "snippet": "Visa看到的AI未来",
+      "pubDate": "Mon, 24 Aug 2026 13:32:13 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "link": "https://www.qbitai.com/2026/08/478568.html",
+      "snippet": "全球大厂开始押注的AI科研，终于有了统一标准",
+      "pubDate": "Mon, 24 Aug 2026 13:21:22 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "燧原科技启动科创板发行，全栈技术体系支撑AI芯片商业化落地",
+      "link": "https://www.leiphone.com/category/chips/p9z2fExXmv41ngV9.html",
+      "snippet": "8月24日晚，上海燧原科技股份有限公司（简称“燧原科技”）披露招股意向书、发行安排及初步询价公告等，正式启动发行工作。燧原科技股票代码为“688801”，拟于科创板上市。 燧原科技创立于2018年3月，专注于云端AI芯片及其相关产品的研发、设计和销售，已自研迭代四代架构、五款云端AI芯片，构建了覆盖",
+      "pubDate": "Mon, 24 Aug 2026 20:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
+      "tags": [
+        "AI应用",
+        "商业融资"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "The Download: kids outlearning AI, and space travel agents",
@@ -19,7 +132,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-24T12:51:46.731Z",
+      "fetchedAt": "2026-08-24T14:42:25.872Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +180,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -84,7 +197,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "商业融资"
       ]
@@ -100,7 +213,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Elise Cutts",
-      "fetchedAt": "2026-08-24T12:51:46.731Z",
+      "fetchedAt": "2026-08-24T14:42:25.872Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +245,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "商业融资"
       ]
@@ -164,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -213,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +342,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "商业融资"
       ]
@@ -245,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
       "tags": [
         "商业融资"
       ]
@@ -261,7 +374,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
       "tags": [
         "大模型"
       ]
@@ -293,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +422,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "大模型"
       ]
@@ -341,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "商业融资"
       ]
@@ -357,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "商业融资"
       ]
@@ -373,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "商业融资"
       ]
@@ -389,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +518,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -438,7 +551,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
       "tags": [
         "AI应用"
       ]
@@ -454,7 +567,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +583,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +599,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
       "tags": [
         "开源工具"
       ]
@@ -502,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -519,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
       "tags": [
         "综合"
       ]
@@ -535,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
+      "fetchedAt": "2026-08-24T14:42:19.889Z",
       "tags": [
         "商业融资"
       ]
@@ -551,25 +664,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
+      "fetchedAt": "2026-08-24T14:42:25.016Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
-      "link": "https://www.qbitai.com/2026/08/478234.html",
-      "snippet": "多多支持像王兴兴这样优秀的具身机器人创业者",
-      "pubDate": "Sun, 23 Aug 2026 11:17:22 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -583,42 +680,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
       "tags": [
         "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "link": "https://www.qbitai.com/2026/08/478191.html",
-      "snippet": "Tokenizer、视频编码、API报错全扒一遍",
-      "pubDate": "Sun, 23 Aug 2026 09:56:12 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-08-24T12:51:37.504Z",
-      "tags": [
-        "开源工具",
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "浙江人形携 NAVIAI 亮相 2026 世界机器人大会， 一脑多机方案落地多场景",
-      "link": "https://www.leiphone.com/category/industrynews/5PmgwJZ7NFR6jvie.html",
-      "snippet": "2026世界机器人大会（WRC）于8月19日在北京亦创国际会展中心燃情启幕。相较往届，这场全球机器人领域规格最高、规模最大的行业盛会，已从“机器人秀场”进阶为人机共生、产需共融的“实战考场”。 浙江人形机器人创新中心有限公司（下称“浙江人形”）携NAVIAI核心机器人矩阵亮相智创馆C－105展位，集",
-      "pubDate": "Sun, 23 Aug 2026 17:37:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-24T12:51:45.592Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -632,7 +696,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
       "tags": [
         "综合"
       ]
@@ -648,7 +712,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
       "tags": [
         "AI应用"
       ]
@@ -664,7 +728,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -681,7 +745,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
       "tags": [
         "商业融资"
       ]
@@ -697,7 +761,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
       "tags": [
         "学术研究",
         "AI应用"
@@ -714,7 +778,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
       "tags": [
         "综合"
       ]
@@ -730,7 +794,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
+      "fetchedAt": "2026-08-24T14:42:25.320Z",
       "tags": [
         "学术研究"
       ]
@@ -746,73 +810,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
+      "fetchedAt": "2026-08-24T14:42:28.024Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "snippet": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take",
-      "pubDate": "Fri, 21 Aug 2026 23:07:25 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "snippet": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
-      "pubDate": "Fri, 21 Aug 2026 22:37:38 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-24T12:51:45.970Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Building Agentic Document Intelligence Pipelines: Creating Scientific Figures with AutoFigure",
-      "link": "https://www.marktechpost.com/2026/08/21/building-agentic-document-intelligence-pipelines-creating-scientific-figures-with-autofigure/",
-      "snippet": "This tutorial explores AutoFigure, a practical toolkit for generating professional scientific figures directly from text descriptions and research pap",
-      "pubDate": "Fri, 21 Aug 2026 22:00:25 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-24T12:51:49.039Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Over 1 million people have clicked LinkedIn’s AI slop button",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "snippet": "LinkedIn actually announced a \"Seems like AI slop\" button on July 30th, and the company says that a lot of people have already used it. According to a",
-      "pubDate": "2026-08-21T21:25:50.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-24T12:51:46.276Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
