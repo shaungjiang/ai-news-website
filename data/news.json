@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-08-24T20:40:40.550Z",
+  "generatedAt": "2026-08-24T22:31:24.768Z",
   "stats": {
     "total": 98,
     "shown": 50,
     "chinese": 28,
     "english": 70,
-    "today": 37
+    "today": 40
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
+      "link": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
+      "snippet": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints",
+      "pubDate": "Mon, 24 Aug 2026 22:21:22 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-24T22:26:52.532Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
+      "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
+      "snippet": "Young employment in AI-impacted fields down 19% compared to more AI-resistant occupations.",
+      "pubDate": "Mon, 24 Aug 2026 21:45:53 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-08-24T22:26:51.063Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "snippet": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price of $135.",
+      "pubDate": "Mon, 24 Aug 2026 21:24:17 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sean O'Kane",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "政策监管"
       ]
@@ -51,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-24T20:30:49.081Z",
+      "fetchedAt": "2026-08-24T22:26:51.063Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -84,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +148,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Peter Hall",
-      "fetchedAt": "2026-08-24T20:30:48.033Z",
+      "fetchedAt": "2026-08-24T22:26:50.096Z",
       "tags": [
         "大模型"
       ]
@@ -116,7 +164,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-24T20:30:49.777Z",
+      "fetchedAt": "2026-08-24T22:26:52.532Z",
       "tags": [
         "大模型"
       ]
@@ -132,7 +180,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-24T20:30:49.777Z",
+      "fetchedAt": "2026-08-24T22:26:52.532Z",
       "tags": [
         "学术研究"
       ]
@@ -148,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "开源工具"
       ]
@@ -164,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "学术研究"
       ]
@@ -196,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -229,7 +277,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-24T20:30:48.033Z",
+      "fetchedAt": "2026-08-24T22:26:50.096Z",
       "tags": [
         "综合"
       ]
@@ -245,7 +293,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:49.432Z",
+      "fetchedAt": "2026-08-24T22:26:51.468Z",
       "tags": [
         "大模型"
       ]
@@ -261,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "AI应用"
       ]
@@ -277,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -310,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "商业融资"
       ]
@@ -326,7 +374,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Elise Cutts",
-      "fetchedAt": "2026-08-24T20:30:48.033Z",
+      "fetchedAt": "2026-08-24T22:26:50.096Z",
       "tags": [
         "综合"
       ]
@@ -342,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "综合"
       ]
@@ -358,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "商业融资"
       ]
@@ -390,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "AI应用"
       ]
@@ -406,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "AI应用"
       ]
@@ -422,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -439,7 +487,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "综合"
       ]
@@ -455,7 +503,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "商业融资"
       ]
@@ -471,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "商业融资"
       ]
@@ -487,7 +535,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-24T20:30:49.777Z",
+      "fetchedAt": "2026-08-24T22:26:52.532Z",
       "tags": [
         "综合"
       ]
@@ -503,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "大模型"
       ]
@@ -519,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "综合"
       ]
@@ -535,7 +583,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-24T20:30:49.777Z",
+      "fetchedAt": "2026-08-24T22:26:52.532Z",
       "tags": [
         "综合"
       ]
@@ -551,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "大模型"
       ]
@@ -567,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "商业融资"
       ]
@@ -583,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "商业融资"
       ]
@@ -599,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "商业融资"
       ]
@@ -615,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +679,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "综合"
       ]
@@ -647,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -664,7 +712,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "AI应用"
       ]
@@ -680,7 +728,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-24T20:30:49.777Z",
+      "fetchedAt": "2026-08-24T22:26:52.532Z",
       "tags": [
         "综合"
       ]
@@ -696,7 +744,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "综合"
       ]
@@ -712,7 +760,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-24T20:30:47.480Z",
+      "fetchedAt": "2026-08-24T22:26:49.566Z",
       "tags": [
         "开源工具"
       ]
@@ -728,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-24T20:30:47.217Z",
+      "fetchedAt": "2026-08-24T22:26:49.326Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -745,7 +793,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "综合"
       ]
@@ -761,57 +809,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-24T20:30:41.765Z",
+      "fetchedAt": "2026-08-24T22:26:44.678Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet FreeToken: An Edge-Native MoE Serving Engine that Runs 753B GLM-5.2 on a Single Workstation GPU",
-      "link": "https://www.marktechpost.com/2026/08/23/meet-freetoken-an-edge-native-moe-serving-engine-that-runs-753b-glm-5-2-on-a-single-workstation-gpu/",
-      "snippet": "FreeToken splits MoE cache misses between PCIe fills and CPU execution using measured bandwidths, unlocking frontier models locally The post Meet Free",
-      "pubDate": "Sun, 23 Aug 2026 10:44:59 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-24T20:30:49.777Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Building an End-to-End Document Intelligence Pipeline with deepDoctection",
-      "link": "https://www.marktechpost.com/2026/08/23/building-an-end-to-end-document-intelligence-pipeline-with-deepdoctection/",
-      "snippet": "Build an end-to-end document intelligence pipeline with deepDoctection. This tutorial covers configuring layout analysis, DocTR OCR, and table extract",
-      "pubDate": "Sun, 23 Aug 2026 07:51:22 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-24T20:30:49.777Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Vercel Introduces ‘Is Agentic’, a Free Agent-Readiness Scoring Tool That Audits Public Websites Using Ora’s 100+ Checks",
-      "link": "https://www.marktechpost.com/2026/08/23/vercel-introduces-is-agentic-a-free-agent-readiness-scoring-tool-that-audits-public-websites-using-oras-100-checks/",
-      "snippet": "Vercel and Ora launched Is Agentic, a free audit scoring website readiness for AI agents across 118 checks. The post Vercel Introduces ‘Is Agentic’, a",
-      "pubDate": "Sun, 23 Aug 2026 07:37:14 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-24T20:30:49.777Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
