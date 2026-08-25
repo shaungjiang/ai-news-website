@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-25T01:26:39.555Z",
+  "generatedAt": "2026-08-25T03:07:49.053Z",
   "stats": {
-    "total": 97,
+    "total": 87,
     "shown": 50,
     "chinese": 28,
-    "english": 69,
-    "today": 1
+    "english": 59,
+    "today": 2
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+      "link": "https://www.qbitai.com/2026/08/478675.html",
+      "snippet": "虽然明确机器人创业，但依然在职蔚来",
+      "pubDate": "Tue, 25 Aug 2026 00:35:54 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "鱼羊",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
@@ -19,25 +35,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Fastino Releases GLiNER2.5: A Boundary-Prediction Architecture That Removes Span Enumeration From Information Extraction",
-      "link": "https://www.marktechpost.com/2026/08/24/fastino-releases-gliner2-5-a-boundary-prediction-architecture-that-removes-span-enumeration-from-information-extraction/",
-      "snippet": "Fastino released GLiNER2.5, replacing span enumeration with boundary prediction so entity width no longer costs compute. Three Apache 2.0 checkpoints",
-      "pubDate": "Mon, 24 Aug 2026 22:21:22 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-25T01:17:52.389Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-25T01:17:51.270Z",
+      "fetchedAt": "2026-08-25T02:59:00.719Z",
       "tags": [
         "学术研究"
       ]
@@ -67,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "政策监管"
       ]
@@ -115,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-25T01:17:51.270Z",
+      "fetchedAt": "2026-08-25T02:59:00.719Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -148,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "综合"
       ]
@@ -164,41 +164,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Peter Hall",
-      "fetchedAt": "2026-08-25T01:17:50.303Z",
+      "fetchedAt": "2026-08-25T02:58:59.962Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Generalist AI Releases GEN-1.5: A Robot Foundation Model That Learns New Tasks From One 3–12 Second Demo",
-      "link": "https://www.marktechpost.com/2026/08/24/generalist-ai-releases-gen-1-5-a-robot-foundation-model-that-learns-new-tasks-from-one-3-12-second-demo/",
-      "snippet": "Generalist AI has released GEN-1.5, a robot foundation model that learns a new physical task from a single demonstration. Drop 3–12 seconds of sensori",
-      "pubDate": "Mon, 24 Aug 2026 14:17:01 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-25T01:17:52.389Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google Research Introduces ME-POIs: A Mobility-Informed Framework that Adds “How a Place Is Used” to Text-Based POI Embeddings",
-      "link": "https://www.marktechpost.com/2026/08/24/google-research-introduces-me-pois-a-mobility-informed-framework-that-adds-how-a-place-is-used-to-text-based-poi-embeddings/",
-      "snippet": "framework that folds aggregate human movement into text-based place embeddings. Language models describe what a place is; they miss how it is used. ME",
-      "pubDate": "Mon, 24 Aug 2026 13:56:59 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-25T01:17:52.389Z",
-      "tags": [
-        "学术研究"
       ]
     },
     {
@@ -212,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "开源工具"
       ]
@@ -228,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-25T01:17:44.770Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-25T01:17:44.770Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
       "tags": [
         "学术研究"
       ]
@@ -260,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -293,7 +261,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-25T01:17:50.303Z",
+      "fetchedAt": "2026-08-25T02:58:59.962Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +277,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:51.746Z",
+      "fetchedAt": "2026-08-25T02:59:01.083Z",
       "tags": [
         "大模型"
       ]
@@ -325,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -374,7 +342,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "商业融资"
       ]
@@ -390,7 +358,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Elise Cutts",
-      "fetchedAt": "2026-08-25T01:17:50.303Z",
+      "fetchedAt": "2026-08-25T02:58:59.962Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +374,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "商业融资"
       ]
@@ -454,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T01:17:44.770Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "AI应用"
       ]
@@ -486,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T01:17:44.770Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -503,7 +471,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "综合"
       ]
@@ -519,7 +487,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "商业融资"
       ]
@@ -535,25 +503,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T01:17:44.770Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Best GPU Neoclouds 2026: CoreWeave, Nebius, Lambda, Crusoe, and Groq Ranked by Published Pricing and Contracted Power",
-      "link": "https://www.marktechpost.com/2026/08/23/best-gpu-neoclouds-2026/",
-      "snippet": "The five largest GPU neoclouds now run on very different models. CoreWeave and Nebius report to the SEC; Lambda and Crusoe are private and heading tow",
-      "pubDate": "Mon, 24 Aug 2026 05:26:43 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-25T01:17:52.389Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -567,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T01:17:44.770Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
       "tags": [
         "大模型"
       ]
@@ -583,23 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T01:17:44.771Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Scientific Data Analysis with LabPlot in Python: Signal Processing, Spectral Peak Fitting, Visualization, and Batch Automation",
-      "link": "https://www.marktechpost.com/2026/08/23/scientific-data-analysis-with-labplot-in-python-signal-processing-spectral-peak-fitting-visualization-and-batch-automation/",
-      "snippet": "In this tutorial, we explore a LabPlot-inspired scientific data analysis workflow in Python while preserving the structure and terminology of LabPlot’",
-      "pubDate": "Mon, 24 Aug 2026 03:32:30 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-25T01:17:52.389Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
       "tags": [
         "综合"
       ]
@@ -615,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "大模型"
       ]
@@ -631,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "商业融资"
       ]
@@ -647,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "商业融资"
       ]
@@ -663,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "商业融资"
       ]
@@ -679,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-25T01:17:44.771Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
       "tags": [
         "综合"
       ]
@@ -695,7 +631,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "综合"
       ]
@@ -711,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -728,25 +664,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Harvey Introduces Harvey Tenet: A Kimi K3 Base Post-Trained with Fireworks for Long-Horizon Legal Agent Work",
-      "link": "https://www.marktechpost.com/2026/08/23/harvey-tenet-post-trained-kimi-k3-legal-agent-model/",
-      "snippet": "Harvey's first post-trained model nearly doubles LAB task completion, but only one benchmark number survives independent verification today The post H",
-      "pubDate": "Sun, 23 Aug 2026 17:51:56 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-25T01:17:52.389Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -760,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "综合"
       ]
@@ -776,7 +696,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-08-25T01:17:49.615Z",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "开源工具"
       ]
@@ -792,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T01:17:49.323Z",
+      "fetchedAt": "2026-08-25T02:58:59.161Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -809,7 +729,88 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-25T01:17:44.771Z",
+      "fetchedAt": "2026-08-25T02:58:54.241Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "snippet": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "pubDate": "Sat, 22 Aug 2026 21:46:56 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "snippet": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone",
+      "pubDate": "Sat, 22 Aug 2026 19:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anna Heim",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
+      "tags": [
+        "学术研究",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "snippet": "OpenAI's global affairs team post also referenced “recent incidents” that “underscore both the need for these protections and the importance of updati",
+      "pubDate": "Sat, 22 Aug 2026 16:30:34 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "snippet": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems i",
+      "pubDate": "Sat, 22 Aug 2026 16:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Michael Polansky is training an AI model on skin that’s still alive",
+      "link": "https://techcrunch.com/2026/08/21/michael-polansky-is-training-an-ai-model-on-skin-thats-still-alive/",
+      "snippet": "Michael Polansky — better known publicly as Lady Gaga's partner and a former top deputy to Sean Parker — has quietly spent years building an AI-driven",
+      "pubDate": "Sat, 22 Aug 2026 01:31:04 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-08-25T02:58:59.421Z",
       "tags": [
         "综合"
       ]
