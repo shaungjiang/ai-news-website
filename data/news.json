@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-25T18:49:49.482Z",
+  "generatedAt": "2026-08-25T20:39:15.663Z",
   "stats": {
-    "total": 100,
+    "total": 99,
     "shown": 50,
     "chinese": 30,
-    "english": 70,
-    "today": 42
+    "english": 69,
+    "today": 44
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Perplexity Ships Portable Computer on NVIDIA DGX Spark: Local Harness, OS-Enforced Sandbox, and Zero Per-Token Cost for Local Steps",
+      "link": "https://www.marktechpost.com/2026/08/25/perplexity-ships-portable-computer-on-nvidia-dgx-spark-local-harness-os-enforced-sandbox-and-zero-per-token-cost-for-local-steps/",
+      "snippet": "Perplexity releases Portable Computer, packaging local models, harness, sandbox, and connectors into one system running on NVIDIA DGX Spark. The post",
+      "pubDate": "Tue, 25 Aug 2026 19:12:19 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-25T20:29:22.721Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+      "snippet": "The company's new fundraising total now stands at $232 million.",
+      "pubDate": "Tue, 25 Aug 2026 19:03:47 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "Art and algorithms at Sotheby’s",
@@ -19,7 +51,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Kara Baskin",
-      "fetchedAt": "2026-08-25T18:39:56.001Z",
+      "fetchedAt": "2026-08-25T20:29:21.083Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-25T18:39:58.011Z",
+      "fetchedAt": "2026-08-25T20:29:22.721Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Lola Butcher, Knowable Magazine\n                ",
-      "fetchedAt": "2026-08-25T18:39:57.122Z",
+      "fetchedAt": "2026-08-25T20:29:22.007Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "学术研究"
       ]
@@ -99,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:55.597Z",
+      "fetchedAt": "2026-08-25T20:29:20.806Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-25T18:39:57.122Z",
+      "fetchedAt": "2026-08-25T20:29:22.007Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +195,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-25T18:39:56.001Z",
+      "fetchedAt": "2026-08-25T20:29:21.083Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +227,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -212,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T18:39:50.872Z",
+      "fetchedAt": "2026-08-25T20:29:16.845Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -229,7 +261,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:55.597Z",
+      "fetchedAt": "2026-08-25T20:29:20.806Z",
       "tags": [
         "开源工具"
       ]
@@ -245,7 +277,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Stephen Ornes",
-      "fetchedAt": "2026-08-25T18:39:56.001Z",
+      "fetchedAt": "2026-08-25T20:29:21.083Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +293,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "You Xiaoying",
-      "fetchedAt": "2026-08-25T18:39:56.001Z",
+      "fetchedAt": "2026-08-25T20:29:21.083Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +309,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:57.534Z",
+      "fetchedAt": "2026-08-25T20:29:22.380Z",
       "tags": [
         "AI应用"
       ]
@@ -293,7 +325,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:57.534Z",
+      "fetchedAt": "2026-08-25T20:29:22.380Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -326,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-08-25T18:39:50.872Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "开源工具"
       ]
@@ -342,7 +374,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "AI应用"
       ]
@@ -358,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "政策监管"
       ]
@@ -374,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "AI应用"
       ]
@@ -390,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-25T18:39:50.872Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "商业融资"
       ]
@@ -406,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-25T18:39:50.872Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-25T18:39:50.872Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-25T18:39:50.872Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T18:39:50.873Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "AI应用"
       ]
@@ -486,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T18:39:50.873Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -535,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "综合"
       ]
@@ -551,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-25T18:39:50.873Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "开源工具"
       ]
@@ -567,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "学术研究",
         "大模型"
@@ -584,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-25T18:39:50.873Z",
+      "fetchedAt": "2026-08-25T20:29:16.846Z",
       "tags": [
         "综合"
       ]
@@ -600,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "综合"
       ]
@@ -616,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "学术研究"
       ]
@@ -632,7 +664,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:54.940Z",
+      "fetchedAt": "2026-08-25T20:29:20.315Z",
       "tags": [
         "学术研究"
       ]
@@ -648,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "综合"
       ]
@@ -664,7 +696,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:57.534Z",
+      "fetchedAt": "2026-08-25T20:29:22.380Z",
       "tags": [
         "政策监管"
       ]
@@ -680,7 +712,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-25T18:39:57.534Z",
+      "fetchedAt": "2026-08-25T20:29:22.380Z",
       "tags": [
         "大模型"
       ]
@@ -696,7 +728,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-25T18:39:58.011Z",
+      "fetchedAt": "2026-08-25T20:29:22.721Z",
       "tags": [
         "AI应用"
       ]
@@ -712,7 +744,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-25T18:39:57.122Z",
+      "fetchedAt": "2026-08-25T20:29:22.007Z",
       "tags": [
         "学术研究"
       ]
@@ -728,7 +760,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "商业融资"
       ]
@@ -744,7 +776,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "综合"
       ]
@@ -760,7 +792,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:20.565Z",
       "tags": [
         "政策监管"
       ]
@@ -776,40 +808,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-25T18:39:57.122Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
-      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
-      "snippet": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space and time, is in talks to raise",
-      "pubDate": "Mon, 24 Aug 2026 15:24:18 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
-      "tags": [
-        "商业融资",
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
-      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
-      "snippet": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
-      "pubDate": "Mon, 24 Aug 2026 15:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-25T18:39:55.292Z",
+      "fetchedAt": "2026-08-25T20:29:22.007Z",
       "tags": [
         "综合"
       ]
