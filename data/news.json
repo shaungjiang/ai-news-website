@@ -1,25 +1,57 @@
 {
-  "generatedAt": "2026-08-25T14:56:20.584Z",
+  "generatedAt": "2026-08-25T16:48:03.868Z",
   "stats": {
-    "total": 97,
+    "total": 99,
     "shown": 50,
     "chinese": 30,
-    "english": 67,
-    "today": 35
+    "english": 69,
+    "today": 38
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
+      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
+      "snippet": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
+      "pubDate": "Tue, 25 Aug 2026 15:10:03 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Lola Butcher, Knowable Magazine\n                ",
+      "fetchedAt": "2026-08-25T16:38:11.137Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Gamma acquires Accel-backed design startup Lica",
+      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
+      "snippet": "Lica co-founders are going to work on Gamma's new research team.",
+      "pubDate": "Tue, 25 Aug 2026 15:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
       "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "snippet": "Tested on Semianalysis’s InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently avail",
+      "snippet": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently availa",
       "pubDate": "Tue, 25 Aug 2026 14:22:04 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.605Z",
+      "fetchedAt": "2026-08-25T16:38:09.932Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-25T14:46:27.854Z",
+      "fetchedAt": "2026-08-25T16:38:11.137Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-25T14:46:26.895Z",
+      "fetchedAt": "2026-08-25T16:38:10.220Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -132,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -149,7 +181,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.605Z",
+      "fetchedAt": "2026-08-25T16:38:09.932Z",
       "tags": [
         "开源工具"
       ]
@@ -165,7 +197,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Stephen Ornes",
-      "fetchedAt": "2026-08-25T14:46:26.895Z",
+      "fetchedAt": "2026-08-25T16:38:10.220Z",
       "tags": [
         "综合"
       ]
@@ -181,9 +213,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "You Xiaoying",
-      "fetchedAt": "2026-08-25T14:46:26.895Z",
+      "fetchedAt": "2026-08-25T16:38:10.220Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "The full stack behind abundant intelligence",
+      "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
+      "snippet": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale",
+      "pubDate": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-25T16:38:11.503Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -197,7 +245,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:28.256Z",
+      "fetchedAt": "2026-08-25T16:38:11.503Z",
       "tags": [
         "综合"
       ]
@@ -213,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -230,7 +278,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "开源工具"
       ]
@@ -246,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "AI应用"
       ]
@@ -262,7 +310,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "政策监管"
       ]
@@ -278,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "AI应用"
       ]
@@ -294,7 +342,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "商业融资"
       ]
@@ -310,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +374,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "综合"
       ]
@@ -342,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "综合"
       ]
@@ -358,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "AI应用"
       ]
@@ -374,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "AI应用"
       ]
@@ -390,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "AI应用"
       ]
@@ -422,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -439,7 +487,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "综合"
       ]
@@ -455,7 +503,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "开源工具"
       ]
@@ -471,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "学术研究",
         "大模型"
@@ -488,7 +536,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-25T14:46:21.994Z",
+      "fetchedAt": "2026-08-25T16:38:05.001Z",
       "tags": [
         "综合"
       ]
@@ -504,7 +552,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "综合"
       ]
@@ -520,7 +568,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "学术研究"
       ]
@@ -536,7 +584,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
+      "fetchedAt": "2026-08-25T16:38:09.421Z",
       "tags": [
         "学术研究"
       ]
@@ -552,7 +600,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "综合"
       ]
@@ -568,7 +616,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-25T14:46:28.256Z",
+      "fetchedAt": "2026-08-25T16:38:11.503Z",
       "tags": [
         "政策监管"
       ]
@@ -584,7 +632,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-25T14:46:28.889Z",
+      "fetchedAt": "2026-08-25T16:38:11.851Z",
       "tags": [
         "AI应用"
       ]
@@ -600,7 +648,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-25T14:46:27.854Z",
+      "fetchedAt": "2026-08-25T16:38:11.137Z",
       "tags": [
         "学术研究"
       ]
@@ -616,7 +664,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "商业融资"
       ]
@@ -632,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "综合"
       ]
@@ -648,14 +696,14 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "政策监管"
       ]
     },
     {
       "id": "YXJzdGVjaG5pY2Et",
-      "title": "Nvidia senior manager linked to Supermicro scheme smuggling AI servers to China",
+      "title": "Nvidia senior manager tied to ex-Supermicro staff's AI smuggling scheme",
       "link": "https://arstechnica.com/tech-policy/2026/08/nvidia-senior-manager-linked-to-supermicro-scheme-smuggling-ai-servers-to-china/",
       "snippet": "Nvidia worker indicted after Jensen Huang scolded Supermicro for AI server smuggling.",
       "pubDate": "Mon, 24 Aug 2026 16:41:45 +0000",
@@ -664,7 +712,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-25T14:46:27.854Z",
+      "fetchedAt": "2026-08-25T16:38:11.137Z",
       "tags": [
         "综合"
       ]
@@ -680,7 +728,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -697,7 +745,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "综合"
       ]
@@ -713,7 +761,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Peter Hall",
-      "fetchedAt": "2026-08-25T14:46:26.895Z",
+      "fetchedAt": "2026-08-25T16:38:10.220Z",
       "tags": [
         "大模型"
       ]
@@ -729,7 +777,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-25T14:46:28.889Z",
+      "fetchedAt": "2026-08-25T16:38:11.851Z",
       "tags": [
         "大模型"
       ]
@@ -745,7 +793,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-25T14:46:28.889Z",
+      "fetchedAt": "2026-08-25T16:38:11.851Z",
       "tags": [
         "学术研究"
       ]
@@ -761,58 +809,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-25T14:46:26.372Z",
+      "fetchedAt": "2026-08-25T16:38:09.691Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "第一位“95后”获奖人产生、女性获奖人首次达两位数——第八届“科学探索奖”公布获奖名单",
-      "link": "https://www.leiphone.com/category/industrynews/ueOhCRAt4mwIdCsz.html",
-      "snippet": "8月24日，第八届“科学探索奖”获奖名单正式揭晓，50位青年科学家榜上有名。第一位“95后”获奖人产生、女性科学家人数首次达到两位数、7家机构首次拥有获奖人。 作为目前国内金额最高的青年科技人才资助项目之一，“科学探索奖”聚焦基础科学和前沿技术领域，每位获奖人将在5年内获得总计300万元人民币奖金，",
-      "pubDate": "Mon, 24 Aug 2026 21:15:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "燧原科技启动科创板发行，全栈技术体系支撑AI芯片商业化落地",
-      "link": "https://www.leiphone.com/category/chips/p9z2fExXmv41ngV9.html",
-      "snippet": "8月24日晚，上海燧原科技股份有限公司（简称“燧原科技”）披露招股意向书、发行安排及初步询价公告等，正式启动发行工作。燧原科技股票代码为“688801”，拟于科创板上市。 燧原科技创立于2018年3月，专注于云端AI芯片及其相关产品的研发、设计和销售，已自研迭代四代架构、五款云端AI芯片，构建了覆盖",
-      "pubDate": "Mon, 24 Aug 2026 20:27:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-25T14:46:26.108Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "link": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlear",
-      "pubDate": "Mon, 24 Aug 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-25T14:46:26.895Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
