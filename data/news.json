@@ -1,13 +1,126 @@
 {
-  "generatedAt": "2026-08-26T16:58:20.147Z",
+  "generatedAt": "2026-08-26T19:57:49.882Z",
   "stats": {
-    "total": 88,
+    "total": 90,
     "shown": 50,
     "chinese": 29,
-    "english": 59,
-    "today": 46
+    "english": 61,
+    "today": 54
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "snippet": "Consumer AI apps need to stop making users learn their product architecture.",
+      "pubDate": "Wed, 26 Aug 2026 19:37:34 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "snippet": "Was Greg Brockman the right executive all along?",
+      "pubDate": "Wed, 26 Aug 2026 19:34:04 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "snippet": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+      "pubDate": "Wed, 26 Aug 2026 19:19:22 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-08-26T19:49:01.837Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI releases its official report on the Hugging Face breach",
+      "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+      "snippet": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+      "pubDate": "Wed, 26 Aug 2026 19:05:22 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "snippet": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, accordi",
+      "pubDate": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Grace Huckins",
+      "fetchedAt": "2026-08-26T19:49:00.843Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "snippet": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and more than 85 languages. Gemini 3.",
+      "pubDate": "2026-08-26T17:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-26T19:49:00.588Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "神秘「牛来」模型果然是智谱！GLM首个原生多模态，还用的国产卡",
+      "link": "https://www.qbitai.com/2026/08/479919.html",
+      "snippet": "GLM-5.3 Flash",
+      "pubDate": "Wed, 26 Aug 2026 16:48:12 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "十三",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Radar makes podcasts searchable — and usable by AI agents",
@@ -19,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +164,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:29.021Z",
+      "fetchedAt": "2026-08-26T19:49:01.442Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -132,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "商业融资"
       ]
@@ -148,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -165,7 +278,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-26T16:48:28.630Z",
+      "fetchedAt": "2026-08-26T19:49:00.843Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +294,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "商业融资"
       ]
@@ -197,7 +310,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-26T16:48:29.382Z",
+      "fetchedAt": "2026-08-26T19:49:01.837Z",
       "tags": [
         "大模型"
       ]
@@ -213,7 +326,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:28.398Z",
+      "fetchedAt": "2026-08-26T19:49:00.588Z",
       "tags": [
         "学术研究"
       ]
@@ -229,7 +342,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +358,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +374,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
       "tags": [
         "AI应用"
       ]
@@ -293,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
       "tags": [
         "AI应用"
       ]
@@ -309,7 +422,40 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+      "snippet": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+      "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-26T19:49:02.181Z",
+      "tags": [
+        "大模型",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "link": "https://openai.com/index/learning-never-stops",
+      "snippet": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+      "pubDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-26T19:49:02.181Z",
       "tags": [
         "大模型"
       ]
@@ -325,7 +471,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "综合"
       ]
@@ -341,7 +487,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +503,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Mat Honan",
-      "fetchedAt": "2026-08-26T16:48:28.630Z",
+      "fetchedAt": "2026-08-26T19:49:00.843Z",
       "tags": [
         "商业融资"
       ]
@@ -373,7 +519,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-08-26T16:48:28.630Z",
+      "fetchedAt": "2026-08-26T19:49:00.843Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +615,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Mat Honan",
-      "fetchedAt": "2026-08-26T16:48:28.630Z",
+      "fetchedAt": "2026-08-26T19:49:00.843Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "商业融资"
       ]
@@ -501,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "学术研究"
       ]
@@ -533,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
       "tags": [
         "开源工具"
       ]
@@ -549,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "商业融资"
       ]
@@ -597,7 +743,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "fetchedAt": "2026-08-26T19:49:00.279Z",
       "tags": [
         "商业融资"
       ]
@@ -613,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -630,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
       "tags": [
         "商业融资"
       ]
@@ -646,7 +792,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
+      "fetchedAt": "2026-08-26T19:48:54.985Z",
       "tags": [
         "综合"
       ]
@@ -662,151 +808,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "OpenAI「辣椒芯」干翻英伟达！老黄股价不跌反涨",
-      "link": "https://www.qbitai.com/2026/08/479320.html",
-      "snippet": "不和老黄商量",
-      "pubDate": "Wed, 26 Aug 2026 01:24:47 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-08-26T16:48:21.873Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "snippet": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
-      "pubDate": "Wed, 26 Aug 2026 00:40:59 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "数据中心人去楼空！网友曝特斯拉FSD入华无望：博主称6.4万白花了；道路交通法新草案：自动驾驶出事故车企负责！马云买入阿里超6亿港元",
-      "link": "https://www.leiphone.com/category/zaobao/IBcrOQ12e2rU0P8y.html",
-      "snippet": "要闻提示      1.数据中心人去楼空！网友爆料特斯拉FSD进入中国无望：陈震称6.4万白花了啊 2.多益网络账号被封！曾公开老板100多个孩子集体大合照 3.自动驾驶首次被写入法律！道路交通法新草案：自动驾驶出事故车企负责 4.马云出手增持，已连日买入阿里港股超 6 亿港元 5.海力士淘宝旗舰店",
-      "pubDate": "Wed, 26 Aug 2026 08:21:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-26T16:48:27.819Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI loses a top data center exec as stream of high-profile departures continues",
-      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "snippet": "In a statement to TechCrunch about Malone's departure, OpenAI said it had \"recently reorganized\" its \"infrastructure organization to support the scale",
-      "pubDate": "Wed, 26 Aug 2026 00:06:20 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-26T16:48:28.134Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How loveholidays is making everyone a builder with Codex",
-      "link": "https://openai.com/index/loveholidays",
-      "snippet": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster",
-      "pubDate": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-08-26T16:48:29.748Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Addressing a sticking point in sustainable adhesives",
-      "link": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
-      "snippet": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even s",
-      "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Stephanie M. McPherson, SM ’11",
-      "fetchedAt": "2026-08-26T16:48:28.630Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "YouTuber finds niche as college admissions mentor",
-      "link": "https://www.technologyreview.com/2026/08/25/1140905/youtuber-finds-niche-as-college-admissions-mentor/",
-      "snippet": "As a first-generation student from a small town, Gohar Khan ’21 had to navigate the college admissions process largely on his own. He founded his YouT",
-      "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Kathryn M. O’Neill",
-      "fetchedAt": "2026-08-26T16:48:28.630Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Launching youth entrepreneurship",
-      "link": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
-      "snippet": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the onl",
-      "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Kathryn M. O’Neill",
-      "fetchedAt": "2026-08-26T16:48:28.630Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "A new stamp on cyberfraud prevention",
-      "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "snippet": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intrica",
-      "pubDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Adam Conner-Simons",
-      "fetchedAt": "2026-08-26T16:48:28.630Z",
+      "fetchedAt": "2026-08-26T19:49:00.020Z",
       "tags": [
         "综合"
       ]
