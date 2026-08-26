@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-26T14:51:32.964Z",
+  "generatedAt": "2026-08-26T16:58:20.147Z",
   "stats": {
-    "total": 99,
+    "total": 88,
     "shown": 50,
     "chinese": 29,
-    "english": 70,
-    "today": 45
+    "english": 59,
+    "today": 46
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Radar makes podcasts searchable — and usable by AI agents",
+      "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
+      "snippet": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and",
+      "pubDate": "Wed, 26 Aug 2026 15:47:28 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Ex-Meta scientists want to bring visual AI to the factory floor",
+      "link": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "snippet": "Perceptron offers an AI model that it says can help machines navigate the world while also providing in-depth visual intelligence.",
+      "pubDate": "Wed, 26 Aug 2026 15:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
@@ -19,7 +51,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "综合"
       ]
@@ -35,23 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:51.668Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
-      "link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
-      "snippet": "Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence The post What",
-      "pubDate": "Wed, 26 Aug 2026 14:20:35 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-26T14:44:54.388Z",
+      "fetchedAt": "2026-08-26T16:48:29.021Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -116,9 +132,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "全新架构，极致性价比！阿里千问Qwen3.8-Flash发布并开源",
+      "link": "https://www.leiphone.com/category/industrynews/VOpEHzb65rOMv793.html",
+      "snippet": "8月26日晚，阿里发布并同步开源千问最新模型 Qwen3.8-Flash。该模型采用全新下一代架构，千亿总参数仅激活60亿（6B）即可获得超越Claude Opus4.6的前沿性能，创下模型效率的全球新基准。得益于架构和训练的全面革新，Qwen3.8-Flash训练成本较Qwen3.7-Plus骤降",
+      "pubDate": "Wed, 26 Aug 2026 20:46:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
+      "tags": [
+        "开源工具",
+        "大模型"
       ]
     },
     {
@@ -132,7 +165,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-26T14:44:51.203Z",
+      "fetchedAt": "2026-08-26T16:48:28.630Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +181,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "商业融资"
       ]
@@ -164,7 +197,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-26T14:44:52.400Z",
+      "fetchedAt": "2026-08-26T16:48:29.382Z",
       "tags": [
         "大模型"
       ]
@@ -180,7 +213,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.795Z",
+      "fetchedAt": "2026-08-26T16:48:28.398Z",
       "tags": [
         "学术研究"
       ]
@@ -196,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "AI应用"
       ]
@@ -205,14 +238,14 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
       "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
-      "snippet": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "snippet": "Runable says 60% to 70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
       "pubDate": "Wed, 26 Aug 2026 11:00:00 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "AI应用"
       ]
@@ -260,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "大模型"
       ]
@@ -292,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +357,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Mat Honan",
-      "fetchedAt": "2026-08-26T14:44:51.203Z",
+      "fetchedAt": "2026-08-26T16:48:28.630Z",
       "tags": [
         "商业融资"
       ]
@@ -340,7 +373,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-08-26T14:44:51.203Z",
+      "fetchedAt": "2026-08-26T16:48:28.630Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +389,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "AI应用"
       ]
@@ -404,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "AI应用"
       ]
@@ -420,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Mat Honan",
-      "fetchedAt": "2026-08-26T14:44:51.203Z",
+      "fetchedAt": "2026-08-26T16:48:28.630Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "商业融资"
       ]
@@ -468,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "学术研究"
       ]
@@ -500,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "开源工具"
       ]
@@ -516,25 +549,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "IBM Releases Granite 4.2: Bringing Native Reasoning and Agentic RL to Open Enterprise Models",
-      "link": "https://www.marktechpost.com/2026/08/25/ibm-releases-granite-4-2-bringing-native-reasoning-and-agentic-rl-to-open-enterprise-models/",
-      "snippet": "IBM has released Granite 4.2, a family of open reasoning language models in 3B, 8B, and 30B sizes, all under Apache 2.0. Every model exposes a thinkin",
-      "pubDate": "Wed, 26 Aug 2026 05:48:10 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-26T14:44:54.388Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -548,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "综合"
       ]
@@ -564,7 +581,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "商业融资"
       ]
@@ -580,7 +597,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "商业融资"
       ]
@@ -596,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -613,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "商业融资"
       ]
@@ -629,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "综合"
       ]
@@ -645,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "综合"
       ]
@@ -661,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-26T14:44:44.734Z",
+      "fetchedAt": "2026-08-26T16:48:21.873Z",
       "tags": [
         "综合"
       ]
@@ -677,7 +694,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "商业融资"
       ]
@@ -693,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:50.085Z",
+      "fetchedAt": "2026-08-26T16:48:27.819Z",
       "tags": [
         "综合"
       ]
@@ -709,7 +726,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-26T14:44:50.466Z",
+      "fetchedAt": "2026-08-26T16:48:28.134Z",
       "tags": [
         "综合"
       ]
@@ -725,25 +742,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-26T14:44:52.939Z",
+      "fetchedAt": "2026-08-26T16:48:29.748Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Liquid AI Open-Sources Pipette: A Reproducible Benchmarking Suite That Measures On-Device Models, Quantization, Runtime and Hardware Together",
-      "link": "https://www.marktechpost.com/2026/08/25/liquid-ai-open-sources-pipette-a-reproducible-benchmarking-suite-that-measures-on-device-models-quantization-runtime-and-hardware-together/",
-      "snippet": "Model cards report quality under server-class, full-precision conditions. Those numbers rarely predict how the same model behaves on a phone. This wee",
-      "pubDate": "Tue, 25 Aug 2026 23:48:08 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-26T14:44:54.388Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -757,7 +758,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Stephanie M. McPherson, SM ’11",
-      "fetchedAt": "2026-08-26T14:44:51.203Z",
+      "fetchedAt": "2026-08-26T16:48:28.630Z",
       "tags": [
         "综合"
       ]
@@ -773,7 +774,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Kathryn M. O’Neill",
-      "fetchedAt": "2026-08-26T14:44:51.203Z",
+      "fetchedAt": "2026-08-26T16:48:28.630Z",
       "tags": [
         "综合"
       ]
@@ -789,7 +790,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Kathryn M. O’Neill",
-      "fetchedAt": "2026-08-26T14:44:51.203Z",
+      "fetchedAt": "2026-08-26T16:48:28.630Z",
       "tags": [
         "AI应用"
       ]
@@ -805,7 +806,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Adam Conner-Simons",
-      "fetchedAt": "2026-08-26T14:44:51.203Z",
+      "fetchedAt": "2026-08-26T16:48:28.630Z",
       "tags": [
         "综合"
       ]
