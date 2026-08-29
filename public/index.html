@@ -28,7 +28,7 @@
         <span class="logo-text">AI 新闻日报</span>
       </a>
       <div class="header-stats">
-        今日 <strong>0 条</strong> · 共 112 条
+        今日 <strong>1 条</strong> · 共 102 条
       </div>
     </div>
     <div class="header-right">
@@ -51,7 +51,7 @@
     <div class="hero-stats">
       <div class="hero-stat">
         <span class="hero-stat-icon">📰</span>
-        <span>今日 <strong>0</strong> 篇</span>
+        <span>今日 <strong>1</strong> 篇</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🇨🇳</span>
@@ -59,7 +59,7 @@
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🌐</span>
-        <span>英文 <strong>82</strong> 篇</span>
+        <span>英文 <strong>72</strong> 篇</span>
       </div>
     </div>
   </div>
@@ -80,9 +80,9 @@
 
     <!-- ====== Language Filter ====== -->
     <div class="filter-bar">
-      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">112</span></button>
+      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">102</span></button>
       <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">30</span></button>
-      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">82</span></button>
+      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">72</span></button>
     </div>
 
     <!-- ====== Time Filter ====== -->
@@ -117,11 +117,48 @@
       <p>没有匹配的新闻</p>
     </div>
 
+    <section class="date-section" data-date="今日">
+      <div class="date-heading">
+        <span class="date-icon">📅</span>
+        <span class="date-label">今日</span>
+        <span class="date-count">1 篇</span>
+      </div>
+
+      <div class="news-grid">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/5HSY98yO7OtW5EGw.html" data-date="今日" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 29 Aug 2026 15:20:00 +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#c62828"></span>
+              雷锋网
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Sat, 29 Aug 2026 15:20:00 +0800" title="Sat, 29 Aug 2026 15:20:00 +0800">3 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.leiphone.com/category/industrynews/5HSY98yO7OtW5EGw.html" target="_blank" rel="noopener">从Data到Agent：华为云AI-Ready数据基础设施全链路能力亮相数博会</a>
+          </h3>
+
+          <p class="card-snippet">8月28日，在2026中国国际大数据产业博览会期间，以“从数据到Agent，数据价值链的重构与创新”为主题的数据要素大会在贵阳举办。政府机构、头部大数据集团、行业企业及专家学者齐聚一堂，围绕数据要素市场化配置、高质量数据集建设、可信数据空间以及AI时代的数据基础设施创新展开探讨。   当大模型和Ag</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
+            </div>
+            <a href="https://www.leiphone.com/category/industrynews/5HSY98yO7OtW5EGw.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+      </div>
+    </section>
     <section class="date-section" data-date="昨天">
       <div class="date-heading">
         <span class="date-icon">📆</span>
         <span class="date-label">昨天</span>
-        <span class="date-count">46 篇</span>
+        <span class="date-count">42 篇</span>
       </div>
 
       <div class="news-grid">
@@ -134,7 +171,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 20:24:11 +0000" title="Fri, 28 Aug 2026 20:24:11 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 20:24:11 +0000" title="Fri, 28 Aug 2026 20:24:11 +0000">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -161,7 +198,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:30:38 +0000" title="Fri, 28 Aug 2026 19:30:38 +0000">7 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:30:38 +0000" title="Fri, 28 Aug 2026 19:30:38 +0000">15 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -179,33 +216,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 28 Aug 2026 19:12:21 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#3b6df0"></span>
-              MarkTechPost
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:12:21 +0000" title="Fri, 28 Aug 2026 19:12:21 +0000">7 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/" target="_blank" rel="noopener">GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture</a>
-          </h3>
-
-          <p class="card-snippet">Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The pos</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
         <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/" data-date="昨天" data-tags='[&quot;开源工具&quot;]' data-pubdate="Fri, 28 Aug 2026 18:19:40 +0000">
           <div class="card-hd">
             <span class="card-source">
@@ -215,7 +225,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 18:19:40 +0000" title="Fri, 28 Aug 2026 18:19:40 +0000">8 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 18:19:40 +0000" title="Fri, 28 Aug 2026 18:19:40 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -242,7 +252,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 18:07:55 +0000" title="Fri, 28 Aug 2026 18:07:55 +0000">8 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 18:07:55 +0000" title="Fri, 28 Aug 2026 18:07:55 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -260,33 +270,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/" data-date="昨天" data-tags='[&quot;开源工具&quot;]' data-pubdate="Fri, 28 Aug 2026 17:28:47 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#3b6df0"></span>
-              MarkTechPost
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 17:28:47 +0000" title="Fri, 28 Aug 2026 17:28:47 +0000">9 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/" target="_blank" rel="noopener">Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders</a>
-          </h3>
-
-          <p class="card-snippet">Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, r</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag opensrc" onclick="event.stopPropagation(); filterByTag('开源工具')">开源工具</span>
-            </div>
-            <a href="https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
         <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="2026-08-28T16:28:40.000Z">
           <div class="card-hd">
             <span class="card-source">
@@ -296,7 +279,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-08-28T16:28:40.000Z" title="2026-08-28T16:28:40.000Z">10 小时前</span>
+            <span class="card-time" data-pubdate="2026-08-28T16:28:40.000Z" title="2026-08-28T16:28:40.000Z">18 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -323,7 +306,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:42:24 +0000" title="Fri, 28 Aug 2026 15:42:24 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:42:24 +0000" title="Fri, 28 Aug 2026 15:42:24 +0000">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -350,7 +333,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:36:12 +0000" title="Fri, 28 Aug 2026 15:36:12 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:36:12 +0000" title="Fri, 28 Aug 2026 15:36:12 +0000">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -377,7 +360,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 23:04:00 +0800" title="Fri, 28 Aug 2026 23:04:00 +0800">11 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 23:04:00 +0800" title="Fri, 28 Aug 2026 23:04:00 +0800">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -404,7 +387,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 12:46:12 +0000" title="Fri, 28 Aug 2026 12:46:12 +0000">14 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 12:46:12 +0000" title="Fri, 28 Aug 2026 12:46:12 +0000">22 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -431,7 +414,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 12:35:27 +0000" title="Fri, 28 Aug 2026 12:35:27 +0000">14 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 12:35:27 +0000" title="Fri, 28 Aug 2026 12:35:27 +0000">22 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -458,7 +441,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 12:21:06 +0000" title="Fri, 28 Aug 2026 12:21:06 +0000">14 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 12:21:06 +0000" title="Fri, 28 Aug 2026 12:21:06 +0000">22 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -485,7 +468,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:28:00 +0800" title="Fri, 28 Aug 2026 19:28:00 +0800">15 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:28:00 +0800" title="Fri, 28 Aug 2026 19:28:00 +0800">23 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -512,7 +495,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:23:00 +0800" title="Fri, 28 Aug 2026 19:23:00 +0800">15 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:23:00 +0800" title="Fri, 28 Aug 2026 19:23:00 +0800">23 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -539,7 +522,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:17:00 +0800" title="Fri, 28 Aug 2026 19:17:00 +0800">15 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 19:17:00 +0800" title="Fri, 28 Aug 2026 19:17:00 +0800">23 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -566,7 +549,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 11:13:35 +0000" title="Fri, 28 Aug 2026 11:13:35 +0000">15 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 11:13:35 +0000" title="Fri, 28 Aug 2026 11:13:35 +0000">23 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -593,7 +576,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 09:45:19 +0000" title="Fri, 28 Aug 2026 09:45:19 +0000">17 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 09:45:19 +0000" title="Fri, 28 Aug 2026 09:45:19 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -620,7 +603,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 17:36:00 +0800" title="Fri, 28 Aug 2026 17:36:00 +0800">17 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 17:36:00 +0800" title="Fri, 28 Aug 2026 17:36:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -647,7 +630,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 09:00:00 +0000" title="Fri, 28 Aug 2026 09:00:00 +0000">17 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 09:00:00 +0000" title="Fri, 28 Aug 2026 09:00:00 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -674,7 +657,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:51:00 +0800" title="Fri, 28 Aug 2026 15:51:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:51:00 +0800" title="Fri, 28 Aug 2026 15:51:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -701,7 +684,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:51:00 +0800" title="Fri, 28 Aug 2026 15:51:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:51:00 +0800" title="Fri, 28 Aug 2026 15:51:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -728,7 +711,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:35:00 +0800" title="Fri, 28 Aug 2026 15:35:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:35:00 +0800" title="Fri, 28 Aug 2026 15:35:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -755,7 +738,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:27:00 +0800" title="Fri, 28 Aug 2026 15:27:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:27:00 +0800" title="Fri, 28 Aug 2026 15:27:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -782,7 +765,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:25:00 +0800" title="Fri, 28 Aug 2026 15:25:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:25:00 +0800" title="Fri, 28 Aug 2026 15:25:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -809,7 +792,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:24:00 +0800" title="Fri, 28 Aug 2026 15:24:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:24:00 +0800" title="Fri, 28 Aug 2026 15:24:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -836,7 +819,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:23:00 +0800" title="Fri, 28 Aug 2026 15:23:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:23:00 +0800" title="Fri, 28 Aug 2026 15:23:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -863,7 +846,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:21:00 +0800" title="Fri, 28 Aug 2026 15:21:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:21:00 +0800" title="Fri, 28 Aug 2026 15:21:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -891,7 +874,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 07:20:14 +0000" title="Fri, 28 Aug 2026 07:20:14 +0000">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 07:20:14 +0000" title="Fri, 28 Aug 2026 07:20:14 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -918,7 +901,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:20:00 +0800" title="Fri, 28 Aug 2026 15:20:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:20:00 +0800" title="Fri, 28 Aug 2026 15:20:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -945,7 +928,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:17:00 +0800" title="Fri, 28 Aug 2026 15:17:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:17:00 +0800" title="Fri, 28 Aug 2026 15:17:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -972,7 +955,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:16:00 +0800" title="Fri, 28 Aug 2026 15:16:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:16:00 +0800" title="Fri, 28 Aug 2026 15:16:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1000,7 +983,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:12:00 +0800" title="Fri, 28 Aug 2026 15:12:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:12:00 +0800" title="Fri, 28 Aug 2026 15:12:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1028,7 +1011,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:10:00 +0800" title="Fri, 28 Aug 2026 15:10:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:10:00 +0800" title="Fri, 28 Aug 2026 15:10:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1055,7 +1038,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:07:00 +0800" title="Fri, 28 Aug 2026 15:07:00 +0800">19 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:07:00 +0800" title="Fri, 28 Aug 2026 15:07:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1073,33 +1056,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/ai/3rOI5glxQEMnfWkL.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 28 Aug 2026 15:05:00 +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#c62828"></span>
-              雷锋网
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 15:05:00 +0800" title="Fri, 28 Aug 2026 15:05:00 +0800">19 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.leiphone.com/category/ai/3rOI5glxQEMnfWkL.html" target="_blank" rel="noopener">103μs 降到 18μs 背后，Cursor 为何剑指英伟达，重写 GPU？</a>
-          </h3>
-
-          <p class="card-snippet">MoK：把 token 调度、跨 GPU 通信和专家计算塞进同一个 GPU 内核。          作者丨郑佳美      编辑丨岑   峰</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.leiphone.com/category/ai/3rOI5glxQEMnfWkL.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
         <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/08/480557.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 28 Aug 2026 06:22:59 +0000">
           <div class="card-hd">
             <span class="card-source">
@@ -1109,7 +1065,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 06:22:59 +0000" title="Fri, 28 Aug 2026 06:22:59 +0000">20 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 06:22:59 +0000" title="Fri, 28 Aug 2026 06:22:59 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1136,7 +1092,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 06:22:20 +0000" title="Fri, 28 Aug 2026 06:22:20 +0000">20 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 06:22:20 +0000" title="Fri, 28 Aug 2026 06:22:20 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1163,7 +1119,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 06:13:59 +0000" title="Fri, 28 Aug 2026 06:13:59 +0000">20 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 06:13:59 +0000" title="Fri, 28 Aug 2026 06:13:59 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1190,7 +1146,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 06:00:00 GMT" title="Fri, 28 Aug 2026 06:00:00 GMT">20 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 06:00:00 GMT" title="Fri, 28 Aug 2026 06:00:00 GMT">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1217,7 +1173,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 05:49:05 +0000" title="Fri, 28 Aug 2026 05:49:05 +0000">21 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 05:49:05 +0000" title="Fri, 28 Aug 2026 05:49:05 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1235,33 +1191,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Fri, 28 Aug 2026 05:00:38 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#3b6df0"></span>
-              MarkTechPost
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 05:00:38 +0000" title="Fri, 28 Aug 2026 05:00:38 +0000">21 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/" target="_blank" rel="noopener">Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages</a>
-          </h3>
-
-          <p class="card-snippet">Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint deliver</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
-            </div>
-            <a href="https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
         <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/08/480227.html" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Fri, 28 Aug 2026 04:09:39 +0000">
           <div class="card-hd">
             <span class="card-source">
@@ -1271,7 +1200,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 04:09:39 +0000" title="Fri, 28 Aug 2026 04:09:39 +0000">22 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 04:09:39 +0000" title="Fri, 28 Aug 2026 04:09:39 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1298,7 +1227,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 04:06:16 +0000" title="Fri, 28 Aug 2026 04:06:16 +0000">22 小时前</span>
+            <span class="card-time" data-pubdate="Fri, 28 Aug 2026 04:06:16 +0000" title="Fri, 28 Aug 2026 04:06:16 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1325,7 +1254,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-08-28T03:14:06.000Z" title="2026-08-28T03:14:06.000Z">23 小时前</span>
+            <span class="card-time" data-pubdate="2026-08-28T03:14:06.000Z" title="2026-08-28T03:14:06.000Z">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1376,7 +1305,7 @@
       <div class="date-heading">
         <span class="date-icon">📋</span>
         <span class="date-label">8月27日星期四</span>
-        <span class="date-count">4 篇</span>
+        <span class="date-count">7 篇</span>
       </div>
 
       <div class="news-grid">
@@ -1461,29 +1390,111 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/" data-date="8月27日星期四" data-tags='[&quot;AI应用&quot;]' data-pubdate="Thu, 27 Aug 2026 20:05:49 +0000">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/" data-date="8月27日星期四" data-tags='[&quot;开源工具&quot;]' data-pubdate="Thu, 27 Aug 2026 19:55:22 +0000">
           <div class="card-hd">
             <span class="card-source">
-              <span class="card-source-dot" style="background:#3b6df0"></span>
-              MarkTechPost
+              <span class="card-source-dot" style="background:#e65100"></span>
+              Ars Technica
             </span>
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Thu, 27 Aug 2026 20:05:49 +0000" title="Thu, 27 Aug 2026 20:05:49 +0000">昨天</span>
+            <span class="card-time" data-pubdate="Thu, 27 Aug 2026 19:55:22 +0000" title="Thu, 27 Aug 2026 19:55:22 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/" target="_blank" rel="noopener">Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown</a>
+            <a href="https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/" target="_blank" rel="noopener">Report: Nvidia to acquire AI model repository Hugging Face for $13 billion</a>
           </h3>
 
-          <p class="card-snippet">Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, b</p>
+          <p class="card-snippet">Nvidia is nabbing critical infrastructure for open models as interest grows.</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag opensrc" onclick="event.stopPropagation(); filterByTag('开源工具')">开源工具</span>
+            </div>
+            <a href="https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/" data-date="8月27日星期四" data-tags='[&quot;商业融资&quot;]' data-pubdate="Thu, 27 Aug 2026 19:52:52 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#0a9e4a"></span>
+              TechCrunch
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Thu, 27 Aug 2026 19:52:52 +0000" title="Thu, 27 Aug 2026 19:52:52 +0000">昨天</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/" target="_blank" rel="noopener">Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google</a>
+          </h3>
+
+          <p class="card-snippet">Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup&#x27;s CTO, led a brief stint at OpenAI and is now at Googl</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/" data-date="8月27日星期四" data-tags='[&quot;商业融资&quot;]' data-pubdate="Thu, 27 Aug 2026 19:48:13 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#b91c1c"></span>
+              MIT Tech Review
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Thu, 27 Aug 2026 19:48:13 +0000" title="Thu, 27 Aug 2026 19:48:13 +0000">昨天</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/" target="_blank" rel="noopener">A startup claims it’s found a drug to make your blood young</a>
+          </h3>
+
+          <p class="card-snippet">I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write abou</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books" data-date="8月27日星期四" data-tags='[&quot;AI应用&quot;,&quot;大模型&quot;]' data-pubdate="2026-08-27T19:30:00.000Z">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#7b2ff0"></span>
+              The Verge
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="2026-08-27T19:30:00.000Z" title="2026-08-27T19:30:00.000Z">昨天</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books" target="_blank" rel="noopener">Google’s AI note-taking app now allows you to interact with books</a>
+          </h3>
+
+          <p class="card-snippet">Google&#x27;s AI note-taking app, Gemini Notebook, can now pull information from the books you&#x27;ve purchased. The new &quot;Expert Intelligence&quot; feature allows y</p>
 
           <div class="card-ft">
             <div class="card-tags">
               <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
             </div>
-            <a href="https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/" target="_blank" rel="noopener" class="read-btn">
+            <a href="https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books" target="_blank" rel="noopener" class="read-btn">
               📖 Read Article
             </a>
           </div>
@@ -1508,7 +1519,7 @@
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
   <p>全天候实时更新 · 免费 · 开源</p>
-  <p>更新于 2026/8/29 02:53:19 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
+  <p>更新于 2026/8/29 10:59:50 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
 </footer>
 
 <!-- ====== Back to Top ====== -->

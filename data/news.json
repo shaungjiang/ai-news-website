@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-29T02:53:19.210Z",
+  "generatedAt": "2026-08-29T10:59:50.706Z",
   "stats": {
-    "total": 112,
+    "total": 102,
     "shown": 50,
     "chinese": 30,
-    "english": 82,
-    "today": 0
+    "english": 72,
+    "today": 1
   },
   "articles": [
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从Data到Agent：华为云AI-Ready数据基础设施全链路能力亮相数博会",
+      "link": "https://www.leiphone.com/category/industrynews/5HSY98yO7OtW5EGw.html",
+      "snippet": "8月28日，在2026中国国际大数据产业博览会期间，以“从数据到Agent，数据价值链的重构与创新”为主题的数据要素大会在贵阳举办。政府机构、头部大数据集团、行业企业及专家学者齐聚一堂，围绕数据要素市场化配置、高质量数据集建设、可信数据空间以及AI时代的数据基础设施创新展开探讨。   当大模型和Ag",
+      "pubDate": "Sat, 29 Aug 2026 15:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Neocloud Lambda secures $1B in debt to buy more chips",
@@ -19,7 +35,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "fetchedAt": "2026-08-29T10:53:08.712Z",
       "tags": [
         "商业融资"
       ]
@@ -35,25 +51,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "fetchedAt": "2026-08-29T10:53:08.712Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
-      "link": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
-      "snippet": "Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The pos",
-      "pubDate": "Fri, 28 Aug 2026 19:12:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-29T02:44:31.980Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -67,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "fetchedAt": "2026-08-29T10:53:08.712Z",
       "tags": [
         "开源工具"
       ]
@@ -83,25 +83,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-08-29T02:44:30.977Z",
+      "fetchedAt": "2026-08-29T10:53:10.297Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
-      "link": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
-      "snippet": "Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, r",
-      "pubDate": "Fri, 28 Aug 2026 17:28:47 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-29T02:44:31.980Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -115,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.951Z",
+      "fetchedAt": "2026-08-29T10:53:09.028Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-29T02:44:30.977Z",
+      "fetchedAt": "2026-08-29T10:53:10.297Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "fetchedAt": "2026-08-29T10:53:08.712Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +179,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-29T02:44:30.178Z",
+      "fetchedAt": "2026-08-29T10:53:09.329Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "fetchedAt": "2026-08-29T10:53:08.712Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +211,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +227,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +243,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +259,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +275,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +291,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +307,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-08-29T02:44:30.178Z",
+      "fetchedAt": "2026-08-29T10:53:09.329Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +323,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "AI应用"
       ]
@@ -355,7 +339,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "商业融资"
       ]
@@ -371,7 +355,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "AI应用"
       ]
@@ -387,7 +371,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "大模型"
       ]
@@ -403,7 +387,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "AI应用"
       ]
@@ -419,7 +403,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "综合"
       ]
@@ -435,7 +419,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "大模型"
       ]
@@ -451,7 +435,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -468,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +468,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "大模型"
       ]
@@ -500,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "AI应用"
       ]
@@ -516,7 +500,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -533,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -550,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "综合"
       ]
@@ -566,25 +550,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
+      "fetchedAt": "2026-08-29T10:53:08.408Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "103μs 降到 18μs 背后，Cursor 为何剑指英伟达，重写 GPU？",
-      "link": "https://www.leiphone.com/category/ai/3rOI5glxQEMnfWkL.html",
-      "snippet": "MoK：把 token 调度、跨 GPU 通信和专家计算塞进同一个 GPU 内核。          作者丨郑佳美      编辑丨岑   峰",
-      "pubDate": "Fri, 28 Aug 2026 15:05:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.376Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -598,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "学术研究"
       ]
@@ -630,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "大模型"
       ]
@@ -646,7 +614,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:31.312Z",
+      "fetchedAt": "2026-08-29T10:53:10.643Z",
       "tags": [
         "商业融资"
       ]
@@ -662,25 +630,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
-      "link": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
-      "snippet": "Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint deliver",
-      "pubDate": "Fri, 28 Aug 2026 05:00:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-29T02:44:31.980Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -694,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "AI应用"
       ]
@@ -710,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-29T02:44:23.865Z",
+      "fetchedAt": "2026-08-29T10:52:59.647Z",
       "tags": [
         "AI应用"
       ]
@@ -726,7 +678,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:29.951Z",
+      "fetchedAt": "2026-08-29T10:53:09.028Z",
       "tags": [
         "综合"
       ]
@@ -742,7 +694,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-29T02:44:31.312Z",
+      "fetchedAt": "2026-08-29T10:53:10.643Z",
       "tags": [
         "AI应用"
       ]
@@ -758,7 +710,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "fetchedAt": "2026-08-29T10:53:08.712Z",
       "tags": [
         "综合"
       ]
@@ -774,7 +726,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-29T02:44:30.977Z",
+      "fetchedAt": "2026-08-29T10:53:10.297Z",
       "tags": [
         "综合"
       ]
@@ -790,25 +742,74 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-29T02:44:30.977Z",
+      "fetchedAt": "2026-08-29T10:53:10.297Z",
       "tags": [
         "政策监管"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
-      "link": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
-      "snippet": "Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, b",
-      "pubDate": "Thu, 27 Aug 2026 20:05:49 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+      "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
+      "snippet": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
+      "pubDate": "Thu, 27 Aug 2026 19:55:22 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Samuel Axon\n                ",
+      "fetchedAt": "2026-08-29T10:53:10.297Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
+      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
+      "snippet": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Googl",
+      "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-08-29T10:53:08.712Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "A startup claims it’s found a drug to make your blood young",
+      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+      "snippet": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write abou",
+      "pubDate": "Thu, 27 Aug 2026 19:48:13 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
       "lang": "en",
       "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-29T02:44:31.980Z",
+      "creator": "Antonio Regalado",
+      "fetchedAt": "2026-08-29T10:53:09.329Z",
       "tags": [
-        "AI应用"
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google’s AI note-taking app now allows you to interact with books",
+      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
+      "snippet": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows y",
+      "pubDate": "2026-08-27T19:30:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-29T10:53:09.028Z",
+      "tags": [
+        "AI应用",
+        "大模型"
       ]
     }
   ]
