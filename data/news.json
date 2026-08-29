@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-08-28T18:27:31.115Z",
+  "generatedAt": "2026-08-29T02:53:19.210Z",
   "stats": {
-    "total": 111,
+    "total": 112,
     "shown": 50,
     "chinese": 30,
-    "english": 81,
-    "today": 40
+    "english": 82,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "snippet": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring",
+      "pubDate": "Fri, 28 Aug 2026 20:24:11 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "An Anthropic researcher just gave us a peek at self-improving AI",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "snippet": "Given 10 benchmarks for specific misaligned behaviors, the automated systems were able to improve performance on every single one without degrading ov",
+      "pubDate": "Fri, 28 Aug 2026 19:30:38 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
+      "link": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
+      "snippet": "Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The pos",
+      "pubDate": "Fri, 28 Aug 2026 19:12:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-29T02:44:31.980Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "snippet": "There's a lot of capital pouring into the business of giving models away.",
+      "pubDate": "Fri, 28 Aug 2026 18:19:40 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-08-29T02:44:29.683Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+      "link": "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+      "snippet": "Anthropic refused to support lethal autonomous warfare and mass surveillance.",
+      "pubDate": "Fri, 28 Aug 2026 18:07:55 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jon Brodkin\n                ",
+      "fetchedAt": "2026-08-29T02:44:30.977Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
@@ -19,7 +99,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-28T18:17:40.444Z",
+      "fetchedAt": "2026-08-29T02:44:31.980Z",
       "tags": [
         "开源工具"
       ]
@@ -35,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:38.127Z",
+      "fetchedAt": "2026-08-29T02:44:29.951Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-28T18:17:39.413Z",
+      "fetchedAt": "2026-08-29T02:44:30.977Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +163,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-28T18:17:37.810Z",
+      "fetchedAt": "2026-08-29T02:44:29.683Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +195,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-28T18:17:38.400Z",
+      "fetchedAt": "2026-08-29T02:44:30.178Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-28T18:17:37.810Z",
+      "fetchedAt": "2026-08-29T02:44:29.683Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +227,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +243,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +259,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "商业融资"
       ]
@@ -195,7 +275,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +291,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +307,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +323,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-08-28T18:17:38.400Z",
+      "fetchedAt": "2026-08-29T02:44:30.178Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +339,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "AI应用"
       ]
@@ -275,7 +355,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "商业融资"
       ]
@@ -291,7 +371,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "AI应用"
       ]
@@ -307,7 +387,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "大模型"
       ]
@@ -323,7 +403,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "AI应用"
       ]
@@ -339,7 +419,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +435,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "大模型"
       ]
@@ -371,7 +451,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -388,7 +468,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "大模型"
       ]
@@ -420,7 +500,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "AI应用"
       ]
@@ -436,7 +516,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -453,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -470,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "大模型"
       ]
@@ -502,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:37.548Z",
+      "fetchedAt": "2026-08-29T02:44:29.376Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "学术研究"
       ]
@@ -550,9 +630,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "snippet": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-08-29T02:44:31.312Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -566,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "商业融资"
       ]
@@ -582,7 +678,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-28T18:17:40.444Z",
+      "fetchedAt": "2026-08-29T02:44:31.980Z",
       "tags": [
         "大模型"
       ]
@@ -598,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "AI应用"
       ]
@@ -614,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-28T18:17:32.761Z",
+      "fetchedAt": "2026-08-29T02:44:23.865Z",
       "tags": [
         "AI应用"
       ]
@@ -630,7 +726,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:38.127Z",
+      "fetchedAt": "2026-08-29T02:44:29.951Z",
       "tags": [
         "综合"
       ]
@@ -646,7 +742,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-28T18:17:39.843Z",
+      "fetchedAt": "2026-08-29T02:44:31.312Z",
       "tags": [
         "AI应用"
       ]
@@ -662,7 +758,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-28T18:17:37.810Z",
+      "fetchedAt": "2026-08-29T02:44:29.683Z",
       "tags": [
         "综合"
       ]
@@ -678,7 +774,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-28T18:17:39.413Z",
+      "fetchedAt": "2026-08-29T02:44:30.977Z",
       "tags": [
         "综合"
       ]
@@ -694,7 +790,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-28T18:17:39.413Z",
+      "fetchedAt": "2026-08-29T02:44:30.977Z",
       "tags": [
         "政策监管"
       ]
@@ -710,106 +806,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-28T18:17:40.444Z",
+      "fetchedAt": "2026-08-29T02:44:31.980Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "snippet": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
-      "pubDate": "Thu, 27 Aug 2026 19:55:22 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-28T18:17:39.413Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "snippet": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Googl",
-      "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-28T18:17:37.810Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "snippet": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write abou",
-      "pubDate": "Thu, 27 Aug 2026 19:48:13 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Antonio Regalado",
-      "fetchedAt": "2026-08-28T18:17:38.400Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "snippet": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows y",
-      "pubDate": "2026-08-27T19:30:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-28T18:17:38.127Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-      "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-      "snippet": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
-      "pubDate": "Thu, 27 Aug 2026 18:57:08 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-28T18:17:39.413Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "snippet": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solut",
-      "pubDate": "Thu, 27 Aug 2026 17:43:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-28T18:17:37.810Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
