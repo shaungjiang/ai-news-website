@@ -1,28 +1,59 @@
 {
-  "generatedAt": "2026-08-29T16:29:51.158Z",
+  "generatedAt": "2026-08-29T20:40:36.533Z",
   "stats": {
-    "total": 92,
+    "total": 102,
     "shown": 50,
-    "chinese": 10,
-    "english": 82,
-    "today": 11
+    "chinese": 30,
+    "english": 72,
+    "today": 14
   },
   "articles": [
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-      "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
-      "snippet": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed:",
-      "pubDate": "Sat, 29 Aug 2026 14:30:44 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
       "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-29T16:20:05.014Z",
+      "category": "商业",
+      "creator": "Kirsten Korosec",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
       "tags": [
-        "AI应用",
-        "大模型"
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "snippet": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for",
+      "pubDate": "2026-08-29T18:19:53.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:47.340Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is fin",
+      "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -36,7 +67,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "综合"
       ]
@@ -52,7 +83,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "综合"
       ]
@@ -68,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
       "tags": [
         "综合"
       ]
@@ -84,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "大模型"
       ]
@@ -100,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "开源工具"
       ]
@@ -116,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +163,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "政策监管"
       ]
@@ -148,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-29T16:20:02.759Z",
+      "fetchedAt": "2026-08-29T20:31:47.340Z",
       "tags": [
         "开源工具"
       ]
@@ -164,25 +195,42 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "商业融资"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning",
-      "link": "https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/",
-      "snippet": "Pollen Robotics, the Bordeaux robotics team at Hugging Face, opened pre-orders for Microduck — a 25 cm bipedal robot where every movement is a neural",
-      "pubDate": "Sat, 29 Aug 2026 05:25:16 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-29T16:20:05.014Z",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "展翼三折叠即将登场，余承东首曝真机彰显旗舰格调",
+      "link": "https://www.leiphone.com/category/industrynews/OzAOLaQ9jMbJU4XK.html",
+      "snippet": "华为终端近日正式宣布，HarmonyOS 7｜HUAWEI Mate XT 2 及全场景新品发布会将于9月7日举行，引发大众对全新三折叠的广泛关注与讨论。随后，8月29日核心商圈户外大屏上线的产品ID局部细节视频，进一步释放了紫色宝石质感镜头模组、独特纹理背板、精密转轴结构以及非凡大师专属徽标首次上",
+      "pubDate": "Sat, 29 Aug 2026 19:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
       "tags": [
+        "AI应用",
         "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从Data到Agent：华为云AI-Ready数据基础设施全链路能力亮相数博会",
+      "link": "https://www.leiphone.com/category/industrynews/5HSY98yO7OtW5EGw.html",
+      "snippet": "8月28日，在2026中国国际大数据产业博览会期间，以“从数据到Agent，数据价值链的重构与创新”为主题的数据要素大会在贵阳举办。政府机构、头部大数据集团、行业企业及专家学者齐聚一堂，围绕数据要素市场化配置、高质量数据集建设、可信数据空间以及AI时代的数据基础设施创新展开探讨。   当大模型和Ag",
+      "pubDate": "Sat, 29 Aug 2026 15:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -196,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
       "tags": [
         "商业融资"
       ]
@@ -212,25 +260,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
-      "link": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
-      "snippet": "Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The pos",
-      "pubDate": "Fri, 28 Aug 2026 19:12:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-29T16:20:05.014Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -244,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
       "tags": [
         "开源工具"
       ]
@@ -260,25 +292,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-08-29T16:20:04.146Z",
+      "fetchedAt": "2026-08-29T20:31:48.354Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
-      "link": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
-      "snippet": "Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, r",
-      "pubDate": "Fri, 28 Aug 2026 17:28:47 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-29T16:20:05.014Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -292,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-29T16:20:02.759Z",
+      "fetchedAt": "2026-08-29T20:31:47.340Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-29T16:20:04.146Z",
+      "fetchedAt": "2026-08-29T20:31:48.354Z",
       "tags": [
         "综合"
       ]
@@ -324,9 +340,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "上半年营收增30%，毛利增55%，佑驾创新盈利能力持续改善",
+      "link": "https://www.leiphone.com/category/industrynews/813poadxB0Dhb82w.html",
+      "snippet": "8月28日，佑驾创新（2431.HK）发布2026年度中期业绩报告，交出营收毛利双增、亏损收窄、无人车收入爆发的中期答卷，规模效应加速释放，盈利质量与经营韧性同步提升。面对汽车智能化转型深水区带来的竞争加剧，佑驾创新以稳健经营与持续迭代，展现出自动驾驶科技企业穿越周期的硬实力。 报告期内，佑驾创新收",
+      "pubDate": "Fri, 28 Aug 2026 23:04:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -340,7 +372,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +388,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-29T16:20:03.032Z",
+      "fetchedAt": "2026-08-29T20:31:47.569Z",
       "tags": [
         "商业融资"
       ]
@@ -372,9 +404,57 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Anthropic 再定统一标准：MHS，打通 AI 与物理世界的统一接口",
+      "link": "https://www.leiphone.com/category/yanxishe/N12vFHlsL2JrdKYR.html",
+      "snippet": "MHS把一场新药研发实验速度提升3倍。          作者丨高允毅      编辑丨岑   峰",
+      "pubDate": "Fri, 28 Aug 2026 19:28:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "WRC2026 | 别急着给机器人更强「大脑」，先补上更省电的神经系统",
+      "link": "https://www.leiphone.com/category/iot/wSd8yNXuuYwSg9hp.html",
+      "snippet": "类脑计算正从感知和低层控制切入机器人。          作者丨魏溶      编辑丨岑峰",
+      "pubDate": "Fri, 28 Aug 2026 19:23:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "新云厂商发现，最赚钱的可能不是卖GPU",
+      "link": "https://www.leiphone.com/category/chips/3WOuErnlJ5cLepP7.html",
+      "snippet": "一年前，AI云服务商Nebius创始人兼CEO Arkady Volozh还在回答一个问题：谁会买那么多GPU？一年后，他给出的判断已经变成，真正的制约因素是人类究竟能够建出多少算力。 2025年，他主要从技术、资本和市场三个维度解释一家新云（Neocloud）如何成立；到了2026年，问题已经不只",
+      "pubDate": "Fri, 28 Aug 2026 19:17:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -388,7 +468,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +484,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-29T16:19:52.686Z",
+      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Anthropic、Moderna先后引爆舆论场，AI制药到底该奖励什么？",
+      "link": "https://www.leiphone.com/category/aihealth/rJaUKQDWe0u0pfDt.html",
+      "snippet": "算法只是一小部分，但市场仍愿意为算法加价。          作者丨周蕾      编辑丨岑峰",
+      "pubDate": "Fri, 28 Aug 2026 17:36:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +516,218 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-08-29T16:20:03.032Z",
+      "fetchedAt": "2026-08-29T20:31:47.569Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "威科集团与蚂蚁健康达成战略合作，JCO等28本医学顶刊上线阿福医生版",
+      "link": "https://www.leiphone.com/category/aihealth/KTUmk96pCdHsO4R5.html",
+      "snippet": "从海外到中国，全球临床医生正加速将AI工具融入日常工作流。为切实帮医生减负提效、辅助诊疗，8月28日，蚂蚁健康宣布与全球领先的临床信息和决策支持解决方案提供商威科集团（Wolters Kluwer）（以下简称“威科”）达成战略合作。双方将通过整合威科的权威医学内容与蚂蚁阿福的AI技术和平台能力，为全",
+      "pubDate": "Fri, 28 Aug 2026 15:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "老黄把CPU机柜搬上台，一场五年混战开始了",
+      "link": "https://www.leiphone.com/category/chips/HXcJQubeLhbCrXOL.html",
+      "snippet": "作者｜包永刚 编辑｜林觉民  英伟达GTC，聚光灯总属于最新一代GPU，但中国芯片投资人李华今年却盯上了CPU。 黄仁勋在台上表示，进入推理时代，并不是所有任务都需要塞进GPU机柜。随后，他展示了独立的CPU机柜、存储机柜和LPU机柜。过去几年站在GPU身后的CPU，被单独摆到了聚光灯下。  看到这",
+      "pubDate": "Fri, 28 Aug 2026 15:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "首家“碰一下”机器人租赁体验店落地上海徐家汇！支付宝“碰一下”解锁机器人互动与租赁新体验",
+      "link": "https://www.leiphone.com/category/industrynews/gE5Am1JMBQG2AjNJ.html",
+      "snippet": "只需手机“碰一下”，就能租借机器人，甚至让它跳舞表演？ 8月28日，全国首家“碰一下”机器人租赁体验店在上海徐汇区新六百YOUNG商场焕新开业。该店由宇树科技核心生态伙伴具深科技旗下品牌“机时租”接入支付宝“碰一下”能力打造，实现线下机器人“碰一下”快捷租赁，并支持“碰一下”唤醒AI智能体操控机器人",
+      "pubDate": "Fri, 28 Aug 2026 15:35:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Jalapeño 跑分炸场，GPU 推理路线开始分裂？",
+      "link": "https://www.leiphone.com/category/ai/B0TkvWHMs5AJIym6.html",
+      "snippet": "Token 成本成为大模型硬件竞争的新坐标。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 28 Aug 2026 15:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Sora 为什么输给 Codex？",
+      "link": "https://www.leiphone.com/category/ai/aolA6aSnqLoYTm3d.html",
+      "snippet": "GPU 时间能否被复用，开始决定产品的扩张速度。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 28 Aug 2026 15:25:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "一段视频，让机器人学会开门并穿越：Video2DoorTraversal 如何打通 Real-to-Sim-to-Real",
+      "link": "https://www.leiphone.com/category/industrynews/H2PFxmf25qYtFbee.html",
+      "snippet": "对人来说，推门近乎是一种下意识动作。对移动操作机器人来说，这是一道把感知、移动、操作和控制绑在一起的综合题。 机器人需要找到并靠近把手，完成接触与旋转，在门体移动时协调底盘、机械臂和夹爪，还要避开门框、连续穿过狭窄门口。任何一步出现误差，都可能让整段任务中断。 近日，由纽娲机器人、上海交通大学和山东",
+      "pubDate": "Fri, 28 Aug 2026 15:24:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Claude Code 额度回落：Agent 正在制造新的「祖传代码屎山」？",
+      "link": "https://www.leiphone.com/category/ai/5weAutjetefMob2a.html",
+      "snippet": "代码确实是 Agent 写的，只是后来的 Agent 已经不知道前面的 Agent 为什么这么写了。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 28 Aug 2026 15:23:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Cursor Origin 上线，GitHub 的老玩法还够用吗？",
+      "link": "https://www.leiphone.com/category/ai/BkzW0yPibWRl8D7U.html",
+      "snippet": "代码仓库的主人，正在从人变成 Agent。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 28 Aug 2026 15:21:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Anthropic 技术栈里的「五宗罪」由何而来？",
+      "link": "https://www.leiphone.com/category/ai/aOdmq7dqZFokTCzh.html",
+      "snippet": "代码低熵、上下文污染、错误回灌正在同时压住 Claude。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 28 Aug 2026 15:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "大晓联合香港大学发布StreamPI，让 VLA 真正理解时间，迈向连续物理智能",
+      "link": "https://www.leiphone.com/category/ai/ncVQF4d9AckBMZwP.html",
+      "snippet": "当 VLA 模型理解语言、感知环境并直接生成机器人动作，一个更基础的问题开始浮现：机器人如何理解一个持续变化的物理世界？物体从哪里移动而来、杯子此前遮住了什么、机械臂正在接近还是远离目标——真正决定下一步动作的信息，往往不只存在于当前一帧，而存在于连续的时间之中。 近日，大晓机器人联合香港大学发布全",
+      "pubDate": "Fri, 28 Aug 2026 15:17:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "华润啤酒即时零售劲增50%，与歪马送酒合作产品日销量超16万罐",
+      "link": "https://www.leiphone.com/category/industrynews/y6G2DUWMrPw9R32v.html",
+      "snippet": "近日，啤酒行业密集发布半年报，从数据来看，即时零售正成为行业不可忽视的重要增长方向——华润啤酒的半年报显示：2026年上半年，华润啤酒的即时零售GMV同比增长近50%；青岛啤酒则在半年报中披露，报告期内，线上、即时零售及现代零售销量均创历史新高，其加速布局的即时零售等新兴高潜力渠道，增速持续领跑行业",
+      "pubDate": "Fri, 28 Aug 2026 15:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "GPT、Claude 遭遇窃听门：换个模型就能让思维链不再隐身？",
+      "link": "https://www.leiphone.com/category/ai/SXiTNHh5eeN9ntTt.html",
+      "snippet": "全球主流 AI API 集体翻车，隐藏推理被成功还原，谁在偷听 AI 的「心声」？          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 28 Aug 2026 15:12:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "tags": [
+        "大模型",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "深度拆解 Muse Glimmer，24GB 显存跑 30B Agent，Meta 到底做了什么？",
+      "link": "https://www.leiphone.com/category/ai/88ezT7fiFNPJKWGx.html",
+      "snippet": "128K 长上下文与 3.1 倍推理加速背后，Meta 正在重构本地 Agent 的底层逻辑。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 28 Aug 2026 15:10:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-08-29T20:31:46.795Z",
       "tags": [
         "综合"
       ]
@@ -436,25 +743,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-29T16:20:04.612Z",
+      "fetchedAt": "2026-08-29T20:31:48.749Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Gemini 3.5 Transcribe: A Speech-to-Text Model Reporting 2.6% Average WER Across 85+ Languages",
-      "link": "https://www.marktechpost.com/2026/08/27/google-ai-releases-gemini-3-5-transcribe-a-speech-to-text-model-reporting-2-6-average-wer-across-85-languages/",
-      "snippet": "Google has released Gemini 3.5 Transcribe, a speech-to-text model that ships as two separate endpoints rather than one. The streaming endpoint deliver",
-      "pubDate": "Fri, 28 Aug 2026 05:00:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-29T16:20:05.014Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -468,7 +759,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-29T16:20:02.759Z",
+      "fetchedAt": "2026-08-29T20:31:47.340Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +775,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-29T16:20:04.612Z",
+      "fetchedAt": "2026-08-29T20:31:48.749Z",
       "tags": [
         "AI应用"
       ]
@@ -500,7 +791,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
+      "fetchedAt": "2026-08-29T20:31:47.056Z",
       "tags": [
         "综合"
       ]
@@ -516,296 +807,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-29T16:20:04.146Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
-      "link": "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
-      "snippet": "xAI accused of training Grok on real and AI-generated child pornography.",
-      "pubDate": "Thu, 27 Aug 2026 20:52:31 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-29T16:20:04.146Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cohere Releases Parse 5 (parse-v5.0): A 2.3B Vision Language Model That Turns Enterprise Documents Into Markdown",
-      "link": "https://www.marktechpost.com/2026/08/27/cohere-releases-parse-5-parse-v5-0-a-2-3b-vision-language-model-that-turns-enterprise-documents-into-markdown/",
-      "snippet": "Cohere has released Parse (parse-v5.0), a 2.3B-parameter vision language model that converts PDFs, slides and images into Markdown with HTML tables, b",
-      "pubDate": "Thu, 27 Aug 2026 20:05:49 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-29T16:20:05.014Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
-      "link": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/",
-      "snippet": "Nvidia is nabbing critical infrastructure for open models as interest grows.",
-      "pubDate": "Thu, 27 Aug 2026 19:55:22 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-08-29T16:20:04.146Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Barret Zoph, the Thinking Machines co-founder ousted before joining OpenAI, is now at Google",
-      "link": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/",
-      "snippet": "Zoph, who co-founded Thinking Machines Lab alongside Mira Murati and also served as the startup's CTO, led a brief stint at OpenAI and is now at Googl",
-      "pubDate": "Thu, 27 Aug 2026 19:52:52 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "snippet": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write abou",
-      "pubDate": "Thu, 27 Aug 2026 19:48:13 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Antonio Regalado",
-      "fetchedAt": "2026-08-29T16:20:03.032Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "snippet": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows y",
-      "pubDate": "2026-08-27T19:30:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-29T16:20:02.759Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
-      "link": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/",
-      "snippet": "Tech industry is perplexed by Trump’s plan to win AI race by taxing data centers.",
-      "pubDate": "Thu, 27 Aug 2026 18:57:08 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-29T16:20:04.146Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
-      "link": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/",
-      "snippet": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solut",
-      "pubDate": "Thu, 27 Aug 2026 17:43:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Best Agent Sandboxes in 2026: Cold Start, Per-Second Pricing, and Network Policy Across E2B, Daytona, Modal, Cloudflare, and Vercel",
-      "link": "https://www.marktechpost.com/2026/08/27/best-agent-sandboxes-2026-cold-start-pricing-network-policy/",
-      "snippet": "Every agent that writes code needs somewhere to run it, and no two vendors quote the same units. This comparison measures burst cold start across E2B,",
-      "pubDate": "Thu, 27 Aug 2026 17:04:49 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-29T16:20:05.014Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "snippet": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals som",
-      "pubDate": "2026-08-27T16:15:52.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-29T16:20:02.759Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
-      "link": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/",
-      "snippet": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find inform",
-      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "From In-Silico to Wet-Lab: Evaluating AI Protein Design Performance",
-      "link": "https://www.marktechpost.com/2026/08/27/from-in-silico-to-wet-lab-evaluating-ai-protein-design-performance/",
-      "snippet": "In this tutorial, we analyze Anthropic’s 1,440 AI-designed protein binder dataset to benchmark 10 leading structure predictors. Discover how target id",
-      "pubDate": "Thu, 27 Aug 2026 15:36:29 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-29T16:20:05.014Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
-      "link": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
-      "snippet": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
-      "pubDate": "Thu, 27 Aug 2026 14:56:52 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI’s memory crunch is coming for Android apps",
-      "link": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/",
-      "snippet": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with l",
-      "pubDate": "Thu, 27 Aug 2026 14:27:04 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Here’s all the times AI has gone rogue and hacked other companies",
-      "link": "https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/",
-      "snippet": "A recap of all the incidents involving LLMs made by Anthropic, Meta, and OpenAI, which went rogue and attacked real companies and individuals on the i",
-      "pubDate": "Thu, 27 Aug 2026 14:01:42 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lorenzo Franceschi-Bicchierai",
-      "fetchedAt": "2026-08-29T16:20:02.491Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dmVudHVyZWJlYXQt",
-      "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "link": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
-      "snippet": "Presented by Gravitee   Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it. That’s because e",
-      "pubDate": "Thu, 27 Aug 2026 14:01:00 GMT",
-      "sourceName": "VentureBeat",
-      "sourceId": "venturebeat-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "",
-      "fetchedAt": "2026-08-29T16:20:03.512Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Claude, Codex, and Hermes installed unowned code inside corporate networks",
-      "link": "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
-      "snippet": "227 install commands were found in corporate docs pointing at code nobody owns.",
-      "pubDate": "Thu, 27 Aug 2026 14:00:13 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-08-29T16:20:04.146Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "snippet": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI",
-      "pubDate": "2026-08-27T14:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-29T16:20:02.759Z",
+      "fetchedAt": "2026-08-29T20:31:48.354Z",
       "tags": [
         "综合"
       ]
