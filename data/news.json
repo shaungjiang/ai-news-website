@@ -1,13 +1,29 @@
 {
-  "generatedAt": "2026-08-29T20:40:36.533Z",
+  "generatedAt": "2026-08-30T00:05:37.098Z",
   "stats": {
-    "total": 102,
+    "total": 112,
     "shown": 50,
     "chinese": 30,
-    "english": 72,
-    "today": 14
+    "english": 82,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
+      "link": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
+      "snippet": "In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while pr",
+      "pubDate": "Sat, 29 Aug 2026 18:57:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-08-29T23:55:45.019Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
@@ -19,7 +35,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "fetchedAt": "2026-08-29T23:55:42.662Z",
       "tags": [
         "政策监管"
       ]
@@ -35,7 +51,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:47.340Z",
+      "fetchedAt": "2026-08-29T23:55:42.964Z",
       "tags": [
         "AI应用"
       ]
@@ -51,9 +67,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "fetchedAt": "2026-08-29T23:55:42.662Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
+      "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
+      "snippet": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed:",
+      "pubDate": "Sat, 29 Aug 2026 14:30:44 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-29T23:55:45.019Z",
+      "tags": [
+        "AI应用",
+        "大模型"
       ]
     },
     {
@@ -67,7 +100,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "fetchedAt": "2026-08-29T23:55:42.662Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "大模型"
       ]
@@ -131,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "开源工具"
       ]
@@ -147,7 +180,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "政策监管"
       ]
@@ -179,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:47.340Z",
+      "fetchedAt": "2026-08-29T23:55:42.964Z",
       "tags": [
         "开源工具"
       ]
@@ -195,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -228,9 +261,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Hugging Face Unveils Microduck: A $399 Open-Source 25 cm Biped You Train with Reinforcement Learning",
+      "link": "https://www.marktechpost.com/2026/08/28/pollen-robotics-hugging-face-microduck-399-open-source-rl-biped-robot/",
+      "snippet": "Pollen Robotics, the Bordeaux robotics team at Hugging Face, opened pre-orders for Microduck — a 25 cm bipedal robot where every movement is a neural",
+      "pubDate": "Sat, 29 Aug 2026 05:25:16 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-29T23:55:45.019Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -244,7 +293,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "fetchedAt": "2026-08-29T23:55:42.662Z",
       "tags": [
         "商业融资"
       ]
@@ -260,9 +309,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "fetchedAt": "2026-08-29T23:55:42.662Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "GLM-5.3-Flash vs Qwen3.8-Flash-Next: Two Chinese AI Labs Independently Converge on the Same Model Architecture",
+      "link": "https://www.marktechpost.com/2026/08/28/glm-5-3-flash-vs-qwen3-8-flash-next-two-chinese-ai-labs-independently-converge-on-the-same-model-architecture/",
+      "snippet": "Z.ai and Qwen independently shipped near-identical architectures: 3:1 linear hybrids, compressed indexers, gated residuals, and Muon training. The pos",
+      "pubDate": "Fri, 28 Aug 2026 19:12:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-29T23:55:45.019Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -276,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "fetchedAt": "2026-08-29T23:55:42.662Z",
       "tags": [
         "开源工具"
       ]
@@ -292,9 +357,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-08-29T20:31:48.354Z",
+      "fetchedAt": "2026-08-29T23:55:44.292Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Vercel AI Open-Sources vgpu: A TypeScript WebGPU Library for AI Agent Shaders",
+      "link": "https://www.marktechpost.com/2026/08/28/vercel-vgpu-webgpu-library-open-source/",
+      "snippet": "Vercel has open-sourced vgpu, the WebGPU library it built to ship the shaders on vercel.com. It treats .wgsl files as importable TypeScript modules, r",
+      "pubDate": "Fri, 28 Aug 2026 17:28:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-29T23:55:45.019Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -308,7 +389,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:47.340Z",
+      "fetchedAt": "2026-08-29T23:55:42.964Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +405,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-29T20:31:48.354Z",
+      "fetchedAt": "2026-08-29T23:55:44.292Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +453,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "fetchedAt": "2026-08-29T23:55:42.662Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-29T20:31:47.569Z",
+      "fetchedAt": "2026-08-29T23:55:43.294Z",
       "tags": [
         "商业融资"
       ]
@@ -404,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
+      "fetchedAt": "2026-08-29T23:55:42.662Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "商业融资"
       ]
@@ -468,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-29T20:31:39.159Z",
+      "fetchedAt": "2026-08-29T23:55:38.339Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +581,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +597,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-08-29T20:31:47.569Z",
+      "fetchedAt": "2026-08-29T23:55:43.294Z",
       "tags": [
         "综合"
       ]
@@ -532,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "AI应用"
       ]
@@ -548,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "商业融资"
       ]
@@ -564,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "AI应用"
       ]
@@ -580,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "大模型"
       ]
@@ -596,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "AI应用"
       ]
@@ -612,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "综合"
       ]
@@ -628,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "大模型"
       ]
@@ -644,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -661,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "大模型"
       ]
@@ -677,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "AI应用"
       ]
@@ -693,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -710,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -727,87 +808,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-29T20:31:46.795Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-      "snippet": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-      "pubDate": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-08-29T20:31:48.749Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "snippet": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a mont",
-      "pubDate": "2026-08-28T03:14:06.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-29T20:31:47.340Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "link": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
-      "snippet": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted produ",
-      "pubDate": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-08-29T20:31:48.749Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "snippet": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for",
-      "pubDate": "Thu, 27 Aug 2026 23:16:45 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-08-29T20:31:47.056Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Anthropic's new hardware standard lets AI agents control the physical world",
-      "link": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
-      "snippet": "Standardized driver interface aims to let devices talk to AI and each other.",
-      "pubDate": "Thu, 27 Aug 2026 22:15:43 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-29T20:31:48.354Z",
+      "fetchedAt": "2026-08-29T23:55:42.406Z",
       "tags": [
         "综合"
       ]
