@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-08-30T04:30:00.162Z",
+  "generatedAt": "2026-08-30T11:35:55.935Z",
   "stats": {
-    "total": 112,
+    "total": 113,
     "shown": 50,
     "chinese": 30,
-    "english": 82,
-    "today": 1
+    "english": 83,
+    "today": 3
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "snippet": "The company is testing robots on tasks that can performed by technicians.",
+      "pubDate": "Sun, 30 Aug 2026 11:03:47 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Paresh Dave, WIRED.com\n                ",
+      "fetchedAt": "2026-08-30T11:26:04.202Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
+      "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
+      "snippet": "Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely op",
+      "pubDate": "Sun, 30 Aug 2026 06:12:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-08-30T11:26:05.288Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
@@ -19,7 +51,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-30T04:20:10.008Z",
+      "fetchedAt": "2026-08-30T11:26:05.288Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-30T04:20:10.008Z",
+      "fetchedAt": "2026-08-30T11:26:05.288Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-08-30T04:20:06.619Z",
+      "fetchedAt": "2026-08-30T11:26:02.946Z",
       "tags": [
         "政策监管"
       ]
@@ -67,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.987Z",
+      "fetchedAt": "2026-08-30T11:26:03.179Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-08-30T04:20:06.619Z",
+      "fetchedAt": "2026-08-30T11:26:02.946Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +131,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-30T04:20:10.008Z",
+      "fetchedAt": "2026-08-30T11:26:05.288Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -116,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.535Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.535Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-30T04:20:06.619Z",
+      "fetchedAt": "2026-08-30T11:26:02.946Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.535Z",
       "tags": [
         "大模型"
       ]
@@ -180,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.535Z",
       "tags": [
         "开源工具"
       ]
@@ -196,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.535Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.535Z",
       "tags": [
         "政策监管"
       ]
@@ -228,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.987Z",
+      "fetchedAt": "2026-08-30T11:26:03.179Z",
       "tags": [
         "开源工具"
       ]
@@ -244,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.535Z",
       "tags": [
         "商业融资"
       ]
@@ -260,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -277,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "大模型"
       ]
@@ -293,7 +325,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-30T04:20:10.008Z",
+      "fetchedAt": "2026-08-30T11:26:05.288Z",
       "tags": [
         "开源工具"
       ]
@@ -309,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-30T04:20:06.619Z",
+      "fetchedAt": "2026-08-30T11:26:02.946Z",
       "tags": [
         "商业融资"
       ]
@@ -325,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-08-30T04:20:06.619Z",
+      "fetchedAt": "2026-08-30T11:26:02.946Z",
       "tags": [
         "学术研究"
       ]
@@ -341,7 +373,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-30T04:20:10.008Z",
+      "fetchedAt": "2026-08-30T11:26:05.288Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +389,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-08-30T04:20:06.619Z",
+      "fetchedAt": "2026-08-30T11:26:02.946Z",
       "tags": [
         "开源工具"
       ]
@@ -373,7 +405,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-08-30T04:20:08.442Z",
+      "fetchedAt": "2026-08-30T11:26:04.202Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +421,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-30T04:20:10.008Z",
+      "fetchedAt": "2026-08-30T11:26:05.288Z",
       "tags": [
         "开源工具"
       ]
@@ -405,7 +437,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.987Z",
+      "fetchedAt": "2026-08-30T11:26:03.179Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +453,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-30T04:20:08.442Z",
+      "fetchedAt": "2026-08-30T11:26:04.202Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +469,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.536Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "AI应用"
       ]
@@ -469,7 +501,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-30T04:20:06.619Z",
+      "fetchedAt": "2026-08-30T11:26:02.946Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +517,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-08-30T04:20:07.317Z",
+      "fetchedAt": "2026-08-30T11:26:03.438Z",
       "tags": [
         "商业融资"
       ]
@@ -501,7 +533,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-08-30T04:20:06.619Z",
+      "fetchedAt": "2026-08-30T11:26:02.946Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +581,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "商业融资"
       ]
@@ -565,7 +597,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.536Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-08-30T04:20:01.515Z",
+      "fetchedAt": "2026-08-30T11:25:57.536Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "综合"
       ]
@@ -613,7 +645,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-08-30T04:20:07.317Z",
+      "fetchedAt": "2026-08-30T11:26:03.438Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "AI应用"
       ]
@@ -645,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "商业融资"
       ]
@@ -661,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "AI应用"
       ]
@@ -677,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "大模型"
       ]
@@ -693,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "AI应用"
       ]
@@ -709,7 +741,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "综合"
       ]
@@ -725,7 +757,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "大模型"
       ]
@@ -741,7 +773,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -758,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "大模型"
       ]
@@ -774,43 +806,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
+      "fetchedAt": "2026-08-30T11:26:02.615Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "华润啤酒即时零售劲增50%，与歪马送酒合作产品日销量超16万罐",
-      "link": "https://www.leiphone.com/category/industrynews/y6G2DUWMrPw9R32v.html",
-      "snippet": "近日，啤酒行业密集发布半年报，从数据来看，即时零售正成为行业不可忽视的重要增长方向——华润啤酒的半年报显示：2026年上半年，华润啤酒的即时零售GMV同比增长近50%；青岛啤酒则在半年报中披露，报告期内，线上、即时零售及现代零售销量均创历史新高，其加速布局的即时零售等新兴高潜力渠道，增速持续领跑行业",
-      "pubDate": "Fri, 28 Aug 2026 15:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "GPT、Claude 遭遇窃听门：换个模型就能让思维链不再隐身？",
-      "link": "https://www.leiphone.com/category/ai/SXiTNHh5eeN9ntTt.html",
-      "snippet": "全球主流 AI API 集体翻车，隐藏推理被成功还原，谁在偷听 AI 的「心声」？          作者丨郑佳美      编辑丨岑   峰",
-      "pubDate": "Fri, 28 Aug 2026 15:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-08-30T04:20:06.236Z",
-      "tags": [
-        "大模型",
-        "开源工具"
       ]
     }
   ]
