@@ -1,13 +1,110 @@
 {
-  "generatedAt": "2026-08-31T17:35:24.434Z",
+  "generatedAt": "2026-08-31T22:39:56.060Z",
   "stats": {
-    "total": 94,
+    "total": 113,
     "shown": 50,
     "chinese": 29,
-    "english": 65,
-    "today": 36
+    "english": 84,
+    "today": 44
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
+      "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
+      "snippet": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forwar",
+      "pubDate": "Mon, 31 Aug 2026 21:20:16 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-08-31T22:35:06.887Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "snippet": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
+      "pubDate": "Mon, 31 Aug 2026 20:13:45 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Kirsten Korosec",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "tags": [
+        "大模型",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "snippet": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "pubDate": "Mon, 31 Aug 2026 19:16:59 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the publi",
+      "pubDate": "Mon, 31 Aug 2026 18:35:11 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
+      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
+      "snippet": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
+      "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-08-31T22:35:05.690Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’v",
+      "pubDate": "Mon, 31 Aug 2026 18:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Grace Huckins",
+      "fetchedAt": "2026-08-31T22:35:04.615Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
@@ -19,7 +116,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-08-31T17:25:33.333Z",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
       "tags": [
         "商业融资"
       ]
@@ -35,7 +132,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:33.628Z",
+      "fetchedAt": "2026-08-31T22:35:04.270Z",
       "tags": [
         "政策监管"
       ]
@@ -51,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-31T17:25:33.333Z",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
       "tags": [
         "商业融资"
       ]
@@ -67,9 +164,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:33.628Z",
+      "fetchedAt": "2026-08-31T22:35:04.270Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
+      "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+      "snippet": "Explosive growth comes with a new regulatory burden in the European Union.",
+      "pubDate": "Mon, 31 Aug 2026 13:41:40 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Barbara Moens, Financial Times\n                ",
+      "fetchedAt": "2026-08-31T22:35:05.690Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -83,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:33.628Z",
+      "fetchedAt": "2026-08-31T22:35:04.270Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -100,7 +213,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
+      "fetchedAt": "2026-08-31T22:34:58.675Z",
       "tags": [
         "商业融资"
       ]
@@ -116,7 +229,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:33.628Z",
+      "fetchedAt": "2026-08-31T22:35:04.270Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-31T17:25:33.333Z",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -181,7 +294,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "AI应用"
       ]
@@ -197,7 +310,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "大模型"
       ]
@@ -213,9 +326,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
+      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+      "snippet": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
+      "pubDate": "Mon, 31 Aug 2026 10:00:34 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-08-31T22:35:05.690Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -229,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "商业融资"
       ]
@@ -245,7 +374,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "商业融资"
       ]
@@ -293,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "大模型"
       ]
@@ -325,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
+      "fetchedAt": "2026-08-31T22:34:58.675Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "AI应用"
       ]
@@ -373,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
+      "fetchedAt": "2026-08-31T22:34:58.675Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -406,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -439,7 +568,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-31T17:25:35.662Z",
+      "fetchedAt": "2026-08-31T22:35:06.887Z",
       "tags": [
         "AI应用"
       ]
@@ -455,7 +584,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
+      "fetchedAt": "2026-08-31T22:34:58.675Z",
       "tags": [
         "大模型"
       ]
@@ -471,7 +600,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:35.027Z",
+      "fetchedAt": "2026-08-31T22:35:06.192Z",
       "tags": [
         "大模型",
         "商业融资"
@@ -488,7 +617,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "综合"
       ]
@@ -504,7 +633,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -521,7 +650,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:32.789Z",
+      "fetchedAt": "2026-08-31T22:35:03.572Z",
       "tags": [
         "学术研究"
       ]
@@ -537,7 +666,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
+      "fetchedAt": "2026-08-31T22:34:58.675Z",
       "tags": [
         "综合"
       ]
@@ -553,7 +682,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
+      "fetchedAt": "2026-08-31T22:34:58.675Z",
       "tags": [
         "商业融资"
       ]
@@ -569,7 +698,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
+      "fetchedAt": "2026-08-31T22:34:58.675Z",
       "tags": [
         "学术研究"
       ]
@@ -585,7 +714,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-08-31T17:25:33.333Z",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
       "tags": [
         "综合"
       ]
@@ -601,7 +730,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-31T17:25:35.662Z",
+      "fetchedAt": "2026-08-31T22:35:06.887Z",
       "tags": [
         "开源工具"
       ]
@@ -617,7 +746,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-31T17:25:35.662Z",
+      "fetchedAt": "2026-08-31T22:35:06.887Z",
       "tags": [
         "AI应用"
       ]
@@ -633,7 +762,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-08-31T17:25:33.333Z",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
       "tags": [
         "综合"
       ]
@@ -649,7 +778,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T17:25:33.628Z",
+      "fetchedAt": "2026-08-31T22:35:04.270Z",
       "tags": [
         "政策监管"
       ]
@@ -665,152 +794,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-08-31T17:25:33.333Z",
+      "fetchedAt": "2026-08-31T22:35:03.962Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Anthropic Opens a Research Preview of the Model Hardware Standard (MHS): A Shared Specification for  AI Agents to Safely Operate Physical Devices",
-      "link": "https://www.marktechpost.com/2026/08/29/anthropic-opens-a-research-preview-of-the-model-hardware-standard-mhs-a-shared-specification-for-ai-agents-to-safely-operate-physical-devices/",
-      "snippet": "Anthropic has opened a research preview of the Model Hardware Standard (MHS), a shared driver specification that lets AI agents discover and safely op",
-      "pubDate": "Sun, 30 Aug 2026 06:12:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-31T17:25:35.662Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet ‘Code-as-World’: An Agentic Loop That Rewrites Real Videos Into Executable MuJoCo Physics Programs",
-      "link": "https://www.marktechpost.com/2026/08/29/mirros-code-as-world-executable-world-representations/",
-      "snippet": "Code-as-World recovers editable MuJoCo scene code from real video, then uses those verified worlds to train physical reasoning. The post Meet ‘Code-as",
-      "pubDate": "Sun, 30 Aug 2026 01:35:02 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-31T17:25:35.662Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Building Custom Batched Ensemble Weather Forecasting with NVIDIA Earth2Studio",
-      "link": "https://www.marktechpost.com/2026/08/29/building-custom-batched-ensemble-weather-forecasting-with-nvidia-earth2studio/",
-      "snippet": "In this tutorial, we build an ensemble weather forecasting workflow with NVIDIA Earth2Studio. We install the required Earth2Studio components while pr",
-      "pubDate": "Sat, 29 Aug 2026 18:57:26 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-08-31T17:25:35.662Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "snippet": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "pubDate": "Sat, 29 Aug 2026 18:41:59 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-08-31T17:25:33.333Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "snippet": "Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking d",
-      "pubDate": "2026-08-29T18:19:53.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Inside Meta’s push to put robots to work in data centers",
+      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+      "snippet": "The company is testing robots on tasks that can performed by technicians.",
+      "pubDate": "Sun, 30 Aug 2026 11:03:47 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
       "lang": "en",
       "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-31T17:25:33.628Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "‘We’re not doing 30 bets a year’: Vijay Pande on betting small after running $4B at a16z",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "snippet": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is fin",
-      "pubDate": "Sat, 29 Aug 2026 17:36:47 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Connie Loizos",
-      "fetchedAt": "2026-08-31T17:25:33.333Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Gemini Omni 1.1 Flash: 40-Second Scene Extension, First/Last Frame Control, and 4K Upscaling",
-      "link": "https://www.marktechpost.com/2026/08/29/google-ai-releases-gemini-omni-1-1-flash-40-second-scene-extension-first-last-frame-control-and-4k-upscaling/",
-      "snippet": "We look at Gemini Omni 1.1 Flash, Google's production update to its native multimodal video generation and editing model. We break down what changed:",
-      "pubDate": "Sat, 29 Aug 2026 14:30:44 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-31T17:25:35.662Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "link": "https://www.qbitai.com/2026/08/481372.html",
-      "snippet": "推理软件栈的微小差异，就能改变输出token",
-      "pubDate": "Sat, 29 Aug 2026 13:11:08 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "去年归国的徐梦迪，成了清华姚班班主任",
-      "link": "https://www.qbitai.com/2026/08/481318.html",
-      "snippet": "本科读车辆工程，如今教AI第一班",
-      "pubDate": "Sat, 29 Aug 2026 13:01:34 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-08-31T17:25:27.222Z",
+      "creator": "\n                    Paresh Dave, WIRED.com\n                ",
+      "fetchedAt": "2026-08-31T22:35:05.690Z",
       "tags": [
         "综合"
       ]
