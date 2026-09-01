@@ -1,13 +1,141 @@
 {
-  "generatedAt": "2026-09-01T19:24:35.978Z",
+  "generatedAt": "2026-09-01T22:31:01.384Z",
   "stats": {
     "total": 113,
     "shown": 50,
     "chinese": 30,
     "english": 83,
-    "today": 45
+    "today": 54
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "snippet": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million S",
+      "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "snippet": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguar",
+      "pubDate": "2026-09-01T22:01:36.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-01T22:25:54.715Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+      "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+      "snippet": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+      "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "snippet": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage",
+      "pubDate": "Tue, 01 Sep 2026 20:53:05 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "snippet": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model",
+      "pubDate": "2026-09-01T20:45:49.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-01T22:25:54.715Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Releases Claude Fable 5.1 and Claude Mythos 5.1: 52.6% on Terminal-Bench-Science and 75% Cheaper Cache Reads",
+      "link": "https://www.marktechpost.com/2026/09/01/anthropic-releases-claude-fable-5-1-and-claude-mythos-5-1-52-6-on-terminal-bench-science-and-75-cheaper-cache-reads/",
+      "snippet": "Anthropic has released Claude Fable 5.1 and Claude Mythos 5.1, the same model behind two different safeguard layers. Fable 5.1 is generally available",
+      "pubDate": "Tue, 01 Sep 2026 20:30:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-01T22:25:56.846Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+      "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+      "snippet": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+      "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "link": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+      "snippet": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the en",
+      "pubDate": "Tue, 01 Sep 2026 19:10:36 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michelle Kim",
+      "fetchedAt": "2026-09-01T22:25:55.046Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
@@ -19,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "fetchedAt": "2026-09-01T22:25:54.715Z",
       "tags": [
         "开源工具"
       ]
@@ -35,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "fetchedAt": "2026-09-01T22:25:54.715Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
       "tags": [
         "大模型"
       ]
@@ -83,7 +211,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:45.614Z",
+      "fetchedAt": "2026-09-01T22:25:56.446Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -116,7 +244,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "fetchedAt": "2026-09-01T22:25:54.715Z",
       "tags": [
         "AI应用"
       ]
@@ -132,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "fetchedAt": "2026-09-01T22:25:54.715Z",
       "tags": [
         "开源工具"
       ]
@@ -148,7 +276,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-01T19:14:46.286Z",
+      "fetchedAt": "2026-09-01T22:25:56.846Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +308,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +324,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "fetchedAt": "2026-09-01T22:25:54.403Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +340,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-09-01T19:14:43.901Z",
+      "fetchedAt": "2026-09-01T22:25:55.046Z",
       "tags": [
         "综合"
       ]
@@ -228,9 +356,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "fetchedAt": "2026-09-01T22:25:54.715Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "link": "https://openai.com/index/path-to-astra",
+      "snippet": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for",
+      "pubDate": "Tue, 01 Sep 2026 13:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-01T22:25:56.446Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -244,7 +388,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-01T19:14:43.901Z",
+      "fetchedAt": "2026-09-01T22:25:55.046Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +404,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-01T19:14:37.893Z",
+      "fetchedAt": "2026-09-01T22:25:49.486Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +420,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:45.614Z",
+      "fetchedAt": "2026-09-01T22:25:56.446Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -293,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "AI应用"
       ]
@@ -309,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "AI应用"
       ]
@@ -325,7 +469,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "开源工具"
       ]
@@ -341,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -358,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "AI应用"
       ]
@@ -374,7 +518,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-09-01T19:14:43.901Z",
+      "fetchedAt": "2026-09-01T22:25:55.046Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -407,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "开源工具"
       ]
@@ -423,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "开源工具"
       ]
@@ -439,7 +583,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "政策监管"
       ]
@@ -455,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "大模型"
       ]
@@ -471,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "开源工具"
       ]
@@ -487,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "开源工具"
       ]
@@ -503,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "综合"
       ]
@@ -519,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -536,7 +680,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "开源工具"
       ]
@@ -552,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-01T19:14:37.893Z",
+      "fetchedAt": "2026-09-01T22:25:49.487Z",
       "tags": [
         "开源工具"
       ]
@@ -568,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-01T19:14:37.893Z",
+      "fetchedAt": "2026-09-01T22:25:49.487Z",
       "tags": [
         "综合"
       ]
@@ -584,7 +728,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-01T19:14:37.893Z",
+      "fetchedAt": "2026-09-01T22:25:49.487Z",
       "tags": [
         "大模型"
       ]
@@ -600,7 +744,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "商业融资"
       ]
@@ -616,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -633,7 +777,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "AI应用"
       ]
@@ -649,7 +793,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-01T19:14:37.893Z",
+      "fetchedAt": "2026-09-01T22:25:49.487Z",
       "tags": [
         "综合"
       ]
@@ -665,154 +809,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
+      "fetchedAt": "2026-09-01T22:25:54.089Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "业绩连跳20级，这家芯片公司做对了什么？",
-      "link": "https://www.leiphone.com/category/chips/toaKlXrYMYi6MRsq.html",
-      "snippet": "8月28日晚间，国产GPU企业壁仞科技（06082.HK）披露2026年中期业绩。2026年上半年，壁仞科技实现营业收入12.36亿元，较上年同期增长约1997.6%；期内亏损大幅收窄至3.77亿元，同比大幅减亏76.4%；经调整期内亏损（非国际财务报告准则计量）收窄至3.37亿元，同比减亏38.9",
-      "pubDate": "Tue, 01 Sep 2026 12:25:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-01T19:14:42.886Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "AIVC只是前菜！复旦提出生命算子，统一生命建模",
-      "link": "https://www.qbitai.com/2026/09/482300.html",
-      "snippet": "连发六篇Nature期刊，复旦Neolab打通全尺度生命推演",
-      "pubDate": "Tue, 01 Sep 2026 04:12:49 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-09-01T19:14:37.894Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio",
-      "link": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/",
-      "snippet": "Speed and accuracy usually pull against each other in text-to-speech. Gradium AI's new default model reports both: an 81.0% human-rated pass rate on 5",
-      "pubDate": "Tue, 01 Sep 2026 03:39:05 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-01T19:14:46.286Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-      "pubDate": "Tue, 01 Sep 2026 00:13:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
-      "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
-      "snippet": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in",
-      "pubDate": "Mon, 31 Aug 2026 23:43:26 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-01T19:14:46.286Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
-      "link": "https://www.marktechpost.com/2026/08/31/google-ai-releases-timesfm-3-a-330m-parameter-zero-shot-foundation-model-for-multivariate-time-series-forecasting/",
-      "snippet": "Google Research has released TimesFM-3, a 330 million parameter time series foundation model that forecasts multiple related series in a single forwar",
-      "pubDate": "Mon, 31 Aug 2026 21:20:16 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-01T19:14:46.286Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "snippet": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-      "pubDate": "Mon, 31 Aug 2026 20:13:45 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
-      "tags": [
-        "大模型",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "snippet": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "pubDate": "Mon, 31 Aug 2026 19:16:59 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "snippet": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the publi",
-      "pubDate": "Mon, 31 Aug 2026 18:35:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-01T19:14:43.212Z",
-      "tags": [
-        "政策监管"
       ]
     }
   ]
