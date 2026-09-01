@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-08-31T22:39:56.060Z",
+  "generatedAt": "2026-09-01T04:09:29.187Z",
   "stats": {
-    "total": 113,
+    "total": 112,
     "shown": 50,
     "chinese": 29,
-    "english": 84,
-    "today": 44
+    "english": 83,
+    "today": 3
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Gradium AI Releases New Default TTS Model: 81.0% Hard-Case Pass Rate at 216 ms Time-to-First-Audio",
+      "link": "https://www.marktechpost.com/2026/08/31/gradium-ai-releases-new-default-tts-model-81-0-hard-case-pass-rate-at-216-ms-time-to-first-audio/",
+      "snippet": "Speed and accuracy usually pull against each other in text-to-speech. Gradium AI's new default model reports both: an 81.0% human-rated pass rate on 5",
+      "pubDate": "Tue, 01 Sep 2026 03:39:05 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-01T03:59:38.793Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "年假30天！东方甄选前CEO孙东旭宣布新公司福利，网友：还缺人吗；曝某上市公司高管被解除职务，疑似私德有亏；库克最后一封CEO内部信曝光",
+      "link": "https://www.leiphone.com/category/zaobao/qhrlw42SDriTpAfv.html",
+      "snippet": "要闻提示        执掌苹果15年，市值翻10倍！库克最后一封CEO内部信曝光  “年假30天”！东方甄选前高管孙东旭宣布新公司福利  曝科大讯飞公关副总裁被解除职务，疑似涉私德风波  闻泰科技：将穷尽一切法律手段，夺回安世  字节上调“豆包股”价格至17.02元/股  华为公布：上半年营收46",
+      "pubDate": "Tue, 01 Sep 2026 08:39:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "snippet": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+      "pubDate": "Tue, 01 Sep 2026 00:13:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-09-01T03:59:34.979Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Keenable AI Open-Sources NEEDLE: A Live Search Benchmark That Rebuilds Its Query Set Every Hour",
+      "link": "https://www.marktechpost.com/2026/08/31/keenable-ai-open-sources-needle-a-live-search-benchmark-that-rebuilds-its-query-set-every-hour/",
+      "snippet": "How do you benchmark a web search API when the thing being tested can read the answer key? A search agent has a fetch tool. If the gold labels sit in",
+      "pubDate": "Mon, 31 Aug 2026 23:43:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-01T03:59:38.793Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Google AI Releases TimesFM-3: A 330M Parameter Zero-Shot Foundation Model For Multivariate Time Series Forecasting",
@@ -19,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-31T22:35:06.887Z",
+      "fetchedAt": "2026-09-01T03:59:38.793Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "fetchedAt": "2026-09-01T03:59:34.979Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -52,7 +116,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "fetchedAt": "2026-09-01T03:59:34.979Z",
       "tags": [
         "综合"
       ]
@@ -68,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "fetchedAt": "2026-09-01T03:59:34.979Z",
       "tags": [
         "政策监管"
       ]
@@ -84,14 +148,14 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-08-31T22:35:05.690Z",
+      "fetchedAt": "2026-09-01T03:59:36.976Z",
       "tags": [
         "政策监管"
       ]
     },
     {
       "id": "bWl0LXRyOmh0dHBz",
-      "title": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
       "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’v",
       "pubDate": "Mon, 31 Aug 2026 18:00:00 +0000",
@@ -100,7 +164,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-08-31T22:35:04.615Z",
+      "fetchedAt": "2026-09-01T03:59:35.722Z",
       "tags": [
         "AI应用"
       ]
@@ -116,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "fetchedAt": "2026-09-01T03:59:34.979Z",
       "tags": [
         "商业融资"
       ]
@@ -132,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:04.270Z",
+      "fetchedAt": "2026-09-01T03:59:35.328Z",
       "tags": [
         "政策监管"
       ]
@@ -148,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "fetchedAt": "2026-09-01T03:59:34.979Z",
       "tags": [
         "商业融资"
       ]
@@ -164,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:04.270Z",
+      "fetchedAt": "2026-09-01T03:59:35.328Z",
       "tags": [
         "政策监管"
       ]
@@ -180,7 +244,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Barbara Moens, Financial Times\n                ",
-      "fetchedAt": "2026-08-31T22:35:05.690Z",
+      "fetchedAt": "2026-09-01T03:59:36.976Z",
       "tags": [
         "大模型"
       ]
@@ -196,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:04.270Z",
+      "fetchedAt": "2026-09-01T03:59:35.328Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -213,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-08-31T22:34:58.675Z",
+      "fetchedAt": "2026-09-01T03:59:30.761Z",
       "tags": [
         "商业融资"
       ]
@@ -229,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:04.270Z",
+      "fetchedAt": "2026-09-01T03:59:35.328Z",
       "tags": [
         "综合"
       ]
@@ -245,7 +309,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "fetchedAt": "2026-09-01T03:59:34.979Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -294,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "AI应用"
       ]
@@ -310,7 +374,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "大模型"
       ]
@@ -326,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "开源工具"
       ]
@@ -342,7 +406,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-08-31T22:35:05.690Z",
+      "fetchedAt": "2026-09-01T03:59:36.976Z",
       "tags": [
         "综合"
       ]
@@ -358,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "商业融资"
       ]
@@ -374,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +454,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "商业融资"
       ]
@@ -422,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "大模型"
       ]
@@ -454,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-31T22:34:58.675Z",
+      "fetchedAt": "2026-09-01T03:59:30.761Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "AI应用"
       ]
@@ -502,25 +566,24 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-31T22:34:58.675Z",
+      "fetchedAt": "2026-09-01T03:59:30.761Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？",
-      "link": "https://www.leiphone.com/category/industrynews/Q60UBtf6lmPQPreT.html",
-      "snippet": "过去两年，大模型的能力边界不断向外扩展。文本、图片、视频、语音模型快速迭代，Agent也开始进入企业生产流程。对于企业来说，可选的AI能力越来越丰富，但实际使用时需要处理的问题也随之增加：一项任务应该调用哪个模型，如何平衡生成效果和成本，不同部门如何管理AI预算，生成后的内容资产又该如何沉淀。 尤其",
-      "pubDate": "Mon, 31 Aug 2026 15:26:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "link": "https://openai.com/index/polimill",
+      "snippet": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "pubDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:37.392Z",
       "tags": [
-        "AI应用",
         "大模型"
       ]
     },
@@ -535,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "综合"
       ]
@@ -551,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -568,7 +631,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-08-31T22:35:06.887Z",
+      "fetchedAt": "2026-09-01T03:59:38.793Z",
       "tags": [
         "AI应用"
       ]
@@ -584,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-08-31T22:34:58.675Z",
+      "fetchedAt": "2026-09-01T03:59:30.761Z",
       "tags": [
         "大模型"
       ]
@@ -600,7 +663,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:06.192Z",
+      "fetchedAt": "2026-09-01T03:59:37.392Z",
       "tags": [
         "大模型",
         "商业融资"
@@ -617,7 +680,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "综合"
       ]
@@ -633,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -650,7 +713,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-08-31T22:35:03.572Z",
+      "fetchedAt": "2026-09-01T03:59:34.611Z",
       "tags": [
         "学术研究"
       ]
@@ -666,7 +729,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-08-31T22:34:58.675Z",
+      "fetchedAt": "2026-09-01T03:59:30.761Z",
       "tags": [
         "综合"
       ]
@@ -682,7 +745,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-31T22:34:58.675Z",
+      "fetchedAt": "2026-09-01T03:59:30.761Z",
       "tags": [
         "商业融资"
       ]
@@ -698,7 +761,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-08-31T22:34:58.675Z",
+      "fetchedAt": "2026-09-01T03:59:30.761Z",
       "tags": [
         "学术研究"
       ]
@@ -714,7 +777,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
+      "fetchedAt": "2026-09-01T03:59:34.979Z",
       "tags": [
         "综合"
       ]
@@ -730,7 +793,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-31T22:35:06.887Z",
+      "fetchedAt": "2026-09-01T03:59:38.793Z",
       "tags": [
         "开源工具"
       ]
@@ -746,73 +809,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-08-31T22:35:06.887Z",
+      "fetchedAt": "2026-09-01T03:59:38.793Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "snippet": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — bu",
-      "pubDate": "Sun, 30 Aug 2026 16:54:25 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Connie Loizos",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "snippet": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the",
-      "pubDate": "2026-08-30T15:35:10.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-08-31T22:35:04.270Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "snippet": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
-      "pubDate": "Sun, 30 Aug 2026 15:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kate Park",
-      "fetchedAt": "2026-08-31T22:35:03.962Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Inside Meta’s push to put robots to work in data centers",
-      "link": "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
-      "snippet": "The company is testing robots on tasks that can performed by technicians.",
-      "pubDate": "Sun, 30 Aug 2026 11:03:47 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Paresh Dave, WIRED.com\n                ",
-      "fetchedAt": "2026-08-31T22:35:05.690Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
