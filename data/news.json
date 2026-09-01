@@ -1,13 +1,206 @@
 {
-  "generatedAt": "2026-09-01T14:44:13.680Z",
+  "generatedAt": "2026-09-01T19:24:35.978Z",
   "stats": {
-    "total": 111,
+    "total": 113,
     "shown": 50,
     "chinese": 30,
-    "english": 81,
-    "today": 32
+    "english": 83,
+    "today": 45
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "snippet": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succes",
+      "pubDate": "2026-09-01T19:02:54.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "snippet": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported e",
+      "pubDate": "2026-09-01T18:19:26.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+      "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+      "snippet": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+      "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
+      "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
+      "snippet": "OpenAI said that the integration provides read-only access to health records for clinicians.",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "link": "https://openai.com/index/ai-native-company-workflows",
+      "snippet": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "pubDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-01T19:14:45.614Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+      "snippet": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "pubDate": "Tue, 01 Sep 2026 16:31:04 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "tags": [
+        "AI应用",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "John Deere launched an AI chatbot for farmers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "snippet": "John Deere is testing a new  \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends",
+      "pubDate": "2026-09-01T16:00:52.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "snippet": "Google wants Workspace users to edit and generate their business imagery with Pics. | Image: Google\t  Google has a new suite of creative design tools",
+      "pubDate": "2026-09-01T16:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-01T19:14:43.556Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Researchers from Princeton, Ant Group and Stanford Introduce AQuA: A Two-Part Agentic Framework for Autonomous Factor Discovery and Model Development in Quantitative Finance",
+      "link": "https://www.marktechpost.com/2026/09/01/aqua-a-two-part-agentic-framework-for-autonomous-factor-discovery/",
+      "snippet": "Quantitative research agents that write their own experiments can corrupt the evidence they later learn from. A leaky feature that scores well gets st",
+      "pubDate": "Tue, 01 Sep 2026 15:54:14 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-01T19:14:46.286Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
+      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
+      "snippet": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, an",
+      "pubDate": "Tue, 01 Sep 2026 15:51:55 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+      "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+      "snippet": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+      "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ram Iyer",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Fambot introduces an ‘AI chief of staff’ for families",
+      "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+      "snippet": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of rais",
+      "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "Making the AI-powered case for legacy modernization",
@@ -19,7 +212,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-09-01T14:35:24.555Z",
+      "fetchedAt": "2026-09-01T19:14:43.901Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:24.226Z",
+      "fetchedAt": "2026-09-01T19:14:43.556Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +244,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-01T14:35:24.555Z",
+      "fetchedAt": "2026-09-01T19:14:43.901Z",
       "tags": [
         "综合"
       ]
@@ -67,9 +260,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-01T14:35:17.742Z",
+      "fetchedAt": "2026-09-01T19:14:37.893Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
+      "snippet": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "pubDate": "Tue, 01 Sep 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-01T19:14:45.614Z",
+      "tags": [
+        "大模型",
+        "学术研究"
       ]
     },
     {
@@ -83,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "开源工具"
       ]
@@ -131,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -148,7 +358,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +374,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-09-01T14:35:24.555Z",
+      "fetchedAt": "2026-09-01T19:14:43.901Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -197,7 +407,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "开源工具"
       ]
@@ -213,7 +423,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "开源工具"
       ]
@@ -229,7 +439,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "政策监管"
       ]
@@ -245,7 +455,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "大模型"
       ]
@@ -261,7 +471,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "开源工具"
       ]
@@ -277,7 +487,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "开源工具"
       ]
@@ -293,7 +503,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -326,7 +536,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "开源工具"
       ]
@@ -342,7 +552,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-01T14:35:17.742Z",
+      "fetchedAt": "2026-09-01T19:14:37.893Z",
       "tags": [
         "开源工具"
       ]
@@ -358,7 +568,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-01T14:35:17.742Z",
+      "fetchedAt": "2026-09-01T19:14:37.893Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +584,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-01T14:35:17.742Z",
+      "fetchedAt": "2026-09-01T19:14:37.893Z",
       "tags": [
         "大模型"
       ]
@@ -390,7 +600,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "商业融资"
       ]
@@ -406,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -423,7 +633,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "AI应用"
       ]
@@ -439,7 +649,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-01T14:35:17.742Z",
+      "fetchedAt": "2026-09-01T19:14:37.893Z",
       "tags": [
         "综合"
       ]
@@ -455,7 +665,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "AI应用"
       ]
@@ -471,7 +681,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-01T14:35:23.544Z",
+      "fetchedAt": "2026-09-01T19:14:42.886Z",
       "tags": [
         "综合"
       ]
@@ -487,7 +697,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-01T14:35:17.742Z",
+      "fetchedAt": "2026-09-01T19:14:37.894Z",
       "tags": [
         "综合"
       ]
@@ -503,7 +713,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-01T14:35:26.350Z",
+      "fetchedAt": "2026-09-01T19:14:46.286Z",
       "tags": [
         "AI应用"
       ]
@@ -519,7 +729,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-09-01T14:35:23.883Z",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
       "tags": [
         "AI应用"
       ]
@@ -535,7 +745,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-01T14:35:26.350Z",
+      "fetchedAt": "2026-09-01T19:14:46.286Z",
       "tags": [
         "开源工具"
       ]
@@ -551,7 +761,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-01T14:35:26.350Z",
+      "fetchedAt": "2026-09-01T19:14:46.286Z",
       "tags": [
         "大模型"
       ]
@@ -567,7 +777,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-01T14:35:23.883Z",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -584,7 +794,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-09-01T14:35:23.883Z",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
       "tags": [
         "综合"
       ]
@@ -600,218 +810,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-01T14:35:23.883Z",
+      "fetchedAt": "2026-09-01T19:14:43.212Z",
       "tags": [
         "政策监管"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "“Zlibrary my beloved”: Anthropic staff chats extolling piracy cited in Sony suit",
-      "link": "https://arstechnica.com/tech-policy/2026/08/zlibrary-my-beloved-anthropic-staff-chats-extolling-piracy-cited-in-sony-suit/",
-      "snippet": "Lawsuit: Anthropic’s torrenting totally screwed songwriters as AI songs top charts.",
-      "pubDate": "Mon, 31 Aug 2026 18:10:45 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-01T14:35:25.342Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "link": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’v",
-      "pubDate": "Mon, 31 Aug 2026 18:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Grace Huckins",
-      "fetchedAt": "2026-09-01T14:35:24.555Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Clipto uses AI to search terabytes of video and is now valued at $250M",
-      "link": "https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/",
-      "snippet": "The three-year-old startup says it reached $15 million in ARR and profitability before raising its latest $15 million round.",
-      "pubDate": "Mon, 31 Aug 2026 16:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kate Park",
-      "fetchedAt": "2026-09-01T14:35:23.883Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "snippet": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, maintenance, [and] documentation.\" T",
-      "pubDate": "2026-08-31T15:34:58.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-01T14:35:24.226Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
-      "link": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
-      "snippet": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begi",
-      "pubDate": "Mon, 31 Aug 2026 15:15:25 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-01T14:35:23.883Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "snippet": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an election year, after all, wit",
-      "pubDate": "2026-08-31T14:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-01T14:35:24.226Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "ChatGPT and Reddit now face EU's toughest online safety rules",
-      "link": "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
-      "snippet": "Explosive growth comes with a new regulatory burden in the European Union.",
-      "pubDate": "Mon, 31 Aug 2026 13:41:40 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Barbara Moens, Financial Times\n                ",
-      "fetchedAt": "2026-09-01T14:35:25.342Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "snippet": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and the spread of illegal content",
-      "pubDate": "2026-08-31T13:27:36.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-01T14:35:24.226Z",
-      "tags": [
-        "大模型",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
-      "link": "https://www.qbitai.com/2026/08/481928.html",
-      "snippet": "划重点：这次不是你挨家敲门，是VC排队来看你。",
-      "pubDate": "Mon, 31 Aug 2026 13:20:29 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-09-01T14:35:17.742Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Instagram cracks down on AI accounts pretending to be human",
-      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "snippet": "“AI creator” accounts like Aitana Lopez will get a new “AI-generated profile” label. | Image: Aitana Lopez\t  Instagram is finally taking steps to addr",
-      "pubDate": "2026-08-31T13:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-01T14:35:24.226Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meeting note-taker Circleback adds a free tier to attract more customers",
-      "link": "https://techcrunch.com/2026/08/31/meeting-notetaker-circleback-adds-a-free-tier-to-attract-more-customers/",
-      "snippet": "Circleback is also introducing new pricing plans starting from $14 per month.",
-      "pubDate": "Mon, 31 Aug 2026 12:56:46 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-01T14:35:23.883Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Pocket's AI made my game ideas real. Now Meta controls the results.",
-      "link": "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
-      "snippet": "Interactive mobile \"gizmos\" are easy to make, hard to share outside Meta's platform.",
-      "pubDate": "Mon, 31 Aug 2026 10:00:34 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-01T14:35:25.342Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
-      "link": "https://www.qbitai.com/2026/08/481923.html",
-      "snippet": "近期，滴滴自动驾驶新一代 Robotaxi R2正式开启无人载客测试服务",
-      "pubDate": "Mon, 31 Aug 2026 07:53:12 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-01T14:35:17.742Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
