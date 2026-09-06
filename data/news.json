@@ -1,13 +1,45 @@
 {
-  "generatedAt": "2026-09-06T03:32:54.939Z",
+  "generatedAt": "2026-09-06T08:34:22.252Z",
   "stats": {
     "total": 103,
     "shown": 50,
     "chinese": 30,
     "english": 73,
-    "today": 1
+    "today": 3
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "UC Berkeley Researchers Release CUA-Lite, an Open Platform Unifying Sandboxes, Data, Evaluation and RL for Computer-Use Agents",
+      "link": "https://www.marktechpost.com/2026/09/05/uc-berkeley-researchers-release-cua-lite-an-open-platform-unifying-sandboxes-data-evaluation-and-rl-for-computer-use-agents/",
+      "snippet": "Training and benchmarking a computer-use agent needs four things — agents, environments, traces, and a framework to evaluate and train them — and all",
+      "pubDate": "Sun, 06 Sep 2026 06:11:02 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-06T08:25:34.835Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "link": "https://www.qbitai.com/2026/09/484890.html",
+      "snippet": "",
+      "pubDate": "Sun, 06 Sep 2026 04:40:15 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Perplexity Details Its GPU Embedding Stack: How Ivy, Tulip and ROSE Serve pplx-embed",
@@ -19,7 +51,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-06T03:23:05.840Z",
+      "fetchedAt": "2026-09-06T08:25:34.835Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-06T03:23:05.840Z",
+      "fetchedAt": "2026-09-06T08:25:34.835Z",
       "tags": [
         "学术研究"
       ]
@@ -67,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "大模型"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-06T03:23:05.840Z",
+      "fetchedAt": "2026-09-06T08:25:34.835Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "开源工具"
       ]
@@ -115,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-06T03:22:57.123Z",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -132,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-06T03:22:57.123Z",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
+      "fetchedAt": "2026-09-06T08:25:32.132Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
+      "fetchedAt": "2026-09-06T08:25:32.132Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +228,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-06T03:23:05.840Z",
+      "fetchedAt": "2026-09-06T08:25:34.835Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +244,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-06T03:23:05.840Z",
+      "fetchedAt": "2026-09-06T08:25:34.835Z",
       "tags": [
         "大模型"
       ]
@@ -228,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-06T03:22:57.123Z",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
       "tags": [
         "大模型"
       ]
@@ -244,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-06T03:22:57.123Z",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +292,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-06T03:23:05.840Z",
+      "fetchedAt": "2026-09-06T08:25:34.835Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +308,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
+      "fetchedAt": "2026-09-06T08:25:32.132Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -293,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-06T03:22:57.123Z",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
       "tags": [
         "大模型"
       ]
@@ -309,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "商业融资"
       ]
@@ -325,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "政策监管"
       ]
@@ -341,7 +373,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-09-06T03:23:04.324Z",
+      "fetchedAt": "2026-09-06T08:25:33.824Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +389,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "商业融资"
       ]
@@ -373,7 +405,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-09-06T03:23:03.674Z",
+      "fetchedAt": "2026-09-06T08:25:33.091Z",
       "tags": [
         "商业融资"
       ]
@@ -389,7 +421,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "开源工具"
       ]
@@ -405,7 +437,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-09-06T03:23:04.325Z",
+      "fetchedAt": "2026-09-06T08:25:33.824Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +453,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +469,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Madhumita Murgia, Financial Times\n                ",
-      "fetchedAt": "2026-09-06T03:23:04.325Z",
+      "fetchedAt": "2026-09-06T08:25:33.824Z",
       "tags": [
         "大模型"
       ]
@@ -453,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +501,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +517,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "AI应用"
       ]
@@ -501,7 +533,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "大模型"
       ]
@@ -517,7 +549,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-06T03:23:03.085Z",
+      "fetchedAt": "2026-09-06T08:25:32.383Z",
       "tags": [
         "AI应用"
       ]
@@ -533,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
+      "fetchedAt": "2026-09-06T08:25:32.132Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +581,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "AI应用"
       ]
@@ -565,7 +597,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-06T03:23:03.674Z",
+      "fetchedAt": "2026-09-06T08:25:33.091Z",
       "tags": [
         "开源工具"
       ]
@@ -581,7 +613,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
+      "fetchedAt": "2026-09-06T08:25:32.132Z",
       "tags": [
         "大模型"
       ]
@@ -613,7 +645,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "AI应用"
       ]
@@ -629,7 +661,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "综合"
       ]
@@ -645,7 +677,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -662,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
+      "fetchedAt": "2026-09-06T08:25:32.132Z",
       "tags": [
         "开源工具"
       ]
@@ -678,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
+      "fetchedAt": "2026-09-06T08:25:32.132Z",
       "tags": [
         "大模型"
       ]
@@ -694,7 +726,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:03.409Z",
+      "fetchedAt": "2026-09-06T08:25:32.638Z",
       "tags": [
         "综合"
       ]
@@ -710,7 +742,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Cory Alpert",
-      "fetchedAt": "2026-09-06T03:23:03.674Z",
+      "fetchedAt": "2026-09-06T08:25:33.091Z",
       "tags": [
         "综合"
       ]
@@ -726,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-06T03:22:57.123Z",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
       "tags": [
         "综合"
       ]
@@ -742,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-06T03:22:57.123Z",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
       "tags": [
         "大模型"
       ]
@@ -758,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-06T03:22:57.123Z",
+      "fetchedAt": "2026-09-06T08:25:27.396Z",
       "tags": [
         "综合"
       ]
@@ -774,44 +806,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
+      "fetchedAt": "2026-09-06T08:25:32.132Z",
       "tags": [
         "商业融资",
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "云鲸2026秋季全球品牌发布会：以用户为原点，探索智能清洁的下一个十年",
-      "link": "https://www.leiphone.com/category/industrynews/eIDGppU09hMWW0Nm.html",
-      "snippet": "2026年9月3日，云鲸在德国柏林举办2026秋季全球品牌发布会。来自全球多个国家和地区的媒体、合作伙伴与行业嘉宾齐聚现场，共同体验云鲸覆盖扫地机器人、洗地机、吸尘器、除螨仪的家庭智能清洁产品。 发布会上，云鲸智能创始人兼CEO张峻彬发表主题演讲「Innovation for a Clean Hom",
-      "pubDate": "Fri, 04 Sep 2026 15:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "IDC首次发布零售云份额报告：腾讯云解决方案市场居首",
-      "link": "https://www.leiphone.com/category/industrynews/c9bjscH3acbWUBNO.html",
-      "snippet": "9月4日，国际数据机构（IDC）发布《中国零售云市场份额，2025》 （以下简称为《报告》）。 腾讯云通过整合PaaS、SaaS及CaaS（咨询即服务）能力，形成覆盖平台、应用及AI服务的产品矩阵，以23.4%的市场份额在解决方案市场位居第一。同时，腾讯云2025年零售云收入同比增长16.8%，在头",
-      "pubDate": "Fri, 04 Sep 2026 15:14:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-06T03:23:02.785Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     }
   ]
