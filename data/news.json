@@ -1,13 +1,173 @@
 {
-  "generatedAt": "2026-09-08T14:22:04.386Z",
+  "generatedAt": "2026-09-08T19:26:23.263Z",
   "stats": {
-    "total": 89,
+    "total": 105,
     "shown": 50,
-    "chinese": 29,
-    "english": 60,
-    "today": 24
+    "chinese": 30,
+    "english": 75,
+    "today": 39
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
+      "link": "https://www.marktechpost.com/2026/09/08/google-deepmind-releases-alphagenome-atlas-with-precomputed-molecular-effect-predictions-and-avi-scores-for-9-billion-human-dna-variants/",
+      "snippet": "DeepMind's AlphaGenome Atlas maps every single-letter change in the human genome with 1 impact score per variant. The post Google DeepMind Releases Al",
+      "pubDate": "Tue, 08 Sep 2026 19:00:09 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-08T19:17:36.429Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "snippet": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtuall",
+      "pubDate": "2026-09-08T19:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-08T19:17:33.820Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "“This is the AI men actually use”: Meta ads pushed apps nudifying real teens",
+      "link": "https://arstechnica.com/tech-policy/2026/09/real-photos-of-young-girls-were-in-nudify-app-ads-on-facebook-instagram/",
+      "snippet": "Meta dragged its feet removing ads that nudify young girls' Instagram pics.",
+      "pubDate": "Tue, 08 Sep 2026 18:43:09 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-09-08T19:17:34.887Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Update to Google’s AI weather model improves forecast accuracy",
+      "link": "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+      "snippet": "Like traditional weather models, it benefits from an expanded set of inputs.",
+      "pubDate": "Tue, 08 Sep 2026 18:00:56 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Scott K. Johnson\n                ",
+      "fetchedAt": "2026-09-08T19:17:34.887Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
+      "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+      "snippet": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
+      "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "snippet": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. B",
+      "pubDate": "2026-09-08T17:27:31.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-08T19:17:33.820Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+      "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+      "snippet": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottleneck",
+      "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+      "snippet": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "pubDate": "Tue, 08 Sep 2026 15:04:09 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+      "snippet": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+      "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anna Heim",
+      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "AI电影即将首次登陆全国院线 万兴科技AI影视全链路闭环生态引关注",
+      "link": "https://www.leiphone.com/category/industrynews/tqVYWZS1cn9pc9eZ.html",
+      "snippet": "9月8日，A股影视概念再次走高，上海电影再度盘中涨停,万兴科技等大幅上涨。消息面上，近期由AI全程赋能制作的长剧、电影等纷纷走上大荧幕。一周之内，AI影视先后叩开卫视黄金档、全国院线、网络视听头部平台等主流渠道，标志着AIGC内容正式从短视频迈入大众内容主战场。 具体来看，AI影视内容近期正在密集上",
+      "pubDate": "Tue, 08 Sep 2026 22:00:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Google’s Atlas of the human genome could pave the way for new treatments",
@@ -19,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:11.140Z",
+      "fetchedAt": "2026-09-08T19:17:33.820Z",
       "tags": [
         "开源工具"
       ]
@@ -35,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:11.140Z",
+      "fetchedAt": "2026-09-08T19:17:33.820Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +211,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:13.000Z",
+      "fetchedAt": "2026-09-08T19:17:35.280Z",
       "tags": [
         "综合"
       ]
@@ -67,9 +227,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-08T14:12:11.505Z",
+      "fetchedAt": "2026-09-08T19:17:34.120Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Introducing ChatGPT Images 2.5",
+      "link": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "snippet": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "pubDate": "Tue, 08 Sep 2026 11:30:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -83,7 +259,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-09-08T14:12:11.505Z",
+      "fetchedAt": "2026-09-08T19:17:34.120Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +275,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Mat Honan",
-      "fetchedAt": "2026-09-08T14:12:11.505Z",
+      "fetchedAt": "2026-09-08T19:17:34.120Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +291,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Bridget Reed Morawski",
-      "fetchedAt": "2026-09-08T14:12:11.505Z",
+      "fetchedAt": "2026-09-08T19:17:34.120Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +307,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Antonio Regalado",
-      "fetchedAt": "2026-09-08T14:12:11.505Z",
+      "fetchedAt": "2026-09-08T19:17:34.120Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +323,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -164,7 +340,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "综合"
       ]
@@ -180,10 +356,43 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用",
         "开源工具"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "link": "https://openai.com/index/navier-stokes-solution",
+      "snippet": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "pubDate": "Tue, 08 Sep 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Funding grants for new research into AI and teen development",
+      "link": "https://openai.com/index/teen-development-research-grants",
+      "snippet": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "pubDate": "Tue, 08 Sep 2026 09:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
       ]
     },
     {
@@ -197,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -214,7 +423,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -231,7 +440,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -248,7 +457,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "大模型"
       ]
@@ -264,7 +473,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -281,7 +490,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "综合"
       ]
@@ -297,9 +506,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Reducto Releases r-1: A Single Pass Document Parsing Model That Cuts Errors 20% at 1 Cent Per Page",
+      "link": "https://www.marktechpost.com/2026/09/07/reducto-releases-r-1-a-single-pass-document-parsing-model-that-cuts-errors-20-at-1-cent-per-page/",
+      "snippet": "We look at r-1, the document parsing model Reducto released on September 1, 2026. We walk through how it folds OCR, layout detection, tables, formatti",
+      "pubDate": "Tue, 08 Sep 2026 03:07:15 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-08T19:17:36.429Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -313,7 +538,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "综合"
       ]
@@ -329,7 +554,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "商业融资"
       ]
@@ -345,7 +570,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "综合"
       ]
@@ -361,7 +586,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用"
       ]
@@ -377,7 +602,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用"
       ]
@@ -393,8 +618,25 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:13.000Z",
+      "fetchedAt": "2026-09-08T19:17:35.280Z",
       "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "1Password increases engineering productivity 21% with Codex",
+      "link": "https://openai.com/index/1password",
+      "snippet": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security p",
+      "pubDate": "Tue, 08 Sep 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "tags": [
+        "AI应用",
         "开源工具"
       ]
     },
@@ -409,9 +651,41 @@
       "lang": "en",
       "category": "商业",
       "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-      "fetchedAt": "2026-09-08T14:12:10.793Z",
+      "fetchedAt": "2026-09-08T19:17:33.517Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "OpenBMB Releases MiniCPM5-2B: A 2.52B Dense Model Averaging 53.9 Across 34 Benchmarks and Built to Run On Device",
+      "link": "https://www.marktechpost.com/2026/09/07/openbmb-releases-minicpm5-2b-a-2-52b-dense-model-averaging-53-9-across-34-benchmarks-and-built-to-run-on-device/",
+      "snippet": "OpenBMB has released MiniCPM5-2B, a dense causal language model with 2,516,756,480 parameters and a native 131,072 token context. It averages 53.9 acr",
+      "pubDate": "Mon, 07 Sep 2026 19:18:07 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-09-08T19:17:36.429Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Axis Robotics Releases AXIS: A Browser-Based Data Engine With 207 Robot Manipulation Tasks and 50,129 Trajectories",
+      "link": "https://www.marktechpost.com/2026/09/07/axis-robotics-releases-axis-a-browser-based-data-engine-with-207-robot-manipulation-tasks-and-50129-trajectories/",
+      "snippet": "Robot datasets have grown far slower than the models trained on them, mostly because collection stays locked to lab hardware. AXIS moves demonstration",
+      "pubDate": "Mon, 07 Sep 2026 18:38:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-08T19:17:36.429Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -425,7 +699,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "商业融资"
       ]
@@ -441,7 +715,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-08T14:12:11.505Z",
+      "fetchedAt": "2026-09-08T19:17:34.120Z",
       "tags": [
         "综合"
       ]
@@ -457,7 +731,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Petala Ironcloud\n                ",
-      "fetchedAt": "2026-09-08T14:12:12.419Z",
+      "fetchedAt": "2026-09-08T19:17:34.887Z",
       "tags": [
         "商业融资"
       ]
@@ -473,7 +747,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "综合"
       ]
@@ -489,7 +763,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
+      "fetchedAt": "2026-09-08T19:17:33.260Z",
       "tags": [
         "AI应用"
       ]
@@ -505,7 +779,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "大模型"
       ]
@@ -521,7 +795,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "开源工具"
       ]
@@ -537,283 +811,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
+      "fetchedAt": "2026-09-08T19:17:28.781Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-      "link": "https://www.qbitai.com/2026/09/485064.html",
-      "snippet": "9月7日，国内首份《中国办公Agent用户行为不完全报告》在京发布。",
-      "pubDate": "Mon, 07 Sep 2026 06:53:26 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-08T14:12:06.320Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "创想三维亮相IFA 2026，SPARKX i8全球首秀、旗舰K3获两项荣誉！",
-      "link": "https://www.leiphone.com/category/industrynews/vAtQUjcohTzgRhHG.html",
-      "snippet": "近日，在柏林IFA 2026现场，创想三维展位化身为极具人气的“数字造物游乐场”。排起长队的“创想奇妙抓娃娃机”前，观众转动摇杆抓取精巧的3D打印手办；展区另一侧，一套由Ender-3 V3 Mega打印的架子鼓正伴随节拍演奏。在这里，3D打印褪去冰冷的工业外壳，成为现场观众触手可及的造物狂欢。",
-      "pubDate": "Mon, 07 Sep 2026 14:17:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "起步即搭载L3架构，阔五座开创者启境GX7正式预售24.99-31.19万",
-      "link": "https://www.leiphone.com/category/industrynews/DEylZOEEZ448IHK3.html",
-      "snippet": "湾区钜作，阔启南沙！9月4日，坐标粤港澳大湾区广州南沙，启境汽车迎来品牌战略关键成果——旗下第二款战略车型启境GX7正式开启预售，新车共推出三大版本：增程Ultra版、增程Ultra双电机版、增程Ultra三电机版，预售期价格分别为24.99万元、26.99万元、31.19万元，将于9月内正式上市。",
-      "pubDate": "Mon, 07 Sep 2026 14:10:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨微软云亚太「一拆为二」，侯阳接掌东南亚、印度与大中华区",
-      "link": "https://www.leiphone.com/category/industrycloud/UUg7N19pHCCMjnMD.html",
-      "snippet": "雷峰网独家获悉，今天早上，微软通过内部邮件宣布了一项组织调整：微软亚太区业务（主要是云业务）“一分为二”，日本、韩国、澳大利亚与新西兰市场由微软日本负责人津坂美树负责，大中华区、东盟与印度市场由微软大中华区原一把手侯阳负责。 这次变动，是此前微软亚太区总裁 Rodrigo Kede Lima 调任后",
-      "pubDate": "Mon, 07 Sep 2026 14:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "AI人才3次大迁徙：百度先行、六小虎分化、腾讯「腾笼换鸟」",
-      "link": "https://www.leiphone.com/category/industrynews/IfTsnhdqbaxeTEu6.html",
-      "snippet": "“大模型浪潮狂飙三年半，国内AI人才也经历了三波大迁移。”资深科技猎头赵捷告诉雷峰网。 前两年，大家抢的是预训练人才，先是百度文心团队被疯抢，然后是AI六小虎人才遭遇瓜分，紧接着又是阿里、DeepSeek、字节、腾讯之间的人才大混战。 而现在，大家又开始抢推理、Agent等后训练人才；最近一年不少预",
-      "pubDate": "Mon, 07 Sep 2026 14:04:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "0.4mm弯折半径、96%量产良率：伯恩光学UTG的应力重构与工艺路径",
-      "link": "https://www.leiphone.com/category/industrynews/7NDbKTW4jo1GR7dJ.html",
-      "snippet": "折叠屏盖板材料正经历从CPI（透明聚酰亚胺）向UTG（超薄柔性玻璃）的确定性升级，核心驱动力是盖板在弯折寿命、折痕控制与光学性能上的综合表现。近日，伯恩光学公布其UTG最新量产技术指标：弯折半径低至0.4毫米，50万次动态弯折无折痕、无性能衰减，极限弯折最高达200万次，量产良率稳定在96%以上。",
-      "pubDate": "Mon, 07 Sep 2026 13:42:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "业内首个！“千问办公”推出“多人工作台”",
-      "link": "https://www.leiphone.com/category/industrynews/bv6uP9homPcjjRHl.html",
-      "snippet": "近日，阿里巴巴旗下Agent产品“千问办公”推出业内首个“多人工作台”。用户简单描述需求，即可生成并发布一个最多支持百人同时在线协作的网页，承载复杂的业务流程。该功能适用于活动组织、家校协同和企业协作等场景，可解决SaaS软件采购成本高、定制软件开发耗时高的难题。目前，用户可从“千问办公”首页下方功",
-      "pubDate": "Mon, 07 Sep 2026 12:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "IFA新面孔：速卖通Brand+携中国品牌登场，解锁品牌出海新路径",
-      "link": "https://www.leiphone.com/category/industrynews/m9VdZr4bvHYmlA7s.html",
-      "snippet": "上周末，柏林国际消费电子展IFA开幕。阿里旗下跨境电商平台速卖通Brand+携9大中国品牌亮相，加速从“卖货渠道”向“品牌出海全新主场”跃迁。这是“出海四小龙”首次参加全球顶级消费电子展。   从人形机器人到AI眼镜，IFA展馆里的热度与速卖通交易端的数据形成呼应。数据显示，今年1-7月，速卖通AI",
-      "pubDate": "Mon, 07 Sep 2026 11:24:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:10.484Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Supporting independent journalism in Ukraine",
-      "link": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
-      "snippet": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
-      "pubDate": "Mon, 07 Sep 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:13.000Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "snippet": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on Sep",
-      "pubDate": "2026-09-06T23:36:04.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:11.140Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "snippet": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-08T14:12:10.793Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "snippet": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "pubDate": "Sun, 06 Sep 2026 16:45:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-08T14:12:10.793Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "An Alien Mind",
-      "link": "https://openai.com/index/an-alien-mind",
-      "snippet": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordin",
-      "pubDate": "Sun, 06 Sep 2026 09:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:13.000Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Research acceleration: The view inside OpenAI",
-      "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "snippet": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research accelera",
-      "pubDate": "Sun, 06 Sep 2026 08:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-08T14:12:13.000Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "snippet": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-08T14:12:10.793Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "snippet": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-      "pubDate": "Sat, 05 Sep 2026 19:35:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-08T14:12:10.793Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "snippet": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-      "pubDate": "Sat, 05 Sep 2026 18:05:27 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-08T14:12:10.793Z",
-      "tags": [
-        "开源工具"
       ]
     }
   ]
