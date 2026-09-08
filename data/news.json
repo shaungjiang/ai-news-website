@@ -1,13 +1,110 @@
 {
-  "generatedAt": "2026-09-08T19:26:23.263Z",
+  "generatedAt": "2026-09-08T22:33:39.511Z",
   "stats": {
-    "total": 105,
+    "total": 107,
     "shown": 50,
     "chinese": 30,
-    "english": 75,
-    "today": 39
+    "english": 77,
+    "today": 47
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "link": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/",
+      "snippet": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "pubDate": "Tue, 08 Sep 2026 21:11:46 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-09-08T22:24:51.322Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "snippet": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-09-08T22:24:49.862Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "snippet": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-09-08T22:24:49.862Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "snippet": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and",
+      "pubDate": "2026-09-08T20:53:52.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-08T22:24:50.177Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "snippet": "I used ChatGPT and its Sketch tool to make this AI-generated image of a cat.\t  OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way",
+      "pubDate": "2026-09-08T20:16:09.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-08T22:24:50.177Z",
+      "tags": [
+        "大模型",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA Announces CUDA Rust with cuda-oxide (SIMT) and cutile-rs (Tile) for Compile-Time-Safe GPU Kernels",
+      "link": "https://www.marktechpost.com/2026/09/08/nvidia-announces-cuda-rust-with-cuda-oxide-simt-and-cutile-rs-tile-for-compile-time-safe-gpu-kernels/",
+      "snippet": "NVIDIA has announced CUDA Rust, a push to make Rust a first-class language for GPU kernels. Two open-source NVlabs projects cover the two CUDA program",
+      "pubDate": "Tue, 08 Sep 2026 19:51:54 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-08T22:24:52.959Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Google DeepMind Releases AlphaGenome Atlas With Precomputed Molecular Effect Predictions and AVI Scores for 9 Billion Human DNA Variants",
@@ -19,9 +116,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-08T19:17:36.429Z",
+      "fetchedAt": "2026-09-08T22:24:52.959Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "snippet": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer",
+      "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-08T22:24:49.862Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.820Z",
+      "fetchedAt": "2026-09-08T22:24:50.177Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-08T19:17:34.887Z",
+      "fetchedAt": "2026-09-08T22:24:51.322Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scott K. Johnson\n                ",
-      "fetchedAt": "2026-09-08T19:17:34.887Z",
+      "fetchedAt": "2026-09-08T22:24:51.322Z",
       "tags": [
         "综合"
       ]
@@ -83,14 +196,14 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "fetchedAt": "2026-09-08T22:24:49.862Z",
       "tags": [
         "商业融资"
       ]
     },
     {
       "id": "dGhldmVyZ2UtYWk6",
-      "title": "A new class action lawsuit questions whether Anthropic broke the law by misleading power users",
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
       "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
       "snippet": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular applications, like OpenClaw. B",
       "pubDate": "2026-09-08T17:27:31.000Z",
@@ -99,9 +212,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.820Z",
+      "fetchedAt": "2026-09-08T22:24:50.177Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "link": "https://openai.com/index/codex-quantum-computing-experiments",
+      "snippet": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "pubDate": "Tue, 08 Sep 2026 17:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-08T22:24:51.760Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -115,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "fetchedAt": "2026-09-08T22:24:49.862Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "fetchedAt": "2026-09-08T22:24:49.862Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "fetchedAt": "2026-09-08T22:24:49.862Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.820Z",
+      "fetchedAt": "2026-09-08T22:24:50.177Z",
       "tags": [
         "开源工具"
       ]
@@ -195,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.820Z",
+      "fetchedAt": "2026-09-08T22:24:50.177Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +340,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "fetchedAt": "2026-09-08T22:24:51.760Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +356,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-08T19:17:34.120Z",
+      "fetchedAt": "2026-09-08T22:24:50.493Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +372,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "fetchedAt": "2026-09-08T22:24:51.760Z",
       "tags": [
         "大模型"
       ]
@@ -259,7 +388,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eshan Raul",
-      "fetchedAt": "2026-09-08T19:17:34.120Z",
+      "fetchedAt": "2026-09-08T22:24:50.493Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +404,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Mat Honan",
-      "fetchedAt": "2026-09-08T19:17:34.120Z",
+      "fetchedAt": "2026-09-08T22:24:50.493Z",
       "tags": [
         "商业融资"
       ]
@@ -291,7 +420,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Bridget Reed Morawski",
-      "fetchedAt": "2026-09-08T19:17:34.120Z",
+      "fetchedAt": "2026-09-08T22:24:50.493Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +436,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Antonio Regalado",
-      "fetchedAt": "2026-09-08T19:17:34.120Z",
+      "fetchedAt": "2026-09-08T22:24:50.493Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -340,7 +469,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -373,7 +502,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "fetchedAt": "2026-09-08T22:24:51.760Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +518,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "fetchedAt": "2026-09-08T22:24:51.760Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -406,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -423,7 +552,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -440,7 +569,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -457,7 +586,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
+      "fetchedAt": "2026-09-08T22:24:45.567Z",
       "tags": [
         "大模型"
       ]
@@ -473,7 +602,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -490,7 +619,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
+      "fetchedAt": "2026-09-08T22:24:45.567Z",
       "tags": [
         "综合"
       ]
@@ -506,7 +635,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
+      "fetchedAt": "2026-09-08T22:24:45.567Z",
       "tags": [
         "商业融资"
       ]
@@ -522,7 +651,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-08T19:17:36.429Z",
+      "fetchedAt": "2026-09-08T22:24:52.959Z",
       "tags": [
         "AI应用"
       ]
@@ -538,7 +667,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
+      "fetchedAt": "2026-09-08T22:24:45.567Z",
       "tags": [
         "综合"
       ]
@@ -554,7 +683,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
+      "fetchedAt": "2026-09-08T22:24:45.567Z",
       "tags": [
         "商业融资"
       ]
@@ -570,7 +699,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "综合"
       ]
@@ -586,7 +715,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "AI应用"
       ]
@@ -602,7 +731,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
+      "fetchedAt": "2026-09-08T22:24:49.587Z",
       "tags": [
         "AI应用"
       ]
@@ -618,7 +747,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "fetchedAt": "2026-09-08T22:24:51.760Z",
       "tags": [
         "开源工具"
       ]
@@ -634,7 +763,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-08T19:17:35.280Z",
+      "fetchedAt": "2026-09-08T22:24:51.760Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -651,7 +780,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek",
-      "fetchedAt": "2026-09-08T19:17:33.517Z",
+      "fetchedAt": "2026-09-08T22:24:49.862Z",
       "tags": [
         "综合"
       ]
@@ -667,7 +796,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-09-08T19:17:36.429Z",
+      "fetchedAt": "2026-09-08T22:24:52.959Z",
       "tags": [
         "AI应用"
       ]
@@ -683,137 +812,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-08T19:17:36.429Z",
+      "fetchedAt": "2026-09-08T22:24:52.959Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "燧原科技发行结果出炉！募资61.19亿元，国产AI芯片龙头即将登陆科创板",
-      "link": "https://www.leiphone.com/category/chips/tt18KRcmh53DjhLO.html",
-      "snippet": "9月7日晚间，燧原科技（688801.SH）正式公布发行结果。本次发行价格为142.18元/股，发行数量为4303.5173万股，募集资金总额为61.19亿元。网上投资者认购数量为1031.1626万股，网下投资者认购数量为2409.9639万股。此前，燧原科技网上发行有效申购户数达703.20万户",
-      "pubDate": "Mon, 07 Sep 2026 20:43:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How much hyd",
-      "pubDate": "Mon, 07 Sep 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-08T19:17:34.120Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "The complex corporate web behind a $3.2 billion AI data center",
-      "link": "https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/",
-      "snippet": "When multiple companies are behind one project, who bears responsibility for problems?",
-      "pubDate": "Mon, 07 Sep 2026 11:00:03 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Petala Ironcloud\n                ",
-      "fetchedAt": "2026-09-08T19:17:34.887Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "3秒变身！会合体的机器人，卖到全球50国",
-      "link": "https://www.qbitai.com/2026/09/485525.html",
-      "snippet": "谁说现在机器人都长得差不多的！",
-      "pubDate": "Mon, 07 Sep 2026 09:34:06 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "高端智能手表怎么选，华为WATCH Ultimate 2 非凡探索雪域白、迪桑特联名款发布",
-      "link": "https://www.leiphone.com/category/industrynews/j0Vn5Zjbs3tKiA2k.html",
-      "snippet": "高端腕表市场正在悄然生变——越来越多消费者不再满足于单纯的机械美学，而是希望一枚手表，既能撑起商务通勤场合的高级质感，又能陪伴潜水、高尔夫、滑雪等专业运动场景。这种“商务通勤与专业运动并重”的双重诉求，让主打全场景运动能力的华为WATCH Ultimate 2 非凡探索系列受到消费者追捧。9月7日，",
-      "pubDate": "Mon, 07 Sep 2026 17:11:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-08T19:17:33.260Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "link": "https://www.qbitai.com/2026/09/485431.html",
-      "snippet": "OpenAI研究院人均带3个AI实习生",
-      "pubDate": "Mon, 07 Sep 2026 09:04:06 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "DHH领衔，英伟达、微软、HuggingFace等150+全球技术大咖集结，GOSIM Shenzhen 2026全议程公布",
-      "link": "https://www.qbitai.com/2026/09/485154.html",
-      "snippet": "10 月 16–17 日，面向全球开发者的开源技术大会 GOSIM 将首次来到深圳，举办 GOSIM Shenzhen 2026。",
-      "pubDate": "Mon, 07 Sep 2026 08:51:30 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "link": "https://www.qbitai.com/2026/09/485108.html",
-      "snippet": "“在两个模型之间找到数学上的共同基础其实非常困难”",
-      "pubDate": "Mon, 07 Sep 2026 08:36:30 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-09-08T19:17:28.781Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
