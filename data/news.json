@@ -1,13 +1,128 @@
 {
-  "generatedAt": "2026-09-09T22:23:16.174Z",
+  "generatedAt": "2026-09-10T03:37:05.805Z",
   "stats": {
-    "total": 108,
+    "total": 109,
     "shown": 50,
     "chinese": 30,
-    "english": 78,
-    "today": 61
+    "english": 79,
+    "today": 5
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
+      "link": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
+      "snippet": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a do",
+      "pubDate": "Thu, 10 Sep 2026 02:13:12 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-10T03:30:26.395Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
+      "link": "https://www.qbitai.com/2026/09/486436.html",
+      "snippet": "9月9日，以“JoyAI · 跃迁物理世界”为主题的JDDiscovery-2026京东全球科技探索者大会在北京举行",
+      "pubDate": "Thu, 10 Sep 2026 01:39:13 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-09-10T03:30:18.658Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "国内首个\"产品级\"技术实力评价服务上线",
+      "link": "https://www.leiphone.com/category/industrynews/jjKrlqNpJ3OPIlQk.html",
+      "snippet": "9月9日，2026 年中国知识产权年会知识产权出版社同期活动上，国家知识产权局直属单位知识产权出版社联合蚂蚁集团旗下芝麻企业信用，正式发布“产品技术实力评价”服务。 这是国内首个面向具体产品的技术实力评价服务——过去技术评价多落在企业层面或以专利数量为主，该服务将评价颗粒度下沉到“具体产品”，从技术",
+      "pubDate": "Thu, 10 Sep 2026 09:25:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T03:30:23.746Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还顺手揪出了我的Bug",
+      "link": "https://www.qbitai.com/2026/09/486350.html",
+      "snippet": "赶上了API限时五折",
+      "pubDate": "Thu, 10 Sep 2026 00:42:06 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-09-10T03:30:18.658Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "snippet": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "pubDate": "Thu, 10 Sep 2026 00:00:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "tags": [
+        "商业融资",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
+      "link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
+      "snippet": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: swe",
+      "pubDate": "Wed, 09 Sep 2026 22:58:29 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-10T03:30:26.395Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI adds a prominent AI doomer to its board of directors",
+      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+      "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+      "pubDate": "Wed, 09 Sep 2026 22:25:22 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Massachusetts hits data centers with new clean power rules",
@@ -19,7 +134,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +150,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.799Z",
+      "fetchedAt": "2026-09-10T03:30:24.255Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +166,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.799Z",
+      "fetchedAt": "2026-09-10T03:30:24.255Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +182,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.799Z",
+      "fetchedAt": "2026-09-10T03:30:24.255Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -84,7 +199,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -101,7 +216,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-09T22:18:55.737Z",
+      "fetchedAt": "2026-09-10T03:30:25.389Z",
       "tags": [
         "综合"
       ]
@@ -117,7 +232,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
@@ -133,7 +248,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.799Z",
+      "fetchedAt": "2026-09-10T03:30:24.255Z",
       "tags": [
         "AI应用"
       ]
@@ -149,7 +264,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-09T22:18:49.180Z",
+      "fetchedAt": "2026-09-10T03:30:18.658Z",
       "tags": [
         "AI应用"
       ]
@@ -165,7 +280,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
@@ -181,14 +296,14 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
       "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
       "snippet": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
       "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
@@ -197,7 +312,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
@@ -213,7 +328,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
@@ -229,7 +344,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.799Z",
+      "fetchedAt": "2026-09-10T03:30:24.255Z",
       "tags": [
         "政策监管"
       ]
@@ -245,7 +360,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:56.134Z",
+      "fetchedAt": "2026-09-10T03:30:25.757Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +376,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-09T22:18:55.737Z",
+      "fetchedAt": "2026-09-10T03:30:25.389Z",
       "tags": [
         "学术研究"
       ]
@@ -277,7 +392,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-09-09T22:18:55.737Z",
+      "fetchedAt": "2026-09-10T03:30:25.389Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +408,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "开源工具"
       ]
@@ -309,7 +424,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan, Theresa Loconsolo",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "开源工具"
       ]
@@ -325,7 +440,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +456,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "学术研究"
       ]
@@ -357,7 +472,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
@@ -373,7 +488,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +504,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +520,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
@@ -421,9 +536,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.799Z",
+      "fetchedAt": "2026-09-10T03:30:24.255Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "The AI policy window is open. We need to act.",
+      "link": "https://openai.com/index/ai-policy-window",
+      "snippet": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy windo",
+      "pubDate": "Wed, 09 Sep 2026 13:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-10T03:30:25.757Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -437,7 +568,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "商业融资"
       ]
@@ -453,7 +584,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-09T22:18:55.046Z",
+      "fetchedAt": "2026-09-10T03:30:24.515Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +600,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-09T22:18:54.534Z",
+      "fetchedAt": "2026-09-10T03:30:24.018Z",
       "tags": [
         "AI应用"
       ]
@@ -485,7 +616,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.799Z",
+      "fetchedAt": "2026-09-10T03:30:24.255Z",
       "tags": [
         "学术研究"
       ]
@@ -501,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
+      "fetchedAt": "2026-09-10T03:30:23.746Z",
       "tags": [
         "AI应用"
       ]
@@ -517,7 +648,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-09T22:18:55.737Z",
+      "fetchedAt": "2026-09-10T03:30:25.389Z",
       "tags": [
         "大模型",
         "商业融资"
@@ -534,7 +665,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:56.134Z",
+      "fetchedAt": "2026-09-10T03:30:25.757Z",
       "tags": [
         "大模型"
       ]
@@ -550,25 +681,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
+      "fetchedAt": "2026-09-10T03:30:23.746Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "实测星火X2.5：手搓粒子月亮、拆完61页财报……还揪出了我的Bug",
-      "link": "https://www.qbitai.com/2026/09/486374.html",
-      "snippet": "",
-      "pubDate": "Wed, 09 Sep 2026 10:02:54 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "文婷",
-      "fetchedAt": "2026-09-09T22:18:49.180Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -582,7 +697,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-09T22:18:49.180Z",
+      "fetchedAt": "2026-09-10T03:30:18.658Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +713,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.799Z",
+      "fetchedAt": "2026-09-10T03:30:24.255Z",
       "tags": [
         "学术研究"
       ]
@@ -614,7 +729,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
+      "fetchedAt": "2026-09-10T03:30:23.746Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +745,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
+      "fetchedAt": "2026-09-10T03:30:23.746Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -647,7 +762,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-09-09T22:18:55.046Z",
+      "fetchedAt": "2026-09-10T03:30:24.515Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +778,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Shuo Yang",
-      "fetchedAt": "2026-09-09T22:18:55.046Z",
+      "fetchedAt": "2026-09-10T03:30:24.515Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +794,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
+      "fetchedAt": "2026-09-10T03:30:23.746Z",
       "tags": [
         "商业融资"
       ]
@@ -695,121 +810,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
+      "fetchedAt": "2026-09-10T03:30:23.746Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "从Demo到1000万次真实作业，万勋发布NOVA2.0柔性具身大脑",
-      "link": "https://www.leiphone.com/category/robot/tEzDlRIgiHsXV8B0.html",
-      "snippet": "作为柔性具身智能的全球领航者，万勋科技于日前正式发布其第二代柔性具身大脑NOVA2.0（Neuromorphic Omniversal Versatile Architecture，神经元智能开放世界通用架构），同时也是行业首个开放世界全天候商业交付级具身智能架构——该架构脱胎并服务于40+真实行业",
-      "pubDate": "Wed, 09 Sep 2026 15:32:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Gradium Launches Voice Design: Write a Prompt, Get a Brand New Synthetic Voice in Seconds",
-      "link": "https://www.marktechpost.com/2026/09/09/gradium-launches-voice-design-write-a-prompt-get-a-brand-new-synthetic-voice-in-seconds/",
-      "snippet": "Voice agent teams keep hitting the same wall. The catalog holds 400 voices and the brief asks for the one that is not in it: a Quebecoise receptionist",
-      "pubDate": "Wed, 09 Sep 2026 07:29:13 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-09T22:18:56.933Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "去掉「AI」滤镜，IFA 2026还有哪些真亮点？",
-      "link": "https://www.leiphone.com/category/industrynews/AMAyaUGizzaa1UTo.html",
-      "snippet": "今年的IFA依然不缺“AI”。电视、冰箱、洗衣机、扫地机器人，每个展台都有一套关于智能的说辞。 但把“AI”暂时拿掉，更直观的变化其实是：机器人更忙了，分工也更细了。 擦窗、割草、泳池清洁、爬楼和机械臂，都不是今年才出现。今年更值得看的，是厂商开始处理一些更具体、也更麻烦的任务：门后的死角、墙根的一",
-      "pubDate": "Wed, 09 Sep 2026 15:11:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "2026外滩大会：具身智能开始拼大脑，蚂蚁灵波把机器人送进真实场景",
-      "link": "https://www.leiphone.com/category/industrynews/SjYRQou3shWq9xXG.html",
-      "snippet": "机器人没有跳舞，也没有翻跟头，却吸引了诸多媒体的驻足。这就是2026外滩大会科技展览，蚂蚁灵波科技展示的几件看起来并不“炫技”的事：机器人从货架上精准取下一盒药，送到用户手里，在物流场景中持续完成分拣，在工业产线上完成上下料。   （在外滩大会看到具身智能正在走向物理世界）   这恰恰是这个展区值得",
-      "pubDate": "Wed, 09 Sep 2026 14:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-09T22:18:54.290Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "link": "https://www.qbitai.com/2026/09/486288.html",
-      "snippet": "蚂蚁集团百灵首个金融增强开放模型 Ling-3.0-flash-Fin发布。",
-      "pubDate": "Wed, 09 Sep 2026 05:02:30 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-09T22:18:49.180Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "具身机器人能搞定超市盘点吗？全球七万门店正在给出答案",
-      "link": "https://www.qbitai.com/2026/09/486280.html",
-      "snippet": "从Demo到货架，这两家公司要让具身智能算得过账",
-      "pubDate": "Wed, 09 Sep 2026 04:52:12 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-09-09T22:18:49.180Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meta Introduces Muse, a Personal AI Agent That Runs on Its Own Dedicated Secure Cloud Computer",
-      "link": "https://www.marktechpost.com/2026/09/08/meta-introduces-muse-a-personal-ai-agent-that-runs-on-its-own-dedicated-secure-cloud-computer/",
-      "snippet": "Today, Meta has introduced Muse, a personal AI agent that takes actions rather than just answering questions. Muse can send emails, book travel, negot",
-      "pubDate": "Wed, 09 Sep 2026 04:38:13 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-09T22:18:56.933Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
