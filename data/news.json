@@ -1,13 +1,174 @@
 {
-  "generatedAt": "2026-09-10T14:11:37.344Z",
+  "generatedAt": "2026-09-10T19:07:53.897Z",
   "stats": {
-    "total": 104,
+    "total": 98,
     "shown": 50,
     "chinese": 30,
-    "english": 74,
-    "today": 38
+    "english": 68,
+    "today": 50
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
+      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
+      "snippet": "\"Bankruptcy cannot become the new land grab for AI.”",
+      "pubDate": "Thu, 10 Sep 2026 18:14:14 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-09-10T18:59:05.447Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
+      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
+      "snippet": "Come inside the mind of a bot trying to convince the internet it's human.",
+      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-09-10T18:59:04.096Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+      "snippet": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
+      "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-09-10T18:59:04.096Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "snippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-10T18:59:05.880Z",
+      "tags": [
+        "大模型",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Universal Music is launching an AI music platform with ElevenLabs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+      "snippet": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes,",
+      "pubDate": "2026-09-10T15:38:19.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-10T18:59:04.439Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta’s Muse AI works and creeps me out",
+      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
+      "snippet": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t  Meta has launched its new Muse assistant, marking the company's first real for",
+      "pubDate": "2026-09-10T15:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-10T18:59:04.439Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Now everyone can put data to work",
+      "link": "https://openai.com/index/put-data-to-work",
+      "snippet": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
+      "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-10T18:59:05.880Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI agents are flooding public services with new requests",
+      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+      "snippet": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+      "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-09-10T18:59:04.096Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Maven Robotics wants to steal your robot deployment deal",
+      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+      "snippet": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
+      "pubDate": "Thu, 10 Sep 2026 14:17:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-09-10T18:59:04.096Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Why the current tech backlash feels different",
+      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
+      "snippet": "This interview has been lightly edited for length and clarity.  Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other probl",
+      "pubDate": "2026-09-10T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-10T18:59:04.439Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
@@ -19,9 +180,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-10T14:07:04.601Z",
+      "fetchedAt": "2026-09-10T18:59:04.742Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Mathematicians want proof OpenAI didn’t use their work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+      "snippet": "Sam Altman, chief executive officer of OpenAI, during a media tour of the Stargate AI data center. | Bloomberg via Getty Images\t  Another researcher i",
+      "pubDate": "2026-09-10T11:00:57.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-10T18:59:04.439Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -35,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.787Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +228,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Ricardo De Azevedo",
-      "fetchedAt": "2026-09-10T14:07:04.601Z",
+      "fetchedAt": "2026-09-10T18:59:04.742Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +244,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Temple",
-      "fetchedAt": "2026-09-10T14:07:04.601Z",
+      "fetchedAt": "2026-09-10T18:59:04.742Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.787Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.787Z",
       "tags": [
         "政策监管"
       ]
@@ -115,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.787Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -132,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-10T14:06:55.334Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "学术研究"
       ]
@@ -148,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +341,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-09-10T14:07:04.601Z",
+      "fetchedAt": "2026-09-10T18:59:04.742Z",
       "tags": [
         "开源工具"
       ]
@@ -180,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +389,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "学术研究"
       ]
@@ -244,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "AI应用"
       ]
@@ -260,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +453,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Katia Savchuk",
-      "fetchedAt": "2026-09-10T14:07:04.601Z",
+      "fetchedAt": "2026-09-10T18:59:04.742Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Andrew Ray",
-      "fetchedAt": "2026-09-10T14:07:04.601Z",
+      "fetchedAt": "2026-09-10T18:59:04.742Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "学术研究"
       ]
@@ -324,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "AI应用"
       ]
@@ -356,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-10T14:06:55.334Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "开源工具"
       ]
@@ -388,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-10T14:06:55.334Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "AI应用"
       ]
@@ -404,25 +581,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-09-10T14:06:55.334Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
-      "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
-      "snippet": "Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM",
-      "pubDate": "Thu, 10 Sep 2026 07:31:01 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-10T14:07:06.838Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -436,7 +597,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-10T14:06:55.334Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -453,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "大模型"
       ]
@@ -469,9 +630,42 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Introducing ChatGPT for Financial Services",
+      "link": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "snippet": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-10T18:59:05.880Z",
+      "tags": [
+        "大模型",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "link": "https://openai.com/index/expanding-ai-access-us-government",
+      "snippet": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
+      "pubDate": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-10T18:59:05.880Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -485,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
       ]
@@ -501,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-10T14:06:55.335Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "商业融资"
       ]
@@ -517,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:03.575Z",
+      "fetchedAt": "2026-09-10T18:59:03.788Z",
       "tags": [
         "综合"
       ]
@@ -549,25 +743,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-10T14:06:55.335Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
-      "link": "https://www.marktechpost.com/2026/09/09/landingai-releases-agentic-document-extraction-gen2-with-dpt-3-pro-and-dpt-3-verity/",
-      "snippet": "LandingAI has shipped Agentic Document Extraction Gen2, a rebuild of its document stack on the DPT-3 model family. Chunks are retired in favor of a do",
-      "pubDate": "Thu, 10 Sep 2026 02:13:12 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-10T14:07:06.838Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -581,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-10T14:06:55.335Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -598,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-10T14:06:55.335Z",
+      "fetchedAt": "2026-09-10T18:58:59.024Z",
       "tags": [
         "开源工具"
       ]
@@ -614,204 +792,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-10T14:07:03.912Z",
+      "fetchedAt": "2026-09-10T18:59:04.096Z",
       "tags": [
         "商业融资",
         "学术研究"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google Open-Sources Mantis: A Modular Skills Toolkit That Lets Coding Agents Find, Reproduce and Patch Vulnerabilities",
-      "link": "https://www.marktechpost.com/2026/09/09/google-open-sources-mantis-a-modular-skills-toolkit-that-lets-coding-agents-find-reproduce-and-patch-vulnerabilities/",
-      "snippet": "Google has open-sourced Mantis, a stack-agnostic toolkit of security review skills for AI coding agents. It runs the full vulnerability lifecycle: swe",
-      "pubDate": "Wed, 09 Sep 2026 22:58:29 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "link": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "snippet": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
       "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-10T14:07:06.838Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI adds a prominent AI doomer to its board of directors",
-      "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
-      "snippet": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
-      "pubDate": "Wed, 09 Sep 2026 22:25:22 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-10T14:07:03.912Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Massachusetts hits data centers with new clean power rules",
-      "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-      "snippet": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
-      "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim De Chant",
-      "fetchedAt": "2026-09-10T14:07:03.912Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Suno releases its first AI music model made with record industry help",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-      "snippet": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the g",
-      "pubDate": "2026-09-09T21:42:19.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-10T14:07:04.242Z",
+      "fetchedAt": "2026-09-10T18:59:05.880Z",
       "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-      "snippet": "Open AI CEO Sam Altman speaks during the G20 Innovation Ministerial. | (Photo by Matt RAMEY / AFP via Getty Images)\t  OpenAI's announcement Tuesday th",
-      "pubDate": "2026-09-09T21:16:34.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-10T14:07:04.242Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Read the Apple document explaining how new listening features still protect your privacy",
-      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-      "snippet": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound",
-      "pubDate": "2026-09-09T20:44:43.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-10T14:07:04.242Z",
-      "tags": [
-        "AI应用",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-      "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-      "snippet": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new question",
-      "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-10T14:07:03.912Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
-      "link": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/",
-      "snippet": "US urges AI firms to ID, then secretly switch, Chinese users to less-capable models.",
-      "pubDate": "Wed, 09 Sep 2026 20:06:28 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-10T14:07:05.363Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-      "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-      "snippet": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
-      "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-10T14:07:03.912Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-      "snippet": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the",
-      "pubDate": "2026-09-09T19:30:12.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-10T14:07:04.242Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "link": "https://www.qbitai.com/2026/09/486450.html",
-      "snippet": "一比根号二的小胖折叠",
-      "pubDate": "Wed, 09 Sep 2026 19:24:22 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-09-10T14:06:55.335Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The hinge for Apple’s new foldable phone was built with AI",
-      "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-      "snippet": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
-      "pubDate": "Wed, 09 Sep 2026 19:21:48 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-10T14:07:03.912Z",
-      "tags": [
-        "AI应用"
+        "大模型"
       ]
     }
   ]
