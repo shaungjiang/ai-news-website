@@ -1,13 +1,207 @@
 {
-  "generatedAt": "2026-09-10T03:37:05.805Z",
+  "generatedAt": "2026-09-10T08:51:21.181Z",
   "stats": {
-    "total": 109,
+    "total": 107,
     "shown": 50,
-    "chinese": 30,
+    "chinese": 28,
     "english": 79,
-    "today": 5
+    "today": 18
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "DeepSeek AI Released DeepSeek-V4.1-Flash with 1M Context, FP4 KV Cache, and Cross-Layer Attention Reuse",
+      "link": "https://www.marktechpost.com/2026/09/10/deepseek-ai-released-deepseek-v4-1-flash-with-1m-context-fp4-kv-cache-and-cross-layer-attention-reuse/",
+      "snippet": "Long-horizon agents have turned LLM serving into an input-heavy workload. Repeated prefills and million-token contexts leave KV caches that strain HBM",
+      "pubDate": "Thu, 10 Sep 2026 07:31:01 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-10T08:42:34.368Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+      "link": "https://www.qbitai.com/2026/09/486684.html",
+      "snippet": "主打生成更快，细节更好，改图也终于越来越像“真·修图”了。",
+      "pubDate": "Thu, 10 Sep 2026 07:25:39 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-09-10T08:42:26.530Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "营销科技巨头蓝色光标与全球达人营销AI平台AhaCreator达成深度合作，让品牌更高效连接全球500万创作者",
+      "link": "https://www.qbitai.com/2026/09/486651.html",
+      "snippet": "从一次投放到一套增长系统，AI 让海外达人营销可规模化复制",
+      "pubDate": "Thu, 10 Sep 2026 06:25:22 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-09-10T08:42:26.530Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "AI办公生态合作，离真正的「双赢」还有多远？",
+      "link": "https://www.leiphone.com/category/industrynews/8fZVRNXEBS8yb6r1.html",
+      "snippet": "AI办公大战硝烟再起：大厂不仅亲自下场，还跟生态伙伴联起手。 此前雷峰网在《大厂AI To B大战，这回战场为什么是办公？》一文中曾提到，各家手里的牌不同，打法也各有侧重： 腾讯C端基因重，做大WorkBuddy个人用户规模的同时，也在向企业端渗透；阿里手握大批企业客户，千问办公从B端直接切入；字节",
+      "pubDate": "Thu, 10 Sep 2026 13:56:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "支付宝牵手飞猪，跟\"阿宝\"聊天就能订机票、买门票",
+      "link": "https://www.leiphone.com/category/industrynews/mU6QNK6pnwlyPtmi.html",
+      "snippet": "飞猪与AI版支付宝“阿宝”达成深度合作。用户向“阿宝”发出“一句话指令”，即可获得机票及景区门票预订，酒店会员注册、权益查询等服务。 以机票预订为例，用户对“阿宝”说出类似“下周五上海飞成都，帮我订飞猪特价机票”的需求，“阿宝”自动识别城市、日期、价格划算等需求，并通过MCP（模型上下文协议）调用飞",
+      "pubDate": "Thu, 10 Sep 2026 13:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "量子计算这个“狼”，真的要来了吗？中科大“量子鬼才”陆朝阳外滩大会回应",
+      "link": "https://www.leiphone.com/category/industrynews/a38GntcRdKD8JNCt.html",
+      "snippet": "量子计算这个“狼”，真的要来了吗？ 9月10日，在2026 Inclusion·外滩大会主论坛上，中国科学技术大学上海研究院执行院长陆朝阳教授给火热的量子计算“降了降温”。“量子计算虽然很卷，目前其实还很‘菜’。”陆朝阳说。   在他看来，量子计算当然重要，但它并不是一台“加速一切”的超级机器，只有",
+      "pubDate": "Thu, 10 Sep 2026 13:50:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
+      "link": "https://www.qbitai.com/2026/09/486625.html",
+      "snippet": "模型可以开源，部署经验不能",
+      "pubDate": "Thu, 10 Sep 2026 04:55:38 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "克雷西",
+      "fetchedAt": "2026-09-10T08:42:26.530Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "两项智能体安全团体标准启动，共筑智能体规模化应用安全基线",
+      "link": "https://www.leiphone.com/category/industrynews/UVg3ZmRYAD7RuGT2.html",
+      "snippet": "9月9日下午，在2026 Inclusion·外滩大会“智能体时代的安全坐标与责任边界”见解论坛上，《智能体身份鉴别与授权技术框架》《智能体运行时安全技术要求》两项团体标准正式启动。   两项标准由中国网络空间安全协会提出，蚂蚁集团联合研究院所、运营商、互联网厂商等单位共同参与编制，旨在推动智能体安",
+      "pubDate": "Thu, 10 Sep 2026 12:38:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "政策监管",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "普林斯顿王梦迪外滩大会提醒：Ai实现自主发现，并非只需模型更大",
+      "link": "https://www.leiphone.com/category/industrynews/YgfaggooTO5uLodT.html",
+      "snippet": "9月10日，在2026 Inclusion·外滩大会主论坛上，普林斯顿大学人工智能创新中心主任王梦迪教授提出一个问题：AI距离自主发现新科学还有多远？ 她的判断是，今天的大模型已经掌握了大量人类知识，但在真正的科学发现上仍然存在明显局限：大模型更擅长找到“最可能”的答案，而真正的新发现，往往藏在概率",
+      "pubDate": "Thu, 10 Sep 2026 12:33:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "新石器无人车落地韩国济州岛，在旅游业率先投入运营",
+      "link": "https://www.leiphone.com/category/industrynews/ZeqG40AkPzDYdNWb.html",
+      "snippet": "近日，韩国济州岛Campertree（香樟树）酒店度假村携手自动驾驶企业NT1，在户外园区启用新石器自动驾驶无人配送车，为宾客运送行李与日常用品。据悉，NT1为新石器在韩国的本地合作伙伴，此次部署也是新石器无人车首次进入济州户外度假场景运营，标志着其在韩国从试点示范迈向规模化商业落地的全新阶段。 济",
+      "pubDate": "Thu, 10 Sep 2026 12:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "亚太唯一！阿里云首次进入 Gartner 战略云平台“领导者”象限",
+      "link": "https://www.leiphone.com/category/industrynews/TW83tl3MtFeT972q.html",
+      "snippet": "近日，国际商业技术洞察机构Gartner发布 2026 年度全球《战略云平台服务魔力象限》报告（Magic Quadrant™ for Strategic Cloud Platform Services），阿里云首次进入该报告“领导者”象限，成为全球领导者阵营中唯一的中国厂商、亚太厂商，与亚马逊AW",
+      "pubDate": "Thu, 10 Sep 2026 12:05:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "15000家美国中小企业到场，阿里国际站CoCreate峰会刷屏洛杉矶",
+      "link": "https://www.leiphone.com/category/industrynews/5VPkJnqmy14BdymX.html",
+      "snippet": "9月9日，苹果发布会同日，美国洛杉矶会展中心，阿里国际站一年一度的海外买家大会——CoCreate 2026开幕。美国当地超15000家中小企业到场，这一数字去年还停留在3000人。 从B2B到A2A，1.5万美国老板在CoCreate现场寻找AI时代的下一门好生意，这也使得今年的CoCreate，",
+      "pubDate": "Thu, 10 Sep 2026 10:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "LandingAI Releases Agentic Document Extraction Gen2 with DPT-3 Pro and DPT-3 Verity",
@@ -19,9 +213,26 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-10T03:30:26.395Z",
+      "fetchedAt": "2026-09-10T08:42:34.368Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百度营销擎舵3.0与智能投放重磅发布，双擎驱动AI营销增长新范式",
+      "link": "https://www.leiphone.com/category/industrynews/yUOwpaiKQhm2TIFI.html",
+      "snippet": "9月9日，百度营销举办「AI 创无界 智投无忧」产品发布会，全面展示了依托AI技术重构创意生产与广告投放全链路的最新成果，并正式发布擎舵3.0营销创意智能体与全新升级的智能投放产品。 百度2026年Q2财报显示，AI业务收入占比已经连续两个季度达到50%，AI 已经成为百度核心增长引擎。百度集团副总",
+      "pubDate": "Thu, 10 Sep 2026 10:08:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
       ]
     },
     {
@@ -35,7 +246,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-10T03:30:18.658Z",
+      "fetchedAt": "2026-09-10T08:42:26.530Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -52,7 +263,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:23.746Z",
+      "fetchedAt": "2026-09-10T08:42:31.389Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -69,7 +280,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-10T03:30:18.658Z",
+      "fetchedAt": "2026-09-10T08:42:26.530Z",
       "tags": [
         "开源工具"
       ]
@@ -85,7 +296,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "商业融资",
         "学术研究"
@@ -102,7 +313,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-10T03:30:26.395Z",
+      "fetchedAt": "2026-09-10T08:42:34.368Z",
       "tags": [
         "开源工具"
       ]
@@ -118,7 +329,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "学术研究"
       ]
@@ -134,7 +345,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "综合"
       ]
@@ -150,7 +361,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:24.255Z",
+      "fetchedAt": "2026-09-10T08:42:31.888Z",
       "tags": [
         "AI应用"
       ]
@@ -166,7 +377,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:24.255Z",
+      "fetchedAt": "2026-09-10T08:42:31.888Z",
       "tags": [
         "综合"
       ]
@@ -182,7 +393,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:24.255Z",
+      "fetchedAt": "2026-09-10T08:42:31.888Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -199,7 +410,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -216,7 +427,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-10T03:30:25.389Z",
+      "fetchedAt": "2026-09-10T08:42:32.876Z",
       "tags": [
         "综合"
       ]
@@ -232,7 +443,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
       ]
@@ -248,7 +459,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:24.255Z",
+      "fetchedAt": "2026-09-10T08:42:31.888Z",
       "tags": [
         "AI应用"
       ]
@@ -264,7 +475,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-10T03:30:18.658Z",
+      "fetchedAt": "2026-09-10T08:42:26.530Z",
       "tags": [
         "AI应用"
       ]
@@ -280,7 +491,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
       ]
@@ -296,7 +507,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
       ]
@@ -312,7 +523,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
       ]
@@ -328,7 +539,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
       ]
@@ -344,7 +555,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:24.255Z",
+      "fetchedAt": "2026-09-10T08:42:31.888Z",
       "tags": [
         "政策监管"
       ]
@@ -360,7 +571,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:25.757Z",
+      "fetchedAt": "2026-09-10T08:42:33.370Z",
       "tags": [
         "综合"
       ]
@@ -376,7 +587,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-10T03:30:25.389Z",
+      "fetchedAt": "2026-09-10T08:42:32.876Z",
       "tags": [
         "学术研究"
       ]
@@ -392,7 +603,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-09-10T03:30:25.389Z",
+      "fetchedAt": "2026-09-10T08:42:32.876Z",
       "tags": [
         "综合"
       ]
@@ -408,7 +619,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "开源工具"
       ]
@@ -424,7 +635,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan, Theresa Loconsolo",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "开源工具"
       ]
@@ -440,7 +651,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
       ]
@@ -456,7 +667,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "学术研究"
       ]
@@ -472,7 +683,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
       ]
@@ -488,7 +699,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "综合"
       ]
@@ -504,7 +715,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "综合"
       ]
@@ -520,7 +731,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
       ]
@@ -536,7 +747,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:24.255Z",
+      "fetchedAt": "2026-09-10T08:42:31.888Z",
       "tags": [
         "AI应用"
       ]
@@ -552,7 +763,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-10T03:30:25.757Z",
+      "fetchedAt": "2026-09-10T08:42:33.370Z",
       "tags": [
         "政策监管"
       ]
@@ -568,7 +779,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "商业融资"
       ]
@@ -584,7 +795,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-10T03:30:24.515Z",
+      "fetchedAt": "2026-09-10T08:42:32.116Z",
       "tags": [
         "综合"
       ]
@@ -600,219 +811,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-10T03:30:24.018Z",
+      "fetchedAt": "2026-09-10T08:42:31.651Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Students who use AI generally score worse at school",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
-      "snippet": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report.",
-      "pubDate": "2026-09-09T12:05:01.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:24.255Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "11家Coding平台首同场、近七成参赛者未满18岁，AI Coding第一次有了“全民样本”",
-      "link": "https://www.leiphone.com/category/industrynews/qYzjYFvO8ZwUF0yC.html",
-      "snippet": "9月9日，外滩大会现场诞生一项新的吉尼斯世界纪录。 外滩黑客松·AI Coding大赛完成吉尼斯世界纪录认证，以AI应用作品数创造“线上生成式人工智能编程马拉松大赛中开发最多的应用”这一新纪录，成为国内首个以AI Coding为主题挑战世界纪录的赛事。赛事吸引上万名参赛者，共完成万件AI应用作品，其",
-      "pubDate": "Wed, 09 Sep 2026 19:20:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:23.746Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Man told ChatGPT he was feeling delusional. ChatGPT insisted he was Jesus.",
-      "link": "https://arstechnica.com/tech-policy/2026/09/man-told-chatgpt-he-was-feeling-delusional-chatgpt-insisted-he-was-jesus/",
-      "snippet": "Man with bipolar disorder sued OpenAI after surviving ChatGPT-linked suicide attempt.",
-      "pubDate": "Wed, 09 Sep 2026 11:00:10 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-10T03:30:25.389Z",
-      "tags": [
-        "大模型",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "snippet": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "pubDate": "Wed, 09 Sep 2026 11:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:25.757Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "全球首个诊脉灵巧手亮相，打造它的公司却说自己只做触觉",
-      "link": "https://www.leiphone.com/category/robot/nDORMeqWgd7ZV76p.html",
-      "snippet": "2026年以来，具身智能依旧是一级市场最受关注的赛道之一。本体、模型、场景和应用的竞争持续升温，连带着上游的传感器环节也一起热了起来。 触觉传感器，就是这条产业链上最先拥挤起来的环节之一。过去两年，涌进这个赛道的公司多达25家，数采设备、数据手套几乎成了标配动作。行业的主流叙事也很一致：具身智能缺触",
-      "pubDate": "Wed, 09 Sep 2026 18:22:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:23.746Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "link": "https://www.qbitai.com/2026/09/486370.html",
-      "snippet": "",
-      "pubDate": "Wed, 09 Sep 2026 09:57:54 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-10T03:30:18.658Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-      "snippet": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the",
-      "pubDate": "2026-09-09T09:56:28.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:24.255Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "阿里国际站9月采购节首周开门红：买驱GMV同比增长近20%",
-      "link": "https://www.leiphone.com/category/industrynews/mMUTuLmEVPxWmBVW.html",
-      "snippet": "全球采购旺季来袭，阿里国际站9月采购节首周开局强劲，买驱GMV同比增长近20%，高质量商机同比增长25.4%，近90%的行业实现正增长，覆盖消费电子、美妆个护、机械、新能源、包装印刷等多个类目。   相比单一市场或品类的短期爆发，本届采购节需求多级释放，美国、加拿大、西班牙、英国等市场均保持高增长，",
-      "pubDate": "Wed, 09 Sep 2026 17:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:23.746Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "300余城Apple授权店将在美团闪购首发iPhone新品：现货最快30分钟送达",
-      "link": "https://www.leiphone.com/category/industrynews/3cjNjz7w9CoMvz8I.html",
-      "snippet": "2026年Apple秋季新品发布会将于北京时间9月10日凌晨召开。业界普遍预计，iPhone 18 Pro系列以及Apple首款折叠屏产品都有望亮相。记者获悉，今年的Apple的各类新品继续在美团闪购同步首发，9月10日起，消费者可在美团搜索“闪电新品”抢购新品，发售当日，全国各地的Apple授权专",
-      "pubDate": "Wed, 09 Sep 2026 17:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:23.746Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Batteries just broke another record in the US",
-      "link": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "snippet": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according t",
-      "pubDate": "Wed, 09 Sep 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Casey Crownhart",
-      "fetchedAt": "2026-09-10T03:30:24.515Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Understanding the thermal ceiling in portable power",
-      "link": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "snippet": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device prote",
-      "pubDate": "Wed, 09 Sep 2026 08:18:13 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Shuo Yang",
-      "fetchedAt": "2026-09-10T03:30:24.515Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "萨金特谈AI新经济：AI仍处于“开普勒阶段”，面对未知最需要保持谦逊",
-      "link": "https://www.leiphone.com/category/industrynews/M2UgtoHJVKUZw57n.html",
-      "snippet": "“美国正涌入AI的巨额投资，建立在可疑的模型之上。没人真正知道这些模型最终会产出什么。” 9月9日，2011年诺贝尔经济学奖得主、纽约大学教授托马斯·萨金特（Thomas Sargent）在2026 Inclusion·外滩大会见解论坛上表示，AI正在成为推动经济增长的重要力量，但围绕AI的投资、决",
-      "pubDate": "Wed, 09 Sep 2026 16:04:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:23.746Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "蚂蚁阿福与河北肿瘤医院在癌症领域取得研究突破：用AI提前预测胃癌术后风险",
-      "link": "https://www.leiphone.com/category/aihealth/8VqH5FyMaoSEnGPN.html",
-      "snippet": "近日，肿瘤学顶级期刊Annals of Oncology接收了一项来自中国的研究：人工智能模型DeepComp可以在胃癌手术开始之前，利用常规增强CT与常规临床资料，同时预测患者术后发生中重度并发症的概率与长期生存风险。 这是同一支团队近期登上顶级期刊的第三项研究。另外两项研究——预测胃癌术后早期复",
-      "pubDate": "Wed, 09 Sep 2026 15:49:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-10T03:30:23.746Z",
-      "tags": [
-        "学术研究"
       ]
     }
   ]
