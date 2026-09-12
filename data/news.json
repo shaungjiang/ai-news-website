@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-09-11T22:22:47.273Z",
+  "generatedAt": "2026-09-12T03:43:26.073Z",
   "stats": {
-    "total": 110,
+    "total": 102,
     "shown": 50,
     "chinese": 30,
-    "english": 80,
-    "today": 50
+    "english": 72,
+    "today": 0
   },
   "articles": [
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
-      "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
-      "snippet": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather t",
-      "pubDate": "Fri, 11 Sep 2026 22:01:08 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "snippet": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier m",
+      "pubDate": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
       "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-11T22:18:14.915Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
-      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
-      "snippet": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades wh",
-      "pubDate": "Fri, 11 Sep 2026 21:05:55 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-11T22:18:14.915Z",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-12T03:33:33.842Z",
       "tags": [
         "大模型"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "snippet": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
       "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "snippet": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "snippet": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robus",
       "pubDate": "Fri, 11 Sep 2026 20:59:47 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-11T22:18:11.678Z",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-11T22:18:11.678Z",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.958Z",
+      "fetchedAt": "2026-09-12T03:33:32.388Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-11T22:18:11.678Z",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-11T22:18:11.678Z",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +131,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-09-11T22:18:12.279Z",
+      "fetchedAt": "2026-09-12T03:33:32.694Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-11T22:18:11.678Z",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-09-11T22:18:13.332Z",
+      "fetchedAt": "2026-09-12T03:33:33.447Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -180,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-09-11T22:18:11.678Z",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
       "tags": [
         "学术研究"
       ]
@@ -196,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-11T22:18:11.678Z",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
       "tags": [
         "商业融资"
       ]
@@ -228,9 +228,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.958Z",
+      "fetchedAt": "2026-09-12T03:33:32.388Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "snippet": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-12T03:33:33.842Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -244,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.958Z",
+      "fetchedAt": "2026-09-12T03:33:32.388Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +292,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Zehra Munir, Financial Times\n                ",
-      "fetchedAt": "2026-09-11T22:18:13.332Z",
+      "fetchedAt": "2026-09-12T03:33:33.447Z",
       "tags": [
         "大模型"
       ]
@@ -308,7 +324,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-11T22:18:12.279Z",
+      "fetchedAt": "2026-09-12T03:33:32.694Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +340,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -341,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +373,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:13.928Z",
+      "fetchedAt": "2026-09-12T03:33:33.842Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -374,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "商业融资"
       ]
@@ -390,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "大模型"
       ]
@@ -406,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -439,7 +455,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-11T22:18:12.279Z",
+      "fetchedAt": "2026-09-12T03:33:32.694Z",
       "tags": [
         "开源工具"
       ]
@@ -455,7 +471,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "综合"
       ]
@@ -471,7 +487,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "开源工具"
       ]
@@ -487,7 +503,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -504,23 +520,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cohere Releases North Small Translate: A 218B MoE Translation Model That Scores 83.6 on WMT26 Across 50 Languages",
-      "link": "https://www.marktechpost.com/2026/09/10/cohere-releases-north-small-translate-a-218b-moe-translation-model-that-scores-83-6-on-wmt26-across-50-languages/",
-      "snippet": "Cohere has released North Small Translate, an open-weight Mixture-of-Experts model built for machine translation across 50 languages. It uses 25B of i",
-      "pubDate": "Fri, 11 Sep 2026 06:57:22 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-11T22:18:14.915Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "AI应用"
       ]
@@ -536,26 +536,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "AI应用",
         "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Sakana AI Launches Fugu Max and Fugu Ultra v2 for Cheaper, Stronger Multi-Agent Orchestration",
-      "link": "https://www.marktechpost.com/2026/09/10/sakana-ai-launches-fugu-max-and-fugu-ultra-v2-for-cheaper-stronger-multi-agent-orchestration/",
-      "snippet": "Sakana AI has released Fugu Max and Fugu Ultra v2, 2 models built on the same learned orchestration architecture. Fugu Max routes tasks to lean open a",
-      "pubDate": "Fri, 11 Sep 2026 06:34:39 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-11T22:18:14.915Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -569,7 +553,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "综合"
       ]
@@ -585,7 +569,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "商业融资"
       ]
@@ -601,26 +585,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google Research Releases ToolGrad: Answer-First Framework Hits 99.8% Pass Rate for Tool-Use Data Generation",
-      "link": "https://www.marktechpost.com/2026/09/10/google-research-releases-toolgrad-answer-first-framework-hits-99-8-pass-rate-for-tool-use-data-generation/",
-      "snippet": "Google Research has released ToolGrad, an ACL 2026 Findings framework that inverts tool-use dataset generation: it builds a verified API chain first,",
-      "pubDate": "Fri, 11 Sep 2026 06:01:25 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-11T22:18:14.915Z",
-      "tags": [
-        "开源工具",
-        "学术研究"
       ]
     },
     {
@@ -634,7 +601,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "综合"
       ]
@@ -650,7 +617,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "综合"
       ]
@@ -666,7 +633,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -683,7 +650,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "商业融资"
       ]
@@ -699,7 +666,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "开源工具"
       ]
@@ -715,7 +682,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -732,7 +699,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "综合"
       ]
@@ -748,7 +715,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "AI应用"
       ]
@@ -764,7 +731,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "综合"
       ]
@@ -780,7 +747,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-11T22:18:11.371Z",
+      "fetchedAt": "2026-09-12T03:33:31.817Z",
       "tags": [
         "综合"
       ]
@@ -796,7 +763,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "综合"
       ]
@@ -812,9 +779,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-09-11T22:18:07.955Z",
+      "fetchedAt": "2026-09-12T03:33:27.454Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+      "snippet": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+      "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+      "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+      "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-12T03:33:32.138Z",
+      "tags": [
+        "综合"
       ]
     }
   ]
