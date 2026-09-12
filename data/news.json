@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-12T20:21:46.615Z",
+  "generatedAt": "2026-09-12T23:55:38.070Z",
   "stats": {
-    "total": 83,
+    "total": 113,
     "shown": 50,
-    "chinese": 10,
-    "english": 73,
-    "today": 11
+    "chinese": 30,
+    "english": 83,
+    "today": 23
   },
   "articles": [
     {
@@ -19,9 +19,25 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:06.277Z",
+      "fetchedAt": "2026-09-12T23:48:58.150Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "snippet": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -35,41 +51,58 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "snippet": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to h",
-      "pubDate": "2026-09-12T16:23:40.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+      "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+      "snippet": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, the",
+      "pubDate": "Sat, 12 Sep 2026 18:51:24 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
       "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-12T23:49:00.508Z",
       "tags": [
-        "综合"
+        "大模型"
       ]
     },
     {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Trump is giving data centers a pass to pollute",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "snippet": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for",
-      "pubDate": "2026-09-12T14:41:27.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "2026外滩大会闭幕：50余项科技成果首发首展， 80多个产业合作达成意向",
+      "link": "https://www.leiphone.com/category/industrynews/2AopCWDkpGmBAL9L.html",
+      "snippet": "9月12日，2026 Inclusion·外滩大会在上海黄浦世博园区闭幕。围绕“共创AI新经济”主题，来自研究一线、产业一线、投资界的670余位嘉宾深入探讨了人工智能对生产、消费、商业及社会形态的深刻影响。300余家企业集中展示了AI技术在医疗健康、支付、金融、零售、生活服务等真实场景中的最新应用成",
+      "pubDate": "Sat, 12 Sep 2026 20:14:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
       "tags": [
-        "政策监管"
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "0团队、1台电脑、全球70国用户，外滩大会见证个人造风者登场",
+      "link": "https://www.leiphone.com/category/industrynews/Elgap4KyV9VEWLce.html",
+      "snippet": "科技圈从来不缺“按资排辈”的舞台，但这个9月，在上海黄浦江畔举行的2026 Inclusion·外滩大会，正在打破常规。   穿行于大会现场，记者感受到了一种强烈的叙事转向：在全新的技术周期里，资历的壁垒正在坍缩，未来正被第一批AI原住民重新执笔。这主要体现在，主论坛和见解论坛的聚光灯不再仅仅留给功",
+      "pubDate": "Sat, 12 Sep 2026 19:57:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -83,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +132,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Timothy B. Lee\n                ",
-      "fetchedAt": "2026-09-12T20:17:05.840Z",
+      "fetchedAt": "2026-09-12T23:48:57.648Z",
       "tags": [
         "综合"
       ]
@@ -115,9 +148,41 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
+      "fetchedAt": "2026-09-12T23:48:56.280Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从“GPASS”到“灵影”，蚂蚁为AI终端铺设Agent基础设施",
+      "link": "https://www.leiphone.com/category/industrynews/XOOL34t59O0TvCAQ.html",
+      "snippet": "9月11日，在2026 Inclusion·外滩大会“AI驱动新终端新服务”论坛上，蚂蚁集团宣布，GPASS智能终端可信连接技术框架正式升级为“灵影”。 灵影定位于面向AI眼镜等新终端的Agent原生操作系统及开放平台，围绕自然交互、智能体运行、多端协同和安全可信提供底层能力，并向芯片伙伴、硬件厂商",
+      "pubDate": "Sat, 12 Sep 2026 17:13:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "师生激辩外滩大会：云谷学校论坛给出一份“教育AI使用说明书”",
+      "link": "https://www.leiphone.com/category/industrynews/0i0LRe3Ohg0FXYk1.html",
+      "snippet": "9月12日上午，由杭州云谷学校与《三联生活周刊》联合推出的2026 Inclusion·外滩大会见解论坛教育专场，在上海黄浦世博园区举行。论坛以“认知增强，还是认知外包？——AI时代的教育选择”为主题，从人文、艺术到技术视角，从一线课堂到未来职场，各位嘉宾围绕“人是什么”的哲学思考、“什么能交出去、",
+      "pubDate": "Sat, 12 Sep 2026 17:01:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -131,9 +196,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
       "tags": [
         "政策监管",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从完成任务到自主发现，Agent后训练寻找下一个Scaling Law",
+      "link": "https://www.leiphone.com/category/industrynews/e7IcZ05CQ6HtNZZ2.html",
+      "snippet": "当大模型开始调用工具、执行复杂任务，衡量其能力的标准也在发生变化：不仅要看能否给出正确答案，更要看能否在真实环境中持续行动、检查结果，并根据反馈调整策略。从模型能力到任务价值，这一转变需要怎样的训练方法与基础设施？智能体能否在工作中积累经验、不断进化，进而打开新的能力增长空间？ 9月12日上午202",
+      "pubDate": "Sat, 12 Sep 2026 16:40:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
         "大模型"
       ]
     },
@@ -148,7 +229,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "外滩大会蚂蚁集团吴敏芝谈AI时代组织价值：个体越强，组织越要回答凭什么留住人才",
+      "link": "https://www.leiphone.com/category/industrynews/1kiVmZKNSYhfRDdS.html",
+      "snippet": "“都说AI让我们效率更高了，为什么我们反而变得更累了？”“自己每天教AI工作，是不是也在训练未来的替代者。”今年“外滩大会AI科技人文十问”中的这两个问题道出了AI进入工作之后人们的期待与不安，也引出了组织需要回答的问题：效率提升如何带来共同成长，个体能力增强之后，组织又靠什么凝聚人才？   9月1",
+      "pubDate": "Sat, 12 Sep 2026 15:56:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
       "tags": [
         "综合"
       ]
@@ -164,9 +261,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "AI重塑支付：从工具到生态，一场关于价值重估的产业对话",
+      "link": "https://www.leiphone.com/category/industrynews/XVMBHPxkYkYLjpvy.html",
+      "snippet": "过去的支付，是人完成交易的最后一步；到了智能体时代，支付成为AI进入真实商业世界的关键一步。   9月11日，在2026 Inclusion·外滩大会“Agentic Commerce的新可能”圆桌上，Kimi增长与商业化技术负责人付强、自然选择创始人Tristan、BAI资本高级合伙人赵鹏岚、蚂蚁",
+      "pubDate": "Sat, 12 Sep 2026 14:43:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "外滩大会三问具身智能： 模型、数据、生态如何突围？",
+      "link": "https://www.leiphone.com/category/industrynews/7lsrguW2f4twY8wp.html",
+      "snippet": "9月11日，蚂蚁灵波科技在2026 Inclusion·外滩大会举行“基座之上：具身智能的场景突围与协同进化”论坛。多位具身智能领域的年轻科学家、数据专家与百亿具身企业掌门人齐聚，围绕通用大脑、数据飞轮与场景落地展开讨论，现场座无虚席。   具身智能正处在一个焦灼时刻：行业热度不断升高，人们对机器人",
+      "pubDate": "Sat, 12 Sep 2026 14:10:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -180,9 +309,42 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从加油到高速服务，动口不动手：蚂蚁阿宝三大车载AI能力亮相2026外滩大会",
+      "link": "https://www.leiphone.com/category/industrynews/JNsgMV0H4k0FbeXy.html",
+      "snippet": "9月9日至12日，2026 Inclusion·外滩大会在上海举办。大会集中展示AI智能体从技术创新走向规模化民生商用的最新成果，在智能座舱板块，支付宝重磅发布三大全新产品能力，让车内AI服务从“基础交互”迈入“全场景可交易、全链路能办事”的新阶段。   此前，支付宝发布AHA多智能体跨端互联协议体",
+      "pubDate": "Sat, 12 Sep 2026 13:56:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "支付宝携手多方共建“一碰通行”生态联盟，推动智慧出行体验全面升级",
+      "link": "https://www.leiphone.com/category/industrynews/ybhEq0EjaXTkYCGM.html",
+      "snippet": "9月11日，2026外滩大会期间，支付宝联合上海公共交通卡、北京市政交通一卡通，以及华为、OPPO、vivo、荣耀等主流手机厂商，共同成立出行生态共创联盟。各方将发挥各自在交通服务、终端设备、支付能力等领域的优势，整合生态资源，以上海、北京为先行示范，加速推动NFC“一碰通行”在更多终端设备和出行场",
+      "pubDate": "Sat, 12 Sep 2026 13:50:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -196,9 +358,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "外滩大会观察：AI进入产业，数据正在成为新动能",
+      "link": "https://www.leiphone.com/category/industrynews/A1m4SqClWZQDhIoO.html",
+      "snippet": "AI时代，数据的价值正在被重新发现。 9月9日至12日，2026 Inclusion·外滩大会在上海世博园举行。相比过去聚焦“AI能做什么”，今年大会上，一个更底层的问题被反复讨论：当AI真正进入产业，企业手里的海量数据，如何才能被AI真正用起来？ 在“数智进化：让多模态数据成为AI核心燃料”见解论",
+      "pubDate": "Sat, 12 Sep 2026 11:06:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "AI能否自主做研究？听听这些专家怎么说",
+      "link": "https://www.leiphone.com/category/industrynews/Xlz0dFtywcRmmVfB.html",
+      "snippet": "当人工智能开始参与提出假设、设计实验，并根据实验结果调整研究方向，AI与科学研究的关系正在发生变化。从材料发现到生命系统模拟，再到创新药研发，AI for Science的探索正从单个环节的效率提升，走向对科研过程的系统性重构。 如何让AI持续产生可验证的新知识，如何打通计算模型与真实实验之间的循环",
+      "pubDate": "Sat, 12 Sep 2026 09:59:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -212,9 +406,41 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+      "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+      "snippet": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather t",
+      "pubDate": "Fri, 11 Sep 2026 22:01:08 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-12T23:49:00.508Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+      "snippet": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades wh",
+      "pubDate": "Fri, 11 Sep 2026 21:05:55 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-12T23:49:00.508Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -228,7 +454,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +486,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
+      "fetchedAt": "2026-09-12T23:48:56.280Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +502,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +518,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +534,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-09-12T20:17:04.912Z",
+      "fetchedAt": "2026-09-12T23:48:56.692Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +550,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "商业融资"
       ]
@@ -340,7 +566,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-09-12T20:17:05.840Z",
+      "fetchedAt": "2026-09-12T23:48:57.648Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -357,7 +583,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "学术研究"
       ]
@@ -373,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +615,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.955Z",
       "tags": [
         "商业融资"
       ]
@@ -405,7 +631,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
+      "fetchedAt": "2026-09-12T23:48:56.280Z",
       "tags": [
         "AI应用"
       ]
@@ -421,7 +647,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:06.277Z",
+      "fetchedAt": "2026-09-12T23:48:58.150Z",
       "tags": [
         "大模型"
       ]
@@ -437,7 +663,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
+      "fetchedAt": "2026-09-12T23:48:56.280Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
+      "fetchedAt": "2026-09-12T23:48:51.430Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +711,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Zehra Munir, Financial Times\n                ",
-      "fetchedAt": "2026-09-12T20:17:05.840Z",
+      "fetchedAt": "2026-09-12T23:48:57.648Z",
       "tags": [
         "大模型"
       ]
@@ -501,7 +727,40 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-12T20:17:04.912Z",
+      "fetchedAt": "2026-09-12T23:48:56.692Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从一台车出发到三百城，九识成为城市治理的「运力底座」",
+      "link": "https://www.leiphone.com/category/transportation/JXhS5Joxp68qFEmE.html",
+      "snippet": "当多数公司还在发布会的PPT里讲“物理AI”的故事时，九识的无人车规模已经超过3万辆，覆盖300余座城市，累计真实运营里程达到2.5亿公里。 近日，九识召开战略发布会，宣布公司未来重心将聚焦物理AI赋能城市治理。九识的特别之处在于，别的公司是先提出Physical AI，再寻找应用场景，而九识是先让",
+      "pubDate": "Fri, 11 Sep 2026 18:54:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "突破舱驾融合瓶颈，德赛西威给出「双优」新解法",
+      "link": "https://www.leiphone.com/category/transportation/cgxm7O53FRlftYwO.html",
+      "snippet": "更精简的架构，更迅速的响应速度，是智能汽车进化的方向，而舱驾一体，则是智能汽车进化的一个节点。 佐思汽研预测，2026年到2030年中国舱驾一体市场年复合增长率将达36%，到2030年还有3.6倍的增长空间。 然而，当舱驾一体真正进入量产阶段，座舱和智驾被装进同一颗芯片，有限的算力却越来越向智驾倾斜",
+      "pubDate": "Fri, 11 Sep 2026 18:46:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
       "tags": [
         "综合"
       ]
@@ -517,299 +776,42 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:06.277Z",
+      "fetchedAt": "2026-09-12T23:48:58.150Z",
       "tags": [
         "大模型",
         "开源工具"
       ]
     },
     {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "link": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "snippet": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Inn",
-      "pubDate": "Fri, 11 Sep 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-12T20:17:04.912Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "不简单，“吃货快乐榜”也全面AI化了",
-      "link": "https://www.qbitai.com/2026/09/487282.html",
-      "snippet": "",
-      "pubDate": "Fri, 11 Sep 2026 08:59:28 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "半世纪前的AI画作到AI歌手线下开唱，2026外滩大会AI艺术节勾勒人机共创新图景",
+      "link": "https://www.leiphone.com/category/industrynews/9kc5LWEjsnYINmQO.html",
+      "snippet": "当AI开始绘画、拍电影，甚至“出道”成为艺人，艺术的边界在哪里？ 9月9日，随着2026 Inclusion·外滩大会在上海开幕，大会首次设立的特色板块——AI艺术节同步亮相。围绕AI概念艺术展、AI影像展映、AI音乐会三大单元，这场由AI与人类共同参与的艺术实践，将原本更多发生在线上的AI创作带到",
+      "pubDate": "Fri, 11 Sep 2026 17:59:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
       "category": "综合",
-      "creator": "林, 方舟",
-      "fetchedAt": "2026-09-12T20:16:54.716Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "snippet": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
-      "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "snippet": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "snippet": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly insi",
-      "pubDate": "2026-09-10T21:25:21.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "snippet": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "pubDate": "Thu, 10 Sep 2026 20:59:51 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "snippet": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months",
-      "pubDate": "Thu, 10 Sep 2026 20:57:30 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "snippet": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "pubDate": "Thu, 10 Sep 2026 19:50:04 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "snippet": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, it",
-      "pubDate": "2026-09-10T19:44:20.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Panic builds over bankrupt Spirit’s looming data sale to Google",
-      "link": "https://arstechnica.com/tech-policy/2026/09/panic-builds-over-bankrupt-spirits-looming-data-sale-to-google/",
-      "snippet": "\"Bankruptcy cannot become the new land grab for AI.”",
-      "pubDate": "Thu, 10 Sep 2026 18:14:14 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-12T20:17:05.840Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "snippet": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "pubDate": "Thu, 10 Sep 2026 17:54:44 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "snippet": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "pubDate": "Thu, 10 Sep 2026 17:45:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "link": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "snippet": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "pubDate": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-12T20:17:06.277Z",
-      "tags": [
-        "大模型",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "snippet": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes,",
-      "pubDate": "2026-09-10T15:38:19.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Meta’s Muse AI works and creeps me out",
-      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "snippet": "I turned my Muse assistant into a purple cat. | Screenshot: The Verge\t  Meta has launched its new Muse assistant, marking the company's first real for",
-      "pubDate": "2026-09-10T15:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-12T20:17:04.606Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Now everyone can put data to work",
-      "link": "https://openai.com/index/put-data-to-work",
-      "snippet": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "pubDate": "Thu, 10 Sep 2026 15:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-12T20:17:06.277Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI agents are flooding public services with new requests",
-      "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-      "snippet": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
-      "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Maven Robotics wants to steal your robot deployment deal",
-      "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-      "snippet": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-      "pubDate": "Thu, 10 Sep 2026 14:17:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-12T20:17:04.329Z",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "不堆 Transformer，斯坦福吴佳俊如何用物理重新定义多模态融合？｜ECCV 2026",
+      "link": "https://www.leiphone.com/category/private/rSWX8JI9JPPBvt0j.html",
+      "snippet": "视觉、听觉、触觉三种数据，其实是同一组物理属性在不同感官通道上的投影。          作者丨陈淑瑜     编辑丨岑   峰",
+      "pubDate": "Fri, 11 Sep 2026 17:39:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "tags": [
+        "大模型"
       ]
     }
   ]
