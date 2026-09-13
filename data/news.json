@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-12T23:55:38.070Z",
+  "generatedAt": "2026-09-13T03:49:38.306Z",
   "stats": {
-    "total": 113,
+    "total": 103,
     "shown": 50,
     "chinese": 30,
-    "english": 83,
-    "today": 23
+    "english": 73,
+    "today": 0
   },
   "articles": [
     {
@@ -19,9 +19,41 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:58.150Z",
+      "fetchedAt": "2026-09-13T03:39:46.388Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI’s rogue AI tried to hack another company in May",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "snippet": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have",
+      "pubDate": "2026-09-12T21:41:36.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-13T03:39:45.133Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "snippet": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman disc",
+      "pubDate": "2026-09-12T21:16:28.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-13T03:39:45.133Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "商业融资"
       ]
@@ -51,25 +83,41 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
-      "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
-      "snippet": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, the",
-      "pubDate": "Sat, 12 Sep 2026 18:51:24 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic CEO says it’s time to pump the brakes on AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "snippet": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to h",
+      "pubDate": "2026-09-12T16:23:40.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
       "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-12T23:49:00.508Z",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-13T03:39:45.133Z",
       "tags": [
-        "大模型"
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Trump is giving data centers a pass to pollute",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "snippet": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for",
+      "pubDate": "2026-09-12T14:41:27.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-13T03:39:45.133Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -83,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -100,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "AI应用"
       ]
@@ -132,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Timothy B. Lee\n                ",
-      "fetchedAt": "2026-09-12T23:48:57.648Z",
+      "fetchedAt": "2026-09-13T03:39:45.992Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:56.280Z",
+      "fetchedAt": "2026-09-13T03:39:45.133Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "政策监管"
       ]
@@ -180,7 +228,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "政策监管",
         "大模型"
@@ -213,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "大模型"
       ]
@@ -229,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "综合"
       ]
@@ -245,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "大模型"
       ]
@@ -277,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "商业融资"
       ]
@@ -293,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "AI应用"
       ]
@@ -309,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "商业融资"
       ]
@@ -325,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -342,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "AI应用"
       ]
@@ -358,7 +406,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +422,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +438,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "学术研究"
       ]
@@ -406,41 +454,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
-      "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
-      "snippet": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather t",
-      "pubDate": "Fri, 11 Sep 2026 22:01:08 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-12T23:49:00.508Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
-      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
-      "snippet": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades wh",
-      "pubDate": "Fri, 11 Sep 2026 21:05:55 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-12T23:49:00.508Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -454,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +486,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +502,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:56.280Z",
+      "fetchedAt": "2026-09-13T03:39:45.133Z",
       "tags": [
         "AI应用"
       ]
@@ -502,7 +518,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +534,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +550,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-09-12T23:48:56.692Z",
+      "fetchedAt": "2026-09-13T03:39:45.383Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +566,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "商业融资"
       ]
@@ -566,7 +582,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-09-12T23:48:57.648Z",
+      "fetchedAt": "2026-09-13T03:39:45.992Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -583,7 +599,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "学术研究"
       ]
@@ -599,7 +615,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "综合"
       ]
@@ -615,7 +631,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-12T23:48:55.955Z",
+      "fetchedAt": "2026-09-13T03:39:44.806Z",
       "tags": [
         "商业融资"
       ]
@@ -631,7 +647,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:56.280Z",
+      "fetchedAt": "2026-09-13T03:39:45.133Z",
       "tags": [
         "AI应用"
       ]
@@ -647,7 +663,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:58.150Z",
+      "fetchedAt": "2026-09-13T03:39:46.388Z",
       "tags": [
         "大模型"
       ]
@@ -663,7 +679,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:56.280Z",
+      "fetchedAt": "2026-09-13T03:39:45.133Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "综合"
       ]
@@ -695,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-12T23:48:51.430Z",
+      "fetchedAt": "2026-09-13T03:39:40.304Z",
       "tags": [
         "综合"
       ]
@@ -711,7 +727,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Zehra Munir, Financial Times\n                ",
-      "fetchedAt": "2026-09-12T23:48:57.648Z",
+      "fetchedAt": "2026-09-13T03:39:45.992Z",
       "tags": [
         "大模型"
       ]
@@ -727,7 +743,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-12T23:48:56.692Z",
+      "fetchedAt": "2026-09-13T03:39:45.383Z",
       "tags": [
         "综合"
       ]
@@ -743,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -760,7 +776,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "综合"
       ]
@@ -776,7 +792,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:58.150Z",
+      "fetchedAt": "2026-09-13T03:39:46.388Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -793,25 +809,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
+      "fetchedAt": "2026-09-13T03:39:44.502Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "不堆 Transformer，斯坦福吴佳俊如何用物理重新定义多模态融合？｜ECCV 2026",
-      "link": "https://www.leiphone.com/category/private/rSWX8JI9JPPBvt0j.html",
-      "snippet": "视觉、听觉、触觉三种数据，其实是同一组物理属性在不同感官通道上的投影。          作者丨陈淑瑜     编辑丨岑   峰",
-      "pubDate": "Fri, 11 Sep 2026 17:39:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-12T23:48:55.568Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
