@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-13T18:44:44.352Z",
+  "generatedAt": "2026-09-13T22:16:18.731Z",
   "stats": {
-    "total": 101,
+    "total": 111,
     "shown": 50,
     "chinese": 30,
-    "english": 71,
-    "today": 10
+    "english": 81,
+    "today": 17
   },
   "articles": [
     {
@@ -19,7 +19,71 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:52.567Z",
+      "fetchedAt": "2026-09-13T22:10:39.373Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Hierarchical NeRF with JAX3D for Volumetric Rendering, Novel-View Synthesis, and 3D Reconstruction",
+      "link": "https://www.marktechpost.com/2026/09/13/hierarchical-nerf-with-jax3d-for-volumetric-rendering-novel-view-synthesis-and-3d-reconstruction/",
+      "snippet": "In this tutorial, we build an end-to-end hierarchical Neural Radiance Field (NeRF) using JAX, Flax, Optax, and the volume-rendering primitives provide",
+      "pubDate": "Sun, 13 Sep 2026 19:46:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "snippet": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's",
+      "pubDate": "2026-09-13T19:41:48.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-13T22:10:38.016Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-09-13T22:10:37.783Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
+      "link": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
+      "snippet": "Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hid",
+      "pubDate": "Sun, 13 Sep 2026 17:02:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-13T18:34:50.862Z",
+      "fetchedAt": "2026-09-13T22:10:37.783Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -68,7 +132,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "AI应用"
       ]
@@ -84,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "AI应用"
       ]
@@ -100,9 +164,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "AWS Introduces Pizza Bot: An Open Source Inbox for Background AI Agents",
+      "link": "https://www.marktechpost.com/2026/09/13/aws-introduces-pizza-bot-an-open-source-inbox-for-background-ai-agents/",
+      "snippet": "Pizza Bot is an open source, self-hosted inbox for AI agents built on DeepAgents and LangGraph. It combines persistent task state, MCP integrations, c",
+      "pubDate": "Sun, 13 Sep 2026 08:10:51 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -116,7 +196,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "商业融资"
       ]
@@ -132,7 +212,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "开源工具"
       ]
@@ -148,9 +228,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Context Engineering Inside the Harness: 4 Mechanisms That Beat Context Overflow and Goal Loss on Long-Horizon Tasks",
+      "link": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks/",
+      "snippet": "A shallow agent is an LLM calling tools in a loop, and on long tasks it fails in 2 ways: context overflow and goal loss. This article opens the harnes",
+      "pubDate": "Sun, 13 Sep 2026 05:56:03 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -164,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "商业融资"
       ]
@@ -180,7 +276,39 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Implementation of Machine Learning Workflows with NVIDIA cuML, RAPIDS, GPU Benchmarking, Explainability, Clustering, and Model Inference",
+      "link": "https://www.marktechpost.com/2026/09/12/implementation-of-machine-learning-workflows-with-nvidia-cuml-rapids-gpu-benchmarking-explainability-clustering-and-model-inference/",
+      "snippet": "This practical tutorial demonstrates how to build and accelerate machine learning workflows using NVIDIA cuML and RAPIDS. It covers GPU environment se",
+      "pubDate": "Sun, 13 Sep 2026 01:42:58 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Cognition Releases SWE-2: A Kimi K3 Post-Trained Coding Model That Matches Fable 5.1 on FrontierCode at 64% Lower Cost",
+      "link": "https://www.marktechpost.com/2026/09/12/cognition-releases-swe-2-a-kimi-k3-post-trained-coding-model-that-matches-fable-5-1-on-frontiercode-at-64-lower-cost/",
+      "snippet": "Cognition, the company behind the Devin coding agent, has released SWE-2, its most capable coding model to date. SWE-2 is post-trained with reinforcem",
+      "pubDate": "Sat, 12 Sep 2026 23:56:03 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:51.166Z",
+      "fetchedAt": "2026-09-13T22:10:38.016Z",
       "tags": [
         "学术研究"
       ]
@@ -212,7 +340,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:51.166Z",
+      "fetchedAt": "2026-09-13T22:10:38.016Z",
       "tags": [
         "商业融资"
       ]
@@ -228,7 +356,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-13T18:34:50.862Z",
+      "fetchedAt": "2026-09-13T22:10:37.783Z",
       "tags": [
         "商业融资"
       ]
@@ -244,9 +372,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-13T18:34:50.862Z",
+      "fetchedAt": "2026-09-13T22:10:37.783Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Fly Language Model (FLM) Wires the Full Fruit Fly Connectome Into a Frozen 1.2B LLM, and Its Own Controls Show the Wiring Does Not Help",
+      "link": "https://www.marktechpost.com/2026/09/12/fly-language-model-flm-wires-the-full-fruit-fly-connectome-into-a-frozen-1-2b-llm-and-its-own-controls-show-the-wiring-does-not-help/",
+      "snippet": "The Fly Language Model (FLM) drives all 166,700 retained neurons and 25.6 million edges of the MaleCNS fruit fly connectome with token embeddings, the",
+      "pubDate": "Sat, 12 Sep 2026 18:51:24 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -260,7 +404,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:51.166Z",
+      "fetchedAt": "2026-09-13T22:10:38.016Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +420,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:51.166Z",
+      "fetchedAt": "2026-09-13T22:10:38.016Z",
       "tags": [
         "政策监管"
       ]
@@ -292,7 +436,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -309,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +469,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +485,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Timothy B. Lee\n                ",
-      "fetchedAt": "2026-09-13T18:34:52.136Z",
+      "fetchedAt": "2026-09-13T22:10:38.972Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +501,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:51.166Z",
+      "fetchedAt": "2026-09-13T22:10:38.016Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "政策监管"
       ]
@@ -389,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "政策监管",
         "大模型"
@@ -422,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "大模型"
       ]
@@ -438,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "综合"
       ]
@@ -470,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "大模型"
       ]
@@ -486,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "商业融资"
       ]
@@ -502,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.392Z",
       "tags": [
         "商业融资"
       ]
@@ -534,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -551,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "AI应用"
       ]
@@ -567,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-13T18:34:46.439Z",
+      "fetchedAt": "2026-09-13T22:10:33.393Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "综合"
       ]
@@ -599,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-13T18:34:50.597Z",
+      "fetchedAt": "2026-09-13T22:10:37.551Z",
       "tags": [
         "学术研究"
       ]
@@ -615,9 +759,41 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-13T18:34:50.862Z",
+      "fetchedAt": "2026-09-13T22:10:37.783Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Can LLMs Engineer Their Own Agent Harness? ByteDance Seed’s HarnessDev Says Only 34 of 64 Changes Generalize",
+      "link": "https://www.marktechpost.com/2026/09/11/can-llms-engineer-their-own-agent-harness-bytedance-seeds-harnessdev-says-only-34-of-64-changes-generalize/",
+      "snippet": "ByteDance Seed, SUTD, Georgia Tech, M-A-P, and TokenWave.AI introduce HarnessDev, a benchmark that scores the runnable harness a model builds rather t",
+      "pubDate": "Fri, 11 Sep 2026 22:01:08 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Adds Plugin Evals to Claude Code: 6 Grader Types, a No-Plugin Baseline, and a CI Gate for Skills",
+      "link": "https://www.marktechpost.com/2026/09/11/anthropic-adds-plugin-evals-to-claude-code-6-grader-types-a-no-plugin-baseline-and-a-ci-gate-for-skills/",
+      "snippet": "Anthropic has published a new plugin evals workflow for Claude Code. The claude plugin eval command runs a plugin against realistic prompts, grades wh",
+      "pubDate": "Fri, 11 Sep 2026 21:05:55 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-13T22:10:40.000Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -631,186 +807,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-13T18:34:50.862Z",
+      "fetchedAt": "2026-09-13T22:10:37.783Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "snippet": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-13T18:34:50.862Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "snippet": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an appeal for his client's murder",
-      "pubDate": "2026-09-11T20:44:02.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-13T18:34:51.166Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "snippet": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "pubDate": "Fri, 11 Sep 2026 20:33:18 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-13T18:34:50.863Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "snippet": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-      "pubDate": "Fri, 11 Sep 2026 20:30:17 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-13T18:34:50.863Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Roundtables: Could AI really kill us all?",
-      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
-      "snippet": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this mor",
-      "pubDate": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "MIT Technology Review",
-      "fetchedAt": "2026-09-13T18:34:51.420Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-      "snippet": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each d",
-      "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-13T18:34:50.863Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
-      "link": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
-      "snippet": "\"I didn't know that AI could hallucinate facts,\" New Mexico defense lawyer says.",
-      "pubDate": "Fri, 11 Sep 2026 19:34:09 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-09-13T18:34:52.136Z",
-      "tags": [
-        "大模型",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-      "snippet": "An Anthropic researcher resigned this week, warning in a post on X that the company is “racing straight to self-improving superintelligence and gambli",
-      "pubDate": "Fri, 11 Sep 2026 18:41:49 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-09-13T18:34:50.863Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
-      "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
-      "snippet": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-      "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-13T18:34:50.863Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "snippet": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on",
-      "pubDate": "2026-09-11T16:09:14.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-13T18:34:51.166Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "link": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "snippet": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "pubDate": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-13T18:34:52.567Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
