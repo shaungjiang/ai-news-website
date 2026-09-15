@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-09-14T21:44:03.719Z",
+  "generatedAt": "2026-09-15T00:30:15.890Z",
   "stats": {
-    "total": 116,
+    "total": 114,
     "shown": 50,
     "chinese": 30,
-    "english": 86,
-    "today": 43
+    "english": 84,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "snippet": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the we",
+      "pubDate": "2026-09-14T22:59:41.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-15T00:21:26.455Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Agent Harness vs Agent Framework vs MCP: Which Layer Owns the Loop, State, Tools, Permissions, and Recovery",
+      "link": "https://www.marktechpost.com/2026/09/14/agent-harness-vs-agent-framework-vs-mcp-which-layer-owns-the-loop-state-tools-permissions-and-recovery/",
+      "snippet": "A practitioner's map of the 3 layers in a modern agent stack, with verified sources and an overlap analysis. The post Agent Harness vs Agent Framework",
+      "pubDate": "Mon, 14 Sep 2026 21:54:22 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-15T00:21:28.558Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "snippet": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+      "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-09-15T00:21:26.129Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "snippet": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" det",
+      "pubDate": "2026-09-14T21:21:42.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-15T00:21:26.455Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Reward AI Releases OM-1: A Robot Policy Trained on Human Demonstrations Only, With No Teleoperation or On-Robot Data",
@@ -19,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-14T21:35:16.861Z",
+      "fetchedAt": "2026-09-15T00:21:28.558Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-09-14T21:35:15.307Z",
+      "fetchedAt": "2026-09-15T00:21:27.291Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +115,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-14T21:35:16.861Z",
+      "fetchedAt": "2026-09-15T00:21:28.558Z",
       "tags": [
         "学术研究"
       ]
@@ -67,9 +131,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.129Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "snippet": "NVIDIA CEO Jensen Huang speaks during the G20 Innovation Ministerial in Chapel Hill, North Carolina, on September 2, 2026. (Photo by Matt RAMEY / AFP",
+      "pubDate": "2026-09-14T20:03:37.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-15T00:21:26.455Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -83,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-14T21:35:15.307Z",
+      "fetchedAt": "2026-09-15T00:21:27.291Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -100,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-14T21:35:15.307Z",
+      "fetchedAt": "2026-09-15T00:21:27.291Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-09-14T21:35:15.307Z",
+      "fetchedAt": "2026-09-15T00:21:27.291Z",
       "tags": [
         "AI应用"
       ]
@@ -132,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-14T21:35:15.307Z",
+      "fetchedAt": "2026-09-15T00:21:27.291Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +228,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-09-14T21:35:14.511Z",
+      "fetchedAt": "2026-09-15T00:21:26.703Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.129Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.129Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.129Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +292,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-14T21:35:14.511Z",
+      "fetchedAt": "2026-09-15T00:21:26.703Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +308,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Amit Katwala",
-      "fetchedAt": "2026-09-14T21:35:14.511Z",
+      "fetchedAt": "2026-09-15T00:21:26.703Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +324,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.129Z",
       "tags": [
         "大模型"
       ]
@@ -260,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.129Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +356,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.129Z",
       "tags": [
         "商业融资"
       ]
@@ -292,7 +372,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.130Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +388,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
+      "fetchedAt": "2026-09-15T00:21:26.130Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -325,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
+      "fetchedAt": "2026-09-15T00:21:25.907Z",
       "tags": [
         "AI应用",
         "政策监管"
@@ -342,7 +422,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:14.173Z",
+      "fetchedAt": "2026-09-15T00:21:26.455Z",
       "tags": [
         "综合"
       ]
@@ -358,7 +438,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-14T21:35:14.511Z",
+      "fetchedAt": "2026-09-15T00:21:26.703Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +454,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:15.777Z",
+      "fetchedAt": "2026-09-15T00:21:27.657Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +470,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
+      "fetchedAt": "2026-09-15T00:21:25.907Z",
       "tags": [
         "政策监管"
       ]
@@ -406,7 +486,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "大模型"
       ]
@@ -422,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +518,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
+      "fetchedAt": "2026-09-15T00:21:25.907Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +582,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-14T21:35:16.861Z",
+      "fetchedAt": "2026-09-15T00:21:28.558Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "商业融资"
       ]
@@ -534,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
+      "fetchedAt": "2026-09-15T00:21:25.907Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -551,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "商业融资"
       ]
@@ -567,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "综合"
       ]
@@ -583,7 +663,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "允中",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "大模型"
       ]
@@ -599,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-14T21:35:08.143Z",
+      "fetchedAt": "2026-09-15T00:21:20.897Z",
       "tags": [
         "商业融资"
       ]
@@ -615,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
+      "fetchedAt": "2026-09-15T00:21:25.907Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -632,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
+      "fetchedAt": "2026-09-15T00:21:25.907Z",
       "tags": [
         "大模型"
       ]
@@ -648,7 +728,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
+      "fetchedAt": "2026-09-15T00:21:25.907Z",
       "tags": [
         "综合"
       ]
@@ -664,7 +744,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-14T21:35:16.861Z",
+      "fetchedAt": "2026-09-15T00:21:28.558Z",
       "tags": [
         "综合"
       ]
@@ -680,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
+      "fetchedAt": "2026-09-15T00:21:25.907Z",
       "tags": [
         "商业融资"
       ]
@@ -696,7 +776,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:15.777Z",
+      "fetchedAt": "2026-09-15T00:21:27.657Z",
       "tags": [
         "大模型"
       ]
@@ -712,7 +792,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-09-14T21:35:16.861Z",
+      "fetchedAt": "2026-09-15T00:21:28.558Z",
       "tags": [
         "综合"
       ]
@@ -728,90 +808,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-14T21:35:14.174Z",
+      "fetchedAt": "2026-09-15T00:21:26.455Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "snippet": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
-      "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "A Princeton Researcher Proposes Recurrent Looped Transformer (RLT) that Carries Decoder State across Every Token, Fixing 96 Blocks per Token with Unbounded Temporal Depth",
-      "link": "https://www.marktechpost.com/2026/09/13/a-princeton-researcher-proposes-recurrent-looped-transformer-rlt/",
-      "snippet": "Yifan Zhang's Recurrent Looped Transformer (RLT) technical report proposes a causal encoder paired with a recurrent decoder that carries its final hid",
-      "pubDate": "Sun, 13 Sep 2026 17:02:26 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-14T21:35:16.861Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "snippet": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concern",
-      "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-14T21:35:13.806Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "斜跃智能完成数亿元天使+轮融资，加速推进Duplex Reasoning全新范式具身基础模型",
-      "link": "https://www.leiphone.com/category/industrynews/PHYwHDvtZ5GGXTK6.html",
-      "snippet": "近日，斜跃智能完成数亿元天使+轮融资，线性资本、钧山资本、弘颐资本、隐山资本等机构参与投资。随着这一轮融资完成，斜跃将持续推进具身基础模型训练、算力与数据基础设施建设和核心团队扩充，以及家庭机器人本体研发和场景验证。  斜跃智能成立于2026年2月，是一家以家庭为第一落地场景的具身基础模型公司，斜跃",
-      "pubDate": "Sun, 13 Sep 2026 18:30:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "让AI真正“住进家里”：后摩智能×绿联HomeAgent探索家庭智能新形态",
-      "link": "https://www.leiphone.com/category/chips/OWi6OEGUYbDYwZof.html",
-      "snippet": "9月12日晚，绿联科技品牌全球发布会正式举行。绿联发布与后摩智能合作的UGREEN HomeAgent HA100 Pro，以本地AI算力打造家庭AI中枢。 当AI开始从云端走向终端，它正在进入越来越多真实的生活场景，家庭正是其中之一。 如今，智能摄像头、音箱、NAS等设备不断进入家庭，但设备增多并",
-      "pubDate": "Sun, 13 Sep 2026 17:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-14T21:35:13.393Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
