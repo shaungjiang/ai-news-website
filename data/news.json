@@ -1,13 +1,190 @@
 {
-  "generatedAt": "2026-09-17T18:06:25.487Z",
+  "generatedAt": "2026-09-17T21:23:31.628Z",
   "stats": {
-    "total": 92,
+    "total": 104,
     "shown": 50,
     "chinese": 30,
-    "english": 62,
-    "today": 41
+    "english": 74,
+    "today": 56
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Launches Claude Code Projects in Beta: Parallel Cloud Sessions That Keep Running After You Close Your Laptop",
+      "link": "https://www.marktechpost.com/2026/09/17/anthropic-launches-claude-code-projects-in-beta-parallel-cloud-sessions-that-keep-running-after-you-close-your-laptop/",
+      "snippet": "Anthropic redesigned Projects in Claude Code. The old project was a folder: some files plus one chat. The new one is a single ongoing conversation whe",
+      "pubDate": "Thu, 17 Sep 2026 20:45:04 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-17T21:13:42.381Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The fix for rogue AI agents could be more AI",
+      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
+      "snippet": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at gr",
+      "pubDate": "Thu, 17 Sep 2026 20:34:47 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aditya Mehta",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
+      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
+      "snippet": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge",
+      "pubDate": "Thu, 17 Sep 2026 20:34:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google announces new experimental \"CC\" AI agent for families",
+      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
+      "snippet": "Multiple family members can share data to help the agent make plans and complete tasks.",
+      "pubDate": "Thu, 17 Sep 2026 20:24:34 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-09-17T21:13:41.057Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Is the AI safety debate about safety or control?",
+      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
+      "snippet": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+      "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+      "snippet": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "snippet": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, bui",
+      "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The AI Superintelligence Slowdown",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "snippet": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer w",
+      "pubDate": "2026-09-17T19:28:24.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-17T21:13:40.144Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+      "snippet": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of file",
+      "pubDate": "2026-09-17T18:58:05.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-17T21:13:40.144Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
+      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
+      "snippet": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
+      "pubDate": "Thu, 17 Sep 2026 18:33:13 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-09-17T21:13:41.057Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Even the king of England has his hesitations about AI",
+      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+      "snippet": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+      "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Dominic-Madori Davis",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
@@ -18,8 +195,8 @@
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
+      "creator": "Aditya Mehta",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-17T17:57:37.169Z",
+      "fetchedAt": "2026-09-17T21:13:41.057Z",
       "tags": [
         "开源工具"
       ]
@@ -67,7 +244,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +292,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:36.224Z",
+      "fetchedAt": "2026-09-17T21:13:40.144Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:36.224Z",
+      "fetchedAt": "2026-09-17T21:13:40.144Z",
       "tags": [
         "学术研究"
       ]
@@ -147,7 +324,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +356,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +372,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-17T17:57:36.551Z",
+      "fetchedAt": "2026-09-17T21:13:40.449Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +388,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.630Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +404,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.630Z",
       "tags": [
         "大模型"
       ]
@@ -243,7 +420,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:36.224Z",
+      "fetchedAt": "2026-09-17T21:13:40.144Z",
       "tags": [
         "学术研究"
       ]
@@ -259,7 +436,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "大模型"
       ]
@@ -275,7 +452,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-09-17T17:57:36.551Z",
+      "fetchedAt": "2026-09-17T21:13:40.449Z",
       "tags": [
         "学术研究"
       ]
@@ -291,7 +468,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "AI应用"
       ]
@@ -307,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.631Z",
       "tags": [
         "商业融资"
       ]
@@ -323,7 +500,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.631Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +516,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.631Z",
       "tags": [
         "大模型"
       ]
@@ -355,7 +532,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.631Z",
       "tags": [
         "AI应用"
       ]
@@ -371,7 +548,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "AI应用"
       ]
@@ -387,7 +564,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "大模型"
       ]
@@ -403,7 +580,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "大模型"
       ]
@@ -419,9 +596,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "OpenAI Releases a Model Misalignment Disclosure Framework With 3 Review Tracks and 6 Incident Reports From RL Training",
+      "link": "https://www.marktechpost.com/2026/09/17/openai-releases-a-model-misalignment-disclosure-framework-with-3-review-tracks-and-6-incident-reports-from-rl-training/",
+      "snippet": "OpenAI can disclose misalignment before fixes exist. Its 6 initial reports include fabricated data and leaked API keys. The post OpenAI Releases a Mod",
+      "pubDate": "Thu, 17 Sep 2026 07:35:37 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-17T21:13:42.381Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
       ]
     },
     {
@@ -435,10 +629,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "AI应用",
         "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Research Introduces Retrieve-for-Train (R4T): An RL-Compiled Diffusion Retriever for 12× to 20× Faster Query Fan-Out",
+      "link": "https://www.marktechpost.com/2026/09/16/google-research-introduces-retrieve-for-train-r4t-an-rl-compiled-diffusion-retriever-for-12x-to-20x-faster-query-fan-out/",
+      "snippet": "Google Research has introduced Retrieve-for-Train (R4T), a framework for search that returns coherent, diverse result sets. It trains a fan-out langua",
+      "pubDate": "Thu, 17 Sep 2026 06:19:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-17T21:13:42.381Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -452,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +678,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
       "tags": [
         "商业融资"
       ]
@@ -484,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鱼羊",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.631Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.631Z",
       "tags": [
         "AI应用"
       ]
@@ -516,7 +726,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
+      "fetchedAt": "2026-09-17T21:13:39.798Z",
       "tags": [
         "商业融资"
       ]
@@ -532,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.631Z",
       "tags": [
         "开源工具"
       ]
@@ -548,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "大模型"
       ]
@@ -564,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "商业融资"
       ]
@@ -580,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
+      "fetchedAt": "2026-09-17T21:13:39.492Z",
       "tags": [
         "综合"
       ]
@@ -596,217 +806,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-17T17:57:31.150Z",
+      "fetchedAt": "2026-09-17T21:13:34.631Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "折叠屏还在比大小，努比亚已经在抢另一个入口",
-      "link": "https://www.leiphone.com/category/industrynews/x3BzRX7YdnnxEOzL.html",
-      "snippet": "今年9月，手机行业最显眼的变化之一仍然是折叠。 华为继续做三折叠，苹果也终于拿出了自己的折叠屏手机。厂商还在研究一个熟悉的问题：怎样在有限的机身里，装进更大的屏幕。 另一种变化，发生在屏幕里面。大模型开始离开聊天框，进入手机系统。 过去，查资料、订票、安排日程，都要用户自己找App，一步步操作；现在",
-      "pubDate": "Thu, 17 Sep 2026 09:50:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Snap tries to make the case again for its $2,200 smart glasses",
-      "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "snippet": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
-      "pubDate": "Thu, 17 Sep 2026 00:58:49 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "专访零跑周洪涛：2026年冲刺智驾头部，零跑的进度条比想象中快",
-      "link": "https://www.leiphone.com/category/transportation/84JBShT5UwbEiYza.html",
-      "snippet": "朱江明很少会在午休时间离开办公室。 但在体验智驾新版本后的一个中午，他又独自一人，开着搭载智驾4.0的D19在杭州市区痛快跑了一个多小时。在公司内部群，他以少有的振奋接连赞扬了智驾团队。 这套让老板爱不释手的智驾系统，源于零跑内部一场持续数月的赛马：2025年10月，智驾2.0、3.0、4.0三条技",
-      "pubDate": "Thu, 17 Sep 2026 08:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "周鸿祎：不会再投资新能源汽车，已经吃过一次亏；OpenAI洽谈新融资，估值或超1.2万亿美元；花呗、抖音月付等将退出支付选项？多平台回应",
-      "link": "https://www.leiphone.com/category/zaobao/adwK3kvuEMxa03Tj.html",
-      "snippet": "要闻提示       1.周鸿祎：不会再投资新能源汽车，已经吃过一次亏 2.曝字节跳动完成 2.9 亿美元融资，用于拆分 AI 制药业务 Anew Labs 3.iPhone Duo可靠性翻车：影视飓风Tim在苹果总部掰一下就闪屏了 4.花呗、抖音月付等将退出支付选项？多平台回应 5.奥迪惨遭高空坠",
-      "pubDate": "Thu, 17 Sep 2026 08:23:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-17T17:57:35.713Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Al Gore says the real AI risk isn’t data centers",
-      "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
-      "snippet": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own",
-      "pubDate": "Wed, 16 Sep 2026 23:43:09 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
-      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
-      "snippet": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keepi",
-      "pubDate": "2026-09-16T23:40:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-17T17:57:36.224Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
-      "snippet": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
-      "pubDate": "Wed, 16 Sep 2026 22:02:46 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-17T17:57:37.169Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
-      "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
-      "snippet": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningf",
-      "pubDate": "Wed, 16 Sep 2026 21:07:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
-      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
-      "snippet": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classic literature among filmgoers.",
-      "pubDate": "2026-09-16T20:59:13.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-17T17:57:36.224Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The AI data center e-waste problem is huge — and getting bigger",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-      "snippet": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping contain",
-      "pubDate": "2026-09-16T20:40:46.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-17T17:57:36.224Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
-      "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
-      "snippet": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
-      "pubDate": "Wed, 16 Sep 2026 20:12:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
-      "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
-      "snippet": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
-      "pubDate": "Wed, 16 Sep 2026 18:25:25 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-17T17:57:35.947Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Apple might make servers again to cash in on the AI rush",
-      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-      "snippet": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired i",
-      "pubDate": "2026-09-16T17:20:29.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-17T17:57:36.224Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
