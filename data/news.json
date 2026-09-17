@@ -1,13 +1,78 @@
 {
-  "generatedAt": "2026-09-16T21:21:45.987Z",
+  "generatedAt": "2026-09-17T00:15:07.374Z",
   "stats": {
-    "total": 93,
+    "total": 103,
     "shown": 50,
     "chinese": 28,
-    "english": 65,
-    "today": 49
+    "english": 75,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "snippet": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keepi",
+      "pubDate": "2026-09-16T23:40:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-17T00:10:23.801Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "link": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+      "snippet": "Planned 2029 debut could make this Apple’s first enterprise server in decades.",
+      "pubDate": "Wed, 16 Sep 2026 22:02:46 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-09-17T00:10:25.250Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Stanford Researchers Release Paper2Agent: Turning Research Papers Into AI Agents That Reproduce Results and Run on New Data",
+      "link": "https://www.marktechpost.com/2026/09/16/stanford-researchers-release-paper2agent-turning-research-papers-into-ai-agents-that-reproduce-results-and-run-on-new-data/",
+      "snippet": "Paper2Agent, published in Nature, converts papers into validated MCP tools, scoring 91.2% on 300 questions across 74 papers. The post Stanford Researc",
+      "pubDate": "Wed, 16 Sep 2026 21:59:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-17T00:10:26.263Z",
+      "tags": [
+        "学术研究",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Knowledgator Releases GLiFormer: A 575M-Parameter Encoder That Hits 91.10 F1 on Nested JSON Extraction Without Generating Tokens",
+      "link": "https://www.marktechpost.com/2026/09/16/knowledgator-releases-gliformer-a-575m-parameter-encoder-that-hits-91-10-f1-on-nested-json-extraction-without-generating-tokens/",
+      "snippet": "GLiFormer Large scores 91.10 F1 on nested JSON, near GPT-5.6-luna's 91.96, while grounding every value in source spans. The post Knowledgator Releases",
+      "pubDate": "Wed, 16 Sep 2026 21:19:32 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-17T00:10:26.263Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
@@ -19,7 +84,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-16T21:12:56.173Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "学术研究"
       ]
@@ -35,7 +100,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:56.472Z",
+      "fetchedAt": "2026-09-17T00:10:23.801Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +116,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:56.472Z",
+      "fetchedAt": "2026-09-17T00:10:23.801Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:56.472Z",
+      "fetchedAt": "2026-09-17T00:10:23.801Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -132,9 +197,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:56.472Z",
+      "fetchedAt": "2026-09-17T00:10:23.801Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Our framework for reporting model misalignment",
+      "link": "https://openai.com/index/model-misalignment-reporting-framework",
+      "snippet": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model beha",
+      "pubDate": "Wed, 16 Sep 2026 17:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-17T00:10:25.680Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -148,7 +229,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "大模型"
       ]
@@ -164,7 +245,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:56.472Z",
+      "fetchedAt": "2026-09-17T00:10:23.801Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -181,7 +262,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:57.873Z",
+      "fetchedAt": "2026-09-17T00:10:25.680Z",
       "tags": [
         "大模型"
       ]
@@ -197,7 +278,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "大模型"
       ]
@@ -213,7 +294,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Antonio Regalado",
-      "fetchedAt": "2026-09-16T21:12:56.802Z",
+      "fetchedAt": "2026-09-17T00:10:24.245Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +310,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:56.472Z",
+      "fetchedAt": "2026-09-17T00:10:23.801Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +326,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "AI应用"
       ]
@@ -261,7 +342,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +358,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "商业融资"
       ]
@@ -293,7 +374,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "fetchedAt": "2026-09-17T00:10:19.450Z",
       "tags": [
         "开源工具"
       ]
@@ -325,7 +406,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +422,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:57.873Z",
+      "fetchedAt": "2026-09-17T00:10:25.680Z",
       "tags": [
         "开源工具"
       ]
@@ -357,7 +438,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-09-16T21:12:56.802Z",
+      "fetchedAt": "2026-09-17T00:10:24.245Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +454,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-16T21:12:56.802Z",
+      "fetchedAt": "2026-09-17T00:10:24.245Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +470,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:56.472Z",
+      "fetchedAt": "2026-09-17T00:10:23.801Z",
       "tags": [
         "政策监管"
       ]
@@ -405,7 +486,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:57.873Z",
+      "fetchedAt": "2026-09-17T00:10:25.680Z",
       "tags": [
         "大模型"
       ]
@@ -421,7 +502,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "大模型"
       ]
@@ -437,7 +518,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
+      "fetchedAt": "2026-09-17T00:10:23.488Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +550,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "AI应用"
       ]
@@ -485,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "AI应用"
       ]
@@ -501,7 +582,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:57.873Z",
+      "fetchedAt": "2026-09-17T00:10:25.680Z",
       "tags": [
         "学术研究"
       ]
@@ -517,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "fetchedAt": "2026-09-17T00:10:19.450Z",
       "tags": [
         "大模型"
       ]
@@ -533,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "AI应用"
       ]
@@ -549,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "fetchedAt": "2026-09-17T00:10:19.450Z",
       "tags": [
         "AI应用"
       ]
@@ -565,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "fetchedAt": "2026-09-17T00:10:19.450Z",
       "tags": [
         "AI应用"
       ]
@@ -581,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "AI应用"
       ]
@@ -597,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "fetchedAt": "2026-09-17T00:10:19.450Z",
       "tags": [
         "综合"
       ]
@@ -613,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "fetchedAt": "2026-09-17T00:10:19.451Z",
       "tags": [
         "综合"
       ]
@@ -629,10 +710,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "AI应用",
         "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Prior Labs Releases TabPFN-3.5: A Tabular Foundation Model That Beats the Winning Otto Kaggle Solution With Default Settings",
+      "link": "https://www.marktechpost.com/2026/09/15/prior-labs-releases-tabpfn-3-5-a-tabular-foundation-model-that-beats-the-winning-otto-kaggle-solution-with-default-settings/",
+      "snippet": "Prior Labs released TabPFN-3.5, a tabular foundation model pretrained only on synthetic data that beats Otto's winning solution. The post Prior Labs R",
+      "pubDate": "Wed, 16 Sep 2026 06:52:18 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-17T00:10:26.263Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -646,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "fetchedAt": "2026-09-17T00:10:19.451Z",
       "tags": [
         "大模型"
       ]
@@ -662,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "商业融资"
       ]
@@ -678,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "fetchedAt": "2026-09-17T00:10:19.451Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -695,124 +792,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
+      "fetchedAt": "2026-09-17T00:10:23.101Z",
       "tags": [
         "AI应用",
         "开源工具"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "量子位2026人工智能年度榜单，正式启动！",
-      "link": "https://www.qbitai.com/2026/09/490329.html",
-      "snippet": "报名通道已开启，欢迎参与！",
-      "pubDate": "Wed, 16 Sep 2026 04:16:10 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Nums AI Releases Causilo: A Tabular Foundation Model That Tops TabArena Among Single Models",
+      "link": "https://www.marktechpost.com/2026/09/15/nums-ai-releases-causilo-a-tabular-foundation-model-that-tops-tabarena-among-single-models/",
+      "snippet": "Nums AI has released Causilo, a pretrained tabular foundation model for classification and regression with a scikit-learn interface. It posts the top",
+      "pubDate": "Wed, 16 Sep 2026 04:59:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-17T00:10:26.263Z",
       "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
-      "link": "https://www.qbitai.com/2026/09/490185.html",
-      "snippet": "从想法到结果，一次对话实现",
-      "pubDate": "Wed, 16 Sep 2026 03:40:35 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-09-16T21:12:51.407Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "奇安信斩获国家信息安全漏洞库CNNVD两项重磅荣誉",
-      "link": "https://www.leiphone.com/category/industrynews/P4eihytTQZUWVoi1.html",
-      "snippet": "2026年9月15日，2026年国家网络安全宣传周成都系列活动的重要组成部分——第二届基础软硬件智能化漏洞治理生态创新技术交流活动在成都成功举办。奇安信凭借在漏洞协同管理与高质量漏洞报送方面的卓越表现，一举斩获“2026年度协同软硬件漏洞管理优秀企业”、“2026年度基础软硬件漏洞报送优秀企业”两项",
-      "pubDate": "Wed, 16 Sep 2026 10:36:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
-      "tags": [
-        "政策监管",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "王强宇履新百望：从发票SaaS工具，到财税垂直大模型，再到企业的Palantir",
-      "link": "https://www.leiphone.com/category/industrynews/eHFMXZuvEmgUO75A.html",
-      "snippet": "在今天的AI行业，能谈大模型的人很多，真正把垂类大模型做出来、做进真实业务流程，并且完成从技术、产品到规模化应用闭环的人，却依然稀缺。 王强宇是卓越的实战派代表，这也是资本市场对他出任百望股份联席总经理高度关注的原因。 在加入百望股份之前，王强宇已经完整走过一次垂类大模型从0到1、再从1走向规模化应",
-      "pubDate": "Wed, 16 Sep 2026 10:13:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
-      "tags": [
-        "AI应用",
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险；娃哈哈因拖欠员工公积金被查封办公楼；华为放权！问界将由赛力斯主导",
-      "link": "https://www.leiphone.com/category/zaobao/PDGNX4A6cRCzbe56.html",
-      "snippet": "要闻提示       1.510万一张！携程上架太空旅行船票：已有681人购买，还得自己买保险 2.娃哈哈因拖欠员工公积金被查封办公楼 3.鸿蒙智行：问界将由赛力斯主导，华为终端参与赋能 4.特斯拉Model YL后轮塌陷后续：官方修改车主手册多项车辆参数，整体缩减3-4毫米 5.苹果新系统已更新调",
-      "pubDate": "Wed, 16 Sep 2026 08:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-16T21:12:55.849Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "snippet": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product mak",
-      "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-09-16T21:12:56.174Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "snippet": "Poll data released Tuesday by The New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to",
-      "pubDate": "2026-09-15T23:34:25.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-16T21:12:56.472Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
