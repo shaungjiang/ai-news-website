@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-09-18T19:03:30.566Z",
+  "generatedAt": "2026-09-18T22:26:02.222Z",
   "stats": {
-    "total": 105,
+    "total": 98,
     "shown": 50,
     "chinese": 30,
-    "english": 75,
-    "today": 47
+    "english": 68,
+    "today": 48
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+      "snippet": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+      "snippet": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned",
+      "pubDate": "2026-09-18T21:07:24.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-18T22:21:30.298Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "link": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
+      "snippet": "But the military's overall use of AI seems to be accelerating.",
+      "pubDate": "Fri, 18 Sep 2026 20:26:33 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-09-18T22:21:31.229Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "World model companies are keeping a lot of secrets",
+      "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+      "snippet": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data",
+      "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "FAA tees up $875M AI tool to help manage air traffic congestion",
+      "link": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
+      "snippet": "FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.",
+      "pubDate": "Fri, 18 Sep 2026 19:20:50 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-09-18T22:21:31.229Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
@@ -19,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "大模型"
       ]
@@ -28,32 +108,16 @@
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Virginia governor creates an AI task force and moves to restrain data centers",
       "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-      "snippet": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data cent",
+      "snippet": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center d",
       "pubDate": "2026-09-18T18:29:17.000Z",
       "sourceName": "The Verge",
       "sourceId": "theverge-ai",
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:04.072Z",
+      "fetchedAt": "2026-09-18T22:21:30.298Z",
       "tags": [
         "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
-      "link": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/",
-      "snippet": "PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. Pri",
-      "pubDate": "Fri, 18 Sep 2026 18:06:36 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-18T18:59:06.866Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -67,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-18T18:59:05.337Z",
+      "fetchedAt": "2026-09-18T22:21:31.229Z",
       "tags": [
         "开源工具",
         "政策监管"
@@ -116,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "学术研究"
       ]
@@ -132,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "学术研究"
       ]
@@ -148,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:04.072Z",
+      "fetchedAt": "2026-09-18T22:21:30.298Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "商业融资"
       ]
@@ -180,7 +244,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:04.072Z",
+      "fetchedAt": "2026-09-18T22:21:30.298Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "fetchedAt": "2026-09-18T22:21:25.072Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "fetchedAt": "2026-09-18T22:21:25.072Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -229,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:04.072Z",
+      "fetchedAt": "2026-09-18T22:21:30.298Z",
       "tags": [
         "大模型"
       ]
@@ -245,7 +309,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "开源工具"
       ]
@@ -261,7 +325,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "AI应用"
       ]
@@ -277,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta, Rebecca Bellan",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "大模型"
       ]
@@ -309,7 +373,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "商业融资"
       ]
@@ -325,7 +389,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cristina Criddle, Financial Times\n                ",
-      "fetchedAt": "2026-09-18T18:59:05.337Z",
+      "fetchedAt": "2026-09-18T22:21:31.229Z",
       "tags": [
         "大模型"
       ]
@@ -341,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "fetchedAt": "2026-09-18T22:21:25.072Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "fetchedAt": "2026-09-18T22:21:25.072Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +437,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-18T18:59:04.367Z",
+      "fetchedAt": "2026-09-18T22:21:30.559Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +453,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven, Grace Huckins",
-      "fetchedAt": "2026-09-18T18:59:04.367Z",
+      "fetchedAt": "2026-09-18T22:21:30.559Z",
       "tags": [
         "综合"
       ]
@@ -405,25 +469,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:04.072Z",
+      "fetchedAt": "2026-09-18T22:21:30.298Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
-      "snippet": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent",
-      "pubDate": "Fri, 18 Sep 2026 09:44:55 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-18T18:59:06.866Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -437,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "fetchedAt": "2026-09-18T22:21:25.072Z",
       "tags": [
         "综合"
       ]
@@ -453,25 +501,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-18T18:59:04.367Z",
+      "fetchedAt": "2026-09-18T22:21:30.559Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
-      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
-      "snippet": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post A",
-      "pubDate": "Fri, 18 Sep 2026 08:40:37 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-18T18:59:06.866Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -485,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.529Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "综合"
       ]
@@ -501,23 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.529Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
-      "link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
-      "snippet": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap fr",
-      "pubDate": "Fri, 18 Sep 2026 07:34:06 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jean-marc Mommessin",
-      "fetchedAt": "2026-09-18T18:59:06.866Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "AI应用"
       ]
@@ -533,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.529Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "商业融资"
       ]
@@ -549,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.529Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -566,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.529Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.529Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.529Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.530Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "AI应用"
       ]
@@ -630,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "fetchedAt": "2026-09-18T22:21:25.072Z",
       "tags": [
         "AI应用"
       ]
@@ -646,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.530Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "综合"
       ]
@@ -662,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.530Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "开源工具"
       ]
@@ -678,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.530Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -695,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.530Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "AI应用"
       ]
@@ -711,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.530Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "AI应用"
       ]
@@ -727,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "fetchedAt": "2026-09-18T22:21:25.072Z",
       "tags": [
         "商业融资"
       ]
@@ -743,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "fetchedAt": "2026-09-18T22:21:25.072Z",
       "tags": [
         "大模型"
       ]
@@ -759,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T18:59:03.530Z",
+      "fetchedAt": "2026-09-18T22:21:29.696Z",
       "tags": [
         "大模型"
       ]
@@ -775,7 +791,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "商业融资"
       ]
@@ -791,25 +807,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "fetchedAt": "2026-09-18T22:21:29.942Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "PrismML hopes its tiny LLM will change how we all use AI",
-      "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
-      "snippet": "If AI lab PrismML isn't on your radar yet, it should be.",
-      "pubDate": "Thu, 17 Sep 2026 22:34:09 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-09-18T18:59:03.785Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
