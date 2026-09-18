@@ -1,13 +1,223 @@
 {
-  "generatedAt": "2026-09-18T16:07:25.014Z",
+  "generatedAt": "2026-09-18T19:03:30.566Z",
   "stats": {
-    "total": 95,
+    "total": 105,
     "shown": 50,
     "chinese": 30,
-    "english": 65,
-    "today": 31
+    "english": 75,
+    "today": 47
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "snippet": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "pubDate": "Fri, 18 Sep 2026 18:49:30 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+      "snippet": "Virginia Gov. Abigail Spanberger (D) ordered the state government to take steps that could empower local communities to have a larger say in data cent",
+      "pubDate": "2026-09-18T18:29:17.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-18T18:59:04.072Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
+      "link": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/",
+      "snippet": "PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. Pri",
+      "pubDate": "Fri, 18 Sep 2026 18:06:36 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-18T18:59:06.866Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+      "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+      "snippet": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology off",
+      "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+      "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+      "snippet": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fi",
+      "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "US government website used Chinese model the FBI called \"malicious\"",
+      "link": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+      "snippet": "The Federal Register website briefly used an open source Chinese AI search tool.",
+      "pubDate": "Fri, 18 Sep 2026 17:28:50 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-09-18T18:59:05.337Z",
+      "tags": [
+        "开源工具",
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
+      "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
+      "snippet": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the fronti",
+      "pubDate": "Fri, 18 Sep 2026 17:09:56 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Automattic’s 33-Hour Coup, and can AI labs police themselves?",
+      "link": "https://techcrunch.com/podcast/automattics-33-hour-coup-and-can-ai-labs-police-themselves/",
+      "snippet": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the fronti",
+      "pubDate": "Fri, 18 Sep 2026 17:06:32 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Gavin Newsom is pushing for an AI kill switch",
+      "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
+      "snippet": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for fro",
+      "pubDate": "2026-09-18T17:04:51.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-18T18:59:04.072Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
+      "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "snippet": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "pubDate": "Fri, 18 Sep 2026 16:35:49 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ram Iyer",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "What Hollywood thinks about existential AI warnings",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
+      "snippet": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's",
+      "pubDate": "2026-09-18T16:35:19.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-18T18:59:04.072Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "link": "https://www.qbitai.com/2026/09/492426.html",
+      "snippet": "协同布局AI基础设施",
+      "pubDate": "Fri, 18 Sep 2026 15:58:21 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "link": "https://www.qbitai.com/2026/09/492421.html",
+      "snippet": "成果中唯一聚焦算电协同全链路运营的AI技术产品",
+      "pubDate": "Fri, 18 Sep 2026 15:50:20 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-09-18T18:58:59.739Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Security researchers used Claude to help them hack into OpenAI",
@@ -19,7 +229,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:35.527Z",
+      "fetchedAt": "2026-09-18T18:59:04.072Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
       "tags": [
         "开源工具"
       ]
@@ -51,7 +261,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +277,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +293,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta, Rebecca Bellan",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +309,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +325,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cristina Criddle, Financial Times\n                ",
-      "fetchedAt": "2026-09-18T15:58:36.757Z",
+      "fetchedAt": "2026-09-18T18:59:05.337Z",
       "tags": [
         "大模型"
       ]
@@ -131,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-18T15:58:29.717Z",
+      "fetchedAt": "2026-09-18T18:58:59.739Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-18T15:58:29.717Z",
+      "fetchedAt": "2026-09-18T18:58:59.739Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +373,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-18T15:58:35.850Z",
+      "fetchedAt": "2026-09-18T18:59:04.367Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +389,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven, Grace Huckins",
-      "fetchedAt": "2026-09-18T15:58:35.850Z",
+      "fetchedAt": "2026-09-18T18:59:04.367Z",
       "tags": [
         "综合"
       ]
@@ -195,9 +405,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:35.527Z",
+      "fetchedAt": "2026-09-18T18:59:04.072Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
+      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
+      "snippet": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent",
+      "pubDate": "Fri, 18 Sep 2026 09:44:55 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-18T18:59:06.866Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -211,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-18T15:58:29.717Z",
+      "fetchedAt": "2026-09-18T18:58:59.739Z",
       "tags": [
         "综合"
       ]
@@ -227,9 +453,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-18T15:58:35.850Z",
+      "fetchedAt": "2026-09-18T18:59:04.367Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
+      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
+      "snippet": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post A",
+      "pubDate": "Fri, 18 Sep 2026 08:40:37 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-18T18:59:06.866Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -243,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.889Z",
+      "fetchedAt": "2026-09-18T18:59:03.529Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +501,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.529Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
+      "link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
+      "snippet": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap fr",
+      "pubDate": "Fri, 18 Sep 2026 07:34:06 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jean-marc Mommessin",
+      "fetchedAt": "2026-09-18T18:59:06.866Z",
       "tags": [
         "AI应用"
       ]
@@ -275,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.529Z",
       "tags": [
         "商业融资"
       ]
@@ -291,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.529Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -308,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.529Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.529Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.529Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.530Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-18T15:58:29.717Z",
+      "fetchedAt": "2026-09-18T18:58:59.739Z",
       "tags": [
         "AI应用"
       ]
@@ -388,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.530Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.530Z",
       "tags": [
         "开源工具"
       ]
@@ -420,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.530Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -437,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.530Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.530Z",
       "tags": [
         "AI应用"
       ]
@@ -469,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-18T15:58:29.717Z",
+      "fetchedAt": "2026-09-18T18:58:59.739Z",
       "tags": [
         "商业融资"
       ]
@@ -485,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-18T15:58:29.717Z",
+      "fetchedAt": "2026-09-18T18:58:59.739Z",
       "tags": [
         "大模型"
       ]
@@ -501,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
+      "fetchedAt": "2026-09-18T18:59:03.530Z",
       "tags": [
         "大模型"
       ]
@@ -517,7 +775,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
       "tags": [
         "商业融资"
       ]
@@ -533,7 +791,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
       "tags": [
         "AI应用"
       ]
@@ -549,266 +807,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
+      "fetchedAt": "2026-09-18T18:59:03.785Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The FAA’s plan to fix air traffic? $875M worth of AI",
-      "link": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/",
-      "snippet": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies",
-      "pubDate": "Thu, 17 Sep 2026 22:14:59 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Small AI models let drones autonomously identify and attack battlefield targets",
-      "link": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/",
-      "snippet": "Scaleout deploys decentralized AI-driven learning to military bases and drones.",
-      "pubDate": "Thu, 17 Sep 2026 22:12:58 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-18T15:58:36.757Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The fix for rogue AI agents could be more AI",
-      "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-      "snippet": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at gr",
-      "pubDate": "Thu, 17 Sep 2026 20:34:47 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-      "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-      "snippet": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge",
-      "pubDate": "Thu, 17 Sep 2026 20:34:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Google announces new experimental \"CC\" AI agent for families",
-      "link": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/",
-      "snippet": "Multiple family members can share data to help the agent make plans and complete tasks.",
-      "pubDate": "Thu, 17 Sep 2026 20:24:34 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-09-18T15:58:36.757Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Is the AI safety debate about safety or control?",
-      "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-      "snippet": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
-      "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "UN turns to Google to make its global data ready for AI agents",
-      "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-      "snippet": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
-      "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-      "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-      "snippet": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, bui",
-      "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The AI Superintelligence Slowdown",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-      "snippet": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer w",
-      "pubDate": "2026-09-17T19:28:24.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-18T15:58:35.527Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-      "snippet": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of file",
-      "pubDate": "2026-09-17T18:58:05.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-18T15:58:35.527Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "LLMs respond differently to harmful prompts when AI watermarking is used",
-      "link": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/",
-      "snippet": "SynthID can cause models to follow harmful instructions they would otherwise refuse.",
-      "pubDate": "Thu, 17 Sep 2026 18:33:13 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-09-18T15:58:36.757Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Even the king of England has his hesitations about AI",
-      "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-      "snippet": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
-      "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-      "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-      "snippet": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
-      "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-      "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-      "snippet": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — p",
-      "pubDate": "Thu, 17 Sep 2026 17:15:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-18T15:58:35.182Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Covert uploads and megalomania: OpenAI details new \"misaligned\" agent incidents",
-      "link": "https://arstechnica.com/ai/2026/09/covert-uploads-and-megalomania-openai-details-new-misaligned-agent-incidents/",
-      "snippet": "Model maker commits to new framework for reporting misaligned models.",
-      "pubDate": "Thu, 17 Sep 2026 16:18:34 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-18T15:58:36.757Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "华为开创AI时代计算架构：让百万处理器成为一台计算机",
-      "link": "https://www.leiphone.com/category/industrynews/ZAv4gLB8zM5B5PBX.html",
-      "snippet": "关键信息： • Peerium计算架构突破了图灵范式，提出了Nested BSP，突破了冯·诺依曼单机架构，颠覆了长久以来的主从架构，实现了百万级处理器真正成为一台更大的计算机。 • 灵衢是实现Peerium计算架构的关键互联技术。  [中国，上海，2026年9月17日] 今日，华为发布AI时代的全",
-      "pubDate": "Thu, 17 Sep 2026 22:25:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-18T15:58:34.890Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
