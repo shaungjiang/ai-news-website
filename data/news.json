@@ -1,13 +1,125 @@
 {
-  "generatedAt": "2026-09-19T03:39:23.290Z",
+  "generatedAt": "2026-09-19T08:41:47.044Z",
   "stats": {
-    "total": 108,
+    "total": 109,
     "shown": 50,
     "chinese": 30,
-    "english": 78,
-    "today": 2
+    "english": 79,
+    "today": 9
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
+      "link": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
+      "snippet": "Linkup Research has released SPARSEUP, an open-source sparse embedding model built on a 149M-parameter ModernBERT backbone. It scores 56.4 nDCG@10 on",
+      "pubDate": "Sat, 19 Sep 2026 07:48:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-19T08:37:27.476Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
+      "link": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
+      "snippet": "Meta has released Muse for Mac, the first version of Muse that can complete things on a user’s computer. The agent works with local files and native a",
+      "pubDate": "Sat, 19 Sep 2026 07:22:16 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-19T08:37:27.476Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "陶哲轩代表SAIR Foundation宣布正式启动“开放数学模型计划”",
+      "link": "https://www.qbitai.com/2026/09/492467.html",
+      "snippet": "让开放模型与可负担的算力成为数学研究的共享基石",
+      "pubDate": "Sat, 19 Sep 2026 06:44:02 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-09-19T08:37:18.491Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "AI离“理解万物”还有多远？先拿癌细胞和行星轨道试试水",
+      "link": "https://www.qbitai.com/2026/09/492429.html",
+      "snippet": "同一预测核心，跨七类系统验证",
+      "pubDate": "Sat, 19 Sep 2026 06:39:32 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦瑶",
+      "fetchedAt": "2026-09-19T08:37:18.491Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
+      "link": "https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/",
+      "snippet": "GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains",
+      "pubDate": "Sat, 19 Sep 2026 04:04:06 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-19T08:37:27.476Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour",
+      "link": "https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/",
+      "snippet": "SpaceXAI has released Grok Voice Transcribe 2.0, its newest speech-to-text model for batch and streaming audio. The company says it is twice as accura",
+      "pubDate": "Sat, 19 Sep 2026 03:42:24 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-19T08:37:27.476Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "华为全联接大会2026：360与昇腾AI联合打造解决方案，为AI Agent全面提速",
+      "link": "https://www.leiphone.com/category/industrynews/uKmCBjBhfQW9iDHy.html",
+      "snippet": "2026年9月17日，第十一届华为全联接大会在上海开幕。大会期间，360集团与昇腾AI联合打造解决方案。以360智能体工厂为核心的智能体基础设施与昇腾AI深度协同，面向AI Agent场景实现全面提速，为复杂任务执行、多智能体协作和长链路推理提供更高效、更稳定的底层支撑。这也是双方继2026世界人工",
+      "pubDate": "Sat, 19 Sep 2026 09:58:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-19T08:37:24.708Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
@@ -19,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "学术研究"
       ]
@@ -83,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +227,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T03:35:00.067Z",
+      "fetchedAt": "2026-09-19T08:37:27.476Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T03:34:57.012Z",
+      "fetchedAt": "2026-09-19T08:37:25.350Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +259,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-19T03:34:58.200Z",
+      "fetchedAt": "2026-09-19T08:37:26.596Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +275,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +291,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-19T03:34:58.200Z",
+      "fetchedAt": "2026-09-19T08:37:26.596Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +307,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "大模型"
       ]
@@ -211,7 +323,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T03:34:57.012Z",
+      "fetchedAt": "2026-09-19T08:37:25.350Z",
       "tags": [
         "政策监管"
       ]
@@ -227,7 +339,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T03:35:00.067Z",
+      "fetchedAt": "2026-09-19T08:37:27.476Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +355,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "商业融资"
       ]
@@ -259,7 +371,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +387,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-19T03:34:58.200Z",
+      "fetchedAt": "2026-09-19T08:37:26.596Z",
       "tags": [
         "开源工具",
         "政策监管"
@@ -292,7 +404,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "学术研究"
       ]
@@ -308,7 +420,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "学术研究"
       ]
@@ -324,7 +436,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T03:34:57.012Z",
+      "fetchedAt": "2026-09-19T08:37:25.350Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +452,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.030Z",
       "tags": [
         "商业融资"
       ]
@@ -356,7 +468,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T03:34:57.012Z",
+      "fetchedAt": "2026-09-19T08:37:25.350Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-19T03:34:52.276Z",
+      "fetchedAt": "2026-09-19T08:37:18.491Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +500,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-19T03:34:52.276Z",
+      "fetchedAt": "2026-09-19T08:37:18.491Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -405,7 +517,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T03:34:57.012Z",
+      "fetchedAt": "2026-09-19T08:37:25.350Z",
       "tags": [
         "大模型"
       ]
@@ -421,7 +533,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.031Z",
       "tags": [
         "开源工具"
       ]
@@ -437,7 +549,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.031Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +565,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.031Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +581,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta, Rebecca Bellan",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.031Z",
       "tags": [
         "大模型"
       ]
@@ -485,7 +597,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "fetchedAt": "2026-09-19T08:37:25.031Z",
       "tags": [
         "商业融资"
       ]
@@ -501,7 +613,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cristina Criddle, Financial Times\n                ",
-      "fetchedAt": "2026-09-19T03:34:58.200Z",
+      "fetchedAt": "2026-09-19T08:37:26.596Z",
       "tags": [
         "大模型"
       ]
@@ -517,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-19T03:34:52.276Z",
+      "fetchedAt": "2026-09-19T08:37:18.491Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-19T03:34:52.276Z",
+      "fetchedAt": "2026-09-19T08:37:18.491Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +661,23 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-19T03:34:57.282Z",
+      "fetchedAt": "2026-09-19T08:37:25.647Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "link": "https://openai.com/index/australian-youth-safety-blueprint",
+      "snippet": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
+      "pubDate": "Fri, 18 Sep 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-19T08:37:27.068Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +693,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven, Grace Huckins",
-      "fetchedAt": "2026-09-19T03:34:57.282Z",
+      "fetchedAt": "2026-09-19T08:37:25.647Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +709,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T03:34:57.012Z",
+      "fetchedAt": "2026-09-19T08:37:25.350Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +725,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T03:35:00.067Z",
+      "fetchedAt": "2026-09-19T08:37:27.476Z",
       "tags": [
         "大模型"
       ]
@@ -613,7 +741,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-19T03:34:52.276Z",
+      "fetchedAt": "2026-09-19T08:37:18.491Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +757,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-19T03:34:57.282Z",
+      "fetchedAt": "2026-09-19T08:37:25.647Z",
       "tags": [
         "综合"
       ]
@@ -645,7 +773,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T03:35:00.067Z",
+      "fetchedAt": "2026-09-19T08:37:27.476Z",
       "tags": [
         "AI应用"
       ]
@@ -661,7 +789,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-19T03:34:56.481Z",
+      "fetchedAt": "2026-09-19T08:37:24.708Z",
       "tags": [
         "综合"
       ]
@@ -677,136 +805,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-19T03:34:56.481Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
-      "link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
-      "snippet": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap fr",
-      "pubDate": "Fri, 18 Sep 2026 07:34:06 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jean-marc Mommessin",
-      "fetchedAt": "2026-09-19T03:35:00.067Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家解读丨行业首创之后，极壳Halo的账能算平吗？",
-      "link": "https://www.leiphone.com/category/weiwu/V4gtXhVreRgnCmys.html",
-      "snippet": "一年交付约3万台的极壳，正在以10亿美金估值推进新一轮融资。 作者丨陈玘凡  编辑丨吴优          9月3日柏林IFA，消费级外骨骼头部玩家极壳（Hypershell）亮出了“新物种”：髋膝一体、四电机的Halo，创始版预售价15999元，全球限量200台，预计2026年11月起陆续发货。",
-      "pubDate": "Fri, 18 Sep 2026 15:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-19T03:34:56.481Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨皓翊星辰融资千万级美金，厚雪孵化，绿洲、砺思投了",
-      "link": "https://www.leiphone.com/category/weiwu/SvTVpNCuYHpbNAxA.html",
-      "snippet": "网球发球机一年量产交付，篮球训练机器人众筹已破百万。  作者丨陈玘凡  编辑丨吴优         雷峰网·鲸犀独家获悉，皓翊星辰（LUMISTAR）已完成绿洲资本、砺思资本（Monolith）投资的多轮融资，累计融资额达千万级美元。目前新一轮融资正在洽谈中。资金将用于产品研发和迭代，以及AI运动科",
-      "pubDate": "Fri, 18 Sep 2026 15:00:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-19T03:34:56.481Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "深度解读：智谱为什么要在 Infra 层搞 RSI？",
-      "link": "https://www.leiphone.com/category/yanxishe/41rW4mD2vjnpNY2o.html",
-      "snippet": "电话会揭秘智谱策略，以递归式优化跑赢300亿算力成本战。          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Fri, 18 Sep 2026 14:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-19T03:34:56.481Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "在 AI「囤粮潮」里，拆解智谱 50 亿美元的「技术账本」",
-      "link": "https://www.leiphone.com/category/industrynews/U0Od1SeYkIPA98cI.html",
-      "snippet": "AI下半场，谁能用钱换来“技术代差”？          作者丨徐晓飞      编辑丨刘   伟",
-      "pubDate": "Fri, 18 Sep 2026 14:28:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-19T03:34:56.481Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "仅用3天！千问办公协助国家天文台科研团队打造科研级望远镜仿真系统",
-      "link": "https://www.leiphone.com/category/industrynews/HlXq3tJy48q1NubA.html",
-      "snippet": "日前，千问办公协助国家天文台科研团队打造大口径科研级望远镜数字化仿真系统，耗时仅3天，成本不到千元。依托对真实望远镜组件和观测条件的模拟，Agent可在仿真环境中驱动望远镜进行远程态势感知与观测流程仿真。未来，仿真系统产生的数据，还将用于训练望远镜控制模型（VLA）中。   据介绍，超新星爆发、伽马",
-      "pubDate": "Fri, 18 Sep 2026 14:24:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-19T03:34:56.481Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨OpenAI的一款无屏硬件，正在深圳试制",
-      "link": "https://www.leiphone.com/category/weiwu/P2ycl5IbO7iNQKAt.html",
-      "snippet": "雷峰网·鲸犀获悉，OpenAI近日正在深圳秘密试制一款无屏AI硬件产品。有业内人士称，其保密程度极高，工程师来深圳出差连手机都没带。该产品计划在2027年上市。这会是一款什么形态的产品？还有哪些最新进展？欢迎添加作者微信 xf123a 交流。雷峰网雷峰网",
-      "pubDate": "Fri, 18 Sep 2026 14:23:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-19T03:34:56.481Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
-      "link": "https://www.qbitai.com/2026/09/491875.html",
-      "snippet": "用通用AI去啃最硬的骨头，这条路走得通",
-      "pubDate": "Fri, 18 Sep 2026 06:11:06 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "克雷西",
-      "fetchedAt": "2026-09-19T03:34:52.276Z",
+      "fetchedAt": "2026-09-19T08:37:24.708Z",
       "tags": [
         "AI应用"
       ]
