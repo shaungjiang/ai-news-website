@@ -1,43 +1,155 @@
 {
-  "generatedAt": "2026-09-19T08:41:47.044Z",
+  "generatedAt": "2026-09-19T13:53:18.975Z",
   "stats": {
-    "total": 109,
+    "total": 98,
     "shown": 50,
     "chinese": 30,
-    "english": 79,
-    "today": 9
+    "english": 68,
+    "today": 14
   },
   "articles": [
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model",
-      "link": "https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/",
-      "snippet": "Linkup Research has released SPARSEUP, an open-source sparse embedding model built on a 149M-parameter ModernBERT backbone. It scores 56.4 nDCG@10 on",
-      "pubDate": "Sat, 19 Sep 2026 07:48:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "snippet": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
       "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T08:37:27.476Z",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
-        "AI应用"
+        "综合"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes",
-      "link": "https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/",
-      "snippet": "Meta has released Muse for Mac, the first version of Muse that can complete things on a user’s computer. The agent works with local files and native a",
-      "pubDate": "Sat, 19 Sep 2026 07:22:16 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The AI regulation smackdown isn’t over",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "snippet": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amo",
+      "pubDate": "2026-09-19T13:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
       "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-19T08:37:27.476Z",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-19T13:43:31.902Z",
       "tags": [
-        "AI应用"
+        "政策监管"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "“留给人类阻止AI的时间不多了”",
+      "link": "https://www.qbitai.com/2026/09/492755.html",
+      "snippet": "AI有可能终结我们所有人",
+      "pubDate": "Sat, 19 Sep 2026 11:53:12 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-09-19T13:43:20.621Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "马斯克批量收购破产公司ing…世界首富脑子是不一样",
+      "link": "https://www.qbitai.com/2026/09/492661.html",
+      "snippet": "老马想买倒闭公司数据为哪般",
+      "pubDate": "Sat, 19 Sep 2026 11:48:06 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "27B模型分分钟交付网页，Qwen 3.8还是太能了",
+      "link": "https://www.qbitai.com/2026/09/492573.html",
+      "snippet": "设计、前端一口气全干了，结果后端没来上班",
+      "pubDate": "Sat, 19 Sep 2026 11:43:12 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Nature：AI重生到1900，这一世抢先爱因斯坦提出光量子",
+      "link": "https://www.qbitai.com/2026/09/492550.html",
+      "snippet": "AI能否提出相对论？",
+      "pubDate": "Sat, 19 Sep 2026 11:36:11 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "溪砾科技助阵首个全国 CMT 关爱日，在研管线 RTX-117 临床前数据积极，I 期试验进行中",
+      "link": "https://www.leiphone.com/category/industrynews/8wlffTzwOMxSOsLY.html",
+      "snippet": "2026年9月12日，首个全国CMT（腓骨肌萎缩症）关爱日启动仪式暨“千里同行 步履寻光”病友交流会在云南昆明举行。这场活动由千里行CMT互助之家和豌豆Sir倡议发起，正式将每年9月19日设为全国CMT关爱日。 溪砾科技（ReviR Therapeutics）为支持企业之一，其中国区CEO刘阳博士受",
+      "pubDate": "Sat, 19 Sep 2026 18:44:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-19T13:43:31.335Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "千万奖池找“鲸锐”！单项奖金200万，只等一个最会用AI讲故事的你",
+      "link": "https://www.qbitai.com/2026/09/492501.html",
+      "snippet": "1000万，把才华送上真正的大舞台",
+      "pubDate": "Sat, 19 Sep 2026 08:34:35 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦瑶",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "华为汪涛：华为要打造AI算力底座，只做好一颗芯片远远不够",
+      "link": "https://www.qbitai.com/2026/09/492476.html",
+      "snippet": "CANN跨过拐点，华为补上软件生态",
+      "pubDate": "Sat, 19 Sep 2026 08:28:51 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦瑶",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -51,7 +163,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-19T08:37:18.491Z",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
       "tags": [
         "学术研究"
       ]
@@ -67,41 +179,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-19T08:37:18.491Z",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)",
-      "link": "https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/",
-      "snippet": "GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains",
-      "pubDate": "Sat, 19 Sep 2026 04:04:06 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T08:37:27.476Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour",
-      "link": "https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/",
-      "snippet": "SpaceXAI has released Grok Voice Transcribe 2.0, its newest speech-to-text model for batch and streaming audio. The company says it is twice as accura",
-      "pubDate": "Sat, 19 Sep 2026 03:42:24 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-19T08:37:27.476Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -115,7 +195,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:24.708Z",
+      "fetchedAt": "2026-09-19T13:43:31.335Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "商业融资"
       ]
@@ -179,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "学术研究"
       ]
@@ -195,7 +275,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "大模型"
       ]
@@ -211,25 +291,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
-      "link": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
-      "snippet": "Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B to",
-      "pubDate": "Fri, 18 Sep 2026 21:21:59 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T08:37:27.476Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -243,7 +307,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:25.350Z",
+      "fetchedAt": "2026-09-19T13:43:31.902Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +323,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-19T08:37:26.596Z",
+      "fetchedAt": "2026-09-19T13:43:32.916Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +339,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +355,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-19T08:37:26.596Z",
+      "fetchedAt": "2026-09-19T13:43:32.916Z",
       "tags": [
         "AI应用"
       ]
@@ -307,7 +371,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "大模型"
       ]
@@ -323,25 +387,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:25.350Z",
+      "fetchedAt": "2026-09-19T13:43:31.902Z",
       "tags": [
         "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
-      "link": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/",
-      "snippet": "PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. Pri",
-      "pubDate": "Fri, 18 Sep 2026 18:06:36 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T08:37:27.476Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -355,7 +403,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "商业融资"
       ]
@@ -371,7 +419,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "综合"
       ]
@@ -387,7 +435,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-19T08:37:26.596Z",
+      "fetchedAt": "2026-09-19T13:43:32.916Z",
       "tags": [
         "开源工具",
         "政策监管"
@@ -404,7 +452,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "学术研究"
       ]
@@ -420,7 +468,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "学术研究"
       ]
@@ -436,7 +484,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:25.350Z",
+      "fetchedAt": "2026-09-19T13:43:31.902Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +500,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-09-19T08:37:25.030Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "商业融资"
       ]
@@ -468,7 +516,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:25.350Z",
+      "fetchedAt": "2026-09-19T13:43:31.902Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +532,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-19T08:37:18.491Z",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +548,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-19T08:37:18.491Z",
+      "fetchedAt": "2026-09-19T13:43:20.622Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -517,7 +565,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:25.350Z",
+      "fetchedAt": "2026-09-19T13:43:31.902Z",
       "tags": [
         "大模型"
       ]
@@ -533,7 +581,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-19T08:37:25.031Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "开源工具"
       ]
@@ -549,7 +597,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-19T08:37:25.031Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "AI应用"
       ]
@@ -565,7 +613,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-19T08:37:25.031Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +629,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta, Rebecca Bellan",
-      "fetchedAt": "2026-09-19T08:37:25.031Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "大模型"
       ]
@@ -597,7 +645,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-19T08:37:25.031Z",
+      "fetchedAt": "2026-09-19T13:43:31.659Z",
       "tags": [
         "商业融资"
       ]
@@ -613,41 +661,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cristina Criddle, Financial Times\n                ",
-      "fetchedAt": "2026-09-19T08:37:26.596Z",
+      "fetchedAt": "2026-09-19T13:43:32.916Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "具身智能技术路线尚未定型，基础设施却先收敛",
-      "link": "https://www.qbitai.com/2026/09/492238.html",
-      "snippet": "从一次成功到一万次稳定执行，具身智能还缺什么？",
-      "pubDate": "Fri, 18 Sep 2026 13:16:33 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-09-19T08:37:18.491Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "AGI新战场谷歌亚马逊巨头激战，杀出个中国LimiX-2赢了又赢",
-      "link": "https://www.qbitai.com/2026/09/492175.html",
-      "snippet": "LimiX让模型理解数据背后的因果机制",
-      "pubDate": "Fri, 18 Sep 2026 12:22:47 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦瑶",
-      "fetchedAt": "2026-09-19T08:37:18.491Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -661,7 +677,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-19T08:37:25.647Z",
+      "fetchedAt": "2026-09-19T13:43:32.158Z",
       "tags": [
         "综合"
       ]
@@ -677,7 +693,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:27.068Z",
+      "fetchedAt": "2026-09-19T13:43:33.299Z",
       "tags": [
         "综合"
       ]
@@ -693,7 +709,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven, Grace Huckins",
-      "fetchedAt": "2026-09-19T08:37:25.647Z",
+      "fetchedAt": "2026-09-19T13:43:32.158Z",
       "tags": [
         "综合"
       ]
@@ -709,39 +725,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:25.350Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
-      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
-      "snippet": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent",
-      "pubDate": "Fri, 18 Sep 2026 09:44:55 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T08:37:27.476Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "白天务农晚上码农，这个斐济农民跨越一万公里来拼多多取经",
-      "link": "https://www.qbitai.com/2026/09/492015.html",
-      "snippet": "那些数以亿万计的，仍在等待被市场看见的小农户们。",
-      "pubDate": "Fri, 18 Sep 2026 09:19:37 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "程浅",
-      "fetchedAt": "2026-09-19T08:37:18.491Z",
+      "fetchedAt": "2026-09-19T13:43:31.902Z",
       "tags": [
         "综合"
       ]
@@ -757,25 +741,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-19T08:37:25.647Z",
+      "fetchedAt": "2026-09-19T13:43:32.158Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
-      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
-      "snippet": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post A",
-      "pubDate": "Fri, 18 Sep 2026 08:40:37 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-19T08:37:27.476Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -789,7 +757,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:24.708Z",
+      "fetchedAt": "2026-09-19T13:43:31.335Z",
       "tags": [
         "综合"
       ]
@@ -805,8 +773,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-19T08:37:24.708Z",
+      "fetchedAt": "2026-09-19T13:43:31.335Z",
       "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "独家解读丨行业首创之后，极壳Halo的账能算平吗？",
+      "link": "https://www.leiphone.com/category/weiwu/V4gtXhVreRgnCmys.html",
+      "snippet": "一年交付约3万台的极壳，正在以10亿美金估值推进新一轮融资。 作者丨陈玘凡  编辑丨吴优          9月3日柏林IFA，消费级外骨骼头部玩家极壳（Hypershell）亮出了“新物种”：髋膝一体、四电机的Halo，创始版预售价15999元，全球限量200台，预计2026年11月起陆续发货。",
+      "pubDate": "Fri, 18 Sep 2026 15:12:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-19T13:43:31.335Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "独家丨皓翊星辰融资千万级美金，厚雪孵化，绿洲、砺思投了",
+      "link": "https://www.leiphone.com/category/weiwu/SvTVpNCuYHpbNAxA.html",
+      "snippet": "网球发球机一年量产交付，篮球训练机器人众筹已破百万。  作者丨陈玘凡  编辑丨吴优         雷峰网·鲸犀独家获悉，皓翊星辰（LUMISTAR）已完成绿洲资本、砺思资本（Monolith）投资的多轮融资，累计融资额达千万级美元。目前新一轮融资正在洽谈中。资金将用于产品研发和迭代，以及AI运动科",
+      "pubDate": "Fri, 18 Sep 2026 15:00:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-19T13:43:31.335Z",
+      "tags": [
+        "商业融资",
         "AI应用"
       ]
     }
