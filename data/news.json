@@ -1,16 +1,96 @@
 {
-  "generatedAt": "2026-09-18T22:26:02.222Z",
+  "generatedAt": "2026-09-19T03:39:23.290Z",
   "stats": {
-    "total": 98,
+    "total": 108,
     "shown": 50,
     "chinese": 30,
-    "english": 68,
-    "today": 48
+    "english": 78,
+    "today": 2
   },
   "articles": [
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic’s first embedded evaluator is … Accenture?",
+      "title": "India forces caller-ID apps to feed spam reports to telcos",
+      "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+      "snippet": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+      "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+      "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+      "snippet": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+      "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+      "snippet": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Kirsten Korosec",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic is operating a lab that conducts biology experiments",
+      "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+      "snippet": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+      "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI hallucination nearly triggers US military operation",
+      "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+      "snippet": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+      "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aditya Mehta",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic’s first embedded evaluator is … Accenture?",
       "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
       "snippet": "Accenture is about to take on its most high-risk consulting engagement ever.",
       "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
@@ -19,9 +99,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs",
+      "link": "https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/",
+      "snippet": "Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B to",
+      "pubDate": "Fri, 18 Sep 2026 21:21:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-19T03:35:00.067Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:30.298Z",
+      "fetchedAt": "2026-09-19T03:34:57.012Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-18T22:21:31.229Z",
+      "fetchedAt": "2026-09-19T03:34:58.200Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-18T22:21:31.229Z",
+      "fetchedAt": "2026-09-19T03:34:58.200Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "大模型"
       ]
@@ -115,9 +211,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:30.298Z",
+      "fetchedAt": "2026-09-19T03:34:57.012Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance",
+      "link": "https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/",
+      "snippet": "PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. Pri",
+      "pubDate": "Fri, 18 Sep 2026 18:06:36 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-19T03:35:00.067Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -131,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +275,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-18T22:21:31.229Z",
+      "fetchedAt": "2026-09-19T03:34:58.200Z",
       "tags": [
         "开源工具",
         "政策监管"
@@ -180,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "学术研究"
       ]
@@ -196,7 +308,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "学术研究"
       ]
@@ -212,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:30.298Z",
+      "fetchedAt": "2026-09-19T03:34:57.012Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "商业融资"
       ]
@@ -244,7 +356,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:30.298Z",
+      "fetchedAt": "2026-09-19T03:34:57.012Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +372,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-18T22:21:25.072Z",
+      "fetchedAt": "2026-09-19T03:34:52.276Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +388,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-18T22:21:25.072Z",
+      "fetchedAt": "2026-09-19T03:34:52.276Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -293,7 +405,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:30.298Z",
+      "fetchedAt": "2026-09-19T03:34:57.012Z",
       "tags": [
         "大模型"
       ]
@@ -309,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "开源工具"
       ]
@@ -325,7 +437,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +453,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +469,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta, Rebecca Bellan",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "大模型"
       ]
@@ -373,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:56.738Z",
       "tags": [
         "商业融资"
       ]
@@ -389,7 +501,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cristina Criddle, Financial Times\n                ",
-      "fetchedAt": "2026-09-18T22:21:31.229Z",
+      "fetchedAt": "2026-09-19T03:34:58.200Z",
       "tags": [
         "大模型"
       ]
@@ -405,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-18T22:21:25.072Z",
+      "fetchedAt": "2026-09-19T03:34:52.276Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-18T22:21:25.072Z",
+      "fetchedAt": "2026-09-19T03:34:52.276Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +549,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-18T22:21:30.559Z",
+      "fetchedAt": "2026-09-19T03:34:57.282Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +565,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven, Grace Huckins",
-      "fetchedAt": "2026-09-18T22:21:30.559Z",
+      "fetchedAt": "2026-09-19T03:34:57.282Z",
       "tags": [
         "综合"
       ]
@@ -469,9 +581,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:30.298Z",
+      "fetchedAt": "2026-09-19T03:34:57.012Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Best Open-Source Agent Harnesses for Local LLMs in 2026",
+      "link": "https://www.marktechpost.com/2026/09/18/best-open-source-agent-harnesses-for-local-llms-in-2026/",
+      "snippet": "Which open-source harness works with Ollama, LM Studio, or llama.cpp? 11 verified picks with licenses and setup rules. The post Best Open-Source Agent",
+      "pubDate": "Fri, 18 Sep 2026 09:44:55 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-19T03:35:00.067Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -485,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-18T22:21:25.072Z",
+      "fetchedAt": "2026-09-19T03:34:52.276Z",
       "tags": [
         "综合"
       ]
@@ -501,9 +629,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-18T22:21:30.559Z",
+      "fetchedAt": "2026-09-19T03:34:57.282Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Alibaba Qwen Releases Qwen3.8-Omni-Flash: A 1M-Context Omni-Modal Model Built Around Agentic Audio-Video Understanding and Tool Use",
+      "link": "https://www.marktechpost.com/2026/09/18/alibaba-qwen-releases-qwen3-8-omni-flash/",
+      "snippet": "Alibaba's Qwen3.8-Omni-Flash understands audio and video, plans tasks, calls tools, and reports about 45.7% fewer tokens on OmniVideoBench. The post A",
+      "pubDate": "Fri, 18 Sep 2026 08:40:37 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-19T03:35:00.067Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -517,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
+      "fetchedAt": "2026-09-19T03:34:56.481Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +677,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
+      "fetchedAt": "2026-09-19T03:34:56.481Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration",
+      "link": "https://www.marktechpost.com/2026/09/18/salesforce-agentforce-bridging-the-enterprise-ai-gap-from-vibe-coding-to-battle-tested-orchestration/",
+      "snippet": "Building an AI prototype is easy, but operating autonomous agents at scale requires production-grade tooling. Salesforce Agentforce bridges the gap fr",
+      "pubDate": "Fri, 18 Sep 2026 07:34:06 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jean-marc Mommessin",
+      "fetchedAt": "2026-09-19T03:35:00.067Z",
       "tags": [
         "AI应用"
       ]
@@ -549,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
+      "fetchedAt": "2026-09-19T03:34:56.481Z",
       "tags": [
         "商业融资"
       ]
@@ -565,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
+      "fetchedAt": "2026-09-19T03:34:56.481Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -582,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
+      "fetchedAt": "2026-09-19T03:34:56.481Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
+      "fetchedAt": "2026-09-19T03:34:56.481Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
+      "fetchedAt": "2026-09-19T03:34:56.481Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
+      "fetchedAt": "2026-09-19T03:34:56.481Z",
       "tags": [
         "AI应用"
       ]
@@ -646,168 +806,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-18T22:21:25.072Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "OpenAI：为了不被杀死，Agent 竟学会了靠上下文「转世重生」",
-      "link": "https://www.leiphone.com/category/ai/pcucC7ezQ6TRruRM.html",
-      "snippet": "从 Compaction 到 Artifactory，再到公网文件服务，6 起异常暴露 Agent 状态跨实例传播的新风险。          作者丨郑佳美      编辑丨岑   峰",
-      "pubDate": "Fri, 18 Sep 2026 14:06:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "英伟达开源 IMO 金牌配方：不仅是「人海战术」，1.5TB 显存做实 AI「 推恩令」？",
-      "link": "https://www.leiphone.com/category/ai/XpCc8XUGypadWNGt.html",
-      "snippet": "用三套 checkpoint 完成多轮证明搜索，用过程透明平息学术怒火，用 1.5TB 显存门槛锁定算力霸权。名为代码平权，实则算力集权。          作者丨郑佳美      编辑丨岑   峰",
-      "pubDate": "Fri, 18 Sep 2026 14:02:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "福田汽车汉诺威亮牌，中国商用车出海不再只卖车",
-      "link": "https://www.leiphone.com/category/industrynews/QbZL0Bl37gVKghWM.html",
-      "snippet": "9月14日，德国汉诺威国际商用车展。福田汽车带来7辆整车、6大核心零部件，多款车型完成海外首秀，并办了一场信息密度很高的专场发布会。 如果只看展车，这是一次产品秀。但把镜头拉远，福田汽车真正想讲的，是中国商用车出海逻辑的变化：从“把车卖出去”，转向“把产品、技术、能源生态和属地运营一起带出去”。",
-      "pubDate": "Fri, 18 Sep 2026 13:56:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "关于问界专属专营的问答",
-      "link": "https://www.leiphone.com/category/industrynews/DwlZE0y6dWlAWtZq.html",
-      "snippet": "9月15日，鸿蒙智行和问界汽车同日发布说明，宣布即日起问界在鸿蒙智行合作框架下探索新合作模式，问界品牌将专属专营。今日，赛力斯集团董事、副总裁康波，首次回应了用户及市场关心的话题。 Q1：9月15日以来，有很多关于赛力斯和华为合作的讨论，大家都很关心问界为什么要专属专营？  康波： 2021年，赛力",
-      "pubDate": "Fri, 18 Sep 2026 13:51:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "预售价31.98万-38.98万元，腾势Z9S展车抵达全国166城334家门店",
-      "link": "https://www.leiphone.com/category/CorporateServices/1lPprbjrYIkKy5vq.html",
-      "snippet": "近日，腾势汽车宣布，腾势 Z9S 展车现已抵达全国 166 城 334 家门店。8月21日，腾势汽车携全系产品亮相成都车展9号展馆，其中已经开启预售的科技豪华智能轿车——腾势Z9S迎来成都车展首秀。自8月3日开启预售以来，其凭借超美颜值、超长续航、超强驾控和超级智能的四大超级实力，受到消费者热烈追捧",
-      "pubDate": "Fri, 18 Sep 2026 12:26:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Manus重生第17天，估值居然就翻倍了",
-      "link": "https://www.qbitai.com/2026/09/491764.html",
-      "snippet": "作价40亿美元推进新融资",
-      "pubDate": "Fri, 18 Sep 2026 00:37:13 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-09-18T22:21:25.072Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "link": "https://www.qbitai.com/2026/09/491711.html",
-      "snippet": "Git白学了？？？",
-      "pubDate": "Fri, 18 Sep 2026 00:34:34 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-09-18T22:21:25.072Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "影视飓风Tim称「iPhoneDuo烫到握不住，可以煎鸡蛋」；罗福莉直播小米大模型训练，每小时烧掉超20万元；曝玛莎拉蒂与华为合作两款新车",
-      "link": "https://www.leiphone.com/category/zaobao/MJprK3aEw1xPngou.html",
-      "snippet": "要闻提示       1.影视飓风Tim称“iPhoneDuo烫到握不住，可以煎鸡蛋”，苹果客服回应 2.你会买吗？曝玛莎拉蒂已与华为敲定合作两款新车：尊界工厂负责制造 3.每小时“烧掉”超20万元！“AI才女”罗福莉直播小米大模型训练 4.华为汪涛：昇腾960芯片将提前至2027年Q1发布 5.知",
-      "pubDate": "Fri, 18 Sep 2026 08:19:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-18T22:21:29.696Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
-      "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
-      "snippet": "The round values the data center giant at $30.9 billion.",
-      "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google DeepMind launches institute to widen the AGI debate",
-      "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "snippet": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will no",
-      "pubDate": "Thu, 17 Sep 2026 23:21:17 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-18T22:21:29.942Z",
+      "fetchedAt": "2026-09-19T03:34:52.276Z",
       "tags": [
         "AI应用"
       ]
