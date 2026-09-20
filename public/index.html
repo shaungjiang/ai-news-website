@@ -28,7 +28,7 @@
         <span class="logo-text">AI 新闻日报</span>
       </a>
       <div class="header-stats">
-        今日 <strong>0 条</strong> · 共 98 条
+        今日 <strong>1 条</strong> · 共 108 条
       </div>
     </div>
     <div class="header-right">
@@ -51,7 +51,7 @@
     <div class="hero-stats">
       <div class="hero-stat">
         <span class="hero-stat-icon">📰</span>
-        <span>今日 <strong>0</strong> 篇</span>
+        <span>今日 <strong>1</strong> 篇</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🇨🇳</span>
@@ -59,7 +59,7 @@
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🌐</span>
-        <span>英文 <strong>68</strong> 篇</span>
+        <span>英文 <strong>78</strong> 篇</span>
       </div>
     </div>
   </div>
@@ -80,9 +80,9 @@
 
     <!-- ====== Language Filter ====== -->
     <div class="filter-bar">
-      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">98</span></button>
+      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">108</span></button>
       <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">30</span></button>
-      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">68</span></button>
+      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">78</span></button>
     </div>
 
     <!-- ====== Time Filter ====== -->
@@ -117,14 +117,78 @@
       <p>没有匹配的新闻</p>
     </div>
 
+    <section class="date-section" data-date="今日">
+      <div class="date-heading">
+        <span class="date-icon">📅</span>
+        <span class="date-label">今日</span>
+        <span class="date-count">1 篇</span>
+      </div>
+
+      <div class="news-grid">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/2Yp4xHpoIe2JNTOd.html" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 20 Sep 2026 10:03:00 +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#c62828"></span>
+              雷锋网
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Sun, 20 Sep 2026 10:03:00 +0800" title="Sun, 20 Sep 2026 10:03:00 +0800">2 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.leiphone.com/category/industrynews/2Yp4xHpoIe2JNTOd.html" target="_blank" rel="noopener">淘宝闪购城市骑士制服荣获法国设计奖最高奖</a>
+          </h3>
+
+          <p class="card-snippet">9月19日，2026年法国设计奖（French Design Award）颁奖典礼在巴黎举行，淘宝闪购城市骑士制服获颁金奖。这是该奖设立以来，首次将金奖授予一套面向一线劳动者的职业制服。   法国设计奖组委会主席达里奥·奥利维罗（Dario Olivero）高度评价了这次有巨大社会意义的设计行动：“</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://www.leiphone.com/category/industrynews/2Yp4xHpoIe2JNTOd.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+      </div>
+    </section>
     <section class="date-section" data-date="昨天">
       <div class="date-heading">
         <span class="date-icon">📆</span>
         <span class="date-label">昨天</span>
-        <span class="date-count">24 篇</span>
+        <span class="date-count">30 篇</span>
       </div>
 
       <div class="news-grid">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 19 Sep 2026 21:44:23 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 21:44:23 +0000" title="Sat, 19 Sep 2026 21:44:23 +0000">6 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/" target="_blank" rel="noopener">OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live</a>
+          </h3>
+
+          <p class="card-snippet">OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version agains</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
         <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="2026-09-19T20:44:40.000Z">
           <div class="card-hd">
             <span class="card-source">
@@ -134,7 +198,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-09-19T20:44:40.000Z" title="2026-09-19T20:44:40.000Z">3 小时前</span>
+            <span class="card-time" data-pubdate="2026-09-19T20:44:40.000Z" title="2026-09-19T20:44:40.000Z">7 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -161,7 +225,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 20:39:13 +0000" title="Sat, 19 Sep 2026 20:39:13 +0000">3 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 20:39:13 +0000" title="Sat, 19 Sep 2026 20:39:13 +0000">7 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -188,7 +252,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 19:57:47 +0000" title="Sat, 19 Sep 2026 19:57:47 +0000">4 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 19:57:47 +0000" title="Sat, 19 Sep 2026 19:57:47 +0000">8 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -206,6 +270,33 @@
             </a>
           </div>
         </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 19 Sep 2026 18:41:33 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 18:41:33 +0000" title="Sat, 19 Sep 2026 18:41:33 +0000">9 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/" target="_blank" rel="noopener">TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text</a>
+          </h3>
+
+          <p class="card-snippet">TypeSafe AI released Jev, a System One model that answers typed questions with probabilities instead of generating text. Input costs $0.042 per 1M tok</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
         <article class="news-card scroll-hidden" data-lang="en" data-url="https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 19 Sep 2026 17:30:00 +0000">
           <div class="card-hd">
             <span class="card-source">
@@ -215,7 +306,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 17:30:00 +0000" title="Sat, 19 Sep 2026 17:30:00 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 17:30:00 +0000" title="Sat, 19 Sep 2026 17:30:00 +0000">10 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -242,7 +333,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-09-19T15:25:03.000Z" title="2026-09-19T15:25:03.000Z">8 小时前</span>
+            <span class="card-time" data-pubdate="2026-09-19T15:25:03.000Z" title="2026-09-19T15:25:03.000Z">12 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -269,7 +360,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 23:05:00 +0800" title="Sat, 19 Sep 2026 23:05:00 +0800">8 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 23:05:00 +0800" title="Sat, 19 Sep 2026 23:05:00 +0800">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -296,7 +387,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 15:00:00 +0000" title="Sat, 19 Sep 2026 15:00:00 +0000">9 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 15:00:00 +0000" title="Sat, 19 Sep 2026 15:00:00 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -323,7 +414,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 15:00:00 +0000" title="Sat, 19 Sep 2026 15:00:00 +0000">9 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 15:00:00 +0000" title="Sat, 19 Sep 2026 15:00:00 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -350,7 +441,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 14:00:00 +0000" title="Sat, 19 Sep 2026 14:00:00 +0000">10 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 14:00:00 +0000" title="Sat, 19 Sep 2026 14:00:00 +0000">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -377,7 +468,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-09-19T14:00:00.000Z" title="2026-09-19T14:00:00.000Z">10 小时前</span>
+            <span class="card-time" data-pubdate="2026-09-19T14:00:00.000Z" title="2026-09-19T14:00:00.000Z">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -404,7 +495,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 13:00:00 +0000" title="Sat, 19 Sep 2026 13:00:00 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 13:00:00 +0000" title="Sat, 19 Sep 2026 13:00:00 +0000">15 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -431,7 +522,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-09-19T13:00:00.000Z" title="2026-09-19T13:00:00.000Z">11 小时前</span>
+            <span class="card-time" data-pubdate="2026-09-19T13:00:00.000Z" title="2026-09-19T13:00:00.000Z">15 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -458,7 +549,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 11:53:12 +0000" title="Sat, 19 Sep 2026 11:53:12 +0000">12 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 11:53:12 +0000" title="Sat, 19 Sep 2026 11:53:12 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -485,7 +576,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 11:48:06 +0000" title="Sat, 19 Sep 2026 11:48:06 +0000">12 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 11:48:06 +0000" title="Sat, 19 Sep 2026 11:48:06 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -512,7 +603,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 11:43:12 +0000" title="Sat, 19 Sep 2026 11:43:12 +0000">12 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 11:43:12 +0000" title="Sat, 19 Sep 2026 11:43:12 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -539,7 +630,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 11:36:11 +0000" title="Sat, 19 Sep 2026 11:36:11 +0000">12 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 11:36:11 +0000" title="Sat, 19 Sep 2026 11:36:11 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -566,7 +657,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 18:44:00 +0800" title="Sat, 19 Sep 2026 18:44:00 +0800">13 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 18:44:00 +0800" title="Sat, 19 Sep 2026 18:44:00 +0800">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -593,7 +684,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 08:34:35 +0000" title="Sat, 19 Sep 2026 08:34:35 +0000">15 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 08:34:35 +0000" title="Sat, 19 Sep 2026 08:34:35 +0000">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -620,7 +711,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 08:28:51 +0000" title="Sat, 19 Sep 2026 08:28:51 +0000">15 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 08:28:51 +0000" title="Sat, 19 Sep 2026 08:28:51 +0000">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -638,6 +729,60 @@
             </a>
           </div>
         </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 19 Sep 2026 07:48:38 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 07:48:38 +0000" title="Sat, 19 Sep 2026 07:48:38 +0000">20 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/" target="_blank" rel="noopener">Linkup Research Releases SPARSEUP: A 149M-Parameter Open-Source Sparse Embedding Model</a>
+          </h3>
+
+          <p class="card-snippet">Linkup Research has released SPARSEUP, an open-source sparse embedding model built on a 149M-parameter ModernBERT backbone. It scores 56.4 nDCG@10 on</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/09/19/linkup-research-releases-sparseup/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 19 Sep 2026 07:22:16 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 07:22:16 +0000" title="Sat, 19 Sep 2026 07:22:16 +0000">20 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/" target="_blank" rel="noopener">Meta Launches Muse for Mac: A Personal AI Agent That Works Across Your Files, Mail, Messages, Calendar and Notes</a>
+          </h3>
+
+          <p class="card-snippet">Meta has released Muse for Mac, the first version of Muse that can complete things on a user’s computer. The agent works with local files and native a</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/09/19/meta-launches-muse-for-mac/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
         <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/09/492467.html" data-date="昨天" data-tags='[&quot;学术研究&quot;]' data-pubdate="Sat, 19 Sep 2026 06:44:02 +0000">
           <div class="card-hd">
             <span class="card-source">
@@ -647,7 +792,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 06:44:02 +0000" title="Sat, 19 Sep 2026 06:44:02 +0000">17 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 06:44:02 +0000" title="Sat, 19 Sep 2026 06:44:02 +0000">21 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -674,7 +819,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 06:39:32 +0000" title="Sat, 19 Sep 2026 06:39:32 +0000">17 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 06:39:32 +0000" title="Sat, 19 Sep 2026 06:39:32 +0000">21 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -692,6 +837,60 @@
             </a>
           </div>
         </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Sat, 19 Sep 2026 04:04:06 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 04:04:06 +0000" title="Sat, 19 Sep 2026 04:04:06 +0000">昨天</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/" target="_blank" rel="noopener">GGUF vs GPTQ vs AWQ vs EXL2: LLM Model Formats Explained (2026)</a>
+          </h3>
+
+          <p class="card-snippet">GGUF, GPTQ, AWQ, EXL2, and EXL3 solve the same problem in different ways. This guide separates file containers from quantization methods. It explains</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/09/18/gguf-vs-gptq-vs-awq-vs-exl2-llm-model-formats-explained-2026/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sat, 19 Sep 2026 03:42:24 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 03:42:24 +0000" title="Sat, 19 Sep 2026 03:42:24 +0000">昨天</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/" target="_blank" rel="noopener">SpaceXAI Releases Grok Voice Transcribe 2.0: A Speech-to-Text API Claiming 2x Accuracy Over 1.0 at $0.10 per Hour</a>
+          </h3>
+
+          <p class="card-snippet">SpaceXAI has released Grok Voice Transcribe 2.0, its newest speech-to-text model for batch and streaming audio. The company says it is twice as accura</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/09/18/spacexai-releases-grok-voice-transcribe-2-0/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
         <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/uKmCBjBhfQW9iDHy.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Sat, 19 Sep 2026 09:58:00 +0800">
           <div class="card-hd">
             <span class="card-source">
@@ -701,7 +900,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 09:58:00 +0800" title="Sat, 19 Sep 2026 09:58:00 +0800">22 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 09:58:00 +0800" title="Sat, 19 Sep 2026 09:58:00 +0800">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -728,7 +927,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 01:00:00 +0000" title="Sat, 19 Sep 2026 01:00:00 +0000">23 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 01:00:00 +0000" title="Sat, 19 Sep 2026 01:00:00 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -755,7 +954,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 00:12:07 +0000" title="Sat, 19 Sep 2026 00:12:07 +0000">23 小时前</span>
+            <span class="card-time" data-pubdate="Sat, 19 Sep 2026 00:12:07 +0000" title="Sat, 19 Sep 2026 00:12:07 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -779,7 +978,7 @@
       <div class="date-heading">
         <span class="date-icon">📋</span>
         <span class="date-label">9月18日星期五</span>
-        <span class="date-count">26 篇</span>
+        <span class="date-count">19 篇</span>
       </div>
 
       <div class="news-grid">
@@ -887,6 +1086,33 @@
               <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
             </div>
             <a href="https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/" data-date="9月18日星期五" data-tags='[&quot;AI应用&quot;]' data-pubdate="Fri, 18 Sep 2026 21:21:59 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Fri, 18 Sep 2026 21:21:59 +0000" title="Fri, 18 Sep 2026 21:21:59 +0000">昨天</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/" target="_blank" rel="noopener">Jina AI Releases jina-ocr-v1: A 3.4B MoE Document Parser With Built-In Speculative Decoding for Low-Budget GPUs</a>
+          </h3>
+
+          <p class="card-snippet">Jina AI has released jina-ocr-v1, a visual document parser that converts PDFs, scans, tables, charts and invoices into Markdown. The model has 3.4B to</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/09/18/jina-ai-releases-jina-ocr-v1-a-3-4b-moe-document-parser-with-built-in-speculative-decoding-for-low-budget-gpus/" target="_blank" rel="noopener" class="read-btn">
               📖 Read Article
             </a>
           </div>
@@ -1049,6 +1275,33 @@
               <span class="card-tag policy" onclick="event.stopPropagation(); filterByTag('政策监管')">政策监管</span>
             </div>
             <a href="https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/" data-date="9月18日星期五" data-tags='[&quot;AI应用&quot;]' data-pubdate="Fri, 18 Sep 2026 18:06:36 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Fri, 18 Sep 2026 18:06:36 +0000" title="Fri, 18 Sep 2026 18:06:36 +0000">昨天</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/" target="_blank" rel="noopener">PrismML Releases Ternary Bonsai 2 27B: A 5.9 GB Apache 2.0 Model Retaining 98.2% of Qwen3.8 27B Performance</a>
+          </h3>
+
+          <p class="card-snippet">PrismML has released Ternary Bonsai 2 27B, a ternary-weight version of Qwen3.8 27B. The language model occupies 5.93 GB, against 53.80 GB in FP16. Pri</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/09/18/prismml-releases-ternary-bonsai-2-27b-a-5-9-gb-apache-2-0-model-retaining-98-2-of-qwen3-8-27b-performance/" target="_blank" rel="noopener" class="read-btn">
               📖 Read Article
             </a>
           </div>
@@ -1243,250 +1496,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings" data-date="9月18日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="2026-09-18T16:35:19.000Z">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#7b2ff0"></span>
-              The Verge
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="2026-09-18T16:35:19.000Z" title="2026-09-18T16:35:19.000Z">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings" target="_blank" rel="noopener">What Hollywood thinks about existential AI warnings</a>
-          </h3>
-
-          <p class="card-snippet">As the tech sector sounds alarms about AI&#x27;s potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what&#x27;s</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/09/492426.html" data-date="9月18日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 18 Sep 2026 15:58:21 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Fri, 18 Sep 2026 15:58:21 +0000" title="Fri, 18 Sep 2026 15:58:21 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/09/492426.html" target="_blank" rel="noopener">无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向</a>
-          </h3>
-
-          <p class="card-snippet">协同布局AI基础设施</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/09/492426.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/09/492421.html" data-date="9月18日星期五" data-tags='[&quot;AI应用&quot;,&quot;开源工具&quot;]' data-pubdate="Fri, 18 Sep 2026 15:50:20 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Fri, 18 Sep 2026 15:50:20 +0000" title="Fri, 18 Sep 2026 15:50:20 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/09/492421.html" target="_blank" rel="noopener">达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布</a>
-          </h3>
-
-          <p class="card-snippet">成果中唯一聚焦算电协同全链路运营的AI技术产品</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-              <span class="card-tag opensrc" onclick="event.stopPropagation(); filterByTag('开源工具')">开源工具</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/09/492421.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist" data-date="9月18日星期五" data-tags='[&quot;大模型&quot;]' data-pubdate="2026-09-18T15:30:16.000Z">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#7b2ff0"></span>
-              The Verge
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="2026-09-18T15:30:16.000Z" title="2026-09-18T15:30:16.000Z">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist" target="_blank" rel="noopener">Security researchers used Claude to help them hack into OpenAI</a>
-          </h3>
-
-          <p class="card-snippet">A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anth</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
-            </div>
-            <a href="https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/" data-date="9月18日星期五" data-tags='[&quot;大模型&quot;]' data-pubdate="Fri, 18 Sep 2026 13:30:12 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              Ars Technica
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 18 Sep 2026 13:30:12 +0000" title="Fri, 18 Sep 2026 13:30:12 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/" target="_blank" rel="noopener">Researchers used Claude to hack OpenAI</a>
-          </h3>
-
-          <p class="card-snippet">Researchers used Claude to reach an OpenAI employee account and sensitive GitHub data.</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
-            </div>
-            <a href="https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/" data-date="9月18日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 18 Sep 2026 12:10:00 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#b91c1c"></span>
-              MIT Tech Review
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 18 Sep 2026 12:10:00 +0000" title="Fri, 18 Sep 2026 12:10:00 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/" target="_blank" rel="noopener">The Download: AI’s extinction risk and bioweapons threat</a>
-          </h3>
-
-          <p class="card-snippet">This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Could AI rea</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://openai.com/index/australian-youth-safety-blueprint" data-date="9月18日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 18 Sep 2026 12:00:00 GMT">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#10a37f"></span>
-              OpenAI
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 18 Sep 2026 12:00:00 GMT" title="Fri, 18 Sep 2026 12:00:00 GMT">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://openai.com/index/australian-youth-safety-blueprint" target="_blank" rel="noopener">Introducing the Australian Youth Safety Blueprint</a>
-          </h3>
-
-          <p class="card-snippet">OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://openai.com/index/australian-youth-safety-blueprint" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/" data-date="9月18日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="Fri, 18 Sep 2026 11:29:22 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#b91c1c"></span>
-              MIT Tech Review
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Fri, 18 Sep 2026 11:29:22 +0000" title="Fri, 18 Sep 2026 11:29:22 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/" target="_blank" rel="noopener">Could AI really kill us all? Your questions, answered.</a>
-          </h3>
-
-          <p class="card-snippet">On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI real</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning" data-date="9月18日星期五" data-tags='[&quot;综合&quot;]' data-pubdate="2026-09-18T11:00:00.000Z">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#7b2ff0"></span>
-              The Verge
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="2026-09-18T11:00:00.000Z" title="2026-09-18T11:00:00.000Z">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning" target="_blank" rel="noopener">Flash floods can strike without warning — this new technology could change that</a>
-          </h3>
-
-          <p class="card-snippet">On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border.</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
       </div>
     </section>
 
@@ -1507,7 +1516,7 @@
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
   <p>全天候实时更新 · 免费 · 开源</p>
-  <p>更新于 2026/9/20 00:00:47 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
+  <p>更新于 2026/9/20 04:17:49 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
 </footer>
 
 <!-- ====== Back to Top ====== -->
