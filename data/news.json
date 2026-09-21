@@ -1,60 +1,299 @@
 {
-  "generatedAt": "2026-09-21T09:51:10.813Z",
+  "generatedAt": "2026-09-21T16:26:44.366Z",
   "stats": {
-    "total": 107,
+    "total": 88,
     "shown": 50,
-    "chinese": 30,
-    "english": 77,
-    "today": 18
+    "chinese": 20,
+    "english": 68,
+    "today": 27
   },
   "articles": [
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "link": "https://www.qbitai.com/2026/09/493235.html",
-      "snippet": "9月19日，第一届中国网络空间安全大会（CCSC 2026）的高水平专题论坛在安徽合肥正式举办。",
-      "pubDate": "Mon, 21 Sep 2026 07:52:46 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
+      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
+      "snippet": "The president offered few details on what his proposed new AI Force would do.",
+      "pubDate": "Mon, 21 Sep 2026 15:37:56 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Alex Rogers and Stephen Morris, Financial Times\n                ",
+      "fetchedAt": "2026-09-21T16:17:00.083Z",
       "tags": [
-        "政策监管",
         "AI应用"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "link": "https://www.qbitai.com/2026/09/493231.html",
-      "snippet": "OceanBase团队提交的Data Agent方案登顶国际数据智能体基准Data Agent Benchmark",
-      "pubDate": "Mon, 21 Sep 2026 07:31:26 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
+      "snippet": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 b",
+      "pubDate": "Mon, 21 Sep 2026 15:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
+      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
+      "snippet": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
+      "pubDate": "Mon, 21 Sep 2026 14:39:22 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
+      "snippet": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Sept",
+      "pubDate": "Mon, 21 Sep 2026 14:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+      "snippet": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by Sept 25, 11:59 p.m.",
+      "pubDate": "Mon, 21 Sep 2026 14:15:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Can John Ternus find Apple’s next big thing?",
+      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
+      "snippet": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of th",
+      "pubDate": "2026-09-21T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
+      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
+      "snippet": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone owners can submit a claim for a",
+      "pubDate": "2026-09-21T13:36:52.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US spent",
+      "pubDate": "Mon, 21 Sep 2026 12:20:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-09-21T16:16:59.456Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Best Voice Cloning APIs in 2026: Speaker Similarity, Consent Checks, and Price per 1M Characters",
-      "link": "https://www.marktechpost.com/2026/09/21/best-voice-cloning-apis-in-2026-speaker-similarity-consent-checks-and-price-per-1m-characters/",
-      "snippet": "We cloned one 10-second voice on 7 platforms and ranked them on reference audio, consent, licensing, and cost. The post Best Voice Cloning APIs in 202",
-      "pubDate": "Mon, 21 Sep 2026 07:26:18 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+      "snippet": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near govern",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
       "lang": "en",
       "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-21T09:42:23.942Z",
+      "creator": "James O'Donnell",
+      "fetchedAt": "2026-09-21T16:16:59.456Z",
       "tags": [
-        "开源工具"
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "link": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
+      "snippet": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US gove",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "James O'Donnell",
+      "fetchedAt": "2026-09-21T16:16:59.456Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "link": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "snippet": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chai",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "James O'Donnell, Eileen Guo",
+      "fetchedAt": "2026-09-21T16:16:59.456Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "link": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "snippet": "She had only walked for a couple of hours, and already she was lost.  It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernán",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Lillian Perlmutter",
+      "fetchedAt": "2026-09-21T16:16:59.456Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百度200万美元重奖2支技术团队，李彦宏：认可技术价值，是百度真正的竞争力",
+      "link": "https://www.leiphone.com/category/industrynews/7frcIluWLrkbs5p9.html",
+      "snippet": "9月21日，百度创始人李彦宏在内部活动上为技术团队颁发“百度最高奖”。两支入围团队均获奖，各获100万美元奖励。今年百度最高奖颁发奖金总计200万美元，折合人民币超1300万元。      “百度最高奖是百度技术信仰一个非常典型的体现。”李彦宏在活动现场表示，从百度成立的第一天起，百度就信仰技术，很",
+      "pubDate": "Mon, 21 Sep 2026 19:58:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "UN says AI safeguards can’t wait for certainty",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+      "snippet": "The United Nations logo at the UN headquarters in New York. | Getty Images\t  Governments need to rein in increasingly capable AI agents before their r",
+      "pubDate": "2026-09-21T10:18:06.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "AI4S青年志① | 摇瓶子的手与调参数的脑：两个95后和一场物质科学的化学反应",
+      "link": "https://www.leiphone.com/category/academic/vY1gBvHhcA2frpx4.html",
+      "snippet": "在AI4S，AI出身的人是在等AI出奇迹，而Science出身的人是在给AI立规矩。          作者丨周蕾      编辑丨岑峰",
+      "pubDate": "Mon, 21 Sep 2026 17:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Amazon blocks Meta’s Muse AI agent",
+      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+      "snippet": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for M",
+      "pubDate": "2026-09-21T09:21:47.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "GaLaBau 2026观察：MOVA园林工具深化Dealer渠道，专业园林加速迈向AI智能时代",
+      "link": "https://www.leiphone.com/category/weiwu/2HKv7GzxuykgEomF.html",
+      "snippet": "9月15日至18日，欧洲城市绿化与景观建设专业展GaLaBau 2026在德国纽伦堡举行。MOVA园林工具携覆盖20V、40V、60V的多层级园林工具矩阵及智能割草机产品亮相，进一步面向欧洲Dealer渠道及专业园林市场展开拓展。       展会期间，来自德国及欧洲其他市场的经销商、渠道商和专业用",
+      "pubDate": "Mon, 21 Sep 2026 17:18:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "华为云码道上线鸿蒙编码大模型 面向鸿蒙开发者全面升级",
+      "link": "https://www.leiphone.com/category/industrynews/B5ahgA6nibk33DRO.html",
+      "snippet": "2026年9月21日，华为云码道CodeArts代码智能体面向鸿蒙开发者进行全面升级，上线“鸿蒙编码大模型+码道鸿蒙智能体+鸿蒙开发者实践中心”三大核心能力，打造全球首个且唯一专为鸿蒙生态打造的AI编码智能体。   华为公有云总裁胡玉海表示：“华为云码道CodeArts代码智能体凝练华为多年研发经验",
+      "pubDate": "Mon, 21 Sep 2026 17:03:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -68,39 +307,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "StepFun Launches Step 5 Preview: A 600B-Total, 27B-Active MoE Model With 1M Context for Long-Horizon Agentic Work",
-      "link": "https://www.marktechpost.com/2026/09/20/stepfun-launches-step-5-preview/",
-      "snippet": "StepFun has released Step 5 Preview, a sparse Mixture-of-Experts model with 600B total parameters and 27B active per token. It supports a 1M-token con",
-      "pubDate": "Mon, 21 Sep 2026 06:37:18 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-21T09:42:23.942Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "link": "https://www.qbitai.com/2026/09/493218.html",
-      "snippet": "在物理世界真正干活的具身智能体",
-      "pubDate": "Mon, 21 Sep 2026 06:22:37 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "大模型"
       ]
@@ -116,41 +323,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "开源Top2！实测阶跃Step 5 Preview，真有点猛啊…",
-      "link": "https://www.qbitai.com/2026/09/493179.html",
-      "snippet": "激活参数仅27B",
-      "pubDate": "Mon, 21 Sep 2026 03:46:43 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "中国Neocloud市场第一！商汤大装置全面领跑",
-      "link": "https://www.qbitai.com/2026/09/493175.html",
-      "snippet": "沙利文报告",
-      "pubDate": "Mon, 21 Sep 2026 03:32:03 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -164,26 +339,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "百曜科技发起，《AI虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告》正式发布",
-      "link": "https://www.qbitai.com/2026/09/493114.html",
-      "snippet": "《AI 虚拟细胞（AIVC）技术趋势、产业生态与应用前景研究报告——AI 时代生命科学的新型基础设施》正式发布。",
-      "pubDate": "Mon, 21 Sep 2026 02:28:46 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
-      "tags": [
-        "AI应用",
-        "学术研究"
       ]
     },
     {
@@ -197,7 +355,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -214,23 +372,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "IDC评估中国AI算力管理平台:范式智能四项维度获满分，综合评分第一",
-      "link": "https://www.qbitai.com/2026/09/493109.html",
-      "snippet": "范式成为《中国AI算力管理平台技术能力评估，2026》综合评分位列第一的厂商。",
-      "pubDate": "Mon, 21 Sep 2026 02:17:33 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "综合"
       ]
@@ -246,7 +388,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "综合"
       ]
@@ -262,25 +404,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "汽车行业首个AI超级智能体「迪迪虾」来了！腾势多款车型即将OTA",
-      "link": "https://www.qbitai.com/2026/09/493091.html",
-      "snippet": "近日，比亚迪重磅发布了AI超级智能体「迪迪虾」，首搭腾势N8L纯电车型上",
-      "pubDate": "Mon, 21 Sep 2026 01:48:50 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -294,9 +420,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How V7 gives AI agents institutional memory",
+      "link": "https://openai.com/index/v7",
+      "snippet": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "pubDate": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-21T16:17:00.469Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -310,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "综合"
       ]
@@ -326,26 +468,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-21T09:42:20.941Z",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Flet 1.0 Released: Build Production Web, Desktop and Mobile Apps in Python Only",
-      "link": "https://www.marktechpost.com/2026/09/20/flet-1-0-released-build-production-web-desktop-and-mobile-apps-in-python-only/",
-      "snippet": "Flet 1.0 shipped on September 15, 2026, and the team now calls the framework ready for production apps. We look at what changed: a layered CI suite th",
-      "pubDate": "Sun, 20 Sep 2026 20:50:56 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-21T09:42:23.942Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     },
     {
@@ -359,46 +484,30 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-21T09:42:20.941Z",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "You too Google! Google Confirms Gemini Breached 3 Companies in AI Security Tests",
-      "link": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests/",
-      "snippet": "Google says Gemini accessed 3 real companies in May by guessing a password and reusing credentials from a public repository. Irregular told 4 labs in",
-      "pubDate": "Sun, 20 Sep 2026 20:20:56 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-21T09:42:23.942Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Is the AI industry really ready to slow down?",
       "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
-      "snippet": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+      "snippet": "On Equity, we debated whether AI executives are serious about wanting to slow down.",
       "pubDate": "Sun, 20 Sep 2026 18:56:04 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-21T09:42:20.941Z",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "dGhldmVyZ2UtYWk6",
-      "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown",
+      "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
       "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
       "snippet": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied",
       "pubDate": "2026-09-20T18:50:18.000Z",
@@ -407,7 +516,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:21.274Z",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
       "tags": [
         "学术研究"
       ]
@@ -416,14 +525,14 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "Vocci’s ring adds a new form factor to meeting note-taking",
       "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
-      "snippet": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+      "snippet": "Vocci's lightweight ring costs $249, and might pose some privacy questions.",
       "pubDate": "Sun, 20 Sep 2026 18:32:52 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-21T09:42:20.941Z",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "政策监管"
       ]
@@ -439,7 +548,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-09-21T09:42:20.941Z",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "商业融资"
       ]
@@ -455,41 +564,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:21.274Z",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "link": "https://www.qbitai.com/2026/09/492973.html",
-      "snippet": "剪映Hub+剪映助手，好用",
-      "pubDate": "Sun, 20 Sep 2026 14:30:26 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "十三",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-      "link": "https://www.qbitai.com/2026/09/493068.html",
-      "snippet": "AI越来越能干，企业该怎么用",
-      "pubDate": "Sun, 20 Sep 2026 14:23:52 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-09-21T09:42:16.199Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -503,7 +580,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:21.274Z",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
       "tags": [
         "商业融资"
       ]
@@ -519,7 +596,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "政策监管"
       ]
@@ -535,26 +612,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "AI应用",
         "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Alibaba Qwen Team Releases Qwen3.8-LiveTranslate: A Real-Time Interpretation Model That Cuts Average Lag to 2.3 Seconds Across 60 Languages",
-      "link": "https://www.marktechpost.com/2026/09/19/alibaba-qwen-team-releases-qwen3-8-livetranslate/",
-      "snippet": "Qwen has released Qwen3.8-LiveTranslate, a real-time simultaneous interpretation model built on a new Interleave architecture. It cuts average lagging",
-      "pubDate": "Sun, 20 Sep 2026 06:46:08 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-21T09:42:23.942Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -568,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -585,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "商业融资"
       ]
@@ -601,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "综合"
       ]
@@ -617,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -634,74 +695,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "fetchedAt": "2026-09-21T16:16:58.686Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "阶跃新旗舰 Step 5  Preview 发布，跻身 AA 榜单全球开源前三",
-      "link": "https://www.leiphone.com/category/industrynews/yU1FPmKgLcs3SWmO.html",
-      "snippet": "9  月  20  日，阶跃星辰发布新一代旗舰基座模型 Step 5 Preview，重点面向 AI 编程、软件工程、专业知识工作、金融等场景，提升模型在真实世界 Agentic 任务中的综合表现，并进一步拓展智能与成本之间的最优边界。在最新的全球权威榜单 Artificial Analysis I",
-      "pubDate": "Sun, 20 Sep 2026 10:20:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "淘宝闪购城市骑士制服荣获法国设计奖最高奖",
-      "link": "https://www.leiphone.com/category/industrynews/2Yp4xHpoIe2JNTOd.html",
-      "snippet": "9月19日，2026年法国设计奖（French Design Award）颁奖典礼在巴黎举行，淘宝闪购城市骑士制服获颁金奖。这是该奖设立以来，首次将金奖授予一套面向一线劳动者的职业制服。   法国设计奖组委会主席达里奥·奥利维罗（Dario Olivero）高度评价了这次有巨大社会意义的设计行动：“",
-      "pubDate": "Sun, 20 Sep 2026 10:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "曝长鑫准备进入闪存市场，将与三星海力士美光正面竞争；曝京东北京园区行政岗被要求佩戴采集器记录动作数据；传Kimi或入局具身智能领域",
-      "link": "https://www.leiphone.com/category/zaobao/VgsycjqvNfz75zmN.html",
-      "snippet": "要闻提示       1.消息人士：长鑫准备进入闪存市场，将与三星海力士美光正面竞争 2.曝京东北京园区行政岗被要求佩戴采集器，用于记录动作数据 3.赛力斯科技总裁刘宗成：汽车产业最大的风险不是慢，而是“速成” 4.传Kimi或入局具身智能领域 5.钉钉创始人陈航担任百望股份非执行董事，年薪10万元",
-      "pubDate": "Sun, 20 Sep 2026 09:10:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "OpenClaw Releases 2026.9.5 With Atomic Updates, Plugin Hot Reload, Conversation Sharing, and Expanded GPT Live",
-      "link": "https://www.marktechpost.com/2026/09/19/openclaw-releases-2026-9-5/",
-      "snippet": "OpenClaw 2026.9.5 ships 4,179 pull requests from 502 contributing accounts. The headline change is Atomic Updates, which check the next version agains",
-      "pubDate": "Sat, 19 Sep 2026 21:44:23 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-21T09:42:23.942Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -715,7 +711,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:21.274Z",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
       "tags": [
         "AI应用"
       ]
@@ -731,7 +727,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-21T09:42:20.941Z",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "综合"
       ]
@@ -747,25 +743,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-21T09:42:20.941Z",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "TypeSafe AI Releases Jev: A System One Model That Returns Typed, Calibrated Decisions Instead of Text",
-      "link": "https://www.marktechpost.com/2026/09/19/typesafe-ai-releases-jev/",
-      "snippet": "TypeSafe AI released Jev, a System One model that answers typed questions with probabilities instead of generating text. Input costs $0.042 per 1M tok",
-      "pubDate": "Sat, 19 Sep 2026 18:41:33 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-21T09:42:23.942Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -779,7 +759,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-21T09:42:20.941Z",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "大模型"
       ]
@@ -795,23 +775,39 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-21T09:42:21.274Z",
+      "fetchedAt": "2026-09-21T16:16:59.225Z",
       "tags": [
         "大模型"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "鹿明机器人剧场《机器人和 TA 的朋友们》全球首演，探索“机器人+演艺”新场景",
-      "link": "https://www.leiphone.com/category/industrynews/KQYlP3qCFGorz4hm.html",
-      "snippet": "9月19日，由鹿明机器人与深圳市文旅产业发展有限公司共同打造的机器人剧场《机器人和 TA 的朋友们》在深圳市宝安区青少年宫迎来全球首场公演。  这场时长45分钟的沉浸式演出，由机器人主持全程串联，涵盖舞蹈、相声、小品、武术、DJ秀、魔术六大表演品类，多台机器人协同参演，通过系统化、专业化的舞台节目编",
-      "pubDate": "Sat, 19 Sep 2026 23:05:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-21T09:42:20.545Z",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "snippet": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI safety conversations have gotten unbelievable",
+      "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "snippet": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-09-21T16:16:58.914Z",
       "tags": [
         "综合"
       ]
