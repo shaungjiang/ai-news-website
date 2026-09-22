@@ -1,13 +1,317 @@
 {
-  "generatedAt": "2026-09-22T13:20:12.886Z",
+  "generatedAt": "2026-09-22T18:03:16.813Z",
   "stats": {
-    "total": 106,
+    "total": 109,
     "shown": 50,
     "chinese": 28,
-    "english": 78,
-    "today": 32
+    "english": 81,
+    "today": 48
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
+      "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
+      "snippet": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
+      "pubDate": "Tue, 22 Sep 2026 17:06:16 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-09-22T17:58:42.657Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "snippet": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley s",
+      "pubDate": "2026-09-22T16:34:08.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-22T17:58:41.458Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+      "snippet": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+      "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "snippet": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tu",
+      "pubDate": "2026-09-22T16:30:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-22T17:58:41.458Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "snippet": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while a",
+      "pubDate": "2026-09-22T16:01:10.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-22T17:58:41.458Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "陆川手搓历史现场，王珞丹熬夜抽卡，阿里全模态开始兜底生产",
+      "link": "https://www.qbitai.com/2026/09/494429.html",
+      "snippet": "阿里：三年之内会出现一个原生的全模态统一生成模型，未来体验将不再受限于模态边界。",
+      "pubDate": "Tue, 22 Sep 2026 15:59:35 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "田, 晏林",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Agent时代，CPU的价值该重估了",
+      "link": "https://www.qbitai.com/2026/09/494430.html",
+      "snippet": "CPU与GPU趋近1∶1",
+      "pubDate": "Tue, 22 Sep 2026 15:46:54 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "十三",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AstroForge is putting AI in command of its next spacecraft",
+      "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+      "snippet": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+      "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+      "snippet": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS,",
+      "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "一张硬件卡片，一场上下文之争：千问办公押注企业Agent",
+      "link": "https://www.leiphone.com/category/weiwu/DHnalKdgCUg8xEpC.html",
+      "snippet": "一场两小时的客户拜访，双方说的话加起来上万字。但回到工位，销售能凭记忆敲进CRM的，通常不到三百字。 剩下的去哪了？跟着出租车一起走了。 这样的对话在企业里每天都在发生。会议室里的争论、客户办公室里随口的一句提醒、老师傅肚里的经验，信息密度最高的这些话，几乎都发生在电脑屏幕之外，从来没有进入过任何一",
+      "pubDate": "Tue, 22 Sep 2026 22:42:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "极氪9X正式出海，中国旗舰直面对决保时捷、劳斯莱斯",
+      "link": "https://www.leiphone.com/category/industrynews/2B9sF0r43RzljsqT.html",
+      "snippet": "9月22日，中国高端新能源品牌旗舰车型极氪9X，正式发运阿联酋，开启规模化出海。作为中国新一代豪华旗舰，极氪9X在阿联酋售价超80万元，欧洲售价近100万元人民币，被外媒称为“最贵中国车”，正加速拓展至中东、中亚、欧洲、拉美等核心市场。 极氪9X搭载全球领先的SEP浩瀚超级电混架构，以极致的性能操控",
+      "pubDate": "Tue, 22 Sep 2026 22:38:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+      "snippet": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register bef",
+      "pubDate": "Tue, 22 Sep 2026 14:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+      "link": "https://www.qbitai.com/2026/09/494420.html",
+      "snippet": "从真实工厂到产品复制，再到生态和下一批机会，两位嘉宾会把工业AI从「能用」走向「规模化」的关键问题一层层拆开。",
+      "pubDate": "Tue, 22 Sep 2026 14:28:59 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "田, 晏林",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+      "snippet": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of",
+      "pubDate": "Tue, 22 Sep 2026 14:15:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+      "snippet": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register tod",
+      "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "link": "https://www.qbitai.com/2026/09/494263.html",
+      "snippet": "商汤U1 Pro，正式发布",
+      "pubDate": "Tue, 22 Sep 2026 13:57:10 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "十三",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "link": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "snippet": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help",
+      "pubDate": "Tue, 22 Sep 2026 13:42:05 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review",
+      "fetchedAt": "2026-09-22T17:58:41.764Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Dyson’s most overengineered gadget may have a waterproofing problem",
+      "link": "https://arstechnica.com/gadgets/2026/09/its-500-toothbrush-disappeared-from-stores-dyson-wont-fully-explain-why/",
+      "snippet": "Dyson admits a component issue but won't say what's failing in its $500 toothbrush.",
+      "pubDate": "Tue, 22 Sep 2026 13:33:16 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy White, wired.com\n                ",
+      "fetchedAt": "2026-09-22T17:58:42.657Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Everyone can find a reason to dislike data center construction",
+      "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+      "snippet": "Inside two years of fraught AI data center debates in Pennsylvania.",
+      "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
@@ -19,7 +323,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +339,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-22T13:10:23.510Z",
+      "fetchedAt": "2026-09-22T17:58:41.764Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +355,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +371,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:23.056Z",
+      "fetchedAt": "2026-09-22T17:58:41.458Z",
       "tags": [
         "综合"
       ]
@@ -83,9 +387,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "《AGI市场观察》发布：四款国产模型周用量破10万亿tokens，DeepSeek与混元占比近半",
+      "link": "https://www.leiphone.com/category/industrynews/IRBkL55eFXZRCHiy.html",
+      "snippet": "日前，智能经济30人论坛AGI测评中心发布最新一期《AGI市场观察》（2026年9月12日-18日）。报告以OpenRouter词元消耗数据、各厂商官方披露价格及Arena基准测评为基础，对国产大语言模型做周度量化追踪，本期围绕用量、份额、集中度、价格与性价比等方面给出观察。 数据显示，深度求索于9",
+      "pubDate": "Tue, 22 Sep 2026 19:25:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -98,8 +418,8 @@
       "sourceId": "mit-tr",
       "lang": "en",
       "category": "学术",
-      "creator": "Timnit Gebru, Emily Bender",
-      "fetchedAt": "2026-09-22T13:10:23.510Z",
+      "creator": "Timnit Gebru, Emily M. Bender",
+      "fetchedAt": "2026-09-22T17:58:41.764Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +435,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +451,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +467,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +483,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +499,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +515,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
+      "fetchedAt": "2026-09-22T17:58:37.606Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -212,7 +532,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "大模型"
       ]
@@ -228,7 +548,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用"
       ]
@@ -244,7 +564,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -261,7 +581,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -278,7 +598,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-22T13:10:25.730Z",
+      "fetchedAt": "2026-09-22T17:58:43.411Z",
       "tags": [
         "AI应用"
       ]
@@ -294,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -311,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用"
       ]
@@ -327,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -344,7 +664,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用"
       ]
@@ -360,57 +680,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-22T13:10:25.730Z",
+      "fetchedAt": "2026-09-22T17:58:43.411Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阿里研究员透露Qwen4.5后模型将扩展至5-10T参数",
-      "link": "https://www.qbitai.com/2026/09/493629.html",
-      "snippet": "未来Qwen4.5、Qwen5等版本将扩展至5-10T参数。",
-      "pubDate": "Tue, 22 Sep 2026 03:48:05 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阿里公布全模态模型新进展，Qwen4和下代视频模型均在训练中",
-      "link": "https://www.qbitai.com/2026/09/493625.html",
-      "snippet": "9月22日， 2026云栖大会开幕，阿里巴巴公布大模型最新进展。",
-      "pubDate": "Tue, 22 Sep 2026 03:42:43 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "2026 East Forward出海大会：全球化到达下一站，中国企业如何走得更远",
-      "link": "https://www.qbitai.com/2026/09/493510.html",
-      "snippet": "“潮起之时，靠岸相见”",
-      "pubDate": "Tue, 22 Sep 2026 03:13:44 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -424,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -441,25 +713,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阿里巴巴：机器智能时代，坚定投入AI模型 AI芯片 AI云三大基石",
-      "link": "https://www.qbitai.com/2026/09/493502.html",
-      "snippet": "吴泳铭表示，阿里巴巴将坚定投入AI模型、AI芯片和AI云这三项基础设施建设，这是阿里的长期战略选择。",
-      "pubDate": "Tue, 22 Sep 2026 02:59:29 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T13:10:17.363Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -473,7 +729,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用"
       ]
@@ -489,7 +745,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "AI应用"
       ]
@@ -505,25 +761,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:40.924Z",
       "tags": [
         "商业融资"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "黄仁勋回应或缴税540亿：我不怕缴税，只怕变穷；马斯克深夜放大招，新模型Grok 4.7上线；特斯拉机器人团队在长三角审厂，多家企业获订单",
-      "link": "https://www.leiphone.com/category/zaobao/5mlqTB9MeU1qAtoe.html",
-      "snippet": "要闻提示       1.黄仁勋回应或交540亿“亿万富翁税”：我不怕交税，只怕变穷 2.产业链人士：特斯拉机器人团队在长三角审厂，多家企业已获订单 3.DeepSeek披露用国产芯片训练下一代AI模型 4.刘大一恒出任阿里Qwen大语言模型项目负责人 5.米哈游：原周边团队员工长期收取贿赂，“数额",
-      "pubDate": "Tue, 22 Sep 2026 08:28:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Priorities and principles for effective third party assessments",
+      "link": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "snippet": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "pubDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
+      "fetchedAt": "2026-09-22T17:58:43.017Z",
       "tags": [
-        "大模型"
+        "综合"
       ]
     },
     {
@@ -537,7 +793,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
+      "fetchedAt": "2026-09-22T17:58:41.202Z",
       "tags": [
         "AI应用"
       ]
@@ -553,266 +809,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-09-22T13:10:24.596Z",
+      "fetchedAt": "2026-09-22T17:58:42.657Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "AWS Strands Agents Team Releases Strands Harness: An Open-Source Agent Harness With 28% Lower Token Cost at Comparable Accuracy",
-      "link": "https://www.marktechpost.com/2026/09/21/aws-strands-agents-team-releases-strands-harness/",
-      "snippet": "Many developers find that an agent idea works inside Claude Code or Codex, then struggles once they rebuild it with their own loop. The Strands Agents",
-      "pubDate": "Mon, 21 Sep 2026 21:42:14 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-22T13:10:25.730Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "California tightens rules on AI data center energy and water use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "snippet": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier",
-      "pubDate": "2026-09-21T20:29:45.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-22T13:10:23.056Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "snippet": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "snippet": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San",
-      "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jessica Barrera",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-      "snippet": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mo",
-      "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-      "snippet": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no le",
-      "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Google confirms Gemini models hacked three companies in May 2026",
-      "link": "https://arstechnica.com/google/2026/09/google-confirms-gemini-models-hacked-three-companies-in-may-2026/",
-      "snippet": "A third-party cybersecurity firm accidentally gave experimental Gemini models access to the Internet.",
-      "pubDate": "Mon, 21 Sep 2026 16:57:26 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-09-22T13:10:24.596Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Alibaba Qwen Releases Qwen-Image-2.1: A 7B Open-Weight Model for Image Generation and Editing",
-      "link": "https://www.marktechpost.com/2026/09/21/alibaba-qwen-releases-qwen-image-2-1/",
-      "snippet": "Alibaba's Qwen team has released Qwen-Image-2.1, a 7B diffusion transformer that handles text-to-image generation, multi-reference editing, and native",
-      "pubDate": "Mon, 21 Sep 2026 16:40:44 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-22T13:10:25.730Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-      "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-      "snippet": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s prof",
-      "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "把电影感装进口袋，vivo的移动影像长跑",
-      "link": "https://www.leiphone.com/category/weiwu/EFyrd0uIRXcWp5ns.html",
-      "snippet": "1902年，蔡司设计出Tessar镜头。它的结构并不复杂，却以锐利的成像著称，被称为“鹰之眼”。 在它之前，镜头设计的专业性很大程度上仍然与结构复杂度、镜片数量绑定，摄影师为了获得更好的成像，也习惯了接受笨重而昂贵的设备。蔡司却反过来用更简单的结构实现了更锐利的成像，让镜头在保持画质的同时变得更轻便",
-      "pubDate": "Tue, 22 Sep 2026 00:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-22T13:10:22.404Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Trump rejects AI slowdown calls, launches \"AI Force\" instead",
-      "link": "https://arstechnica.com/ai/2026/09/trump-rejects-ai-slowdown-calls-launches-ai-force-instead/",
-      "snippet": "The president offered few details on what his proposed new AI Force would do.",
-      "pubDate": "Mon, 21 Sep 2026 15:37:56 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Alex Rogers and Stephen Morris, Financial Times\n                ",
-      "fetchedAt": "2026-09-22T13:10:24.596Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-      "snippet": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 b",
-      "pubDate": "Mon, 21 Sep 2026 15:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-      "snippet": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-      "pubDate": "Mon, 21 Sep 2026 14:39:22 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-      "snippet": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before Septe",
-      "pubDate": "Mon, 21 Sep 2026 14:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-      "snippet": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:",
-      "pubDate": "Mon, 21 Sep 2026 14:15:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-22T13:10:22.749Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "snippet": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple correspondent and the host of th",
-      "pubDate": "2026-09-21T14:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-22T13:10:23.056Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
