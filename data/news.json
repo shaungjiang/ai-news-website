@@ -1,27 +1,123 @@
 {
-  "generatedAt": "2026-09-23T18:27:01.527Z",
+  "generatedAt": "2026-09-23T22:50:32.868Z",
   "stats": {
-    "total": 105,
+    "total": 111,
     "shown": 50,
     "chinese": 30,
-    "english": 75,
-    "today": 52
+    "english": 81,
+    "today": 66
   },
   "articles": [
     {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "link": "https://openai.com/index/ringg",
-      "snippet": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "pubDate": "Thu, 24 Sep 2026 12:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic says its biology lab has already found something big",
+      "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+      "snippet": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+      "pubDate": "Wed, 23 Sep 2026 22:17:39 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
       "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:10.529Z",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Trump’s China rivalry and “AI race” delusion may endanger US, experts say",
+      "link": "https://arstechnica.com/tech-policy/2026/09/china-silent-as-us-touts-plan-for-ai-safety-alerts-that-omits-tech-experts/",
+      "snippet": "Trump focus on winning “AI race” may deter China from sharing safety intel.",
+      "pubDate": "Wed, 23 Sep 2026 20:52:28 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-09-23T22:45:50.790Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "XPRIZE Wildfire winners spotted fires within 10 min—but couldn’t stop them",
+      "link": "https://arstechnica.com/gadgets/2026/09/xprize-wildfire-winners-spotted-fires-within-10-min-but-couldnt-stop-them/",
+      "snippet": "$11M competition showed wildfire detection is still easier than stopping fires.",
+      "pubDate": "Wed, 23 Sep 2026 20:28:42 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-09-23T22:45:50.790Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "YouTube promises custom feeds and a lot more AI later this year",
+      "link": "https://arstechnica.com/gadgets/2026/09/youtube-promises-custom-feeds-and-a-lot-more-ai-later-this-year/",
+      "snippet": "YouTube's next year could change the content you see with a big focus on AI and livestreams.",
+      "pubDate": "Wed, 23 Sep 2026 19:35:53 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-09-23T22:45:50.790Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+      "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+      "snippet": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s",
+      "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+      "snippet": "An adorable little bear that wants to help you buy things.\t  Modern life comes with an unending, auto-populating to-do list.  It never ceases to amaze",
+      "pubDate": "2026-09-23T19:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-23T22:45:49.220Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Data centers are black boxes, but California wants to change that",
+      "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+      "snippet": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers im",
+      "pubDate": "2026-09-23T18:22:57.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-23T22:45:49.220Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:09.113Z",
+      "fetchedAt": "2026-09-23T22:45:49.220Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-09-23T18:17:10.122Z",
+      "fetchedAt": "2026-09-23T22:45:50.790Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +163,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eileen Guo",
-      "fetchedAt": "2026-09-23T18:17:09.370Z",
+      "fetchedAt": "2026-09-23T22:45:49.506Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -100,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "政策监管"
       ]
@@ -116,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:09.113Z",
+      "fetchedAt": "2026-09-23T22:45:49.220Z",
       "tags": [
         "政策监管"
       ]
@@ -132,7 +228,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:10.529Z",
+      "fetchedAt": "2026-09-23T22:45:51.417Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "大模型"
       ]
@@ -180,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "开源工具"
       ]
@@ -196,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:09.113Z",
+      "fetchedAt": "2026-09-23T22:45:49.220Z",
       "tags": [
         "开源工具"
       ]
@@ -228,7 +324,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "fetchedAt": "2026-09-23T22:45:48.665Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +356,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +372,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:10.529Z",
+      "fetchedAt": "2026-09-23T22:45:51.417Z",
       "tags": [
         "政策监管"
       ]
@@ -292,7 +388,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "fetchedAt": "2026-09-23T22:45:48.665Z",
       "tags": [
         "商业融资"
       ]
@@ -308,7 +404,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "fetchedAt": "2026-09-23T22:45:48.665Z",
       "tags": [
         "大模型"
       ]
@@ -324,7 +420,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-23T18:17:09.370Z",
+      "fetchedAt": "2026-09-23T22:45:49.506Z",
       "tags": [
         "综合"
       ]
@@ -340,9 +436,73 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "fetchedAt": "2026-09-23T22:45:48.931Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "link": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "snippet": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-23T22:45:51.417Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "link": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "snippet": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-23T22:45:51.417Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "link": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "snippet": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one d",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-23T22:45:51.417Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "snippet": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "pubDate": "Wed, 23 Sep 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-23T22:45:51.417Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -356,7 +516,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:09.113Z",
+      "fetchedAt": "2026-09-23T22:45:49.220Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +532,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.399Z",
       "tags": [
         "AI应用"
       ]
@@ -388,9 +548,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "fetchedAt": "2026-09-23T22:45:48.665Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Introducing MentalHealthBench",
+      "link": "https://openai.com/index/introducing-mentalhealthbench",
+      "snippet": "MentalHealthBench is an expert-informed benchmark for evaluating helpful and safe AI responses across realistic mental health conversations.",
+      "pubDate": "Wed, 23 Sep 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-23T22:45:51.417Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -404,7 +580,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.399Z",
       "tags": [
         "商业融资"
       ]
@@ -420,7 +596,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.399Z",
       "tags": [
         "AI应用"
       ]
@@ -436,7 +612,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.399Z",
       "tags": [
         "商业融资"
       ]
@@ -452,10 +628,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "fetchedAt": "2026-09-23T22:45:48.665Z",
       "tags": [
         "政策监管",
         "大模型"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The AI Hype Index: AI loves cheating",
+      "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "snippet": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test.",
+      "pubDate": "Wed, 23 Sep 2026 09:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michelle Kim",
+      "fetchedAt": "2026-09-23T22:45:49.506Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -469,7 +661,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Anuj Behal",
-      "fetchedAt": "2026-09-23T18:17:09.370Z",
+      "fetchedAt": "2026-09-23T22:45:49.506Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.399Z",
       "tags": [
         "AI应用"
       ]
@@ -501,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "fetchedAt": "2026-09-23T22:45:48.665Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.399Z",
       "tags": [
         "大模型"
       ]
@@ -533,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.399Z",
       "tags": [
         "学术研究"
       ]
@@ -549,7 +741,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.399Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +757,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.400Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +773,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-23T18:17:03.635Z",
+      "fetchedAt": "2026-09-23T22:45:44.400Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +789,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "fetchedAt": "2026-09-23T22:45:48.665Z",
       "tags": [
         "AI应用"
       ]
@@ -613,202 +805,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "fetchedAt": "2026-09-23T22:45:48.665Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-      "snippet": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that n",
-      "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-23T18:17:08.855Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "启仔远仔，想成为第一个被你带回家的硅基伙伴",
-      "link": "https://www.leiphone.com/category/ai/egX12nldi7K2aLbu.html",
-      "snippet": "概念机满天飞的赛道里，启元机器人备好货，等你来拿。          作者丨邓哲敏      编辑丨齐铖湧",
-      "pubDate": "Wed, 23 Sep 2026 12:59:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Jev 的「百亿补贴」迷局：既然「极省」为何还要狂送 1.2 亿 Token？",
-      "link": "https://www.leiphone.com/category/ai/CC2fOX5Nj0OQ06t1.html",
-      "snippet": "先压低判断成本，再用 Calibration 提升可靠性，最终借 Agent 放大调用量。          作者丨郑佳美      编辑丨岑   峰",
-      "pubDate": "Wed, 23 Sep 2026 12:10:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "深度拆解 MiMo-V2.6：1M 上下文只是表面，2.5 万条轨迹才是底牌",
-      "link": "https://www.leiphone.com/category/ai/f8vJztYMmCQ3ENED.html",
-      "snippet": "代码、视觉、安全共用一套 RL，奖励机制也被重新设计。          作者丨郑佳美      编辑丨岑   峰",
-      "pubDate": "Wed, 23 Sep 2026 12:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "政策监管",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "豆包工作功能更新，新增“目标模式”与“计划模式”",
-      "link": "https://www.leiphone.com/category/industrynews/jmNv5Ekjl1OJHgA5.html",
-      "snippet": "近期，豆包工作升级了任务模式功能，新增“目标”与“计划”两种模式，以满足用户更细分的生产力需求。 据了解，“目标模式”面向有明确验收要求的复杂任务，AI 会在交付前逐项核查，直至达到验收目标，有效避免交付不达标、执行“跑偏”等问题。“计划模式”适合长程、资源消耗大、需求模糊的任务，输入提示词后，AI",
-      "pubDate": "Wed, 23 Sep 2026 11:22:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "美团闪购：即时零售跨入商品时代，将投入300亿联合行业共建“30分钟商品圈”",
-      "link": "https://www.leiphone.com/category/industrynews/hDehi6a26BOh32O6.html",
-      "snippet": "9月22日，2026美团即时零售产业大会（以下简称“大会”）举行，美团核心本地商业CEO王莆中称，行业从“店仓配时代”步入“商品时代”。雷峰网现场获悉，未来三年，即时零售行业将为全国每个商圈新增百万好商品。 商务部流通产业促进中心主任王斌表示，发展即时零售是落实扩大内需战略、培育新型消费的重要抓手，",
-      "pubDate": "Wed, 23 Sep 2026 11:21:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "千问办公将接入阿里云上的Salesforce",
-      "link": "https://www.leiphone.com/category/industrynews/3LY3BH2AS6lQKJ7H.html",
-      "snippet": "9月22日消息，千问办公将接入阿里云上的Salesforce（Salesforce on Alibaba Cloud）。此次接入将结合千问办公的企业上下文理解、任务规划执行能力与Salesforce的客户管理能力，让企业员工能够在千问办公中查询销售商机、维护客户信息、推进业务流程，在日常办公中更便捷",
-      "pubDate": "Wed, 23 Sep 2026 10:53:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "全国工商联民营企业500强榜单公布 滴滴位列第31位",
-      "link": "https://www.leiphone.com/category/industrynews/66kZQmRACVsNRTEH.html",
-      "snippet": "9月22日，全国工商联发布“2026中国民营企业500强”“2026中国制造业民营企业500强”“2026中国服务业民营企业100强”榜单和《2026中国民营企业500强调研分析报告》。其中，滴滴在“民企500强”中位列第31位，“服务业民企100强”中位列第7位，双榜单排名均有稳步提升。 图为：2",
-      "pubDate": "Wed, 23 Sep 2026 10:49:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "ECCV 2026 开幕：李飞飞团队获时间检验奖，7000人挤爆马尔默",
-      "link": "https://www.leiphone.com/category/academic/btha4kkfzuaJc41w.html",
-      "snippet": "93场Workshop，吴佳俊成全场最忙碌的人！          作者丨幸丽娟     编辑丨岑   峰",
-      "pubDate": "Wed, 23 Sep 2026 09:51:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Yann LeCun 万字演讲：「预测像素」是伪命题，JEPA 也并非凭空而来 | ECCV 2026",
-      "link": "https://www.leiphone.com/category/academic/F8VUijJ4JY8kkXTG.html",
-      "snippet": "只靠语言和 token，AI 永远跨不过物理世界这道门槛！          作者丨幸丽娟     编辑丨岑   峰",
-      "pubDate": "Wed, 23 Sep 2026 09:49:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "乐享以太大模型，让中国具身智能坐上定义席",
-      "link": "https://www.leiphone.com/category/academic/Ti3obLMNSuHn5OpR.html",
-      "snippet": "从“预测”到“求解”：乐享以太大模型重塑 Physical AI 解题范式。          作者丨幸丽娟      编辑丨董子博",
-      "pubDate": "Wed, 23 Sep 2026 09:46:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "近亿元A轮融资，海外收入增长450%：ExploMar擎波探索引领千亿水上动力市场电动化",
-      "link": "https://www.leiphone.com/category/industrynews/lOa3qN8SeAsvE4tw.html",
-      "snippet": "近日，高性能电动水上动力系统企业ExploMar擎波探索宣布完成近亿元A轮融资。本轮融资由德联资本、常熟国发、苏创投、三七互娱联合投资，老股东DCM Ventures连续三轮加码。势能资本担任独家财务顾问。 融资之外，ExploMar近期释放出的另一组数据同样值得关注：2026年上半年，公司海外收入",
-      "pubDate": "Wed, 23 Sep 2026 09:41:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T18:17:08.584Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]
