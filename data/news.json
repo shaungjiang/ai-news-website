@@ -1,16 +1,257 @@
 {
-  "generatedAt": "2026-09-23T13:29:45.528Z",
+  "generatedAt": "2026-09-23T18:27:01.527Z",
   "stats": {
-    "total": 104,
+    "total": 105,
     "shown": 50,
     "chinese": 30,
-    "english": 74,
-    "today": 36
+    "english": 75,
+    "today": 52
   },
   "articles": [
     {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "link": "https://openai.com/index/ringg",
+      "snippet": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "pubDate": "Thu, 24 Sep 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-23T18:17:10.529Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+      "snippet": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's",
+      "pubDate": "2026-09-23T18:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-23T18:17:09.113Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+      "link": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+      "snippet": "\"So absurd and embarrassing ...\"",
+      "pubDate": "Wed, 23 Sep 2026 17:39:39 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Scharon Harding\n                ",
+      "fetchedAt": "2026-09-23T18:17:10.122Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "link": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "snippet": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower pro",
+      "pubDate": "Wed, 23 Sep 2026 17:10:11 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Eileen Guo",
+      "fetchedAt": "2026-09-23T18:17:09.370Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
+      "title": "ChatGPT mobile app gets voice-based agentic features",
+      "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+      "snippet": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+      "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Even Americans who use AI every day are worried about it",
+      "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+      "snippet": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+      "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ram Iyer",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+      "snippet": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligen",
+      "pubDate": "2026-09-23T16:23:05.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-23T18:17:09.113Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Two years of OpenAI Academy",
+      "link": "https://openai.com/index/two-years-of-openai-academy",
+      "snippet": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "pubDate": "Wed, 23 Sep 2026 16:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-23T18:17:10.529Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "YouTube Music gets more conversational with new AI features",
+      "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+      "snippet": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individ",
+      "pubDate": "Wed, 23 Sep 2026 15:19:30 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "YouTube will let you build your own algorithm with AI",
+      "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
+      "snippet": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
+      "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
+      "snippet": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. S",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "YouTube releases new AI features for creators within its Studio app",
+      "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
+      "snippet": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "YouTube is building AI creator tools that do almost everything for them",
+      "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
+      "snippet": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has hi",
+      "pubDate": "2026-09-23T14:30:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-23T18:17:09.113Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "水星家纺：入驻美团官旗闪电仓后销售额增长530%",
+      "link": "https://www.leiphone.com/category/industrynews/qjefPQLGZ631NPFP.html",
+      "snippet": "记者9月22日从2026美团即时零售产业大会上获悉，水星家纺2025年11月入驻美团官旗闪电仓后，至2026年8月，商品搜索转化率增长210%，销售额增长530%。",
+      "pubDate": "Wed, 23 Sep 2026 22:21:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
+      "snippet": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day",
+      "pubDate": "Wed, 23 Sep 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
       "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
       "snippet": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural lan",
       "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
@@ -19,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
       "tags": [
         "AI应用"
       ]
@@ -35,9 +276,41 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:03.265Z",
+      "fetchedAt": "2026-09-23T18:17:10.529Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "影像场景行业正在换赛道：定义影像设备的权利，正在交给千行百业的真实场景",
+      "link": "https://www.leiphone.com/category/weiwu/9E7usYwuoOSNziXL.html",
+      "snippet": "过去一年，影像行业最值得琢磨的变化，是越来越多厂商开始用“场景”重新定义自己。 9月22日，深圳。乐其创新SmallRig联合36氪主办的第三届全球影像场景产业大会（2026）在深铁铂尔曼酒店举行，索尼、尼康、影石、荣耀、vivo、适马、蓝箭航天、极壳、朗翰科技等众多产业链上的品牌到场，主题是“连接",
+      "pubDate": "Wed, 23 Sep 2026 20:57:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "GPT-6 Sol 降价 50% 的秘密：消失的 Terra，一场模型梯队平移",
+      "link": "https://www.leiphone.com/category/yanxishe/gnzWAPK52Igo0DSk.html",
+      "snippet": "奥圣上台，梁圣危机了么？          作者丨高允毅      编辑丨岑   峰",
+      "pubDate": "Wed, 23 Sep 2026 20:47:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -51,7 +324,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-23T13:25:01.756Z",
+      "fetchedAt": "2026-09-23T18:17:09.370Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
       "tags": [
         "商业融资"
       ]
@@ -76,14 +349,14 @@
       "id": "dGhldmVyZ2UtYWk6",
       "title": "OpenAI nabs key Patreon execs ahead of upcoming announcement",
       "link": "https://www.theverge.com/ai-artificial-intelligence/999249/openai-creators-patreon-execs-hire-sam-yam",
-      "snippet": "Patreon co-founder Sam Yam is joing OpenAI to lead Creator Product. | Image: The Verge\t  OpenAI has hired three former Patreon execs to anchor its pro",
+      "snippet": "Patreon cofounder Sam Yam is joining OpenAI to lead Creator Product. | Image: The Verge\t  OpenAI has hired three former Patreon execs to anchor its pr",
       "pubDate": "2026-09-23T11:02:39.000Z",
       "sourceName": "The Verge",
       "sourceId": "theverge-ai",
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:01.272Z",
+      "fetchedAt": "2026-09-23T18:17:09.113Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +372,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +388,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +404,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +420,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +436,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "商业融资"
       ]
@@ -179,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "政策监管",
         "大模型"
@@ -196,7 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Anuj Behal",
-      "fetchedAt": "2026-09-23T13:25:01.756Z",
+      "fetchedAt": "2026-09-23T18:17:09.370Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "大模型"
       ]
@@ -260,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "克雷西",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "学术研究"
       ]
@@ -276,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +581,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-09-23T13:24:52.299Z",
+      "fetchedAt": "2026-09-23T18:17:03.635Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +597,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "AI应用"
       ]
@@ -356,7 +629,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
+      "fetchedAt": "2026-09-23T18:17:08.855Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "政策监管",
         "开源工具"
@@ -421,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "AI应用"
       ]
@@ -485,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "综合"
       ]
@@ -501,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "大模型"
       ]
@@ -533,283 +806,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
+      "fetchedAt": "2026-09-23T18:17:08.584Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "苹果高管称不建议给iPhone贴膜！网友：免费换屏幕我就信你；高德地图成「职场版大众点评」？回应来了；Muse大火，扎克伯格身价暴涨1700亿",
-      "link": "https://www.leiphone.com/category/zaobao/ZIo4XgkwIFbsS0ui.html",
-      "snippet": "要闻提示       1.苹果高管称不建议给iPhone贴膜！网友：免费换屏幕我就信你 2.知情人士：DeepSeek将向联合国安理会介绍AI风险，月之暗面等中国企业也受邀参会 3.高德地图成“职场版大众点评”？回应来了 4.字节通报二季度违规案例：114名员工被辞退，其中8人被移交司法机关处理 5",
-      "pubDate": "Wed, 23 Sep 2026 08:35:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-23T13:25:00.558Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
-      "snippet": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out",
-      "pubDate": "2026-09-23T00:17:17.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-23T13:25:01.272Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "link": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "snippet": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
-      "pubDate": "Wed, 23 Sep 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-23T13:25:03.265Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
-      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
-      "snippet": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a compa",
-      "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
-      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
-      "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
-      "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
-      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
-      "snippet": "The frontier AI model race has entered its comparison shopping phase.",
-      "pubDate": "Tue, 22 Sep 2026 21:25:18 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-09-23T13:25:02.670Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Better prompt caching for GPT-6",
-      "link": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "snippet": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs",
-      "pubDate": "Tue, 22 Sep 2026 21:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-23T13:25:03.265Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
-      "snippet": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earl",
-      "pubDate": "2026-09-22T20:52:40.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-23T13:25:01.272Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-      "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
-      "snippet": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Microsoft disrupts AI-assisted platform that compromised 12,000 accounts",
-      "link": "https://arstechnica.com/security/2026/09/microsoft-disrupts-ai-assisted-platform-that-compromised-12000/",
-      "snippet": "EvilTokens provided an end-to-end platform that makes mass compromises faster and easier.",
-      "pubDate": "Tue, 22 Sep 2026 19:45:47 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-09-23T13:25:02.670Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Lawsuit demands OpenAI pay for new school after ChatGPT used in shooting",
-      "link": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-pay-for-new-school-after-chatgpt-used-in-shooting/",
-      "snippet": "British Columbia sues OpenAI, demands Tumbler Ridge shooter’s ChatGPT logs.",
-      "pubDate": "Tue, 22 Sep 2026 19:28:23 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-23T13:25:02.670Z",
-      "tags": [
-        "大模型",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
-      "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
-      "snippet": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames",
-      "pubDate": "Tue, 22 Sep 2026 19:09:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-      "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-      "snippet": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
-      "pubDate": "Tue, 22 Sep 2026 18:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Introducing GPT-6 Sol and Luna",
-      "link": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-      "snippet": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
-      "pubDate": "Tue, 22 Sep 2026 18:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-23T13:25:03.265Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Toyota orders workers to train humanoid robots but says humans won't be replaced",
-      "link": "https://arstechnica.com/ai/2026/09/toyota-claims-plan-for-400000-factory-robots-wont-replace-human-workers/",
-      "snippet": "Toyota's push comes as automakers race to develop and deploy humanoid robots.",
-      "pubDate": "Tue, 22 Sep 2026 17:06:16 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-23T13:25:02.670Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-      "snippet": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley s",
-      "pubDate": "2026-09-22T16:34:08.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-23T13:25:01.272Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
-      "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
-      "snippet": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
-      "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-23T13:25:00.900Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
