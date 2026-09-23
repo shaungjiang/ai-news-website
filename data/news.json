@@ -1,13 +1,62 @@
 {
-  "generatedAt": "2026-09-22T21:20:36.064Z",
+  "generatedAt": "2026-09-23T00:14:31.902Z",
   "stats": {
-    "total": 102,
+    "total": 114,
     "shown": 50,
     "chinese": 28,
-    "english": 74,
-    "today": 53
+    "english": 86,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "snippet": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a compa",
+      "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+      "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+      "snippet": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+      "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "New Anthropic, OpenAI models make same promise: A little more for a lot less money",
+      "link": "https://arstechnica.com/ai/2026/09/new-anthropic-openai-models-make-same-promise-a-little-more-for-a-lot-less-money/",
+      "snippet": "The frontier AI model race has entered its comparison shopping phase.",
+      "pubDate": "Tue, 22 Sep 2026 21:25:18 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Samuel Axon\n                ",
+      "fetchedAt": "2026-09-23T00:04:40.257Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "b3BlbmFpLWJsb2c6",
       "title": "Better prompt caching for GPT-6",
@@ -19,9 +68,25 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:48.055Z",
+      "fetchedAt": "2026-09-23T00:04:40.844Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "snippet": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earl",
+      "pubDate": "2026-09-22T20:52:40.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-23T00:04:39.193Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,7 +100,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +116,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-09-22T21:11:47.658Z",
+      "fetchedAt": "2026-09-23T00:04:40.257Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +132,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-22T21:11:47.658Z",
+      "fetchedAt": "2026-09-23T00:04:40.257Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -84,9 +149,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Releases Claude Opus 5.5: Fable 5.1-Level Performance at 40% Lower Running Cost Than Opus 5",
+      "link": "https://www.marktechpost.com/2026/09/22/anthropic-claude-opus-5-5-release/",
+      "snippet": "Anthropic has released Claude Opus 5.5, the first model in its new Claude 5.5 family. The team states it performs at the level of Claude Fable 5.1 on",
+      "pubDate": "Tue, 22 Sep 2026 18:59:35 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-23T00:04:41.741Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -100,7 +181,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "大模型"
       ]
@@ -116,7 +197,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:48.055Z",
+      "fetchedAt": "2026-09-23T00:04:40.844Z",
       "tags": [
         "大模型"
       ]
@@ -132,7 +213,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-22T21:11:47.658Z",
+      "fetchedAt": "2026-09-23T00:04:40.257Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +229,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.576Z",
+      "fetchedAt": "2026-09-23T00:04:39.193Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +261,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.576Z",
+      "fetchedAt": "2026-09-23T00:04:39.193Z",
       "tags": [
         "大模型"
       ]
@@ -196,7 +277,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.576Z",
+      "fetchedAt": "2026-09-23T00:04:39.193Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +325,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "大模型"
       ]
@@ -260,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +389,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "商业融资"
       ]
@@ -356,7 +437,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "AI应用"
       ]
@@ -388,7 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-09-22T21:11:46.906Z",
+      "fetchedAt": "2026-09-23T00:04:39.500Z",
       "tags": [
         "商业融资"
       ]
@@ -404,7 +485,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy White, wired.com\n                ",
-      "fetchedAt": "2026-09-22T21:11:47.658Z",
+      "fetchedAt": "2026-09-23T00:04:40.257Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +501,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +517,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-22T21:11:46.343Z",
+      "fetchedAt": "2026-09-23T00:04:38.923Z",
       "tags": [
         "AI应用"
       ]
@@ -452,9 +533,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-22T21:11:46.906Z",
+      "fetchedAt": "2026-09-23T00:04:39.500Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "link": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "snippet": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+      "pubDate": "Tue, 22 Sep 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-23T00:04:40.844Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -468,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +581,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.576Z",
+      "fetchedAt": "2026-09-23T00:04:39.193Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +597,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "开源工具"
       ]
@@ -516,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "大模型"
       ]
@@ -532,7 +629,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Timnit Gebru, Emily M. Bender",
-      "fetchedAt": "2026-09-22T21:11:46.906Z",
+      "fetchedAt": "2026-09-23T00:04:39.500Z",
       "tags": [
         "大模型"
       ]
@@ -548,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "商业融资"
       ]
@@ -564,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "AI应用"
       ]
@@ -580,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "AI应用"
       ]
@@ -596,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "AI应用"
       ]
@@ -612,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "AI应用"
       ]
@@ -628,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-22T21:11:42.096Z",
+      "fetchedAt": "2026-09-23T00:04:34.283Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -645,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "大模型"
       ]
@@ -661,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "AI应用"
       ]
@@ -677,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -694,123 +791,24 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "fetchedAt": "2026-09-23T00:04:38.700Z",
       "tags": [
         "AI应用",
         "开源工具"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "vivo WATCH 6正式发布：外表有型、内在专业，树立轻户外智能腕表新标杆",
-      "link": "https://www.leiphone.com/category/industrynews/21yxpwxuI68n5Or4.html",
-      "snippet": "2026年9月21日，vivo全新轻户外智能腕表——vivo WATCH 6正式发布，并同步开启预售。作为一款定位轻户外运动的智能腕表，vivo WATCH 6在质感外观、跑骑运动指导、健康监测与智能便捷体验四大维度实现全面进阶，以全系高端蓝宝石玻璃表镜、航天级钛合金表体，搭配全链路专业运动指导与智",
-      "pubDate": "Tue, 22 Sep 2026 12:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "vivo首款耳夹耳机正式发布，vivo Buds Clip点亮耳畔“微光小C环”",
-      "link": "https://www.leiphone.com/category/industrynews/v4u9ez41xgbtr9f6.html",
-      "snippet": "2026年9月21日，vivo Buds Clip耳夹耳机正式发布。作为vivo首款耳夹耳机，新品从全天佩戴需求出发，围绕设计美学、舒适佩戴、耳夹听感与连接交互进行系统打磨，自然微光美学与轻量化耳夹设计塑造耳畔的“微光小C环”，高清质感人声、骨传导AI通话降噪与跨生态无缝三连接等，则进一步满足用户在",
-      "pubDate": "Tue, 22 Sep 2026 12:35:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "影像表现全面进阶 vivo X500系列影像旗舰新品正式发布",
-      "link": "https://www.leiphone.com/category/industrynews/C3VZZW0uvu7pezVt.html",
-      "snippet": "2026年9月21日，vivo在上海正式发布全新影像旗舰vivo X500系列。作为vivo将动态影像提升至公司级战略后的开篇之作，X500、X500 Pro、X500 Pro Max三款新品以\"拍照和视频体验双优\"为目标，完整落地vivo首个为动态影像而生的技术体系——蓝图动态影像技术栈，重构移动",
-      "pubDate": "Tue, 22 Sep 2026 12:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "千问新一代AI硬件云栖大会首次集中亮相，10月13日现货发售",
-      "link": "https://www.leiphone.com/category/industrynews/sUhCMujTu7xyY00e.html",
-      "snippet": "9月22日，新一代全系列千问 AI 硬件在云栖大会首次集中亮相，包含千问AI眼镜N1、N1 Pro及千问AI耳夹式耳机。三款新品当天同步开启线上预约，并将于10月13日现货发售。       记者在展区体验了解到，N1系列搭载5000万像素传感器，支持第一视角拍摄。其中，N1 Pro支持眼动追踪和虹",
-      "pubDate": "Tue, 22 Sep 2026 12:25:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "人工智能促进健康全球倡议2026年会召开，讯飞医疗以数智实践助力全球医疗AI治理体系共建",
-      "link": "https://www.leiphone.com/category/industrynews/R83KNSoMSQgd8F4P.html",
-      "snippet": "为进一步深化人工智能在全球健康领域的创新实践，共同应对全球人工智能健康应用面临的挑战，人工智能促进健康全球倡议2026年会于9月16-18日在浙江杭州举办。本次会议由世界卫生组织（WHO）、国际电信联盟（ITU）、世界知识产权组织（WIPO）主办，国家卫生健康委卫生发展研究中心、中国信息通信研究院、",
-      "pubDate": "Tue, 22 Sep 2026 11:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "在中国，别指望FDE能搞定AI落地",
-      "link": "https://www.leiphone.com/category/industrynews/30ZiAiG8Mq6ZYJ7g.html",
-      "snippet": "外界眼里，FDE火得一塌糊涂；一线从业者看到的，却是荒诞、滑稽和不可思议。 前段时间，To B老将王涛看到某家号称在做FDE的厂商，公司内部一天的Token消耗量也就100多亿。 “我一个人一天就能消耗20亿Token，”王涛哭笑不得，“一个2000人的公司，一天才消耗100亿，这不是很弱吗？” 而",
-      "pubDate": "Tue, 22 Sep 2026 11:01:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Intel 平台 + 双 PCIe：智锐通 EMA-7132 让医疗影像采集与推理同板并行",
-      "link": "https://www.leiphone.com/category/healthai/TJtpoGbd4KH8lBtK.html",
-      "snippet": "医疗影像设备长期存在一个矛盾：算力需求持续上涨，机箱空间却难以增加。 PCIe 显卡越来越强，图像采集卡也不可或缺，但小型化 Mini-ITX 主板通常只提供一个 PCIe 插槽，要么插显卡做 AI 推理，要么插采集卡抓图像，往往只能二选一。 针对这一痛点，智锐通正式推出 EMA-7132 Mini",
-      "pubDate": "Tue, 22 Sep 2026 10:37:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-22T21:11:46.103Z",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
+      "link": "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
+      "snippet": "NVIDIA researchers have released SoL-Pi, 4 harness mechanisms for the open-source Pi coding agent, discovered by an AI running auto-research loops acr",
+      "pubDate": "Tue, 22 Sep 2026 05:04:43 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-23T00:04:41.741Z",
       "tags": [
         "AI应用"
       ]
