@@ -1,13 +1,77 @@
 {
-  "generatedAt": "2026-09-26T19:13:22.864Z",
+  "generatedAt": "2026-09-26T22:34:46.030Z",
   "stats": {
     "total": 120,
     "shown": 50,
     "chinese": 30,
     "english": 90,
-    "today": 10
+    "today": 15
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
+      "link": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
+      "snippet": "Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state",
+      "pubDate": "Sat, 26 Sep 2026 21:56:23 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-26T22:25:58.653Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "snippet": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+      "pubDate": "Sat, 26 Sep 2026 21:02:06 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
+      "link": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
+      "snippet": "Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then",
+      "pubDate": "Sat, 26 Sep 2026 19:50:57 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-26T22:25:58.653Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "snippet": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to",
+      "pubDate": "2026-09-26T16:34:59.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-26T22:25:56.645Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "I created an interactive digital avatar of myself — and you can talk to it",
@@ -19,7 +83,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "snippet": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last jo",
+      "pubDate": "2026-09-26T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-26T22:25:56.645Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
+      "fetchedAt": "2026-09-26T22:25:50.927Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +131,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
+      "fetchedAt": "2026-09-26T22:25:50.927Z",
       "tags": [
         "学术研究"
       ]
@@ -67,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
+      "fetchedAt": "2026-09-26T22:25:50.927Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -84,7 +164,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-26T19:04:35.569Z",
+      "fetchedAt": "2026-09-26T22:25:58.653Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -101,7 +181,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-09-26T19:04:35.569Z",
+      "fetchedAt": "2026-09-26T22:25:58.653Z",
       "tags": [
         "综合"
       ]
@@ -117,7 +197,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
+      "fetchedAt": "2026-09-26T22:25:50.927Z",
       "tags": [
         "综合"
       ]
@@ -133,7 +213,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
+      "fetchedAt": "2026-09-26T22:25:50.927Z",
       "tags": [
         "大模型"
       ]
@@ -149,7 +229,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
+      "fetchedAt": "2026-09-26T22:25:50.927Z",
       "tags": [
         "综合"
       ]
@@ -165,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +261,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-26T19:04:35.569Z",
+      "fetchedAt": "2026-09-26T22:25:58.653Z",
       "tags": [
         "AI应用"
       ]
@@ -197,7 +277,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "政策监管"
       ]
@@ -213,7 +293,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "学术研究"
       ]
@@ -229,7 +309,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-09-26T19:04:34.561Z",
+      "fetchedAt": "2026-09-26T22:25:57.696Z",
       "tags": [
         "大模型"
       ]
@@ -245,7 +325,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-26T19:04:34.561Z",
+      "fetchedAt": "2026-09-26T22:25:57.696Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "AI应用"
       ]
@@ -277,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "商业融资"
       ]
@@ -293,7 +373,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-26T19:04:34.561Z",
+      "fetchedAt": "2026-09-26T22:25:57.696Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +389,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-26T19:04:34.995Z",
+      "fetchedAt": "2026-09-26T22:25:58.068Z",
       "tags": [
         "大模型"
       ]
@@ -325,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "综合"
       ]
@@ -341,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "商业融资"
       ]
@@ -357,7 +437,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Kirsten Korosec, Sean O'Kane, Theresa Loconsolo",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +453,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-09-26T19:04:34.561Z",
+      "fetchedAt": "2026-09-26T22:25:57.696Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +469,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "AI应用"
       ]
@@ -405,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +501,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T19:04:33.351Z",
+      "fetchedAt": "2026-09-26T22:25:56.645Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-26T19:04:32.572Z",
+      "fetchedAt": "2026-09-26T22:25:56.074Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -454,7 +534,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +550,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +566,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T19:04:33.351Z",
+      "fetchedAt": "2026-09-26T22:25:56.645Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +582,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "学术研究"
       ]
@@ -518,7 +598,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +614,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T19:04:33.351Z",
+      "fetchedAt": "2026-09-26T22:25:56.645Z",
       "tags": [
         "开源工具"
       ]
@@ -550,7 +630,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-26T19:04:35.569Z",
+      "fetchedAt": "2026-09-26T22:25:58.653Z",
       "tags": [
         "AI应用"
       ]
@@ -566,7 +646,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +662,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-26T19:04:35.569Z",
+      "fetchedAt": "2026-09-26T22:25:58.653Z",
       "tags": [
         "学术研究"
       ]
@@ -598,7 +678,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +694,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
+      "fetchedAt": "2026-09-26T22:25:56.328Z",
       "tags": [
         "商业融资"
       ]
@@ -630,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
+      "fetchedAt": "2026-09-26T22:25:50.927Z",
       "tags": [
         "综合"
       ]
@@ -646,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
+      "fetchedAt": "2026-09-26T22:25:50.927Z",
       "tags": [
         "大模型"
       ]
@@ -662,7 +742,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T19:04:33.351Z",
+      "fetchedAt": "2026-09-26T22:25:56.645Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -679,7 +759,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-26T19:04:33.763Z",
+      "fetchedAt": "2026-09-26T22:25:56.945Z",
       "tags": [
         "综合"
       ]
@@ -695,7 +775,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T19:04:33.351Z",
+      "fetchedAt": "2026-09-26T22:25:56.645Z",
       "tags": [
         "AI应用"
       ]
@@ -711,7 +791,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Beth Mole\n                ",
-      "fetchedAt": "2026-09-26T19:04:34.561Z",
+      "fetchedAt": "2026-09-26T22:25:57.696Z",
       "tags": [
         "综合"
       ]
@@ -727,89 +807,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-26T19:04:32.572Z",
+      "fetchedAt": "2026-09-26T22:25:56.074Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "亮出“中国最强AI芯片”还不够，平头哥又甩出一手开源",
-      "link": "https://www.qbitai.com/2026/09/497108.html",
-      "snippet": "大厂造芯，正在从交付芯片，走向更广泛的开放共建阶段。",
-      "pubDate": "Fri, 25 Sep 2026 10:00:14 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg",
-      "pubDate": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Amit Katwala",
-      "fetchedAt": "2026-09-26T19:04:33.763Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "link": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "snippet": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News",
-      "pubDate": "Fri, 25 Sep 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-26T19:04:33.763Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "别人忙着卷Code，Kimi抽身反打浏览器插件：网页操作一秒变Skill",
-      "link": "https://www.qbitai.com/2026/09/497075.html",
-      "snippet": "Agent的手越伸越长",
-      "pubDate": "Fri, 25 Sep 2026 06:20:56 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-09-26T19:04:28.020Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "snippet": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-26T19:04:32.942Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
