@@ -1,13 +1,127 @@
 {
-  "generatedAt": "2026-09-26T09:25:03.263Z",
+  "generatedAt": "2026-09-26T14:21:34.741Z",
   "stats": {
-    "total": 110,
+    "total": 120,
     "shown": 50,
     "chinese": 30,
-    "english": 80,
-    "today": 4
+    "english": 90,
+    "today": 11
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "snippet": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+      "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Dominic-Madori Davis",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "snippet": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last jo",
+      "pubDate": "2026-09-26T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-26T14:11:41.867Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+      "link": "https://www.qbitai.com/2026/09/498478.html",
+      "snippet": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+      "pubDate": "Sat, 26 Sep 2026 11:49:43 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "link": "https://www.qbitai.com/2026/09/498271.html",
+      "snippet": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+      "pubDate": "Sat, 26 Sep 2026 09:07:41 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "田, 晏林",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+      "link": "https://www.qbitai.com/2026/09/497624.html",
+      "snippet": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+      "pubDate": "Sat, 26 Sep 2026 09:01:00 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "田, 晏林",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
+      "tags": [
+        "开源工具",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
+      "link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+      "snippet": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and",
+      "pubDate": "Sat, 26 Sep 2026 08:04:08 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-26T14:11:44.287Z",
+      "tags": [
+        "AI应用",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
+      "link": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+      "snippet": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch dat",
+      "pubDate": "Sat, 26 Sep 2026 07:22:46 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-09-26T14:11:44.287Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
@@ -19,7 +133,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +149,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +165,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
       "tags": [
         "综合"
       ]
@@ -67,9 +181,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
+      "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+      "snippet": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model.",
+      "pubDate": "Fri, 25 Sep 2026 23:11:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-26T14:11:44.287Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -83,7 +213,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "政策监管"
       ]
@@ -99,7 +229,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "学术研究"
       ]
@@ -115,7 +245,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-09-26T09:16:14.704Z",
+      "fetchedAt": "2026-09-26T14:11:43.088Z",
       "tags": [
         "大模型"
       ]
@@ -131,7 +261,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-26T09:16:14.704Z",
+      "fetchedAt": "2026-09-26T14:11:43.088Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +277,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +293,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "商业融资"
       ]
@@ -179,7 +309,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-26T09:16:14.704Z",
+      "fetchedAt": "2026-09-26T14:11:43.088Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +325,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-26T09:16:15.138Z",
+      "fetchedAt": "2026-09-26T14:11:43.432Z",
       "tags": [
         "大模型"
       ]
@@ -211,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "商业融资"
       ]
@@ -243,7 +373,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Kirsten Korosec, Sean O'Kane, Theresa Loconsolo",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +389,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-09-26T09:16:14.704Z",
+      "fetchedAt": "2026-09-26T14:11:43.088Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "AI应用"
       ]
@@ -291,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +437,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.759Z",
+      "fetchedAt": "2026-09-26T14:11:41.867Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.248Z",
+      "fetchedAt": "2026-09-26T14:11:41.377Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -340,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "AI应用"
       ]
@@ -356,7 +486,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +502,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.759Z",
+      "fetchedAt": "2026-09-26T14:11:41.867Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +518,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "学术研究"
       ]
@@ -404,7 +534,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "AI应用"
       ]
@@ -420,9 +550,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.759Z",
+      "fetchedAt": "2026-09-26T14:11:41.867Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
+      "link": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
+      "snippet": "Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI’s GLM-5.3, built to run inside infrastr",
+      "pubDate": "Fri, 25 Sep 2026 15:14:45 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-26T14:11:44.287Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -436,9 +582,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Perplexity Trains Its Computer Agent on Real Mistakes With Hint-Guided Self-Distillation",
+      "link": "https://www.marktechpost.com/2026/09/25/perplexity-trains-its-computer-agent-on-real-mistakes-with-hint-guided-self-distillation/",
+      "snippet": "Perplexity Research published a new post-training study. It trains a model inside Perplexity Computer on real user sessions, including failed ones. Th",
+      "pubDate": "Fri, 25 Sep 2026 14:30:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-26T14:11:44.287Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -452,7 +614,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +630,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
+      "fetchedAt": "2026-09-26T14:11:41.637Z",
       "tags": [
         "商业融资"
       ]
@@ -484,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
       "tags": [
         "大模型"
       ]
@@ -516,7 +678,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.759Z",
+      "fetchedAt": "2026-09-26T14:11:41.867Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -533,7 +695,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-26T09:16:14.025Z",
+      "fetchedAt": "2026-09-26T14:11:42.154Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +711,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.759Z",
+      "fetchedAt": "2026-09-26T14:11:41.867Z",
       "tags": [
         "AI应用"
       ]
@@ -565,7 +727,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Beth Mole\n                ",
-      "fetchedAt": "2026-09-26T09:16:14.704Z",
+      "fetchedAt": "2026-09-26T14:11:43.088Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.248Z",
+      "fetchedAt": "2026-09-26T14:11:41.377Z",
       "tags": [
         "学术研究"
       ]
@@ -597,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
       "tags": [
         "开源工具"
       ]
@@ -613,7 +775,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Amit Katwala",
-      "fetchedAt": "2026-09-26T09:16:14.025Z",
+      "fetchedAt": "2026-09-26T14:11:42.154Z",
       "tags": [
         "政策监管"
       ]
@@ -629,7 +791,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-09-26T09:16:14.025Z",
+      "fetchedAt": "2026-09-26T14:11:42.154Z",
       "tags": [
         "学术研究"
       ]
@@ -645,167 +807,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "华为大模型双子星联手创业，要找物理世界的Scaling Law",
-      "link": "https://www.qbitai.com/2026/09/497070.html",
-      "snippet": "一场物理世界的基模实验",
-      "pubDate": "Fri, 25 Sep 2026 06:14:07 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "呃…小扎「自研Manus」刚成Meta太子，就塌房了",
-      "link": "https://www.qbitai.com/2026/09/497060.html",
-      "snippet": "人工外包团队",
-      "pubDate": "Fri, 25 Sep 2026 06:11:10 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "给机器人当老师，还能赚外快？“中国版Index”觅蜂派来了",
-      "link": "https://www.qbitai.com/2026/09/497012.html",
-      "snippet": "",
-      "pubDate": "Fri, 25 Sep 2026 05:52:18 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "林, 方舟",
-      "fetchedAt": "2026-09-26T09:16:08.126Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
-      "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
-      "snippet": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
-      "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "抽“锦鲤”享美食！“点亮杭州 碰见好运”服务消费季活动启动",
-      "link": "https://www.leiphone.com/category/industrynews/0imdK8Mce43TQgK9.html",
-      "snippet": "9月24日，“点亮杭州 碰见好运”服务消费季活动在西湖区天目里国际街区正式启动。活动依托支付宝”碰一下”数字支付技术，结合政府消费券发放、平台文旅权益赠送及AI互动装置抽奖等方式，为杭州市民和来杭游客打造具有本地特色的假日消费体验。   “点亮杭州 碰见好运”互动装置通过智能互动抽奖发券的新模式带动",
-      "pubDate": "Fri, 25 Sep 2026 10:17:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.248Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "snippet": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live",
-      "pubDate": "2026-09-24T19:59:26.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.759Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
-      "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
-      "snippet": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
-      "pubDate": "Thu, 24 Sep 2026 19:15:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
-      "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
-      "snippet": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-09-26T09:16:13.472Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
-      "link": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
-      "snippet": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
-      "pubDate": "Thu, 24 Sep 2026 18:20:58 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-26T09:16:14.704Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "snippet": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.   The Nvidia CEO",
-      "pubDate": "2026-09-24T18:04:44.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-26T09:16:13.759Z",
+      "fetchedAt": "2026-09-26T14:11:35.774Z",
       "tags": [
         "综合"
       ]
