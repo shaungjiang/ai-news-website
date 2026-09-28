@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-09-27T21:07:35.572Z",
+  "generatedAt": "2026-09-28T00:25:05.281Z",
   "stats": {
-    "total": 110,
+    "total": 99,
     "shown": 50,
-    "chinese": 30,
-    "english": 80,
-    "today": 11
+    "chinese": 10,
+    "english": 89,
+    "today": 0
   },
   "articles": [
     {
@@ -19,7 +19,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
+      "fetchedAt": "2026-09-28T00:20:40.194Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +35,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +51,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +67,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
+      "fetchedAt": "2026-09-28T00:20:40.194Z",
       "tags": [
         "学术研究"
       ]
@@ -83,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-09-27T21:00:44.699Z",
+      "fetchedAt": "2026-09-28T00:20:30.418Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -116,7 +116,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-27T21:00:44.699Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "综合"
       ]
@@ -132,7 +132,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-09-27T21:00:44.699Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "综合"
       ]
@@ -148,25 +148,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-09-27T21:00:44.699Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "遇见AI未来：中科通量SmarCo系列产品亮相全球数字贸易博览会",
-      "link": "https://www.leiphone.com/category/industrynews/D18iwUndD8KTdpMu.html",
-      "snippet": "9月23日至27日，第五届全球数字贸易博览会在杭州大会展中心举行。中科通量作为国内视频智能和AI智算领域的代表企业，受邀在2号主题展馆重磅亮相，全面展示其在视频AI、智能存储与算力领域的最新成果。 亮相国家级舞台，全线产品集中呈现 作为全球数字贸易领域中国唯一以数字贸易为主题的国家级、国际性、专业型",
-      "pubDate": "Sun, 27 Sep 2026 09:55:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.202Z",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "AI Coding Agents for Enterprise: IP Indemnity, Data Residency and 500-Seat Cost Compared",
+      "link": "https://www.marktechpost.com/2026/09/26/ai-coding-agents-for-enterprise-ip-indemnity-data-residency-and-500-seat-cost-compared/",
+      "snippet": "We read the contracts behind GitHub Copilot, AWS Kiro, Cursor, Devin and Windsurf. Copilot and Kiro offer uncapped indemnity on generated code. Cognit",
+      "pubDate": "Sun, 27 Sep 2026 05:57:51 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-28T00:20:43.629Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "A Coding Guide to Google Research’s MSEB: Writing Sound Encoders to the Benchmark Contract and Scoring Them Across Classification, Clustering, Retrieval and Segmentation",
+      "link": "https://www.marktechpost.com/2026/09/26/a-coding-guide-to-google-researchs-mseb-writing-sound-encoders-to-the-benchmark-contract-and-scoring-them-across-classification-clustering-retrieval-and-segmentation/",
+      "snippet": "A comprehensive coding tutorial on Google Research's Massive Sound Embedding Benchmark (MSEB), demonstrating how to implement custom sound encoders, d",
+      "pubDate": "Sun, 27 Sep 2026 05:42:35 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-09-28T00:20:43.629Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -180,10 +196,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "AI应用",
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Sarvam AI Releases Saaras V4: A Speech-to-Text Model for All 22 Indian Languages and Global English",
+      "link": "https://www.marktechpost.com/2026/09/26/sarvam-ai-releases-saaras-v4-a-speech-to-text-model-for-all-22-indian-languages-and-global-english/",
+      "snippet": "Sarvam AI's Saaras V4 is a speech-to-text model covering all 22 Indian languages plus global English. It pairs an audio encoder with a 3B hybrid state",
+      "pubDate": "Sat, 26 Sep 2026 21:56:23 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-28T00:20:43.629Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -197,9 +229,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Supersonic Labs Releases Julia 1: A 144.3M-Parameter Open Decision Model That Runs on a CPU",
+      "link": "https://www.marktechpost.com/2026/09/26/supersonic-labs-releases-julia-1-a-144-3m-parameter-open-decision-model-that-runs-on-a-cpu/",
+      "snippet": "Supersonic Labs has released Julia 1, a 144.3M-parameter decision model built on mmBERT-small. It takes context, a question, and 2 to 20 options, then",
+      "pubDate": "Sat, 26 Sep 2026 19:50:57 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-28T00:20:43.629Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -213,7 +261,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
+      "fetchedAt": "2026-09-28T00:20:40.194Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +277,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "综合"
       ]
@@ -245,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
+      "fetchedAt": "2026-09-28T00:20:40.194Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-27T21:00:44.699Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "AI应用"
       ]
@@ -277,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-27T21:00:44.700Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "学术研究"
       ]
@@ -293,10 +341,43 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-09-27T21:00:44.700Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "开源工具",
         "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Exa Launches Agent Ultra: A Subagent Swarm Deep Research API Built for Exhaustive List Building",
+      "link": "https://www.marktechpost.com/2026/09/26/exa-launches-agent-ultra-a-subagent-swarm-deep-research-api-built-for-exhaustive-list-building/",
+      "snippet": "Exa has released Agent Ultra, the highest effort mode of its Exa Agent API. It coordinates subagents across thousands of sources for list building and",
+      "pubDate": "Sat, 26 Sep 2026 08:04:08 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-28T00:20:43.629Z",
+      "tags": [
+        "AI应用",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "End-to-End Multimodal Data Augmentation and Adversarial Robustness Benchmark with AugLy for Images, Text, Audio, and PyTorch",
+      "link": "https://www.marktechpost.com/2026/09/26/end-to-end-multimodal-data-augmentation-and-adversarial-robustness-benchmark-with-augly-for-images-text-audio-and-pytorch/",
+      "snippet": "Discover how to build a comprehensive multimodal augmentation and adversarial robustness workflow using AugLy for images, text, audio, and PyTorch dat",
+      "pubDate": "Sat, 26 Sep 2026 07:22:46 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-09-28T00:20:43.629Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -310,7 +391,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-27T21:00:44.700Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +407,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-27T21:00:44.700Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "大模型"
       ]
@@ -342,7 +423,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-09-27T21:00:44.700Z",
+      "fetchedAt": "2026-09-28T00:20:30.419Z",
       "tags": [
         "综合"
       ]
@@ -358,9 +439,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LFM2.5-VL-3B-DSpark: Speculative Decoding for Vision-Language Models With Up to 3.13x Faster Decoding",
+      "link": "https://www.marktechpost.com/2026/09/25/liquid-ai-releases-lfm2-5-vl-3b-dspark-speculative-decoding-for-vision-language-models-with-up-to-3-13x-faster-decoding/",
+      "snippet": "Liquid AI has released LFM2.5-VL-3B-DSpark, a 279.5M-parameter draft model that brings speculative decoding to its LFM2.5-VL-3B vision-language model.",
+      "pubDate": "Fri, 25 Sep 2026 23:11:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-28T00:20:43.629Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -374,7 +471,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "政策监管"
       ]
@@ -390,7 +487,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "学术研究"
       ]
@@ -406,7 +503,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-09-27T21:00:55.163Z",
+      "fetchedAt": "2026-09-28T00:20:41.359Z",
       "tags": [
         "大模型"
       ]
@@ -422,7 +519,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-09-27T21:00:55.163Z",
+      "fetchedAt": "2026-09-28T00:20:41.359Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +535,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "AI应用"
       ]
@@ -454,7 +551,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.891Z",
       "tags": [
         "商业融资"
       ]
@@ -470,7 +567,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-27T21:00:55.163Z",
+      "fetchedAt": "2026-09-28T00:20:41.359Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +583,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-27T21:00:55.674Z",
+      "fetchedAt": "2026-09-28T00:20:42.046Z",
       "tags": [
         "大模型"
       ]
@@ -502,7 +599,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +615,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "商业融资"
       ]
@@ -534,7 +631,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha, Kirsten Korosec, Sean O'Kane, Theresa Loconsolo",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +647,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-09-27T21:00:55.163Z",
+      "fetchedAt": "2026-09-28T00:20:41.359Z",
       "tags": [
         "综合"
       ]
@@ -566,7 +663,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +679,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "综合"
       ]
@@ -598,26 +695,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
+      "fetchedAt": "2026-09-28T00:20:40.194Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "智元第20000台具身机器人交付长隆，首期超300台机器人常驻乐园。",
-      "link": "https://www.leiphone.com/category/robot/23F3DiDtv7Puosqy.html",
-      "snippet": "雷峰网报道： 2026 年，具身智能行业最难回答的问题之一，是怎么落地。 这里的「落地」有两层含义：一方面，机器人得有足够稳定的量产能力，能够真的交付出去；另一方面，交付之后还得适应具体场景，在真实环境里持续工作。智元称之为「部署态」，机器人开始离开发布会和展会，进入真实的生产与服务环境。 一台机器",
-      "pubDate": "Sat, 26 Sep 2026 00:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.202Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     },
     {
@@ -631,7 +711,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "AI应用"
       ]
@@ -647,7 +727,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +743,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
+      "fetchedAt": "2026-09-28T00:20:40.194Z",
       "tags": [
         "综合"
       ]
@@ -679,7 +759,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "学术研究"
       ]
@@ -695,7 +775,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-27T21:00:53.492Z",
+      "fetchedAt": "2026-09-28T00:20:39.892Z",
       "tags": [
         "AI应用"
       ]
@@ -711,106 +791,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
+      "fetchedAt": "2026-09-28T00:20:40.194Z",
       "tags": [
         "开源工具"
       ]
     },
     {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "snippet": "I used Google’s Nest Doorbell (left), Aqara’s HomeKit-compatible G400 (center), and the Ring Pro 4K (right) to test the new AI features of Gemini for",
-      "pubDate": "2026-09-25T13:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "link": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon",
-      "pubDate": "Fri, 25 Sep 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Aikido Security Releases Altar-1: An Open-Weight Security Model Pruned From GLM-5.3 to 328 GB",
+      "link": "https://www.marktechpost.com/2026/09/25/aikido-security-releases-altar-1-an-open-weight-security-model-pruned-from-glm-5-3-to-328-gb/",
+      "snippet": "Aikido Security has released Altar-1, its first open-weight security model. It is a compressed version of Z.AI’s GLM-5.3, built to run inside infrastr",
+      "pubDate": "Fri, 25 Sep 2026 15:14:45 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
       "lang": "en",
       "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-27T21:00:54.224Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "snippet": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabili",
-      "pubDate": "2026-09-25T12:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.811Z",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-28T00:20:43.629Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Trump admin using AI to deny medical care for seniors in disastrous experiment",
-      "link": "https://arstechnica.com/health/2026/09/trump-admin-using-ai-to-deny-medical-care-for-seniors-in-disastrous-experiment/",
-      "snippet": "Vendors rolling out AI have an \"incentive to deny as many claims as possible.\"",
-      "pubDate": "Fri, 25 Sep 2026 11:00:28 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Beth Mole\n                ",
-      "fetchedAt": "2026-09-27T21:00:55.163Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "梁文锋狙击战：深扒那些梁文锋署名的论文有多牛",
-      "link": "https://www.leiphone.com/category/yanxishe/8IlKEXMO2Pxju8ke.html",
-      "snippet": "过去三年，梁圣署名了11篇论文，每篇都几乎震动世界。          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Fri, 25 Sep 2026 18:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-27T21:00:53.202Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "snippet": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budg",
-      "pubDate": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Amit Katwala",
-      "fetchedAt": "2026-09-27T21:00:54.224Z",
-      "tags": [
-        "政策监管"
       ]
     }
   ]
