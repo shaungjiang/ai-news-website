@@ -1,13 +1,142 @@
 {
-  "generatedAt": "2026-09-29T19:19:29.573Z",
+  "generatedAt": "2026-09-29T23:39:38.650Z",
   "stats": {
-    "total": 109,
+    "total": 118,
     "shown": 50,
     "chinese": 29,
-    "english": 80,
-    "today": 47
+    "english": 89,
+    "today": 61
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Trump orders US government to call AI ‘Super Intelligence’",
+      "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+      "snippet": "Image: Carolyn Van Houten/The Washington Post via Getty Images\t  The US executive branch is no longer acknowledging the existence of \"artificial intel",
+      "pubDate": "2026-09-29T22:25:45.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T23:29:44.923Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+      "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+      "snippet": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the",
+      "pubDate": "Tue, 29 Sep 2026 22:20:59 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Protests against OpenAI get increasingly creative",
+      "link": "https://arstechnica.com/ai/2026/09/what-iceberg-bay-area-artists-target-openai-with-titanic-themed-protest-art/",
+      "snippet": "New sculpture depicts AI leaders escaping a sinking ship.",
+      "pubDate": "Tue, 29 Sep 2026 21:52:58 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Cyrus Farivar\n                ",
+      "fetchedAt": "2026-09-29T23:29:46.132Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+      "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+      "snippet": "Elon Musk | Image: Laura Normand / The Verge\t  Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once agai",
+      "pubDate": "2026-09-29T21:49:09.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T23:29:44.923Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases d1: A Decision Model That Returns Calibrated Probabilities With Zero Output Tokens",
+      "link": "https://www.marktechpost.com/2026/09/29/liquid-ai-releases-d1-a-decision-model-that-returns-calibrated-probabilities-with-zero-output-tokens/",
+      "snippet": "Liquid AI has released d1, a decision model built for structured choices instead of text generation. You give it context and a set of typed questions.",
+      "pubDate": "Tue, 29 Sep 2026 21:47:09 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-29T23:29:47.976Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+      "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+      "snippet": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
+      "pubDate": "Tue, 29 Sep 2026 21:14:49 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Samuel Axon\n                ",
+      "fetchedAt": "2026-09-29T23:29:46.132Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI’s latest features take direct aim at the app store model",
+      "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+      "snippet": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered",
+      "pubDate": "Tue, 29 Sep 2026 20:15:47 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+      "snippet": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
@@ -19,9 +148,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "OpenAI Launches dots: Always-On GPT-6 Astra Agents That Work From Their Own Cloud Computers",
+      "link": "https://www.marktechpost.com/2026/09/29/openai-launches-dots-always-on-gpt-6-astra-agents-that-work-from-their-own-cloud-computers/",
+      "snippet": "OpenAI just introduced dots at their DevDay today. Dots are persistent AI agents powered by GPT-6 Astra. Each dot gets its own cloud computer and brow",
+      "pubDate": "Tue, 29 Sep 2026 18:30:13 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-29T23:29:47.976Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -35,7 +180,23 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-29T19:09:37.292Z",
+      "fetchedAt": "2026-09-29T23:29:46.132Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Nebius Opens 2026 Physical AI Awards: Five $150K Compute Credit Prizes",
+      "link": "https://www.marktechpost.com/2026/09/29/nebius-opens-2026-physical-ai-awards-five-150k-compute-prizes/",
+      "snippet": "Nebius and NVIDIA are running the 2026 Physical AI Awards for startups with products in the field. Five category winners each get $150,000 in compute",
+      "pubDate": "Tue, 29 Sep 2026 17:48:10 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-29T23:29:47.976Z",
       "tags": [
         "AI应用"
       ]
@@ -44,14 +205,14 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
       "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-      "snippet": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "snippet": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
       "pubDate": "Tue, 29 Sep 2026 17:45:51 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -68,7 +229,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "fetchedAt": "2026-09-29T23:29:44.923Z",
       "tags": [
         "学术研究"
       ]
@@ -84,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "AI应用"
       ]
@@ -100,8 +261,41 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focu",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI expands ChatGPT’s plug-ins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "snippet": "OpenAI is expanding ChatGPT plug-ins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
+      "tags": [
+        "大模型",
         "AI应用"
       ]
     },
@@ -116,42 +310,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-      "snippet": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-      "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focus",
-      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -165,7 +326,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "fetchedAt": "2026-09-29T23:29:44.923Z",
       "tags": [
         "AI应用"
       ]
@@ -181,7 +342,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "fetchedAt": "2026-09-29T23:29:44.923Z",
       "tags": [
         "综合"
       ]
@@ -190,16 +351,16 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "Can a chatbot fix the government maze? The White House is about to find out",
       "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-      "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinat",
+      "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but large language models are imperfect and remain prone to hall",
       "pubDate": "Tue, 29 Sep 2026 16:55:56 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
-        "政策监管"
+        "大模型"
       ]
     },
     {
@@ -213,7 +374,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "fetchedAt": "2026-09-29T23:29:44.923Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +390,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "综合"
       ]
@@ -245,7 +406,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-29T19:09:37.292Z",
+      "fetchedAt": "2026-09-29T23:29:46.132Z",
       "tags": [
         "大模型"
       ]
@@ -261,7 +422,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    George Hammond, Financial Times\n                ",
-      "fetchedAt": "2026-09-29T19:09:37.292Z",
+      "fetchedAt": "2026-09-29T23:29:46.132Z",
       "tags": [
         "大模型"
       ]
@@ -277,7 +438,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "fetchedAt": "2026-09-29T23:29:44.923Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +454,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "商业融资"
       ]
@@ -309,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "综合"
       ]
@@ -325,7 +486,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-09-29T19:09:37.292Z",
+      "fetchedAt": "2026-09-29T23:29:46.132Z",
       "tags": [
         "综合"
       ]
@@ -341,7 +502,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "AI应用"
       ]
@@ -357,7 +518,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "fetchedAt": "2026-09-29T23:29:44.587Z",
       "tags": [
         "商业融资"
       ]
@@ -373,7 +534,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-29T19:09:36.657Z",
+      "fetchedAt": "2026-09-29T23:29:45.243Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +550,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "fetchedAt": "2026-09-29T23:29:44.924Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +566,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "fetchedAt": "2026-09-29T23:29:44.924Z",
       "tags": [
         "商业融资"
       ]
@@ -421,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "fetchedAt": "2026-09-29T23:29:44.251Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +598,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Temple",
-      "fetchedAt": "2026-09-29T19:09:36.657Z",
+      "fetchedAt": "2026-09-29T23:29:45.243Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-29T19:09:31.329Z",
+      "fetchedAt": "2026-09-29T23:29:40.419Z",
       "tags": [
         "商业融资"
       ]
@@ -469,7 +630,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Cheri Williams",
-      "fetchedAt": "2026-09-29T19:09:36.657Z",
+      "fetchedAt": "2026-09-29T23:29:45.243Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "fetchedAt": "2026-09-29T23:29:44.251Z",
       "tags": [
         "综合"
       ]
@@ -501,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "fetchedAt": "2026-09-29T23:29:44.251Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -518,27 +679,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "fetchedAt": "2026-09-29T23:29:44.251Z",
       "tags": [
         "AI应用",
         "商业融资"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "DevDay 2026 Recap",
-      "link": "https://openai.com/index/devday-2026-recap",
-      "snippet": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-29T19:09:37.682Z",
-      "tags": [
-        "大模型",
-        "开源工具"
       ]
     },
     {
@@ -552,8 +696,42 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:37.682Z",
+      "fetchedAt": "2026-09-29T23:29:46.743Z",
       "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "snippet": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-29T23:29:46.743Z",
+      "tags": [
+        "大模型",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting",
+      "link": "https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/",
+      "snippet": "Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay",
+      "pubDate": "Tue, 29 Sep 2026 09:01:36 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-29T23:29:47.976Z",
+      "tags": [
+        "开源工具",
         "大模型"
       ]
     },
@@ -568,7 +746,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "fetchedAt": "2026-09-29T23:29:44.251Z",
       "tags": [
         "AI应用"
       ]
@@ -584,7 +762,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "fetchedAt": "2026-09-29T23:29:44.251Z",
       "tags": [
         "AI应用"
       ]
@@ -600,7 +778,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-09-29T19:09:31.329Z",
+      "fetchedAt": "2026-09-29T23:29:40.419Z",
       "tags": [
         "综合"
       ]
@@ -616,7 +794,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-29T19:09:31.329Z",
+      "fetchedAt": "2026-09-29T23:29:40.419Z",
       "tags": [
         "AI应用"
       ]
@@ -632,186 +810,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "fetchedAt": "2026-09-29T23:29:44.251Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
-      "link": "https://www.qbitai.com/2026/09/499135.html",
-      "snippet": "诺因从Demo走向家庭",
-      "pubDate": "Tue, 29 Sep 2026 07:10:59 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-29T19:09:31.330Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
-      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
-      "snippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own",
-      "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "希音上市后的第一份财报，回答了两个关键问题",
-      "link": "https://www.leiphone.com/category/industrynews/gZRE0woO1m8hX4RF.html",
-      "snippet": "9月28日，希音发布上市后的首份中期业绩。比起上市时的资本市场热度，这份财报把两项最能说明业务基本盘的指标摆到了台前：活跃客户数与总订单量。 财报显示，2026年上半年，希音总订单量同比增长6.4%至5.49亿单，其中，第二季度的总订单量同比增长7.6%至2.98亿单。截至2026年6月30日止十二",
-      "pubDate": "Tue, 29 Sep 2026 11:45:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "华为WATCH D3开售：首创轻扰动态血压研究，打造“腕上智能血压专家”",
-      "link": "https://www.leiphone.com/category/industrynews/ToizySV6K6ALZWLQ.html",
-      "snippet": "9月29日，华为WATCH D3正式开启首销，标志着华为第三代腕部动态血压记录仪全面推向市场。 根据IDC发布的最新数据，2026年第二季度全球腕戴设备出货量为4,801万台，同比下滑4.3%，智能手表与手环均承受着一定的市场压力。行业正沿两大方向探索增量：端侧AI算力下沉与无屏手环形态创新。在此背",
-      "pubDate": "Tue, 29 Sep 2026 11:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "从创意落地到创业起步，嘉立创延长AI硬件创新支持链条",
-      "link": "https://www.leiphone.com/category/industrynews/eDhvnoxGSSJk1eQo.html",
-      "snippet": "9月19日，由福田区科技和工业信息化局指导、嘉立创集团主办的第四届开源硬件星火会暨全球AI硬件创新生态大会在深圳会展中心（福田）举行。本届大会开源、闭源两大赛道累计征集超过400个项目作品，覆盖具身智能、机器人关键硬件、AI边缘计算、智能终端等方向，来自多个国家和地区的2200余名创新者到场参与。",
-      "pubDate": "Tue, 29 Sep 2026 10:19:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-29T19:09:35.864Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
-      "link": "https://www.qbitai.com/2026/09/499098.html",
-      "snippet": "李飞飞将入职AMD首席科学家",
-      "pubDate": "Tue, 29 Sep 2026 00:49:30 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦晨",
-      "fetchedAt": "2026-09-29T19:09:31.330Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
-      "link": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
-      "snippet": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
-      "pubDate": "Tue, 29 Sep 2026 00:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Introducing dots",
-      "link": "https://openai.com/index/introducing-dots",
-      "snippet": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control whi",
-      "pubDate": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-29T19:09:37.682Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI reportedly ditches model over safety concerns",
-      "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
-      "snippet": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
-      "pubDate": "Mon, 28 Sep 2026 23:39:20 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-29T19:09:36.085Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "snippet": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the pas",
-      "pubDate": "Mon, 28 Sep 2026 22:17:07 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "MIT Technology Review",
-      "fetchedAt": "2026-09-29T19:09:36.657Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Experts worry about Nvidia's AI chip sales in China and influence over Trump",
-      "link": "https://arstechnica.com/tech-policy/2026/09/nvidia-may-sell-more-chips-in-china-as-jensen-huangs-influence-over-trump-grows/",
-      "snippet": "China is reportedly mulling letting ByteDance, Alibaba buy banned Nvidia chips.",
-      "pubDate": "Mon, 28 Sep 2026 21:49:10 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-29T19:09:37.292Z",
-      "tags": [
-        "政策监管"
       ]
     }
   ]
