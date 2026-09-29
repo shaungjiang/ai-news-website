@@ -1,13 +1,431 @@
 {
-  "generatedAt": "2026-09-29T12:27:01.336Z",
+  "generatedAt": "2026-09-29T19:19:29.573Z",
   "stats": {
-    "total": 107,
+    "total": 109,
     "shown": 50,
     "chinese": 29,
-    "english": 78,
-    "today": 15
+    "english": 80,
+    "today": 47
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+      "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+      "snippet": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+      "pubDate": "Tue, 29 Sep 2026 18:35:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+      "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+      "snippet": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
+      "pubDate": "Tue, 29 Sep 2026 18:11:09 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-09-29T19:09:37.292Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+      "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+      "snippet": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+      "pubDate": "Tue, 29 Sep 2026 17:45:51 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
+      "snippet": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interv",
+      "pubDate": "2026-09-29T17:35:03.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI-powered app maker Wabi pivots to a messaging experience",
+      "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+      "snippet": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks",
+      "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI launches Dots, its bubbly agentic avatar",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+      "snippet": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal o",
+      "pubDate": "Tue, 29 Sep 2026 17:17:15 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+      "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+      "snippet": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, docu",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+      "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+      "snippet": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+      "snippet": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focus",
+      "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI launches Dots, its Muse competitor",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
+      "snippet": "Like Muse, OpenAI’s Dots are represented by cute, customizable avatars. | Image: OpenAI\t  OpenAI is responding to Meta's buzzy Muse AI with agentic he",
+      "pubDate": "2026-09-29T17:15:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Protesters gather at OpenAI’s DevDay",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
+      "snippet": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of pr",
+      "pubDate": "2026-09-29T17:12:27.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Can a chatbot fix the government maze? The White House is about to find out",
+      "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+      "snippet": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinat",
+      "pubDate": "Tue, 29 Sep 2026 16:55:56 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI DevDay 2026: The biggest news and announcements",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+      "snippet": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live ke",
+      "pubDate": "2026-09-29T16:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+      "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+      "snippet": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+      "pubDate": "Tue, 29 Sep 2026 15:12:07 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+      "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+      "snippet": "Similar performance, security trade-offs also seen in current public models.",
+      "pubDate": "Tue, 29 Sep 2026 14:22:31 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-09-29T19:09:37.292Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+      "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+      "snippet": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+      "pubDate": "Tue, 29 Sep 2026 14:10:00 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    George Hammond, Financial Times\n                ",
+      "fetchedAt": "2026-09-29T19:09:37.292Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001886/meta-muse-ai-facebook-marketplace-security-concerns",
+      "snippet": "Tech YouTuber Matt Robb says that Muse gave out his home address to a total stranger this weekend, after authorizing the bot to handle his Facebook Ma",
+      "pubDate": "2026-09-29T14:08:21.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+      "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+      "snippet": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle c",
+      "pubDate": "Tue, 29 Sep 2026 13:53:01 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meta is expanding its AI agent Muse to small businesses",
+      "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+      "snippet": "The tech giant says the agent can help owners run their business and find new customers.",
+      "pubDate": "Tue, 29 Sep 2026 13:47:30 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Interview: Firefox's chief on why he hopes a redesign will help win users from Chrome",
+      "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+      "snippet": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+      "pubDate": "Tue, 29 Sep 2026 13:00:19 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Samuel Axon\n                ",
+      "fetchedAt": "2026-09-29T19:09:37.292Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+      "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+      "snippet": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+      "pubDate": "Tue, 29 Sep 2026 12:45:05 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Kate Park",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Reco raises $55M as AI agent security startups crowd the market",
+      "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+      "snippet": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+      "pubDate": "Tue, 29 Sep 2026 12:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ram Iyer",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
+      "link": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Coming soon:",
+      "pubDate": "Tue, 29 Sep 2026 12:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-09-29T19:09:36.657Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
+      "link": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
+      "snippet": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images\t  As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-",
+      "pubDate": "2026-09-29T12:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat",
+      "snippet": "As Anthropic gears up for its greatly anticipated public debut, a preview of the company's IPO filing reportedly details its mounting losses, leadersh",
+      "pubDate": "2026-09-29T11:48:27.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:36.432Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "1000台售罄后又被做成\"韩立同款\"，元点机器人如何把具身智能做进家庭？",
+      "link": "https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html",
+      "snippet": "一台人形机器人卖出去之后，用户会拿它干什么？ 最近，元点小桥机器人真机已陆续交到部分媒体、达人手中，接受真实上手和实际使用场景的检验。B站百大UP主\"图灵的猫\"就给出了一个有点出人意料的答案：他用元点小桥机器人复刻出了《凡人修仙传》里的\"韩立同款傀儡\"。  视频上线后登上B站热搜，《凡人修仙传》官方",
+      "pubDate": "Tue, 29 Sep 2026 19:22:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
@@ -19,7 +437,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Temple",
-      "fetchedAt": "2026-09-29T12:18:12.290Z",
+      "fetchedAt": "2026-09-29T19:09:36.657Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-29T12:18:07.143Z",
+      "fetchedAt": "2026-09-29T19:09:31.329Z",
       "tags": [
         "商业融资"
       ]
@@ -51,9 +469,92 @@
       "lang": "en",
       "category": "学术",
       "creator": "Cheri Williams",
-      "fetchedAt": "2026-09-29T12:18:12.290Z",
+      "fetchedAt": "2026-09-29T19:09:36.657Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "重新定义一款FPS的上限",
+      "link": "https://www.leiphone.com/category/industrynews/Fp19xlyxYGVG1o6r.html",
+      "snippet": "“强得可怕“。2026年1月，马化腾在腾讯内部大会上如此形容IEG（互动娱乐事业群）过去一年的业务表现。 从结果来看，这句话并不难理解。2025年，在全球游戏市场增速仅约3%的背景下，腾讯游戏收入逆势暴涨22%、狂揽2416亿元。 相比前几年的“FOMO”状态，如今的腾讯似乎有了更多往下走的底气。",
+      "pubDate": "Tue, 29 Sep 2026 18:36:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "北京现代新车上市，限时售价9.99万元起",
+      "link": "https://www.leiphone.com/category/transportation/0XlhPKEoStqaW3Ig.html",
+      "snippet": "9月29日，北京现代发布新车艾尼氪V，共推出5款车型，CLTC续航提供540km和650km两个版本，限时权益价为9.99万元到13.19万元。  新车车长4.9米，轴距2.9米，比起市面上的轿跑车型，艾尼氪V的造型尤为前卫。它采用低趴溜背姿态，与大量折线，风阻系数仅为0.23。搭配贯穿式星轨尾灯、",
+      "pubDate": "Tue, 29 Sep 2026 18:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从 App 到服务，腾讯 Marvis 为什么认准「管家」",
+      "link": "https://www.leiphone.com/category/industrynews/D0f2E1vxteSIbZVF.html",
+      "snippet": "在海外社交媒体上有创业博主用“Agent Sprawl（智能体蔓延）”来描述一个现象： Agent 越多，其权限、数据和调用关系也越分散，企业组织也会遇到新问题：这些 AI，应该由谁来管理？ 类似的问题，在 C 端场景里已经出现。 AI 时代，用户电脑里的文件、应用、浏览器页面和数据，正在变成个人的",
+      "pubDate": "Tue, 29 Sep 2026 18:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
+      "tags": [
+        "AI应用",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "snippet": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:37.682Z",
+      "tags": [
+        "大模型",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "snippet": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:37.682Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -67,7 +568,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +584,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +600,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-09-29T12:18:07.143Z",
+      "fetchedAt": "2026-09-29T19:09:31.329Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-09-29T12:18:07.143Z",
+      "fetchedAt": "2026-09-29T19:09:31.329Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-29T12:18:07.143Z",
+      "fetchedAt": "2026-09-29T19:09:31.330Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +664,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
       "tags": [
         "商业融资"
       ]
@@ -179,7 +680,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +712,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
+      "fetchedAt": "2026-09-29T19:09:35.864Z",
       "tags": [
         "AI应用"
       ]
@@ -227,7 +728,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-09-29T12:18:07.143Z",
+      "fetchedAt": "2026-09-29T19:09:31.330Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -244,9 +745,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Introducing dots",
+      "link": "https://openai.com/index/introducing-dots",
+      "snippet": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control whi",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-09-29T19:09:37.682Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -260,7 +777,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
+      "fetchedAt": "2026-09-29T19:09:36.085Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +793,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-09-29T12:18:12.290Z",
+      "fetchedAt": "2026-09-29T19:09:36.657Z",
       "tags": [
         "商业融资"
       ]
@@ -292,524 +809,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-09-29T12:18:13.031Z",
+      "fetchedAt": "2026-09-29T19:09:37.292Z",
       "tags": [
         "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "snippet": "World Labs co-founder and CEO Fei-Fei Li. | Bloomberg via Getty Images\t  AMD announced today that it's acquiring World Labs, an AI research lab co-fou",
-      "pubDate": "2026-09-28T21:31:35.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:12.067Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-      "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-      "snippet": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-      "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Florida invokes extinction fears in legal bid to halt OpenAI development",
-      "link": "https://arstechnica.com/ai/2026/09/florida-asks-court-to-put-the-brakes-on-openais-frontier-ai-development/",
-      "snippet": "State says LLMs threaten civilization as \"the greatest public nuisance ever created.\"",
-      "pubDate": "Mon, 28 Sep 2026 20:49:39 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-29T12:18:13.031Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-      "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-      "snippet": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-      "pubDate": "Mon, 28 Sep 2026 20:39:33 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Shopify opens checkout to browser-based AI agents",
-      "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-      "snippet": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s author",
-      "pubDate": "Mon, 28 Sep 2026 19:33:57 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The AI boom took over Climate Week and not everyone is happy about it",
-      "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-      "snippet": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-      "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim De Chant",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How we will do better for Australia",
-      "link": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "snippet": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber",
-      "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:13.409Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Towards safety cases for frontier AI training",
-      "link": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "snippet": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incide",
-      "pubDate": "Mon, 28 Sep 2026 19:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:13.409Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI’s AI agents need to catch up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "snippet": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest cate",
-      "pubDate": "2026-09-28T18:45:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:12.067Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-      "snippet": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensu",
-      "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "snippet": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in",
-      "pubDate": "2026-09-28T18:30:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:12.067Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-      "snippet": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-      "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-      "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-      "snippet": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-      "pubDate": "Mon, 28 Sep 2026 17:29:50 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-      "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-      "snippet": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-      "pubDate": "Mon, 28 Sep 2026 17:09:02 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "When can we say AI made a scientific discovery?",
-      "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesd",
-      "pubDate": "Mon, 28 Sep 2026 17:03:16 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "James O'Donnell",
-      "fetchedAt": "2026-09-29T12:18:12.290Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "snippet": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florid",
-      "pubDate": "2026-09-28T17:00:23.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:12.067Z",
-      "tags": [
-        "大模型",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "snippet": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then",
-      "pubDate": "2026-09-28T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:12.067Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-      "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-      "snippet": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and de",
-      "pubDate": "Mon, 28 Sep 2026 16:52:38 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-      "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-      "snippet": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In",
-      "pubDate": "2026-09-28T16:44:57.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:12.067Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
-      "link": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
-      "snippet": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
-      "pubDate": "Mon, 28 Sep 2026 16:43:18 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-29T12:18:13.031Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/",
-      "snippet": "Anthropic, Clay, and Gamma on what it takes for an AI product to go beyond the demo at the AI Stage at TechCrunchDisrupt 2026. Register to join and ge",
-      "pubDate": "Mon, 28 Sep 2026 15:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-      "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-      "snippet": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI mo",
-      "pubDate": "Mon, 28 Sep 2026 15:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Connie Loizos",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Next 5 VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/28/next-five-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026/",
-      "snippet": "Thousands of applications. Multiple rounds of review. Hundreds of hours spent evaluating startups from around the world. Now comes the part everyone h",
-      "pubDate": "Mon, 28 Sep 2026 14:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Modulate raises $25M for its voice models and analysis suite",
-      "link": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/",
-      "snippet": "Modulate deploys its models to detect deepfake, fraud and scam",
-      "pubDate": "Mon, 28 Sep 2026 14:05:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Your final chance to grab your exhibit table at TechCrunch Disrupt 2026 is October 2",
-      "link": "https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/",
-      "snippet": "The last day to book your Disrupt 2026 exhibit table is this Friday, October 2 at 11:59 p.m. PT. Secure your exhibit table and get your startup in fro",
-      "pubDate": "Mon, 28 Sep 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Insurtech Outmarket raises $34.5M just months after prior round",
-      "link": "https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/",
-      "snippet": "The startup uses AI to automate tedious paperwork for insurance agencies and brokers.",
-      "pubDate": "Mon, 28 Sep 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "商业融资",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-      "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-      "snippet": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian.  Atlassian is one of those companies that every other company runs",
-      "pubDate": "2026-09-28T14:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:12.067Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-      "link": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/",
-      "snippet": "\"This funding helps us bring Instinct to more people and continue building the future of personal AI. It’s an exciting, creative time, and we're just",
-      "pubDate": "Mon, 28 Sep 2026 13:38:48 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-29T12:18:11.770Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "snippet": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incident",
-      "pubDate": "2026-09-28T13:36:06.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:12.067Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨上汽集团高层换防：俞经民升职，尚界一把手换人",
-      "link": "https://www.leiphone.com/category/transportation/bWrgjxkra1ZlhtEB.html",
-      "snippet": "雷峰网独家获悉，上汽集团近期启动新一轮人事调整，涉及上汽乘用车、尚界等板块。上汽乘用车常务副总经理俞经民将接替徐文晖，出任上汽乘用车党委副书记，而徐文晖预计到龄退休。 另一项调整发生在尚界。现任尚界汽车总经理祝勇将离开这一岗位，赴上汽齿轮担任副总经理。接替他的顾晔斌来自上汽通用物流。至此，尚界一把手",
-      "pubDate": "Mon, 28 Sep 2026 21:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "解读丨吉利入股蔚来能源，李斌的换电生意有了新算法",
-      "link": "https://www.leiphone.com/category/transportation/bjRWJENf14uelTTS.html",
-      "snippet": "交易完成后，蔚来能源投后估值将达160亿元。           作者 | 王瑞昊  编辑 | 李雨晨      5天前，吉利刚发布新一代超快充技术，把部分车型从10%充至70%的时间压缩到4分30秒。5天后，它宣布入股蔚来能源。 外界还在讨论快充与换电谁会取代谁，两家公司已经开始计算，怎样把这两门",
-      "pubDate": "Mon, 28 Sep 2026 21:08:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中训练、后训练持续升温，模型快速迭代，成为 AI for AI 最佳试炼场",
-      "link": "https://www.leiphone.com/category/yanxishe/WXSemXnlvGNRbiPR.html",
-      "snippet": "当模型开始参与研发下一代模型，大模型的研发方式正在发生什么样的变化？          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Mon, 28 Sep 2026 20:54:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-29T12:18:11.523Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
