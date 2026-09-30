@@ -1,93 +1,75 @@
 {
-  "generatedAt": "2026-09-30T04:30:56.519Z",
+  "generatedAt": "2026-09-30T12:12:45.678Z",
   "stats": {
-    "total": 116,
+    "total": 81,
     "shown": 50,
-    "chinese": 30,
-    "english": 86,
-    "today": 7
+    "chinese": 0,
+    "english": 81,
+    "today": 6
   },
   "articles": [
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-      "link": "https://www.qbitai.com/2026/09/499263.html",
-      "snippet": "",
-      "pubDate": "Wed, 30 Sep 2026 02:53:17 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-30T04:26:29.304Z",
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Airbnb adds AI search, more social features",
+      "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+      "snippet": "Airbnb is also launching new services such as meal delivery and laundry in select locations",
+      "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
-        "开源工具"
+        "AI应用"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "首批搭载第六代骁龙 8 超级至尊版，iQOO16 今日发布并开售",
-      "link": "https://www.leiphone.com/category/industrynews/f6VtGRkwFooHFN7M.html",
-      "snippet": "2026 年 9 月 29 日，深圳 ——  iQOO16 正式发布。新机首批搭载第六代骁龙 8 超级至尊版，全球首发由 iQOO 和三星显示联合研发的 2K 165Hz 三星珠峰屏，并基于 iQOO 搭建的 “3+2游戏技术版图”，在视效、操控、直播和跨端游戏体验上全面升级，成为性能、屏幕、游戏体",
-      "pubDate": "Wed, 30 Sep 2026 10:13:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-30T04:26:35.653Z",
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "link": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "snippet": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Fa",
+      "pubDate": "Wed, 30 Sep 2026 10:40:30 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Will Douglas Heaven",
+      "fetchedAt": "2026-09-30T12:03:56.529Z",
       "tags": [
-        "AI应用",
-        "开源工具"
+        "学术研究"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "国启新篇 兴创未来 国兴智能新品亮相，多项技术引领行业变革",
-      "link": "https://www.leiphone.com/category/industrynews/r1gMx892vG7al5M5.html",
-      "snippet": "9月29日，2026国兴智能新品发布会在山东烟台顺利召开。   本次发布会以“国启新篇·兴创未来”为主题，面向具身智能、智慧巡检、应急救援、消防灭火等高危复杂场景，重磅发布11款全新产品。全方位展示企业的技术成果与场景解决方案，为高危行业智能化、无人化转型注入全新动能。 发布会上，洪田股份总经理与国",
-      "pubDate": "Wed, 30 Sep 2026 10:06:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-30T04:26:35.653Z",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Perplexity Introduces Photon: A Rust-Based Retrieval Engine That Cuts p99 Latency From 800 ms to 65 ms",
+      "link": "https://www.marktechpost.com/2026/09/30/perplexity-introduces-photon-a-rust-based-retrieval-engine-that-cuts-p99-latency-from-800-ms-to-65-ms/",
+      "snippet": "Perplexity has released Photon, an in-house retrieval and ranking engine written in Rust. It replaces an open-source engine Perplexity had forked for",
+      "pubDate": "Wed, 30 Sep 2026 08:26:52 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
       "tags": [
-        "AI应用",
-        "开源工具"
+        "AI应用"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "GPT-6 丝滑「上身」宇树 G1，斯坦福把机器人控制链封装成了一套「专属 API」",
-      "link": "https://www.leiphone.com/category/ai/AVV9SvszqpZ3u8vU.html",
-      "snippet": "空间记忆接导航，视觉伺服接抓取，全身运动负责落地。          作者丨郑佳美      编辑丨岑   峰",
-      "pubDate": "Wed, 30 Sep 2026 09:45:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-30T04:26:35.653Z",
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA Researchers Introduce Physis-Lang: Self-Evolving Physical Language That Lifts Cosmos 3 Past Veo 3.1 on Physics Benchmarks",
+      "link": "https://www.marktechpost.com/2026/09/30/nvidia-researchers-introduce-physis-lang-self-evolving-physical-language-that-lifts-cosmos-3-past-veo-3-1-on-physics-benchmarks/",
+      "snippet": "Video world models can render convincing clips that still break physics. Butter spreads like paint. Balls pass through walls. A team from NVIDIA, MIT",
+      "pubDate": "Wed, 30 Sep 2026 07:32:34 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
       "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "深度拆解 Sonnet 5.5 ：半价 Opus 只是表象，Agent Runtime 才是变化核心",
-      "link": "https://www.leiphone.com/category/ai/eFLQ0PfFrKc5kRSs.html",
-      "snippet": "Tool Call 少三成，Shell Run 近减半，迭代降至 3.6 次。          作者丨郑佳美      编辑丨岑   峰",
-      "pubDate": "Wed, 30 Sep 2026 09:44:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-30T04:26:35.653Z",
-      "tags": [
-        "开源工具"
+        "学术研究"
       ]
     },
     {
@@ -101,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jean-marc Mommessin",
-      "fetchedAt": "2026-09-30T04:26:38.533Z",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
       "tags": [
         "AI应用"
       ]
@@ -117,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "AI应用"
       ]
@@ -133,25 +115,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-      "link": "https://www.qbitai.com/2026/09/499246.html",
-      "snippet": "今年devday牙膏挤爆",
-      "pubDate": "Tue, 29 Sep 2026 23:01:05 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-09-30T04:26:29.304Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -165,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "政策监管"
       ]
@@ -181,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "AI应用"
       ]
@@ -197,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cyrus Farivar\n                ",
-      "fetchedAt": "2026-09-30T04:26:37.382Z",
+      "fetchedAt": "2026-09-30T12:03:57.341Z",
       "tags": [
         "开源工具"
       ]
@@ -213,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "AI应用"
       ]
@@ -229,7 +195,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-30T04:26:38.533Z",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-09-30T04:26:37.382Z",
+      "fetchedAt": "2026-09-30T12:03:57.341Z",
       "tags": [
         "商业融资"
       ]
@@ -261,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -278,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "商业融资"
       ]
@@ -294,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "综合"
       ]
@@ -310,7 +276,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-09-30T04:26:38.533Z",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
       "tags": [
         "大模型"
       ]
@@ -326,7 +292,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-30T04:26:37.382Z",
+      "fetchedAt": "2026-09-30T12:03:57.341Z",
       "tags": [
         "AI应用"
       ]
@@ -342,7 +308,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-09-30T04:26:38.533Z",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
       "tags": [
         "AI应用"
       ]
@@ -358,7 +324,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -375,7 +341,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "学术研究"
       ]
@@ -391,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "AI应用"
       ]
@@ -407,7 +373,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "AI应用"
       ]
@@ -423,7 +389,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "开源工具"
       ]
@@ -439,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -456,7 +422,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "大模型"
       ]
@@ -472,7 +438,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "AI应用"
       ]
@@ -488,7 +454,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "综合"
       ]
@@ -504,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "大模型"
       ]
@@ -520,7 +486,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "综合"
       ]
@@ -536,7 +502,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "综合"
       ]
@@ -552,7 +518,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-09-30T04:26:37.382Z",
+      "fetchedAt": "2026-09-30T12:03:57.341Z",
       "tags": [
         "大模型"
       ]
@@ -568,7 +534,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    George Hammond, Financial Times\n                ",
-      "fetchedAt": "2026-09-30T04:26:37.382Z",
+      "fetchedAt": "2026-09-30T12:03:57.341Z",
       "tags": [
         "大模型"
       ]
@@ -584,7 +550,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "综合"
       ]
@@ -600,7 +566,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "商业融资"
       ]
@@ -616,7 +582,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "综合"
       ]
@@ -632,7 +598,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-09-30T04:26:37.382Z",
+      "fetchedAt": "2026-09-30T12:03:57.341Z",
       "tags": [
         "综合"
       ]
@@ -648,7 +614,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "AI应用"
       ]
@@ -664,7 +630,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-09-30T04:26:35.916Z",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
       "tags": [
         "商业融资"
       ]
@@ -680,7 +646,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-09-30T04:26:36.505Z",
+      "fetchedAt": "2026-09-30T12:03:56.529Z",
       "tags": [
         "综合"
       ]
@@ -696,7 +662,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "综合"
       ]
@@ -712,25 +678,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:36.209Z",
+      "fetchedAt": "2026-09-30T12:03:56.251Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "1000台售罄后又被做成\"韩立同款\"，元点机器人如何把具身智能做进家庭？",
-      "link": "https://www.leiphone.com/category/industrynews/yR9rN5kyqx3kypzz.html",
-      "snippet": "一台人形机器人卖出去之后，用户会拿它干什么？ 最近，元点小桥机器人真机已陆续交到部分媒体、达人手中，接受真实上手和实际使用场景的检验。B站百大UP主\"图灵的猫\"就给出了一个有点出人意料的答案：他用元点小桥机器人复刻出了《凡人修仙传》里的\"韩立同款傀儡\"。  视频上线后登上B站热搜，《凡人修仙传》官方",
-      "pubDate": "Tue, 29 Sep 2026 19:22:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-09-30T04:26:35.653Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -744,25 +694,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Temple",
-      "fetchedAt": "2026-09-30T04:26:36.505Z",
+      "fetchedAt": "2026-09-30T12:03:56.529Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-      "link": "https://www.qbitai.com/2026/09/499239.html",
-      "snippet": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-      "pubDate": "Tue, 29 Sep 2026 10:56:33 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-09-30T04:26:29.304Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -776,42 +710,108 @@
       "lang": "en",
       "category": "学术",
       "creator": "Cheri Williams",
-      "fetchedAt": "2026-09-30T04:26:36.505Z",
+      "fetchedAt": "2026-09-30T12:03:56.529Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "重新定义一款FPS的上限",
-      "link": "https://www.leiphone.com/category/industrynews/Fp19xlyxYGVG1o6r.html",
-      "snippet": "“强得可怕“。2026年1月，马化腾在腾讯内部大会上如此形容IEG（互动娱乐事业群）过去一年的业务表现。 从结果来看，这句话并不难理解。2025年，在全球游戏市场增速仅约3%的背景下，腾讯游戏收入逆势暴涨22%、狂揽2416亿元。 相比前几年的“FOMO”状态，如今的腾讯似乎有了更多往下走的底气。",
-      "pubDate": "Tue, 29 Sep 2026 18:36:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Introducing GPT-6.1 Sol",
+      "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "snippet": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:35.653Z",
+      "fetchedAt": "2026-09-30T12:03:57.744Z",
       "tags": [
-        "综合"
+        "大模型"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "北京现代新车上市，限时售价9.99万元起",
-      "link": "https://www.leiphone.com/category/transportation/0XlhPKEoStqaW3Ig.html",
-      "snippet": "9月29日，北京现代发布新车艾尼氪V，共推出5款车型，CLTC续航提供540km和650km两个版本，限时权益价为9.99万元到13.19万元。  新车车长4.9米，轴距2.9米，比起市面上的轿跑车型，艾尼氪V的造型尤为前卫。它采用低趴溜背姿态，与大量折线，风阻系数仅为0.23。搭配贯穿式星轨尾灯、",
-      "pubDate": "Tue, 29 Sep 2026 18:27:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "DevDay 2026 Recap",
+      "link": "https://openai.com/index/devday-2026-recap",
+      "snippet": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "pubDate": "Tue, 29 Sep 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-09-30T04:26:35.653Z",
+      "fetchedAt": "2026-09-30T12:03:57.744Z",
       "tags": [
-        "AI应用",
+        "大模型",
         "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Research Open-Sources RRSI: AI Agents That Improve Their Own Harness Without Overfitting",
+      "link": "https://www.marktechpost.com/2026/09/29/google-research-open-sources-rrsi-ai-agents-that-improve-their-own-harness-without-overfitting/",
+      "snippet": "Google Cloud AI Research has open-sourced RRSI, a framework that lets LLM agents rewrite their own prompts, tools and memory while model weights stay",
+      "pubDate": "Tue, 29 Sep 2026 09:01:36 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
+      "tags": [
+        "开源工具",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "H Company Releases Holo4: Open-Weight Computer-Use Models That Click, Code and Call Tools Across Desktop, Web, Android and APIs",
+      "link": "https://www.marktechpost.com/2026/09/29/h-company-releases-holo4-open-weight-computer-use-models-that-click-code-and-call-tools-across-desktop-web-android-and-apis/",
+      "snippet": "H Company has released Holo4, a family of generalist computer-use models for AI agents. One set of weights clicks and types on screens. It also writes",
+      "pubDate": "Tue, 29 Sep 2026 07:38:13 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+      "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+      "snippet": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own",
+      "pubDate": "Tue, 29 Sep 2026 05:13:43 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-09-30T12:03:55.961Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak",
+      "link": "https://www.marktechpost.com/2026/09/28/alibaba-qwen-releases-qwen-audio-3-1-realtime-a-full-duplex-voice-model-trained-to-think-act-and-decide-when-to-speak/",
+      "snippet": "Alibaba's Qwen team released Qwen-Audio-3.1-Realtime, a full-duplex voice model trained to reason, call tools and decide when to speak. On a τ-Voice a",
+      "pubDate": "Tue, 29 Sep 2026 04:58:15 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-09-30T12:03:58.429Z",
+      "tags": [
+        "AI应用"
       ]
     }
   ]
