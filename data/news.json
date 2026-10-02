@@ -1,13 +1,109 @@
 {
-  "generatedAt": "2026-10-02T19:06:04.090Z",
+  "generatedAt": "2026-10-02T23:45:11.599Z",
   "stats": {
-    "total": 95,
+    "total": 115,
     "shown": 50,
-    "chinese": 10,
+    "chinese": 30,
     "english": 85,
-    "today": 30
+    "today": 37
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "snippet": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+      "pubDate": "Fri, 02 Oct 2026 23:03:16 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-10-02T23:35:23.518Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Sean Parker is rebuilding Stability AI around music",
+      "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+      "snippet": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+      "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-10-02T23:35:22.401Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta open sources code to let you make Muse AI gadgets",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "snippet": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests pro",
+      "pubDate": "2026-10-02T21:08:37.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+      "snippet": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+      "pubDate": "Fri, 02 Oct 2026 20:30:27 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-10-02T23:35:23.518Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "snippet": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Fr",
+      "pubDate": "2026-10-02T20:08:40.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+      "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+      "snippet": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+      "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-10-02T23:35:22.401Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
@@ -19,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-02T19:01:30.354Z",
+      "fetchedAt": "2026-10-02T23:35:23.518Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jean-marc Mommessin",
-      "fetchedAt": "2026-10-02T19:01:31.209Z",
+      "fetchedAt": "2026-10-02T23:35:24.494Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +259,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:30.814Z",
+      "fetchedAt": "2026-10-02T23:35:23.889Z",
       "tags": [
         "大模型"
       ]
@@ -179,7 +275,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-02T19:01:29.337Z",
+      "fetchedAt": "2026-10-02T23:35:22.943Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +307,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-02T19:01:31.209Z",
+      "fetchedAt": "2026-10-02T23:35:24.494Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +323,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-02T19:01:30.354Z",
+      "fetchedAt": "2026-10-02T23:35:23.518Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +339,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +355,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +371,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-02T19:01:29.337Z",
+      "fetchedAt": "2026-10-02T23:35:22.943Z",
       "tags": [
         "大模型"
       ]
@@ -291,7 +387,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +403,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +419,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +435,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
       "tags": [
         "AI应用"
       ]
@@ -355,7 +451,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-02T19:01:29.337Z",
+      "fetchedAt": "2026-10-02T23:35:22.943Z",
       "tags": [
         "综合"
       ]
@@ -371,7 +467,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thore Graepel",
-      "fetchedAt": "2026-10-02T19:01:29.337Z",
+      "fetchedAt": "2026-10-02T23:35:22.943Z",
       "tags": [
         "大模型"
       ]
@@ -387,7 +483,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-02T19:01:19.109Z",
+      "fetchedAt": "2026-10-02T23:35:13.693Z",
       "tags": [
         "综合"
       ]
@@ -403,7 +499,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-02T19:01:19.109Z",
+      "fetchedAt": "2026-10-02T23:35:13.693Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -420,7 +516,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-10-02T19:01:19.109Z",
+      "fetchedAt": "2026-10-02T23:35:13.693Z",
       "tags": [
         "学术研究"
       ]
@@ -436,7 +532,23 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-02T19:01:31.209Z",
+      "fetchedAt": "2026-10-02T23:35:24.494Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "连败6场遭强制执行 寒武纪前高管无端再提天价索赔 谁最受伤？",
+      "link": "https://www.leiphone.com/category/industrynews/kf23Cq1EQJfpwbcX.html",
+      "snippet": "寒武纪9月30日晚间发布公告称，在2025年11月、2026年8月，北京市海淀区人民法院、北京市第一中级人民法院分别做出一审、二审（终审）判决，梁军均败诉。案件走向也进入司法强制执行阶段。 不止如此，在双方的股权诉讼纠纷中，梁军已经接连输掉6起诉讼。多起案件共同指向其诉求的核心事实与法律定性，已有司",
+      "pubDate": "Fri, 02 Oct 2026 09:39:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-02T23:35:22.144Z",
       "tags": [
         "AI应用"
       ]
@@ -452,7 +564,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-02T19:01:31.209Z",
+      "fetchedAt": "2026-10-02T23:35:24.494Z",
       "tags": [
         "AI应用"
       ]
@@ -468,7 +580,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-02T19:01:31.209Z",
+      "fetchedAt": "2026-10-02T23:35:24.494Z",
       "tags": [
         "学术研究"
       ]
@@ -484,7 +596,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:30.814Z",
+      "fetchedAt": "2026-10-02T23:35:23.889Z",
       "tags": [
         "大模型"
       ]
@@ -500,7 +612,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +628,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-02T19:01:30.354Z",
+      "fetchedAt": "2026-10-02T23:35:23.518Z",
       "tags": [
         "政策监管"
       ]
@@ -532,7 +644,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -549,7 +661,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -566,7 +678,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "AI应用"
       ]
@@ -582,7 +694,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "学术研究"
       ]
@@ -598,7 +710,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +726,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-02T19:01:31.209Z",
+      "fetchedAt": "2026-10-02T23:35:24.494Z",
       "tags": [
         "大模型"
       ]
@@ -630,7 +742,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
+      "fetchedAt": "2026-10-02T23:35:22.718Z",
       "tags": [
         "政策监管"
       ]
@@ -646,7 +758,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-02T19:01:30.814Z",
+      "fetchedAt": "2026-10-02T23:35:23.889Z",
       "tags": [
         "综合"
       ]
@@ -662,7 +774,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "AI应用"
       ]
@@ -678,7 +790,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
+      "fetchedAt": "2026-10-02T23:35:22.402Z",
       "tags": [
         "综合"
       ]
@@ -694,123 +806,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jacek Krywko\n                ",
-      "fetchedAt": "2026-10-02T19:01:30.354Z",
+      "fetchedAt": "2026-10-02T23:35:23.518Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "snippet": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-02T19:01:30.814Z",
-      "tags": [
-        "大模型",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "snippet": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-      "link": "https://www.qbitai.com/2026/10/499812.html",
-      "snippet": "用ImageNet训练encoder",
-      "pubDate": "Thu, 01 Oct 2026 15:06:30 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-10-02T19:01:19.109Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "link": "https://www.qbitai.com/2026/10/499663.html",
-      "snippet": "价格只有Astra一半",
-      "pubDate": "Thu, 01 Oct 2026 15:02:14 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-10-02T19:01:19.109Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "snippet": "A pop-up shop for \"dots,\" a personal assistant agent at OpenAI DevDay 2026. (Photo by Heather Diehl/Getty Images) | Getty Images\t  At OpenAI's annual",
-      "pubDate": "2026-10-01T14:36:50.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-      "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-      "snippet": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will in",
-      "pubDate": "Thu, 01 Oct 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T19:01:28.722Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "snippet": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.",
-      "pubDate": "2026-10-01T14:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-02T19:01:29.023Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
