@@ -1,27 +1,124 @@
 {
-  "generatedAt": "2026-10-02T04:38:57.319Z",
+  "generatedAt": "2026-10-02T12:05:40.670Z",
   "stats": {
-    "total": 103,
+    "total": 83,
     "shown": 50,
-    "chinese": 30,
+    "chinese": 10,
     "english": 73,
-    "today": 1
+    "today": 7
   },
   "articles": [
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "连败6场遭强制执行 寒武纪前高管无端再提天价索赔 谁最受伤？",
-      "link": "https://www.leiphone.com/category/industrynews/kf23Cq1EQJfpwbcX.html",
-      "snippet": "寒武纪9月30日晚间发布公告称，在2025年11月、2026年8月，北京市海淀区人民法院、北京市第一中级人民法院分别做出一审、二审（终审）判决，梁军均败诉。案件走向也进入司法强制执行阶段。 不止如此，在双方的股权诉讼纠纷中，梁军已经接连输掉6起诉讼。多起案件共同指向其诉求的核心事实与法律定性，已有司",
-      "pubDate": "Fri, 02 Oct 2026 09:39:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Amazon writes scary blog warning communities not to block data centers",
+      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "snippet": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,00",
+      "pubDate": "2026-10-02T11:52:20.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.388Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "AI music maker Suno now generates spoken words",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "snippet": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Spee",
+      "pubDate": "2026-10-02T09:42:19.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "link": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "snippet": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need",
+      "pubDate": "Fri, 02 Oct 2026 09:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jessica Hamzelou",
+      "fetchedAt": "2026-10-02T12:01:19.686Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "snippet": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to i",
+      "pubDate": "Fri, 02 Oct 2026 08:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thore Graepel",
+      "fetchedAt": "2026-10-02T12:01:19.686Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+      "link": "https://www.qbitai.com/2026/10/500098.html",
+      "snippet": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+      "pubDate": "Fri, 02 Oct 2026 07:34:15 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦晨",
+      "fetchedAt": "2026-10-02T12:01:08.641Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "丘成桐新论文致谢了GPT和Claude",
+      "link": "https://www.qbitai.com/2026/10/499991.html",
+      "snippet": "44年前被亲自列入问题清单",
+      "pubDate": "Fri, 02 Oct 2026 07:27:03 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦晨",
+      "fetchedAt": "2026-10-02T12:01:08.641Z",
+      "tags": [
+        "大模型",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+      "link": "https://www.qbitai.com/2026/10/499958.html",
+      "snippet": "换区也没用",
+      "pubDate": "Fri, 02 Oct 2026 06:46:32 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "闻乐",
+      "fetchedAt": "2026-10-02T12:01:08.641Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -35,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.076Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
+      "fetchedAt": "2026-10-02T12:01:20.697Z",
       "tags": [
         "政策监管"
       ]
@@ -67,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -84,7 +181,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -101,7 +198,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "AI应用"
       ]
@@ -117,7 +214,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "学术研究"
       ]
@@ -133,7 +230,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "综合"
       ]
@@ -149,7 +246,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "政策监管"
       ]
@@ -165,7 +262,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:09.216Z",
+      "fetchedAt": "2026-10-02T12:01:21.137Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +278,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "AI应用"
       ]
@@ -197,7 +294,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "综合"
       ]
@@ -213,7 +310,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jacek Krywko\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
+      "fetchedAt": "2026-10-02T12:01:20.697Z",
       "tags": [
         "综合"
       ]
@@ -229,7 +326,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:09.216Z",
+      "fetchedAt": "2026-10-02T12:01:21.137Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -246,7 +343,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "综合"
       ]
@@ -262,7 +359,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-10-02T04:29:57.198Z",
+      "fetchedAt": "2026-10-02T12:01:08.641Z",
       "tags": [
         "综合"
       ]
@@ -278,7 +375,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-10-02T04:29:57.198Z",
+      "fetchedAt": "2026-10-02T12:01:08.641Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -295,7 +392,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "综合"
       ]
@@ -311,7 +408,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "AI应用"
       ]
@@ -327,7 +424,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "AI应用"
       ]
@@ -343,7 +440,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "AI应用"
       ]
@@ -359,7 +456,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-02T04:30:08.265Z",
+      "fetchedAt": "2026-10-02T12:01:19.686Z",
       "tags": [
         "综合"
       ]
@@ -375,7 +472,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "AI应用"
       ]
@@ -391,7 +488,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-02T04:30:08.265Z",
+      "fetchedAt": "2026-10-02T12:01:19.686Z",
       "tags": [
         "开源工具"
       ]
@@ -407,7 +504,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-10-02T04:30:08.265Z",
+      "fetchedAt": "2026-10-02T12:01:19.686Z",
       "tags": [
         "政策监管"
       ]
@@ -423,7 +520,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "综合"
       ]
@@ -439,7 +536,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:09.216Z",
+      "fetchedAt": "2026-10-02T12:01:21.137Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -456,7 +553,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "大模型"
       ]
@@ -472,7 +569,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "商业融资"
       ]
@@ -488,7 +585,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "大模型"
       ]
@@ -504,7 +601,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
+      "fetchedAt": "2026-10-02T12:01:20.697Z",
       "tags": [
         "大模型"
       ]
@@ -520,7 +617,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Beth Mole\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
+      "fetchedAt": "2026-10-02T12:01:20.697Z",
       "tags": [
         "综合"
       ]
@@ -536,7 +633,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "开源工具"
       ]
@@ -552,7 +649,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
+      "fetchedAt": "2026-10-02T12:01:20.697Z",
       "tags": [
         "综合"
       ]
@@ -568,7 +665,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
+      "fetchedAt": "2026-10-02T12:01:20.697Z",
       "tags": [
         "开源工具"
       ]
@@ -584,7 +681,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "商业融资"
       ]
@@ -600,7 +697,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "综合"
       ]
@@ -616,7 +713,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "开源工具"
       ]
@@ -632,7 +729,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "综合"
       ]
@@ -648,7 +745,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
+      "fetchedAt": "2026-10-02T12:01:19.384Z",
       "tags": [
         "综合"
       ]
@@ -664,7 +761,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "综合"
       ]
@@ -680,7 +777,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
+      "fetchedAt": "2026-10-02T12:01:20.697Z",
       "tags": [
         "综合"
       ]
@@ -696,7 +793,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-02T04:30:07.653Z",
+      "fetchedAt": "2026-10-02T12:01:19.077Z",
       "tags": [
         "AI应用"
       ]
@@ -712,105 +809,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
+      "fetchedAt": "2026-10-02T12:01:20.697Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "snippet": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effec",
-      "pubDate": "2026-09-30T15:18:49.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google reportedly tests paying publishers for AI search results",
-      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "snippet": "Google has launched a pilot program that pays publishers for their contributions to its AI-powered search features, according to a report from The Inf",
-      "pubDate": "2026-09-30T14:51:49.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.939Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "OpenAI delays IPO over AI safety concerns",
-      "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
-      "snippet": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
-      "pubDate": "Wed, 30 Sep 2026 14:06:15 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    George Hammond, Financial Times\n                ",
-      "fetchedAt": "2026-10-02T04:30:08.852Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-      "link": "https://www.qbitai.com/2026/09/499654.html",
-      "snippet": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-      "pubDate": "Wed, 30 Sep 2026 14:03:43 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-10-02T04:29:57.198Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "昉擎科技创始人被强制执行 寒武纪股权激励争议尘埃落定",
-      "link": "https://www.leiphone.com/category/chips/6z6p5tEXgSyeu1lf.html",
-      "snippet": "寒武纪于2026年9月30日发布《关于离职高管诉讼进展的公告》。从公告内容来看，寒武纪与原高管梁军股权激励纠纷争议基本尘埃落定，梁军连续6次提起诉讼均以败诉收场，且因拒绝配合办理回购手续该案件处于司法强制执行阶段。 公告披露内容指出，尽管梁军本次变更诉讼请求提高索赔金额，但对公司日常研发及经营不存在",
-      "pubDate": "Wed, 30 Sep 2026 22:00:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-02T04:30:07.388Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "直播回顾：工业AI的下一个机会在哪？",
-      "link": "https://www.qbitai.com/2026/09/499605.html",
-      "snippet": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-      "pubDate": "Wed, 30 Sep 2026 12:11:24 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-10-02T04:29:57.198Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
