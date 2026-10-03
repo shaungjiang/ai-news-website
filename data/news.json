@@ -1,27 +1,43 @@
 {
-  "generatedAt": "2026-10-03T04:17:46.029Z",
+  "generatedAt": "2026-10-03T11:23:51.684Z",
   "stats": {
-    "total": 115,
+    "total": 105,
     "shown": 50,
     "chinese": 30,
-    "english": 85,
-    "today": 3
+    "english": 75,
+    "today": 4
   },
   "articles": [
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
-      "link": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
-      "snippet": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input token",
-      "pubDate": "Sat, 03 Oct 2026 03:31:15 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-03T04:12:56.579Z",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+      "link": "https://www.qbitai.com/2026/10/501381.html",
+      "snippet": "岗位JD甩了篇技术报告",
+      "pubDate": "Sat, 03 Oct 2026 07:54:43 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "闻乐",
+      "fetchedAt": "2026-10-03T11:13:54.348Z",
       "tags": [
-        "商业融资"
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "link": "https://www.qbitai.com/2026/10/501368.html",
+      "snippet": "又咋啦。。。",
+      "pubDate": "Sat, 03 Oct 2026 04:41:24 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-10-03T11:13:54.348Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -35,7 +51,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-03T04:12:47.995Z",
+      "fetchedAt": "2026-10-03T11:13:54.348Z",
       "tags": [
         "商业融资"
       ]
@@ -51,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-03T04:12:55.481Z",
+      "fetchedAt": "2026-10-03T11:14:02.107Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-03T04:12:55.481Z",
+      "fetchedAt": "2026-10-03T11:14:02.107Z",
       "tags": [
         "商业融资"
       ]
@@ -131,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-03T04:12:55.481Z",
+      "fetchedAt": "2026-10-03T11:14:02.107Z",
       "tags": [
         "综合"
       ]
@@ -179,25 +195,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
-      "link": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
-      "snippet": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives de",
-      "pubDate": "Fri, 02 Oct 2026 18:04:56 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jean-marc Mommessin",
-      "fetchedAt": "2026-10-03T04:12:56.579Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -211,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +259,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +275,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +307,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:55.931Z",
+      "fetchedAt": "2026-10-03T11:14:02.475Z",
       "tags": [
         "大模型"
       ]
@@ -323,7 +323,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-03T04:12:54.606Z",
+      "fetchedAt": "2026-10-03T11:14:01.302Z",
       "tags": [
         "综合"
       ]
@@ -339,23 +339,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-03T04:12:53.891Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
-      "link": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
-      "snippet": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Intr",
-      "pubDate": "Fri, 02 Oct 2026 15:23:35 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-03T04:12:56.579Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -371,7 +355,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-03T04:12:55.481Z",
+      "fetchedAt": "2026-10-03T11:14:02.107Z",
       "tags": [
         "AI应用"
       ]
@@ -387,7 +371,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-03T04:12:53.892Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -403,7 +387,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-03T04:12:53.892Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -419,7 +403,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-03T04:12:54.606Z",
+      "fetchedAt": "2026-10-03T11:14:01.302Z",
       "tags": [
         "大模型"
       ]
@@ -435,7 +419,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "综合"
       ]
@@ -451,7 +435,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "综合"
       ]
@@ -467,7 +451,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "综合"
       ]
@@ -483,7 +467,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "AI应用"
       ]
@@ -499,7 +483,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-03T04:12:54.606Z",
+      "fetchedAt": "2026-10-03T11:14:01.302Z",
       "tags": [
         "综合"
       ]
@@ -515,7 +499,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thore Graepel",
-      "fetchedAt": "2026-10-03T04:12:54.606Z",
+      "fetchedAt": "2026-10-03T11:14:01.302Z",
       "tags": [
         "大模型"
       ]
@@ -531,7 +515,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-03T04:12:47.995Z",
+      "fetchedAt": "2026-10-03T11:13:54.348Z",
       "tags": [
         "综合"
       ]
@@ -547,7 +531,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-03T04:12:47.995Z",
+      "fetchedAt": "2026-10-03T11:13:54.348Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -564,25 +548,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-10-03T04:12:47.995Z",
+      "fetchedAt": "2026-10-03T11:13:54.348Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
-      "link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
-      "snippet": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities",
-      "pubDate": "Fri, 02 Oct 2026 06:35:00 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-03T04:12:56.579Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -596,41 +564,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:53.571Z",
+      "fetchedAt": "2026-10-03T11:14:00.457Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
-      "link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
-      "snippet": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API",
-      "pubDate": "Fri, 02 Oct 2026 01:00:41 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-03T04:12:56.579Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
-      "link": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
-      "snippet": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn",
-      "pubDate": "Fri, 02 Oct 2026 00:32:50 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-03T04:12:56.579Z",
-      "tags": [
-        "学术研究"
       ]
     },
     {
@@ -644,7 +580,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:55.931Z",
+      "fetchedAt": "2026-10-03T11:14:02.475Z",
       "tags": [
         "大模型"
       ]
@@ -660,7 +596,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-10-03T04:12:53.892Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
@@ -676,7 +612,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-03T04:12:55.481Z",
+      "fetchedAt": "2026-10-03T11:14:02.107Z",
       "tags": [
         "政策监管"
       ]
@@ -692,7 +628,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -709,7 +645,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-03T04:12:53.892Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -726,7 +662,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-03T04:12:53.892Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "AI应用"
       ]
@@ -742,7 +678,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-03T04:12:53.892Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "学术研究"
       ]
@@ -758,25 +694,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-03T04:12:53.892Z",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cohere Releases Embed 5: How It Compares to Voyage 4 Large, Gemini Embedding 2, and OpenAI",
-      "link": "https://www.marktechpost.com/2026/10/01/cohere-releases-embed-5/",
-      "snippet": "Cohere has released Embed 5, a new embedding model family. It targets enterprise search, RAG, and agentic retrieval. The model family ships in 2 tiers",
-      "pubDate": "Thu, 01 Oct 2026 17:13:12 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-03T04:12:56.579Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -790,7 +710,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:54.233Z",
+      "fetchedAt": "2026-10-03T11:14:00.991Z",
       "tags": [
         "政策监管"
       ]
@@ -806,7 +726,88 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-03T04:12:55.931Z",
+      "fetchedAt": "2026-10-03T11:14:02.475Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "snippet": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "pubDate": "Thu, 01 Oct 2026 16:49:22 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "snippet": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the c",
+      "pubDate": "Thu, 01 Oct 2026 16:44:35 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "With most information hidden, the game Stratego had stumped AI—until now",
+      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "snippet": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
+      "pubDate": "Thu, 01 Oct 2026 16:28:04 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jacek Krywko\n                ",
+      "fetchedAt": "2026-10-03T11:14:02.107Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "link": "https://openai.com/index/albertsons-reimagining-retail",
+      "snippet": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-03T11:14:02.475Z",
+      "tags": [
+        "大模型",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "snippet": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-10-03T11:14:00.685Z",
       "tags": [
         "综合"
       ]
