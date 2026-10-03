@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-10-03T11:23:51.684Z",
+  "generatedAt": "2026-10-03T15:57:02.037Z",
   "stats": {
-    "total": 105,
+    "total": 115,
     "shown": 50,
     "chinese": 30,
-    "english": 75,
-    "today": 4
+    "english": 85,
+    "today": 12
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "All the AI agents that can live in your text messages",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,",
+      "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "《Gran Turismo 7》迎来首台中国VGT  同时GT史上30年首次新增电车驾驶教学",
+      "link": "https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html",
+      "snippet": "新加坡，2026 年 10 月 3 日 —— 今日，在新加坡 Gran Turismo World Series（GT World Series）赛事现场，Gran Turismo系列游戏制作人山内一典与小米汽车欧洲研发中心设计负责人Jean-Arthur Madelaine现场联合宣布：Xiaom",
+      "pubDate": "Sat, 03 Oct 2026 19:39:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-03T15:51:20.495Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "再创佳绩！爱奇艺《灵魂摆渡》“浮生梦”系列AIGC网络故事片分账票房破千万",
+      "link": "https://www.leiphone.com/category/industrynews/yHRIGngfk28TJvIw.html",
+      "snippet": "10月3日，爱奇艺、长信传媒出品《灵魂摆渡》“浮生梦”系列AIGC网络故事片累计分账票房正式突破1000万元！   该系列前两部《灵魂摆渡·蝴蝶梦》《灵魂摆渡·天女之梦》于8月22日独家上线爱奇艺，备受观众喜爱，上线首周即收回两部影片制作成本，首月累计分账票房突破800万元。随着第三部《灵魂摆渡·公",
+      "pubDate": "Sat, 03 Oct 2026 18:12:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-03T15:51:20.495Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
@@ -19,9 +67,73 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-10-03T11:13:54.348Z",
+      "fetchedAt": "2026-10-03T15:51:11.913Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meta, OpenAI and Uber Just Taught AI Agents to Talk First. What About When to Stay Quiet?",
+      "link": "https://www.marktechpost.com/2026/10/03/meta-openai-and-uber-just-taught-ai-agents-to-talk-first-what-about-when-to-stay-quiet/",
+      "snippet": "TL;DR: Meta’s Muse, OpenAI’s Dots and Uber’s driver assistant share one bet: the agent speaks first. That moves the hard problem from what to answer t",
+      "pubDate": "Sat, 03 Oct 2026 07:05:11 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jean-marc Mommessin",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "IBM Brings Bob to Self-Hosted and Air-Gapped Environments: Agentic Software Development Without Moving Your Code",
+      "link": "https://www.marktechpost.com/2026/10/02/ibm-brings-bob-to-self-hosted-and-air-gapped-environments/",
+      "snippet": "IBM has made a self-hosted deployment of IBM Bob, its agentic software development platform, generally available. Enterprises can now run Bob on premi",
+      "pubDate": "Sat, 03 Oct 2026 06:55:15 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
+      "link": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
+      "snippet": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployme",
+      "pubDate": "Sat, 03 Oct 2026 05:37:18 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
+      "link": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
+      "snippet": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER",
+      "pubDate": "Sat, 03 Oct 2026 05:09:53 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -35,9 +147,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-10-03T11:13:54.348Z",
+      "fetchedAt": "2026-10-03T15:51:11.913Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
+      "link": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
+      "snippet": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input token",
+      "pubDate": "Sat, 03 Oct 2026 03:31:15 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -51,7 +179,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-03T11:13:54.348Z",
+      "fetchedAt": "2026-10-03T15:51:11.913Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-03T11:14:02.107Z",
+      "fetchedAt": "2026-10-03T15:51:22.408Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
+      "fetchedAt": "2026-10-03T15:51:21.224Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +259,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-03T11:14:02.107Z",
+      "fetchedAt": "2026-10-03T15:51:22.408Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +275,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
+      "fetchedAt": "2026-10-03T15:51:21.224Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +307,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-03T11:14:02.107Z",
+      "fetchedAt": "2026-10-03T15:51:22.408Z",
       "tags": [
         "综合"
       ]
@@ -195,9 +323,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+      "link": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
+      "snippet": "NVIDIA announced a new 64GB configuration of DGX Spark — from Acer, ASUS, Dell, Gigabyte, HP and MSI — its GB10-powered desktop AI system. It gives de",
+      "pubDate": "Fri, 02 Oct 2026 18:04:56 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jean-marc Mommessin",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -211,7 +355,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
+      "fetchedAt": "2026-10-03T15:51:21.224Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +371,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +387,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +403,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
+      "fetchedAt": "2026-10-03T15:51:21.224Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +419,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +435,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +451,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:02.475Z",
+      "fetchedAt": "2026-10-03T15:51:22.901Z",
       "tags": [
         "大模型"
       ]
@@ -323,7 +467,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-03T11:14:01.302Z",
+      "fetchedAt": "2026-10-03T15:51:21.615Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +483,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Datalab Introduces OmniExtractBench to Fix Bias and Opacity in Extraction Benchmarks",
+      "link": "https://www.marktechpost.com/2026/10/02/datalab-introduces-omniextractbench-to-fix-bias-and-opacity-in-extraction-benchmarks/",
+      "snippet": "Content-based row matching, 6 per-value verdicts and a null rule make OmniExtractBench an extraction benchmark anyone can audit. The post Datalab Intr",
+      "pubDate": "Fri, 02 Oct 2026 15:23:35 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +515,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-03T11:14:02.107Z",
+      "fetchedAt": "2026-10-03T15:51:22.408Z",
       "tags": [
         "AI应用"
       ]
@@ -371,7 +531,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -387,7 +547,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
@@ -403,7 +563,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-03T11:14:01.302Z",
+      "fetchedAt": "2026-10-03T15:51:21.615Z",
       "tags": [
         "大模型"
       ]
@@ -419,7 +579,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
+      "fetchedAt": "2026-10-03T15:51:21.224Z",
       "tags": [
         "综合"
       ]
@@ -435,7 +595,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
+      "fetchedAt": "2026-10-03T15:51:21.224Z",
       "tags": [
         "综合"
       ]
@@ -451,7 +611,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
+      "fetchedAt": "2026-10-03T15:51:21.224Z",
       "tags": [
         "综合"
       ]
@@ -467,7 +627,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
+      "fetchedAt": "2026-10-03T15:51:21.224Z",
       "tags": [
         "AI应用"
       ]
@@ -483,7 +643,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-03T11:14:01.302Z",
+      "fetchedAt": "2026-10-03T15:51:21.615Z",
       "tags": [
         "综合"
       ]
@@ -499,7 +659,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thore Graepel",
-      "fetchedAt": "2026-10-03T11:14:01.302Z",
+      "fetchedAt": "2026-10-03T15:51:21.615Z",
       "tags": [
         "大模型"
       ]
@@ -515,7 +675,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-03T11:13:54.348Z",
+      "fetchedAt": "2026-10-03T15:51:11.913Z",
       "tags": [
         "综合"
       ]
@@ -531,7 +691,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-03T11:13:54.348Z",
+      "fetchedAt": "2026-10-03T15:51:11.913Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -548,9 +708,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-10-03T11:13:54.348Z",
+      "fetchedAt": "2026-10-03T15:51:11.913Z",
       "tags": [
         "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "AWS Strands Labs Releases Strands Decider 2B: An Open Source Decision Model That Picks Options in About 115 ms",
+      "link": "https://www.marktechpost.com/2026/10/01/aws-strands-labs-releases-strands-decider-2b/",
+      "snippet": "AWS's Strands Agents team released Strands Decider 2B, an Apache-2.0 decision model built on Qwen3.5-2B-Base. It returns choices, yes/no probabilities",
+      "pubDate": "Fri, 02 Oct 2026 06:35:00 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -564,9 +740,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.457Z",
+      "fetchedAt": "2026-10-03T15:51:20.495Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Cloudflare Releases Clef and Clef-flash: Open-Weight Decision Models That Return Typed Probabilities Instead of Text",
+      "link": "https://www.marktechpost.com/2026/10/01/cloudflare-releases-clef-and-clef-flash/",
+      "snippet": "Cloudflare has released Clef (27B) and Clef-flash (9B), open-weight decision models that return typed probabilities instead of text. They are Jev-API",
+      "pubDate": "Fri, 02 Oct 2026 01:00:41 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "A Coding Guide to Google Research’s Kauldron: Configs That Are Plain Data, Components Wired by String, and a JAX Trainer You Can Read End to End",
+      "link": "https://www.marktechpost.com/2026/10/01/a-coding-guide-to-google-researchs-kauldron-configs-that-are-plain-data-components-wired-by-string-and-a-jax-trainer-you-can-read-end-to-end/",
+      "snippet": "In this comprehensive coding guide, we explore Google Research's Kauldron—a JAX training library optimized for research velocity and modularity. Learn",
+      "pubDate": "Fri, 02 Oct 2026 00:32:50 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-10-03T15:51:24.155Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -580,7 +788,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-03T11:14:02.475Z",
+      "fetchedAt": "2026-10-03T15:51:22.901Z",
       "tags": [
         "大模型"
       ]
@@ -596,218 +804,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
-      "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
-      "snippet": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
-      "pubDate": "Thu, 01 Oct 2026 20:11:55 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-03T11:14:02.107Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google’s new Guided Vision feature can help you read the fine print",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "snippet": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point you",
-      "pubDate": "2026-10-01T19:47:51.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ChatGPT can now virtually try on clothes for you",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "snippet": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save produ",
-      "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "snippet": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-      "pubDate": "Thu, 01 Oct 2026 19:18:03 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "snippet": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-      "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-      "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-      "snippet": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-      "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "snippet": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Goo",
-      "pubDate": "2026-10-01T17:12:21.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-03T11:14:00.991Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "The eternal complement",
-      "link": "https://openai.com/index/the-eternal-complement",
-      "snippet": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progres",
-      "pubDate": "Thu, 01 Oct 2026 17:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-03T11:14:02.475Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Amazon releases its own Jev clone as decision models flood the web",
-      "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-      "snippet": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-      "pubDate": "Thu, 01 Oct 2026 16:49:22 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-      "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-      "snippet": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the c",
-      "pubDate": "Thu, 01 Oct 2026 16:44:35 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "With most information hidden, the game Stratego had stumped AI—until now",
-      "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-      "snippet": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
-      "pubDate": "Thu, 01 Oct 2026 16:28:04 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jacek Krywko\n                ",
-      "fetchedAt": "2026-10-03T11:14:02.107Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "link": "https://openai.com/index/albertsons-reimagining-retail",
-      "snippet": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "pubDate": "Thu, 01 Oct 2026 16:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-03T11:14:02.475Z",
-      "tags": [
-        "大模型",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Brian Chesky interview: AI agents need their own operating system",
-      "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-      "snippet": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
-      "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-03T11:14:00.685Z",
+      "fetchedAt": "2026-10-03T15:51:20.861Z",
       "tags": [
         "综合"
       ]
