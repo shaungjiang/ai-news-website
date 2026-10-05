@@ -1,13 +1,125 @@
 {
-  "generatedAt": "2026-10-05T00:35:17.016Z",
+  "generatedAt": "2026-10-05T08:40:06.467Z",
   "stats": {
-    "total": 113,
+    "total": 112,
     "shown": 50,
     "chinese": 30,
-    "english": 83,
-    "today": 0
+    "english": 82,
+    "today": 7
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Yandex Introduces Sona: A Single Generative Recommender That Replaces Entire Recommendation Cascade",
+      "link": "https://www.marktechpost.com/2026/10/05/yandex-introduces-sona-a-single-generative-recommender-that-replaces-entire-recommendation-cascade/",
+      "snippet": "One transformer ran candidate generation and ranking in Yandex Music's A/B test without hand-engineered features, lifting likes 11.42%. The post Yande",
+      "pubDate": "Mon, 05 Oct 2026 08:10:37 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "People really hate AI, so why can’t they get enough?",
+      "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "snippet": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its m",
+      "pubDate": "Mon, 05 Oct 2026 08:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Will Douglas Heaven",
+      "fetchedAt": "2026-10-05T08:31:17.420Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "link": "https://www.qbitai.com/2026/10/501705.html",
+      "snippet": "AI已经开始真正进入「造下一代AI」的流水线",
+      "pubDate": "Mon, 05 Oct 2026 04:42:52 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦瑶",
+      "fetchedAt": "2026-10-05T08:31:11.651Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "The Story of Qwen: Alibaba’s AI Models From 7B to 2.4T",
+      "link": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+      "snippet": "Alibaba's Qwen went from an invite-only chatbot in April 2023 to a 2.4-trillion-parameter open-weight model in August 2026. This is the full story, re",
+      "pubDate": "Mon, 05 Oct 2026 04:10:34 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "snippet": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, a",
+      "pubDate": "Mon, 05 Oct 2026 04:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review",
+      "fetchedAt": "2026-10-05T08:31:17.420Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "link": "https://www.qbitai.com/2026/10/501700.html",
+      "snippet": "有改进就体验，没改进就重置，横竖不亏。",
+      "pubDate": "Mon, 05 Oct 2026 02:50:46 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-10-05T08:31:11.652Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Can an Open Model Do Security Research? Cantina’s apex-flash-1 Solves 40 of 60 Held-Out Bug Tasks",
+      "link": "https://www.marktechpost.com/2026/10/04/can-an-open-model-do-security-research-cantinas-apex-flash-1-solves-40-of-60-held-out-bug-tasks/",
+      "snippet": "Cantina Security, with Yeta Labs, has released apex-flash-1, an open-weights model trained specifically for vulnerability research. It is a reinforcem",
+      "pubDate": "Mon, 05 Oct 2026 01:47:28 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
@@ -19,7 +131,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "开源工具"
       ]
@@ -51,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "政策监管"
       ]
@@ -83,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +227,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
       "tags": [
         "政策监管"
       ]
@@ -131,7 +243,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +259,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-10-05T00:29:30.593Z",
+      "fetchedAt": "2026-10-05T08:31:11.652Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +275,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-10-05T00:29:30.593Z",
+      "fetchedAt": "2026-10-05T08:31:11.652Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +291,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:35.590Z",
+      "fetchedAt": "2026-10-05T08:31:16.603Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +307,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +323,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-10-05T00:29:30.593Z",
+      "fetchedAt": "2026-10-05T08:31:11.652Z",
       "tags": [
         "大模型"
       ]
@@ -227,7 +339,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +355,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +371,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "学术研究"
       ]
@@ -275,7 +387,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +403,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +419,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "AI应用"
       ]
@@ -323,7 +435,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +451,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:35.590Z",
+      "fetchedAt": "2026-10-05T08:31:16.603Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +467,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:35.590Z",
+      "fetchedAt": "2026-10-05T08:31:16.603Z",
       "tags": [
         "AI应用"
       ]
@@ -371,7 +483,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-10-05T00:29:30.593Z",
+      "fetchedAt": "2026-10-05T08:31:11.652Z",
       "tags": [
         "综合"
       ]
@@ -387,7 +499,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jean-marc Mommessin",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
       "tags": [
         "综合"
       ]
@@ -403,39 +515,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Prime Intellect Launches Prime Inference: Serverless and Reserved Serving for Frontier Open Models",
-      "link": "https://www.marktechpost.com/2026/10/02/prime-intellect-launches-prime-inference-serverless-and-reserved-serving-for-frontier-open-models/",
-      "snippet": "Prime Intellect has launched Prime Inference, an OpenAI-compatible platform for serving frontier open models on NVIDIA Blackwell. Its GLM-5.3 deployme",
-      "pubDate": "Sat, 03 Oct 2026 05:37:18 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
-      "link": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
-      "snippet": "Microsoft AI has released MAI-Transcribe-2-Streaming, its first real-time speech-to-text model. It ranks #1 of 38 models on Artificial Analysis AA-WER",
-      "pubDate": "Sat, 03 Oct 2026 05:09:53 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
+      "fetchedAt": "2026-10-05T08:31:18.939Z",
       "tags": [
         "AI应用"
       ]
@@ -451,25 +531,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-10-05T00:29:30.593Z",
+      "fetchedAt": "2026-10-05T08:31:11.652Z",
       "tags": [
         "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Decision AI Models Explained: TypeSafe Jev vs Fastino GLiDE, GLiNER2.5-Decide and Open-Source Competitors",
-      "link": "https://www.marktechpost.com/2026/10/02/decision-ai-models-explained-typesafe-jev-vs-fastino-glide-gliner2-5-decide-and-open-source-competitors/",
-      "snippet": "Decision AI models answer typed questions with calibrated probabilities instead of generated text. TypeSafe's Jev costs $0.042 per million input token",
-      "pubDate": "Sat, 03 Oct 2026 03:31:15 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T00:29:37.901Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -483,7 +547,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-05T00:29:30.593Z",
+      "fetchedAt": "2026-10-05T08:31:11.652Z",
       "tags": [
         "商业融资"
       ]
@@ -499,7 +563,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -515,7 +579,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-05T00:29:37.238Z",
+      "fetchedAt": "2026-10-05T08:31:18.177Z",
       "tags": [
         "AI应用"
       ]
@@ -531,7 +595,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -547,7 +611,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "AI应用"
       ]
@@ -563,7 +627,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-05T00:29:37.238Z",
+      "fetchedAt": "2026-10-05T08:31:18.177Z",
       "tags": [
         "商业融资"
       ]
@@ -579,7 +643,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "AI应用"
       ]
@@ -595,7 +659,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -611,7 +675,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-05T00:29:37.238Z",
+      "fetchedAt": "2026-10-05T08:31:18.177Z",
       "tags": [
         "综合"
       ]
@@ -627,7 +691,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "AI应用"
       ]
@@ -643,7 +707,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "综合"
       ]
@@ -659,7 +723,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -675,7 +739,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -691,7 +755,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:36.243Z",
+      "fetchedAt": "2026-10-05T08:31:17.098Z",
       "tags": [
         "综合"
       ]
@@ -707,7 +771,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -723,7 +787,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
+      "fetchedAt": "2026-10-05T08:31:16.853Z",
       "tags": [
         "综合"
       ]
@@ -739,73 +803,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-05T00:29:37.603Z",
+      "fetchedAt": "2026-10-05T08:31:18.568Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-      "snippet": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can ab",
-      "pubDate": "Fri, 02 Oct 2026 15:49:04 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-05T00:29:36.543Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "snippet": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based o",
-      "pubDate": "Fri, 02 Oct 2026 15:39:41 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
-      "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
-      "snippet": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
-      "pubDate": "Fri, 02 Oct 2026 14:52:16 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-05T00:29:37.238Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-      "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-      "snippet": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and ge",
-      "pubDate": "Fri, 02 Oct 2026 14:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-05T00:29:35.894Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
