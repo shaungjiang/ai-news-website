@@ -28,7 +28,7 @@
         <span class="logo-text">AI 新闻日报</span>
       </a>
       <div class="header-stats">
-        今日 <strong>0 条</strong> · 共 91 条
+        今日 <strong>3 条</strong> · 共 111 条
       </div>
     </div>
     <div class="header-right">
@@ -51,11 +51,11 @@
     <div class="hero-stats">
       <div class="hero-stat">
         <span class="hero-stat-icon">📰</span>
-        <span>今日 <strong>0</strong> 篇</span>
+        <span>今日 <strong>3</strong> 篇</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🇨🇳</span>
-        <span>中文 <strong>10</strong> 篇</span>
+        <span>中文 <strong>30</strong> 篇</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🌐</span>
@@ -80,8 +80,8 @@
 
     <!-- ====== Language Filter ====== -->
     <div class="filter-bar">
-      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">91</span></button>
-      <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">10</span></button>
+      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">111</span></button>
+      <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">30</span></button>
       <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">81</span></button>
     </div>
 
@@ -117,6 +117,97 @@
       <p>没有匹配的新闻</p>
     </div>
 
+    <section class="date-section" data-date="今日">
+      <div class="date-heading">
+        <span class="date-icon">📅</span>
+        <span class="date-label">今日</span>
+        <span class="date-count">3 篇</span>
+      </div>
+
+      <div class="news-grid">
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/501726.html" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Tue, 06 Oct 2026 06:45:40 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Tue, 06 Oct 2026 06:45:40 +0000" title="Tue, 06 Oct 2026 06:45:40 +0000">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/10/501726.html" target="_blank" rel="noopener">OpenAI「疯狂28天」首日，这都发了些啥啊…</a>
+          </h3>
+
+          <p class="card-snippet"></p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/10/501726.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Tue, 06 Oct 2026 06:45:31 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Tue, 06 Oct 2026 06:45:31 +0000" title="Tue, 06 Oct 2026 06:45:31 +0000">1 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/" target="_blank" rel="noopener">Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One</a>
+          </h3>
+
+          <p class="card-snippet">Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Tue, 06 Oct 2026 05:12:01 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Tue, 06 Oct 2026 05:12:01 +0000" title="Tue, 06 Oct 2026 05:12:01 +0000">3 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/" target="_blank" rel="noopener">Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields</a>
+          </h3>
+
+          <p class="card-snippet">JEPA-Anything splits a JEPA&#x27;s single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JE</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+      </div>
+    </section>
     <section class="date-section" data-date="昨天">
       <div class="date-heading">
         <span class="date-icon">📆</span>
@@ -134,7 +225,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T23:09:55.000Z" title="2026-10-05T23:09:55.000Z">2 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T23:09:55.000Z" title="2026-10-05T23:09:55.000Z">9 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -161,7 +252,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 22:51:05 +0000" title="Mon, 05 Oct 2026 22:51:05 +0000">2 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 22:51:05 +0000" title="Mon, 05 Oct 2026 22:51:05 +0000">9 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -189,7 +280,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 22:26:35 +0000" title="Mon, 05 Oct 2026 22:26:35 +0000">2 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 22:26:35 +0000" title="Mon, 05 Oct 2026 22:26:35 +0000">10 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -216,7 +307,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 21:41:14 +0000" title="Mon, 05 Oct 2026 21:41:14 +0000">3 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 21:41:14 +0000" title="Mon, 05 Oct 2026 21:41:14 +0000">11 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -243,7 +334,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 21:04:20 +0000" title="Mon, 05 Oct 2026 21:04:20 +0000">4 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 21:04:20 +0000" title="Mon, 05 Oct 2026 21:04:20 +0000">11 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -270,7 +361,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 20:36:48 +0000" title="Mon, 05 Oct 2026 20:36:48 +0000">4 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 20:36:48 +0000" title="Mon, 05 Oct 2026 20:36:48 +0000">12 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -297,7 +388,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T20:14:57.000Z" title="2026-10-05T20:14:57.000Z">5 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T20:14:57.000Z" title="2026-10-05T20:14:57.000Z">12 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -324,7 +415,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 19:33:53 +0000" title="Mon, 05 Oct 2026 19:33:53 +0000">5 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 19:33:53 +0000" title="Mon, 05 Oct 2026 19:33:53 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -351,7 +442,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T19:28:59.000Z" title="2026-10-05T19:28:59.000Z">5 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T19:28:59.000Z" title="2026-10-05T19:28:59.000Z">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -378,7 +469,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 19:14:44 +0000" title="Mon, 05 Oct 2026 19:14:44 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 19:14:44 +0000" title="Mon, 05 Oct 2026 19:14:44 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -405,7 +496,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T19:05:19.000Z" title="2026-10-05T19:05:19.000Z">6 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T19:05:19.000Z" title="2026-10-05T19:05:19.000Z">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -432,7 +523,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 18:54:30 +0000" title="Mon, 05 Oct 2026 18:54:30 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 18:54:30 +0000" title="Mon, 05 Oct 2026 18:54:30 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -459,7 +550,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 18:29:00 +0000" title="Mon, 05 Oct 2026 18:29:00 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 18:29:00 +0000" title="Mon, 05 Oct 2026 18:29:00 +0000">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -486,7 +577,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T18:08:39.000Z" title="2026-10-05T18:08:39.000Z">7 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T18:08:39.000Z" title="2026-10-05T18:08:39.000Z">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -513,7 +604,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 17:29:22 +0000" title="Mon, 05 Oct 2026 17:29:22 +0000">7 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 17:29:22 +0000" title="Mon, 05 Oct 2026 17:29:22 +0000">15 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -540,7 +631,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T16:55:42.000Z" title="2026-10-05T16:55:42.000Z">8 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T16:55:42.000Z" title="2026-10-05T16:55:42.000Z">15 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -567,7 +658,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T16:44:21.000Z" title="2026-10-05T16:44:21.000Z">8 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T16:44:21.000Z" title="2026-10-05T16:44:21.000Z">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -594,7 +685,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 16:43:35 +0000" title="Mon, 05 Oct 2026 16:43:35 +0000">8 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 16:43:35 +0000" title="Mon, 05 Oct 2026 16:43:35 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -621,7 +712,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 15:47:52 +0000" title="Mon, 05 Oct 2026 15:47:52 +0000">9 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 15:47:52 +0000" title="Mon, 05 Oct 2026 15:47:52 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -648,7 +739,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 15:14:24 +0000" title="Mon, 05 Oct 2026 15:14:24 +0000">10 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 15:14:24 +0000" title="Mon, 05 Oct 2026 15:14:24 +0000">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -675,7 +766,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 15:00:00 +0000" title="Mon, 05 Oct 2026 15:00:00 +0000">10 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 15:00:00 +0000" title="Mon, 05 Oct 2026 15:00:00 +0000">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -702,7 +793,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 15:00:00 GMT" title="Mon, 05 Oct 2026 15:00:00 GMT">10 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 15:00:00 GMT" title="Mon, 05 Oct 2026 15:00:00 GMT">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -729,7 +820,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 14:35:09 +0000" title="Mon, 05 Oct 2026 14:35:09 +0000">10 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 14:35:09 +0000" title="Mon, 05 Oct 2026 14:35:09 +0000">18 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -756,7 +847,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 14:30:00 +0000" title="Mon, 05 Oct 2026 14:30:00 +0000">10 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 14:30:00 +0000" title="Mon, 05 Oct 2026 14:30:00 +0000">18 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -783,7 +874,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T14:30:00.000Z" title="2026-10-05T14:30:00.000Z">10 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T14:30:00.000Z" title="2026-10-05T14:30:00.000Z">18 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -810,7 +901,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 14:00:00 +0000" title="Mon, 05 Oct 2026 14:00:00 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 14:00:00 +0000" title="Mon, 05 Oct 2026 14:00:00 +0000">18 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -837,7 +928,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T13:47:14.000Z" title="2026-10-05T13:47:14.000Z">11 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T13:47:14.000Z" title="2026-10-05T13:47:14.000Z">18 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -865,7 +956,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 13:39:30 +0000" title="Mon, 05 Oct 2026 13:39:30 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 13:39:30 +0000" title="Mon, 05 Oct 2026 13:39:30 +0000">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -892,7 +983,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 13:29:32 +0000" title="Mon, 05 Oct 2026 13:29:32 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 13:29:32 +0000" title="Mon, 05 Oct 2026 13:29:32 +0000">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -919,7 +1010,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-05T13:09:48.000Z" title="2026-10-05T13:09:48.000Z">12 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-05T13:09:48.000Z" title="2026-10-05T13:09:48.000Z">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -947,7 +1038,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 12:10:00 +0000" title="Mon, 05 Oct 2026 12:10:00 +0000">13 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 12:10:00 +0000" title="Mon, 05 Oct 2026 12:10:00 +0000">20 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -974,7 +1065,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 12:00:00 +0000" title="Mon, 05 Oct 2026 12:00:00 +0000">13 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 12:00:00 +0000" title="Mon, 05 Oct 2026 12:00:00 +0000">20 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1001,7 +1092,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 10:37:01 +0000" title="Mon, 05 Oct 2026 10:37:01 +0000">14 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 10:37:01 +0000" title="Mon, 05 Oct 2026 10:37:01 +0000">22 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1028,7 +1119,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 10:00:00 GMT" title="Mon, 05 Oct 2026 10:00:00 GMT">15 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 10:00:00 GMT" title="Mon, 05 Oct 2026 10:00:00 GMT">22 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1056,7 +1147,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 08:10:37 +0000" title="Mon, 05 Oct 2026 08:10:37 +0000">17 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 08:10:37 +0000" title="Mon, 05 Oct 2026 08:10:37 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1083,7 +1174,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 08:00:00 +0000" title="Mon, 05 Oct 2026 08:00:00 +0000">17 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 08:00:00 +0000" title="Mon, 05 Oct 2026 08:00:00 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1110,7 +1201,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 04:42:52 +0000" title="Mon, 05 Oct 2026 04:42:52 +0000">20 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 04:42:52 +0000" title="Mon, 05 Oct 2026 04:42:52 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1137,7 +1228,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 04:10:34 +0000" title="Mon, 05 Oct 2026 04:10:34 +0000">21 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 04:10:34 +0000" title="Mon, 05 Oct 2026 04:10:34 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1164,7 +1255,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 04:00:00 +0000" title="Mon, 05 Oct 2026 04:00:00 +0000">21 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 04:00:00 +0000" title="Mon, 05 Oct 2026 04:00:00 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1191,7 +1282,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 02:50:46 +0000" title="Mon, 05 Oct 2026 02:50:46 +0000">22 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 02:50:46 +0000" title="Mon, 05 Oct 2026 02:50:46 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1218,7 +1309,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 01:47:28 +0000" title="Mon, 05 Oct 2026 01:47:28 +0000">23 小时前</span>
+            <span class="card-time" data-pubdate="Mon, 05 Oct 2026 01:47:28 +0000" title="Mon, 05 Oct 2026 01:47:28 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1242,7 +1333,7 @@
       <div class="date-heading">
         <span class="date-icon">📋</span>
         <span class="date-label">10月4日星期日</span>
-        <span class="date-count">9 篇</span>
+        <span class="date-count">6 篇</span>
       </div>
 
       <div class="news-grid">
@@ -1363,7 +1454,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Sun, 04 Oct 2026 07:29:59 +0000" title="Sun, 04 Oct 2026 07:29:59 +0000">昨天</span>
+            <span class="card-time" data-pubdate="Sun, 04 Oct 2026 07:29:59 +0000" title="Sun, 04 Oct 2026 07:29:59 +0000">2 天前</span>
           </div>
 
           <h3 class="card-title">
@@ -1381,33 +1472,6 @@
             </a>
           </div>
         </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/" data-date="10月4日星期日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sun, 04 Oct 2026 07:01:04 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#3b6df0"></span>
-              MarkTechPost
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Sun, 04 Oct 2026 07:01:04 +0000" title="Sun, 04 Oct 2026 07:01:04 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/" target="_blank" rel="noopener">Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters</a>
-          </h3>
-
-          <p class="card-snippet">Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
-            </a>
-          </div>
-        </article>
         <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/501605.html" data-date="10月4日星期日" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 04 Oct 2026 06:12:22 +0000">
           <div class="card-hd">
             <span class="card-source">
@@ -1417,7 +1481,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Sun, 04 Oct 2026 06:12:22 +0000" title="Sun, 04 Oct 2026 06:12:22 +0000">昨天</span>
+            <span class="card-time" data-pubdate="Sun, 04 Oct 2026 06:12:22 +0000" title="Sun, 04 Oct 2026 06:12:22 +0000">2 天前</span>
           </div>
 
           <h3 class="card-title">
@@ -1432,60 +1496,6 @@
             </div>
             <a href="https://www.qbitai.com/2026/10/501605.html" target="_blank" rel="noopener" class="read-btn">
               📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/501506.html" data-date="10月4日星期日" data-tags='[&quot;综合&quot;]' data-pubdate="Sun, 04 Oct 2026 06:05:35 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Sun, 04 Oct 2026 06:05:35 +0000" title="Sun, 04 Oct 2026 06:05:35 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/10/501506.html" target="_blank" rel="noopener">最火AI岗位FDE：月薪5万，都干这些…</a>
-          </h3>
-
-          <p class="card-snippet">什么是FDE？它会一直存在吗？</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/10/501506.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/" data-date="10月4日星期日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Sun, 04 Oct 2026 04:49:42 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#3b6df0"></span>
-              MarkTechPost
-            </span>
-            <span class="card-lang-tag en">
-              EN
-            </span>
-            <span class="card-time" data-pubdate="Sun, 04 Oct 2026 04:49:42 +0000" title="Sun, 04 Oct 2026 04:49:42 +0000">昨天</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/" target="_blank" rel="noopener">DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness</a>
-          </h3>
-
-          <p class="card-snippet">DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin man</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/" target="_blank" rel="noopener" class="read-btn">
-              📖 Read Article
             </a>
           </div>
         </article>
@@ -1509,7 +1519,7 @@
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
   <p>全天候实时更新 · 免费 · 开源</p>
-  <p>更新于 2026/10/6 01:15:59 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
+  <p>更新于 2026/10/6 08:44:38 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
 </footer>
 
 <!-- ====== Back to Top ====== -->

@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-10-06T01:15:59.845Z",
+  "generatedAt": "2026-10-06T08:44:38.701Z",
   "stats": {
-    "total": 91,
+    "total": 111,
     "shown": 50,
-    "chinese": 10,
+    "chinese": 30,
     "english": 81,
-    "today": 0
+    "today": 3
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "link": "https://www.qbitai.com/2026/10/501726.html",
+      "snippet": "",
+      "pubDate": "Tue, 06 Oct 2026 06:45:40 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "林, 方舟",
+      "fetchedAt": "2026-10-06T08:39:44.931Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Reka Releases Rho-1: A 19B Omni-Reasoning Model That Understands, Generates Video and Outputs Robot Actions in One",
+      "link": "https://www.marktechpost.com/2026/10/05/reka-releases-rho-1-a-19b-omni-reasoning-model-that-understands-generates-video-and-outputs-robot-actions-in-one/",
+      "snippet": "Reka has released Rho-1, a 19B omni-reasoning model trained from scratch. One network reads and generates text, images, video and robot actions over a",
+      "pubDate": "Tue, 06 Oct 2026 06:45:31 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Beyond Domain-Specific World Models: JEPA-Anything Uses 1 Recipe for 7 Fields",
+      "link": "https://www.marktechpost.com/2026/10/05/beyond-domain-specific-world-models-jepa-anything-uses-1-recipe-for-7-fields/",
+      "snippet": "JEPA-Anything splits a JEPA's single latent target into 4 orthogonal factors, each with its own predictor. Tested across 7 domains, it beat matched JE",
+      "pubDate": "Tue, 06 Oct 2026 05:12:01 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.823Z",
       "tags": [
         "大模型"
       ]
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -52,7 +100,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-06T01:10:20.300Z",
+      "fetchedAt": "2026-10-06T08:39:51.248Z",
       "tags": [
         "综合"
       ]
@@ -68,7 +116,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
       "tags": [
         "综合"
       ]
@@ -84,7 +132,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +148,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "大模型"
       ]
@@ -116,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.823Z",
       "tags": [
         "商业融资"
       ]
@@ -132,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "AI应用"
       ]
@@ -148,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.823Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-10-06T01:10:20.300Z",
+      "fetchedAt": "2026-10-06T08:39:51.248Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.823Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +276,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.823Z",
       "tags": [
         "大模型"
       ]
@@ -244,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.823Z",
       "tags": [
         "大模型"
       ]
@@ -276,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.823Z",
       "tags": [
         "AI应用"
       ]
@@ -292,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "大模型"
       ]
@@ -308,7 +356,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-06T01:10:19.425Z",
+      "fetchedAt": "2026-10-06T08:39:50.238Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +372,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +388,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +404,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:20.738Z",
+      "fetchedAt": "2026-10-06T08:39:51.718Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +420,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "学术研究"
       ]
@@ -388,7 +436,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "商业融资"
       ]
@@ -404,7 +452,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.824Z",
       "tags": [
         "政策监管"
       ]
@@ -420,7 +468,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +484,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.824Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -453,7 +501,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Richard Milne, Financial Times\n                ",
-      "fetchedAt": "2026-10-06T01:10:20.300Z",
+      "fetchedAt": "2026-10-06T08:39:51.248Z",
       "tags": [
         "政策监管"
       ]
@@ -469,7 +517,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-06T01:10:19.425Z",
+      "fetchedAt": "2026-10-06T08:39:50.238Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +533,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "fetchedAt": "2026-10-06T08:39:49.824Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -502,7 +550,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-06T01:10:19.425Z",
+      "fetchedAt": "2026-10-06T08:39:50.238Z",
       "tags": [
         "综合"
       ]
@@ -518,7 +566,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "综合"
       ]
@@ -534,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-10-06T01:10:08.918Z",
+      "fetchedAt": "2026-10-06T08:39:44.931Z",
       "tags": [
         "综合"
       ]
@@ -550,7 +598,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-06T01:10:20.738Z",
+      "fetchedAt": "2026-10-06T08:39:51.718Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -567,7 +615,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
       "tags": [
         "大模型"
       ]
@@ -583,7 +631,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-10-06T01:10:19.425Z",
+      "fetchedAt": "2026-10-06T08:39:50.238Z",
       "tags": [
         "大模型"
       ]
@@ -599,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-10-06T01:10:08.918Z",
+      "fetchedAt": "2026-10-06T08:39:44.931Z",
       "tags": [
         "学术研究"
       ]
@@ -615,7 +663,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
       "tags": [
         "综合"
       ]
@@ -631,7 +679,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-10-06T01:10:19.425Z",
+      "fetchedAt": "2026-10-06T08:39:50.238Z",
       "tags": [
         "学术研究"
       ]
@@ -647,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-10-06T01:10:08.918Z",
+      "fetchedAt": "2026-10-06T08:39:44.931Z",
       "tags": [
         "AI应用"
       ]
@@ -663,7 +711,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
       "tags": [
         "AI应用"
       ]
@@ -679,7 +727,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
       "tags": [
         "大模型"
       ]
@@ -695,7 +743,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "开源工具"
       ]
@@ -711,7 +759,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "综合"
       ]
@@ -727,7 +775,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "fetchedAt": "2026-10-06T08:39:49.508Z",
       "tags": [
         "综合"
       ]
@@ -743,25 +791,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "fetchedAt": "2026-10-06T08:39:52.073Z",
       "tags": [
         "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Aleph Alpha Releases Kolibri: A 78.1B Open-Weight English-German MoE Model With Only 3.46B Active Parameters",
-      "link": "https://www.marktechpost.com/2026/10/04/aleph-alpha-releases-kolibri-a-78-1b-open-weight-english-german-moe-model-with-only-3-46b-active-parameters/",
-      "snippet": "Aleph Alpha has released Kolibri, a 78.1B-parameter English-German Mixture-of-Experts model that activates only 3.46B parameters per token. It has a 1",
-      "pubDate": "Sun, 04 Oct 2026 07:01:04 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -775,41 +807,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-10-06T01:10:08.918Z",
+      "fetchedAt": "2026-10-06T08:39:44.932Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "link": "https://www.qbitai.com/2026/10/501506.html",
-      "snippet": "什么是FDE？它会一直存在吗？",
-      "pubDate": "Sun, 04 Oct 2026 06:05:35 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-10-06T01:10:08.918Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
-      "link": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
-      "snippet": "DeepSeek has released official macOS and Windows desktop apps for DeepSeek Harness v0.2, its MIT-licensed agent harness. The preview adds a plugin man",
-      "pubDate": "Sun, 04 Oct 2026 04:49:42 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-06T01:10:21.169Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
