@@ -1,13 +1,174 @@
 {
-  "generatedAt": "2026-10-05T19:10:48.546Z",
+  "generatedAt": "2026-10-06T01:15:59.845Z",
   "stats": {
-    "total": 112,
+    "total": 91,
     "shown": 50,
-    "chinese": 30,
-    "english": 82,
-    "today": 32
+    "chinese": 10,
+    "english": 81,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "snippet": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority",
+      "pubDate": "2026-10-05T23:09:55.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet Together Link: A Free CLI That Runs Open Models Like Kimi K3 and GLM 5.3 Inside Claude Code, Codex, and OpenCode",
+      "link": "https://www.marktechpost.com/2026/10/05/meet-together-link-a-free-cli-that-runs-open-models-like-kimi-k3-and-glm-5-3-inside-claude-code-codex-and-opencode/",
+      "snippet": "Together AI has released Together Link, a free, MIT-licensed CLI that connects Claude Code, Codex, OpenCode, Pi, and the Claude and ChatGPT desktop ap",
+      "pubDate": "Mon, 05 Oct 2026 22:51:05 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "snippet": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "pubDate": "Mon, 05 Oct 2026 22:26:35 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-10-06T01:10:20.300Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
+      "link": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
+      "snippet": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveragin",
+      "pubDate": "Mon, 05 Oct 2026 21:41:14 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+      "link": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+      "snippet": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for cod",
+      "pubDate": "Mon, 05 Oct 2026 21:04:20 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+      "snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aditya Mehta",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "This startup is issuing AI-generated acne prescriptions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "snippet": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state c",
+      "pubDate": "2026-10-05T20:14:57.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+      "snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let insti",
+      "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "All the drama around AI&#8217;s takeover of mathematics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "snippet": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing",
+      "pubDate": "2026-10-05T19:28:59.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+      "snippet": "The tool can free up over 12GB of storage.",
+      "pubDate": "Mon, 05 Oct 2026 19:14:44 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Scharon Harding\n                ",
+      "fetchedAt": "2026-10-06T01:10:20.300Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
@@ -19,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-05T19:06:14.007Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-05T19:06:14.007Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
       "tags": [
         "大模型"
       ]
@@ -83,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-05T19:06:14.007Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +276,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-10-05T19:06:14.007Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "大模型"
       ]
@@ -147,7 +308,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-05T19:06:14.629Z",
+      "fetchedAt": "2026-10-06T01:10:19.425Z",
       "tags": [
         "综合"
       ]
@@ -156,14 +317,14 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "OpenAI launches visual ads that appear alongside image generation results",
       "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "snippet": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+      "snippet": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of adver",
       "pubDate": "Mon, 05 Oct 2026 15:14:24 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-05T19:06:14.007Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +356,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:16.187Z",
+      "fetchedAt": "2026-10-06T01:10:20.738Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +372,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "学术研究"
       ]
@@ -227,7 +388,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "商业融资"
       ]
@@ -243,7 +404,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
       "tags": [
         "政策监管"
       ]
@@ -259,7 +420,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +436,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -292,7 +453,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Richard Milne, Financial Times\n                ",
-      "fetchedAt": "2026-10-05T19:06:15.455Z",
+      "fetchedAt": "2026-10-06T01:10:20.300Z",
       "tags": [
         "政策监管"
       ]
@@ -308,7 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-05T19:06:14.629Z",
+      "fetchedAt": "2026-10-06T01:10:19.425Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +485,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
+      "fetchedAt": "2026-10-06T01:10:19.045Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -341,7 +502,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-05T19:06:14.629Z",
+      "fetchedAt": "2026-10-06T01:10:19.425Z",
       "tags": [
         "综合"
       ]
@@ -357,7 +518,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "综合"
       ]
@@ -373,23 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-10-05T19:06:07.650Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Our minds aren’t equipped to handle AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-      "snippet": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has b",
-      "pubDate": "2026-10-05T10:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
+      "fetchedAt": "2026-10-06T01:10:08.918Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +550,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-05T19:06:16.187Z",
+      "fetchedAt": "2026-10-06T01:10:20.738Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -422,7 +567,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T19:06:16.849Z",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
       "tags": [
         "大模型"
       ]
@@ -438,7 +583,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-10-05T19:06:14.629Z",
+      "fetchedAt": "2026-10-06T01:10:19.425Z",
       "tags": [
         "大模型"
       ]
@@ -454,7 +599,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-10-05T19:06:07.650Z",
+      "fetchedAt": "2026-10-06T01:10:08.918Z",
       "tags": [
         "学术研究"
       ]
@@ -470,7 +615,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T19:06:16.849Z",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +631,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-10-05T19:06:14.629Z",
+      "fetchedAt": "2026-10-06T01:10:19.425Z",
       "tags": [
         "学术研究"
       ]
@@ -502,7 +647,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-10-05T19:06:07.650Z",
+      "fetchedAt": "2026-10-06T01:10:08.918Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +663,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-05T19:06:16.849Z",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +679,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T19:06:16.849Z",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
       "tags": [
         "大模型"
       ]
@@ -550,7 +695,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "开源工具"
       ]
@@ -566,41 +711,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "snippet": "Well, if AI said it, it must be true. | Bloomberg via Getty Images\t  New Jersey's lieutenant governor Dale Caldwell was forced to resign on September",
-      "pubDate": "2026-10-04T16:16:04.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "snippet": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 wer",
-      "pubDate": "2026-10-04T15:21:59.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-05T19:06:14.311Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -614,7 +727,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
+      "fetchedAt": "2026-10-06T01:10:18.703Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +743,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-05T19:06:16.849Z",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
       "tags": [
         "政策监管"
       ]
@@ -646,7 +759,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T19:06:16.849Z",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
       "tags": [
         "AI应用"
       ]
@@ -662,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-10-05T19:06:07.650Z",
+      "fetchedAt": "2026-10-06T01:10:08.918Z",
       "tags": [
         "综合"
       ]
@@ -678,25 +791,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-10-05T19:06:07.650Z",
+      "fetchedAt": "2026-10-06T01:10:08.918Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "《Dream it Possible》旋律再起，全新华为Mate 90系列踏光而来！",
-      "link": "https://www.leiphone.com/category/industrynews/eqLySNuJ8LMHKrTe.html",
-      "snippet": "在10月1日的华为Mate 90系列及全场景新品发布会上，开场曲《Dream it Possible》全新版本旋律响起，瞬间把全场的记忆拉回那些与历代Mate同行的岁月。而华为Mate 90系列核心精神内核“踏光向前”，就藏在这首歌与Mate共同写下的故事里。   回头看，这首歌的每次唱响都踩在Ma",
-      "pubDate": "Sun, 04 Oct 2026 13:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-05T19:06:13.746Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -710,105 +807,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-05T19:06:16.849Z",
+      "fetchedAt": "2026-10-06T01:10:21.169Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "link": "https://www.qbitai.com/2026/10/501451.html",
-      "snippet": "专业3D模型反而更稀缺了",
-      "pubDate": "Sun, 04 Oct 2026 00:53:29 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-10-05T19:06:07.651Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Inside NVIDIA’s IsaacTeleop: From Hand and Controller Tracking to Robot Actions with the Graph-Based Retargeting Engine",
-      "link": "https://www.marktechpost.com/2026/10/03/inside-nvidias-isaacteleop-from-hand-and-controller-tracking-to-robot-actions-with-the-graph-based-retargeting-engine/",
-      "snippet": "Learn how NVIDIA IsaacTeleop turns XR hand tracking and motion controller input into robot commands using a pure Python retargeting engine and NumPy.",
-      "pubDate": "Sun, 04 Oct 2026 00:19:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-05T19:06:16.849Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-      "snippet": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-      "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-      "snippet": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from th",
-      "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "All the AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,",
-      "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-05T19:06:14.008Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "《Gran Turismo 7》迎来首台中国VGT  同时GT史上30年首次新增电车驾驶教学",
-      "link": "https://www.leiphone.com/category/industrynews/YE7qzr0QKUUwu5eL.html",
-      "snippet": "新加坡，2026 年 10 月 3 日 —— 今日，在新加坡 Gran Turismo World Series（GT World Series）赛事现场，Gran Turismo系列游戏制作人山内一典与小米汽车欧洲研发中心设计负责人Jean-Arthur Madelaine现场联合宣布：Xiaom",
-      "pubDate": "Sat, 03 Oct 2026 19:39:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-05T19:06:13.746Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
