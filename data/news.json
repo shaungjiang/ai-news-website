@@ -1,13 +1,157 @@
 {
-  "generatedAt": "2026-10-06T16:36:43.833Z",
+  "generatedAt": "2026-10-06T22:32:31.130Z",
   "stats": {
     "total": 107,
     "shown": 50,
     "chinese": 30,
     "english": 77,
-    "today": 24
+    "today": 34
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+      "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+      "snippet": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+      "pubDate": "Tue, 06 Oct 2026 20:50:32 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Samuel Axon\n                ",
+      "fetchedAt": "2026-10-06T22:25:50.734Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "How AI decision models could change content moderation",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "snippet": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+      "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "snippet": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+      "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The next hurdle for AI agents: getting websites to let them in",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "snippet": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, l",
+      "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+      "link": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
+      "snippet": "Google DeepMind's EmbeddingGemma 2 maps 5 input types into one 768d space and ships today under Apache 2.0. The post Google DeepMind Releases Embeddin",
+      "pubDate": "Tue, 06 Oct 2026 18:36:08 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-06T22:25:51.648Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Hark releases an AI personal assistant with a focus on privacy",
+      "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+      "snippet": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+      "pubDate": "Tue, 06 Oct 2026 18:22:45 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Mistral AI Releases Mistral Large 4 (Le Chonk): A 1.05T Parameter Multimodal MoE Model",
+      "link": "https://www.marktechpost.com/2026/10/06/mistral-ai-releases-mistral-large-4-le-chonk-a-1-05t-parameter-open-weight-multimodal-moe/",
+      "snippet": "Mistral AI has released Mistral Large 4, nicknamed Le Chonk, as a public preview. It is a 1.05 trillion parameter Mixture of Experts model with 49 bil",
+      "pubDate": "Tue, 06 Oct 2026 17:30:46 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-06T22:25:51.649Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
+      "link": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
+      "snippet": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say pa",
+      "pubDate": "Tue, 06 Oct 2026 16:40:36 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Antonio Regalado",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Mirror Particle is building a ‘world model’ of human behavior",
+      "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+      "snippet": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing t",
+      "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "We can’t just change the definition of ‘recording’",
@@ -19,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "综合"
       ]
@@ -35,9 +179,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "link": "https://openai.com/index/atlassian-partnership",
+      "snippet": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work",
+      "pubDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-06T22:25:51.177Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -51,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +275,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "大模型"
       ]
@@ -124,14 +284,14 @@
       "id": "YXJzdGVjaG5pY2Et",
       "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
       "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-      "snippet": "The reports of OpenAI agents harming 3rd party sites keep coming.",
+      "snippet": "The reports of OpenAI agents harming third-party sites keep coming.",
       "pubDate": "Tue, 06 Oct 2026 12:21:53 +0000",
       "sourceName": "Ars Technica",
       "sourceId": "arstechnica-ai",
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-06T16:32:11.204Z",
+      "fetchedAt": "2026-10-06T22:25:50.734Z",
       "tags": [
         "开源工具"
       ]
@@ -147,7 +307,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +323,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +339,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-10-06T16:32:04.397Z",
+      "fetchedAt": "2026-10-06T22:25:44.059Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +355,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Amy Nordrum",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +371,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +387,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "You Xiaoying",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +403,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jonathan W. Rosen",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +419,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Mark Ellis Harris",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +435,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +451,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Temple",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "综合"
       ]
@@ -307,23 +467,23 @@
       "lang": "en",
       "category": "学术",
       "creator": "Amy Nordrum",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "fetchedAt": "2026-10-06T22:25:49.839Z",
       "tags": [
         "开源工具"
       ]
     },
     {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "BasiGo and its fleet of electric buses",
-      "link": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses/",
-      "snippet": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Advancing computer use with Ironclad",
+      "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "snippet": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "pubDate": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
       "lang": "en",
-      "category": "学术",
-      "creator": "Geoffrey Kamadi",
-      "fetchedAt": "2026-10-06T16:32:10.446Z",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-06T22:25:51.177Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +499,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-10-06T16:32:04.397Z",
+      "fetchedAt": "2026-10-06T22:25:44.059Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +515,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-10-06T16:32:04.397Z",
+      "fetchedAt": "2026-10-06T22:25:44.059Z",
       "tags": [
         "综合"
       ]
@@ -371,7 +531,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-06T16:32:12.138Z",
+      "fetchedAt": "2026-10-06T22:25:51.649Z",
       "tags": [
         "AI应用"
       ]
@@ -387,7 +547,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T16:32:12.138Z",
+      "fetchedAt": "2026-10-06T22:25:51.649Z",
       "tags": [
         "综合"
       ]
@@ -403,7 +563,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "大模型"
       ]
@@ -419,7 +579,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T16:32:12.138Z",
+      "fetchedAt": "2026-10-06T22:25:51.649Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -436,7 +596,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-06T16:32:11.204Z",
+      "fetchedAt": "2026-10-06T22:25:50.734Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +612,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-06T16:32:12.138Z",
+      "fetchedAt": "2026-10-06T22:25:51.649Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +628,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-06T16:32:12.138Z",
+      "fetchedAt": "2026-10-06T22:25:51.649Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +644,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "大模型"
       ]
@@ -500,7 +660,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "商业融资"
       ]
@@ -516,7 +676,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "AI应用"
       ]
@@ -532,7 +692,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "综合"
       ]
@@ -548,7 +708,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-10-06T16:32:11.204Z",
+      "fetchedAt": "2026-10-06T22:25:50.734Z",
       "tags": [
         "AI应用"
       ]
@@ -564,7 +724,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "综合"
       ]
@@ -580,7 +740,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "AI应用"
       ]
@@ -596,7 +756,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "AI应用"
       ]
@@ -612,7 +772,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "大模型"
       ]
@@ -628,7 +788,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
+      "fetchedAt": "2026-10-06T22:25:49.209Z",
       "tags": [
         "综合"
       ]
@@ -644,169 +804,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.170Z",
+      "fetchedAt": "2026-10-06T22:25:49.560Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "snippet": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO poin",
-      "pubDate": "2026-10-05T16:44:21.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-06T16:32:10.171Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-      "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-      "snippet": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-      "pubDate": "Mon, 05 Oct 2026 16:43:35 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI launches visual ads that appear alongside image generation results",
-      "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-      "snippet": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of adver",
-      "pubDate": "Mon, 05 Oct 2026 15:14:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-      "snippet": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pas",
-      "pubDate": "Mon, 05 Oct 2026 15:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Our approach to EU text provenance rules",
-      "link": "https://openai.com/index/eu-text-provenance",
-      "snippet": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "pubDate": "Mon, 05 Oct 2026 15:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-06T16:32:11.688Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-      "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-      "snippet": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-      "pubDate": "Mon, 05 Oct 2026 14:35:09 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-      "snippet": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up t",
-      "pubDate": "Mon, 05 Oct 2026 14:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "snippet": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 o",
-      "pubDate": "Mon, 05 Oct 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "AI glasses face their first major government crackdown",
-      "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "snippet": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "pubDate": "Mon, 05 Oct 2026 13:39:30 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Richard Milne, Financial Times\n                ",
-      "fetchedAt": "2026-10-06T16:32:11.204Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-      "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-      "snippet": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-      "pubDate": "Mon, 05 Oct 2026 12:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-06T16:32:09.859Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
