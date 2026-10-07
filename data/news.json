@@ -1,13 +1,142 @@
 {
-  "generatedAt": "2026-10-07T04:57:06.106Z",
+  "generatedAt": "2026-10-07T12:58:43.951Z",
   "stats": {
-    "total": 109,
+    "total": 94,
     "shown": 50,
-    "chinese": 30,
-    "english": 79,
-    "today": 2
+    "chinese": 17,
+    "english": 77,
+    "today": 10
   },
   "articles": [
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "link": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Weight-loss",
+      "pubDate": "Wed, 07 Oct 2026 12:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "link": "https://www.qbitai.com/2026/10/501803.html",
+      "snippet": "",
+      "pubDate": "Wed, 07 Oct 2026 11:34:47 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-07T12:48:45.825Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "snippet": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGP",
+      "pubDate": "2026-10-07T09:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-07T12:48:51.866Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "晕…这年头还有说人话的AI不",
+      "link": "https://www.qbitai.com/2026/10/501796.html",
+      "snippet": "",
+      "pubDate": "Wed, 07 Oct 2026 08:41:13 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-10-07T12:48:45.825Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "美团：南京、成都、西安位列2026国庆假期热门目的地",
+      "link": "https://www.leiphone.com/category/industrynews/2zA5A1rzJebHBpvM.html",
+      "snippet": "2026年“十一”假期进入尾声，不少游客踏上返程。10月7日，美团发布的数据显示，从热门目的地看，美团数据显示，“十一”假期出游热门Top10目的地分别为南京、成都、西安、北京、重庆、洛阳、武汉、广州、长沙、上海。",
+      "pubDate": "Wed, 07 Oct 2026 15:42:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-07T12:48:50.957Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "link": "https://www.qbitai.com/2026/10/501791.html",
+      "snippet": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+      "pubDate": "Wed, 07 Oct 2026 06:39:36 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-07T12:48:45.825Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million Placement Problems a Day",
+      "link": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/",
+      "snippet": "Meta has open-sourced Rebalancer, the C++ and Python library it has used for over 9 years to place shards, servers and traffic. It handles about 40 mi",
+      "pubDate": "Wed, 07 Oct 2026 06:29:14 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-07T12:48:54.008Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "蚂蚁阿福“科学减重1亿斤”迎来“退展”：中秋国庆假期全国60万网友胖了100万斤",
+      "link": "https://www.leiphone.com/category/industrynews/7kLgFJjmaGU8YuBW.html",
+      "snippet": "中秋国庆超长假期即将结束，更“扎心”的灵魂拷问来了：你胖了吗？ 健康AI蚂蚁阿福数据显示，9月25日-10月6日假期期间，全国参与阿福“科学减重1亿斤”的网友中，60万人累计长胖超100万斤。其中，超10万人长胖了3斤以上。 10月4日至7日，蚂蚁阿福APP的减重活动页面的统计数据，也已经连续四天显",
+      "pubDate": "Wed, 07 Oct 2026 12:17:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-07T12:48:50.957Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "cWJpdGFpOmh0dHBz",
       "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
@@ -19,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-10-07T04:47:07.643Z",
+      "fetchedAt": "2026-10-07T12:48:45.825Z",
       "tags": [
         "学术研究"
       ]
@@ -35,7 +164,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-07T04:47:15.932Z",
+      "fetchedAt": "2026-10-07T12:48:54.008Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:14.212Z",
+      "fetchedAt": "2026-10-07T12:48:51.866Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -84,7 +213,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-10-07T04:47:15.166Z",
+      "fetchedAt": "2026-10-07T12:48:53.121Z",
       "tags": [
         "大模型"
       ]
@@ -100,7 +229,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "AI应用"
       ]
@@ -116,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "商业融资"
       ]
@@ -132,7 +261,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +277,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-07T04:47:15.932Z",
+      "fetchedAt": "2026-10-07T12:48:54.008Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +293,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +309,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-07T04:47:15.932Z",
+      "fetchedAt": "2026-10-07T12:48:54.008Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +325,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Antonio Regalado",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +357,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:14.212Z",
+      "fetchedAt": "2026-10-07T12:48:51.866Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +373,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "大模型"
       ]
@@ -260,7 +389,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:15.556Z",
+      "fetchedAt": "2026-10-07T12:48:53.615Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "AI应用"
       ]
@@ -292,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +437,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +453,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
+      "fetchedAt": "2026-10-07T12:48:51.544Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +469,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:14.212Z",
+      "fetchedAt": "2026-10-07T12:48:51.866Z",
       "tags": [
         "大模型"
       ]
@@ -356,7 +485,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-07T04:47:15.166Z",
+      "fetchedAt": "2026-10-07T12:48:53.121Z",
       "tags": [
         "开源工具"
       ]
@@ -372,7 +501,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +517,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:15.556Z",
+      "fetchedAt": "2026-10-07T12:48:53.615Z",
       "tags": [
         "大模型",
         "学术研究"
@@ -405,7 +534,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:15.556Z",
+      "fetchedAt": "2026-10-07T12:48:53.615Z",
       "tags": [
         "学术研究"
       ]
@@ -421,7 +550,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:14.212Z",
+      "fetchedAt": "2026-10-07T12:48:51.866Z",
       "tags": [
         "综合"
       ]
@@ -437,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-10-07T04:47:07.643Z",
+      "fetchedAt": "2026-10-07T12:48:45.825Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +582,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Amy Nordrum",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +598,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +614,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "You Xiaoying",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
       ]
@@ -501,7 +630,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jonathan W. Rosen",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +646,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Mark Ellis Harris",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +662,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
       ]
@@ -549,25 +678,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Temple",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
+      "fetchedAt": "2026-10-07T12:48:52.392Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "WaveSave and its portable rubber dam",
-      "link": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
-      "snippet": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use th",
-      "pubDate": "Tue, 06 Oct 2026 10:35:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Amy Nordrum",
-      "fetchedAt": "2026-10-07T04:47:14.502Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -581,7 +694,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:15.556Z",
+      "fetchedAt": "2026-10-07T12:48:53.615Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-10-07T04:47:07.643Z",
+      "fetchedAt": "2026-10-07T12:48:45.825Z",
       "tags": [
         "综合"
       ]
@@ -613,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "林, 方舟",
-      "fetchedAt": "2026-10-07T04:47:07.643Z",
+      "fetchedAt": "2026-10-07T12:48:45.825Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +742,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-07T04:47:15.932Z",
+      "fetchedAt": "2026-10-07T12:48:54.008Z",
       "tags": [
         "AI应用"
       ]
@@ -645,7 +758,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-07T04:47:15.932Z",
+      "fetchedAt": "2026-10-07T12:48:54.008Z",
       "tags": [
         "综合"
       ]
@@ -661,7 +774,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-07T04:47:14.212Z",
+      "fetchedAt": "2026-10-07T12:48:51.866Z",
       "tags": [
         "大模型"
       ]
@@ -677,7 +790,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-07T04:47:15.932Z",
+      "fetchedAt": "2026-10-07T12:48:54.008Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -694,121 +807,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-07T04:47:15.166Z",
+      "fetchedAt": "2026-10-07T12:48:53.121Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Building a Streaming Robotics Learning Pipeline Using NVIDIA Cosmos3-DROID",
-      "link": "https://www.marktechpost.com/2026/10/05/building-a-streaming-robotics-learning-pipeline-using-nvidia-cosmos3-droid/",
-      "snippet": "Discover how to construct an end-to-end streaming robotics learning pipeline using the NVIDIA Cosmos3-DROID dataset without local downloads, leveragin",
-      "pubDate": "Mon, 05 Oct 2026 21:41:14 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-07T04:47:15.932Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
-      "link": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
-      "snippet": "Reflection AI has introduced Beam, its first open-weight model. It is a 501B sparse Mixture-of-Experts model with 23B active parameters, built for cod",
-      "pubDate": "Mon, 05 Oct 2026 21:04:20 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-07T04:47:15.932Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-      "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-      "snippet": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-      "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "This startup is issuing AI-generated acne prescriptions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "snippet": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state c",
-      "pubDate": "2026-10-05T20:14:57.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-07T04:47:14.212Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-      "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-      "snippet": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let insti",
-      "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-07T04:47:13.937Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "All the drama around AI&#8217;s takeover of mathematics",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "snippet": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing",
-      "pubDate": "2026-10-05T19:28:59.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-07T04:47:14.212Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
-      "link": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
-      "snippet": "The tool can free up over 12GB of storage.",
-      "pubDate": "Mon, 05 Oct 2026 19:14:44 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Scharon Harding\n                ",
-      "fetchedAt": "2026-10-07T04:47:15.166Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
