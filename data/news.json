@@ -1,13 +1,141 @@
 {
-  "generatedAt": "2026-10-09T19:22:45.460Z",
+  "generatedAt": "2026-10-09T23:55:25.379Z",
   "stats": {
     "total": 109,
     "shown": 50,
     "chinese": 30,
     "english": 79,
-    "today": 41
+    "today": 49
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Ukraine’s drones knock out AI data center belonging to \"Russia’s Google\"",
+      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/",
+      "snippet": "One damaged data center has supercomputers used for training Yandex’s AI model.",
+      "pubDate": "Fri, 09 Oct 2026 22:04:07 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-10-09T23:50:56.466Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "snippet": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+      "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-10-09T23:50:54.962Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "snippet": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report f",
+      "pubDate": "2026-10-09T21:15:38.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-09T23:50:55.244Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
+      "link": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+      "snippet": "Alibaba’s Qwen team has released Qwen-Image-2.1-Turbo, an accelerated checkpoint of its open-weight Qwen-Image-2.1 model. It generates and edits image",
+      "pubDate": "Fri, 09 Oct 2026 20:33:17 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-09T23:50:57.301Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "OpenAI Decisions API Hits Public Beta With 10x Faster Typed Answers",
+      "link": "https://www.marktechpost.com/2026/10/09/openai-decisions-api-hits-public-beta-with-10x-faster-typed-answers/",
+      "snippet": "OpenAI’s Decisions API is now in public beta on GPT-6 Luna. It returns typed probabilities, choices and scores about 10x faster than the Responses API",
+      "pubDate": "Fri, 09 Oct 2026 20:05:07 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-10-09T23:50:57.301Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "AI coding agents generate more code, but not more software",
+      "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "snippet": "Study finds coding efficiency gains get \"absorbed\" by human review \"bottleneck.\"",
+      "pubDate": "Fri, 09 Oct 2026 19:43:50 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-10-09T23:50:56.466Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+      "snippet": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-10-09T23:50:54.962Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "snippet": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\"  Those were among the descriptions more than three dozen mathematicians rea",
+      "pubDate": "2026-10-09T19:09:44.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-09T23:50:55.244Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "AI disqualification yields new Nikon Small World in Motion winner",
@@ -19,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jennifer Ouellette\n                ",
-      "fetchedAt": "2026-10-09T19:18:22.888Z",
+      "fetchedAt": "2026-10-09T23:50:56.466Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.677Z",
+      "fetchedAt": "2026-10-09T23:50:55.244Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
+      "fetchedAt": "2026-10-09T23:50:54.962Z",
       "tags": [
         "政策监管"
       ]
@@ -67,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Rebecca Bellan, Sean O'Kane",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
+      "fetchedAt": "2026-10-09T23:50:54.962Z",
       "tags": [
         "政策监管"
       ]
@@ -83,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
+      "fetchedAt": "2026-10-09T23:50:54.962Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
+      "fetchedAt": "2026-10-09T23:50:54.962Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
+      "fetchedAt": "2026-10-09T23:50:54.962Z",
       "tags": [
         "开源工具"
       ]
@@ -131,7 +259,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.677Z",
+      "fetchedAt": "2026-10-09T23:50:55.244Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +275,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
+      "fetchedAt": "2026-10-09T23:50:54.962Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +291,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.677Z",
+      "fetchedAt": "2026-10-09T23:50:55.244Z",
       "tags": [
         "商业融资"
       ]
@@ -179,7 +307,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-09T19:18:21.971Z",
+      "fetchedAt": "2026-10-09T23:50:55.536Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +323,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -212,7 +340,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.677Z",
+      "fetchedAt": "2026-10-09T23:50:55.244Z",
       "tags": [
         "学术研究"
       ]
@@ -228,7 +356,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +372,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "AI应用"
       ]
@@ -260,7 +388,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Arthur Holland Michel",
-      "fetchedAt": "2026-10-09T19:18:21.971Z",
+      "fetchedAt": "2026-10-09T23:50:55.536Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +404,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eamon Whalen",
-      "fetchedAt": "2026-10-09T19:18:21.971Z",
+      "fetchedAt": "2026-10-09T23:50:55.536Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +420,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-09T19:18:21.971Z",
+      "fetchedAt": "2026-10-09T23:50:55.536Z",
       "tags": [
         "学术研究"
       ]
@@ -308,7 +436,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "开源工具"
       ]
@@ -324,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +468,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-09T19:18:23.851Z",
+      "fetchedAt": "2026-10-09T23:50:57.301Z",
       "tags": [
         "开源工具"
       ]
@@ -356,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +500,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:23.493Z",
+      "fetchedAt": "2026-10-09T23:50:56.892Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +516,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:23.493Z",
+      "fetchedAt": "2026-10-09T23:50:56.892Z",
       "tags": [
         "大模型"
       ]
@@ -404,7 +532,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-09T19:18:23.851Z",
+      "fetchedAt": "2026-10-09T23:50:57.301Z",
       "tags": [
         "大模型"
       ]
@@ -420,7 +548,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "学术研究"
       ]
@@ -436,7 +564,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "商业融资",
         "大模型"
@@ -453,7 +581,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-09T19:18:23.851Z",
+      "fetchedAt": "2026-10-09T23:50:57.301Z",
       "tags": [
         "政策监管"
       ]
@@ -469,7 +597,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "政策监管"
       ]
@@ -485,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "政策监管"
       ]
@@ -501,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "政策监管"
       ]
@@ -517,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "贾浩楠",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +661,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "综合"
       ]
@@ -549,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "大模型"
       ]
@@ -565,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "综合"
       ]
@@ -581,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.177Z",
+      "fetchedAt": "2026-10-09T23:50:54.634Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -614,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -647,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-10-09T19:18:17.547Z",
+      "fetchedAt": "2026-10-09T23:50:51.093Z",
       "tags": [
         "开源工具"
       ]
@@ -663,7 +791,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-10-09T19:18:21.971Z",
+      "fetchedAt": "2026-10-09T23:50:55.536Z",
       "tags": [
         "综合"
       ]
@@ -679,138 +807,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.677Z",
+      "fetchedAt": "2026-10-09T23:50:55.244Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-      "snippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website t",
-      "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "California is trying to shut down robot vs. human cage matches",
-      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "snippet": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as re",
-      "pubDate": "2026-10-08T20:06:56.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-09T19:18:21.677Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-      "snippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are cr",
-      "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-      "snippet": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking",
-      "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-      "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment i",
-      "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-      "snippet": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
-      "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google brings agentic AI to Gemini, starting with businesses",
-      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-      "snippet": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to suba",
-      "pubDate": "Thu, 08 Oct 2026 18:18:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic changes usage policy to ban model abuse and election interference",
-      "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-      "snippet": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism",
-      "pubDate": "Thu, 08 Oct 2026 18:16:24 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-09T19:18:21.442Z",
-      "tags": [
-        "政策监管",
-        "大模型"
       ]
     }
   ]
