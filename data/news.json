@@ -1,27 +1,59 @@
 {
-  "generatedAt": "2026-10-10T04:50:32.655Z",
+  "generatedAt": "2026-10-10T12:09:19.849Z",
   "stats": {
-    "total": 109,
+    "total": 89,
     "shown": 50,
-    "chinese": 30,
+    "chinese": 10,
     "english": 79,
-    "today": 2
+    "today": 4
   },
   "articles": [
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "GMIF 2026：日均140万亿Token调用，正在改变SSD的能力与分工",
-      "link": "https://www.leiphone.com/category/chips/OteTEIc4In9VoZg4.html",
-      "snippet": "作者 | 陈悦琳 编辑 | 包永刚   HBM热潮之外，其他存储形式也站在风口。   这是今年第五届GMIF2026全球存储器行业创新峰会释放的第一个明显信号。以全球云数据中心资本支出为例，摩根士丹利执行董事、大中华区半导体分析师颜志天指出，在未计入HBM的情况下，2026年存储占比接近五成，202",
-      "pubDate": "Sat, 10 Oct 2026 09:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "特斯拉FSD，在欧洲被打回原形",
+      "link": "https://www.qbitai.com/2026/10/502467.html",
+      "snippet": "马斯克反而发文道谢？",
+      "pubDate": "Sat, 10 Oct 2026 06:59:02 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
-        "商业融资"
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
+      "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
+      "snippet": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a d",
+      "pubDate": "Sat, 10 Oct 2026 06:03:09 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-10T12:02:40.308Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
+      "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
+      "snippet": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Inde",
+      "pubDate": "Sat, 10 Oct 2026 04:51:34 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-10T12:02:40.308Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -35,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "商业融资"
       ]
@@ -51,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-10T04:45:59.659Z",
+      "fetchedAt": "2026-10-10T12:02:39.344Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "大模型"
       ]
@@ -83,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-10T04:45:58.381Z",
+      "fetchedAt": "2026-10-10T12:02:38.299Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +131,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-10T04:46:00.638Z",
+      "fetchedAt": "2026-10-10T12:02:40.308Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +147,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-10T04:46:00.638Z",
+      "fetchedAt": "2026-10-10T12:02:40.308Z",
       "tags": [
         "大模型"
       ]
@@ -131,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-10-10T04:45:59.659Z",
+      "fetchedAt": "2026-10-10T12:02:39.344Z",
       "tags": [
         "学术研究"
       ]
@@ -147,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-10T04:45:58.381Z",
+      "fetchedAt": "2026-10-10T12:02:38.299Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jennifer Ouellette\n                ",
-      "fetchedAt": "2026-10-10T04:45:59.659Z",
+      "fetchedAt": "2026-10-10T12:02:39.344Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +227,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-10T04:45:58.381Z",
+      "fetchedAt": "2026-10-10T12:02:38.300Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "政策监管"
       ]
@@ -227,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Rebecca Bellan, Sean O'Kane",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "政策监管"
       ]
@@ -243,7 +275,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +307,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "开源工具"
       ]
@@ -291,7 +323,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-10T04:45:58.381Z",
+      "fetchedAt": "2026-10-10T12:02:38.300Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +339,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-10T04:45:58.066Z",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +355,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-10T04:45:58.381Z",
+      "fetchedAt": "2026-10-10T12:02:38.300Z",
       "tags": [
         "商业融资"
       ]
@@ -339,26 +371,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-10T04:45:58.798Z",
+      "fetchedAt": "2026-10-10T12:02:38.543Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "当年「字节投毒实习生」田柯宇，估值 2 亿美元，要挑战李飞飞做世界模型",
-      "link": "https://www.leiphone.com/category/yanxishe/BfzpShx7bKSPT4Ul.html",
-      "snippet": "2026 年 10 月，AI 创投圈迎来一笔颇具戏剧感的融资。 一家 10 人规模的神秘实验室，没产品、没名字，成了资本市场冰火两重天的风暴眼。一方面，业内进行着道德审判，“人品不行的公司绝对不能投”，另一方面，顶级 VC 机构五源资本和 IDG 却暗中追捧，偷偷塞了 3000 万美金，把估值推到",
-      "pubDate": "Fri, 09 Oct 2026 18:34:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
       ]
     },
     {
@@ -372,7 +387,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-10T04:45:58.381Z",
+      "fetchedAt": "2026-10-10T12:02:38.300Z",
       "tags": [
         "学术研究"
       ]
@@ -388,25 +403,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-10-10T04:45:52.411Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "做了八年DSP，Credo怎么突然开始做光芯片了？",
-      "link": "https://www.leiphone.com/category/chips/iJYPlZXgggbJ74ZB.html",
-      "snippet": "做了八年DSP（Digital Signal Processor，数字信号处理器）后，Credo Technology Group Holding Ltd（以下简称“Credo”）开始真正走进“光”里。   自去年10月首次推出ZeroFlap光模块产品线以来，Credo用一年时间把产品带宽从800",
-      "pubDate": "Fri, 09 Oct 2026 17:14:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -420,7 +419,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Arthur Holland Michel",
-      "fetchedAt": "2026-10-10T04:45:58.798Z",
+      "fetchedAt": "2026-10-10T12:02:38.543Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +435,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Eamon Whalen",
-      "fetchedAt": "2026-10-10T04:45:58.798Z",
+      "fetchedAt": "2026-10-10T12:02:38.543Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +451,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-10T04:45:58.798Z",
+      "fetchedAt": "2026-10-10T12:02:38.543Z",
       "tags": [
         "学术研究"
       ]
@@ -468,7 +467,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-10T04:45:52.411Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "开源工具"
       ]
@@ -484,7 +483,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-10-10T04:45:52.411Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +499,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-10T04:46:00.638Z",
+      "fetchedAt": "2026-10-10T12:02:40.308Z",
       "tags": [
         "开源工具"
       ]
@@ -516,7 +515,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "闻乐",
-      "fetchedAt": "2026-10-10T04:45:52.411Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "综合"
       ]
@@ -532,7 +531,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-10T04:46:00.146Z",
+      "fetchedAt": "2026-10-10T12:02:39.865Z",
       "tags": [
         "综合"
       ]
@@ -548,7 +547,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-10T04:46:00.146Z",
+      "fetchedAt": "2026-10-10T12:02:39.865Z",
       "tags": [
         "大模型"
       ]
@@ -564,7 +563,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-10T04:46:00.638Z",
+      "fetchedAt": "2026-10-10T12:02:40.308Z",
       "tags": [
         "大模型"
       ]
@@ -580,26 +579,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-10T04:45:52.411Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%；腾讯拟发行50亿美元离岸债券，或筹钱加码AI；OpenAI全面上线GPT-6",
-      "link": "https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html",
-      "snippet": "要闻提示       再裁员5000人！保时捷明确回归燃油车，高端车型计划涨价20%  阿里巴巴蔡崇信：开源是欧洲发展 AI 的最佳选择  腾讯拟发行50亿美元离岸债券，或筹钱加码AI  超33亿元！Manus拿下国内Agent创企最大单笔融资，腾讯投了  7万人排队掏钱！小米公布澎程上市首月战报：",
-      "pubDate": "Fri, 09 Oct 2026 13:45:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
-      "tags": [
-        "商业融资",
-        "大模型"
       ]
     },
     {
@@ -613,55 +595,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-10T04:46:00.638Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "法典终局锁档层｜体系自洽与范式边界的闭环校验",
-      "link": "https://www.leiphone.com/category/industrynews/wA8jx0ARGdT19yrC.html",
-      "snippet": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第七篇，整套七层链路收束闭合，完成从现象、机理、权责、产业、监管、文明，最终回归体系本身的自审勘伪闭环。 　　承接文明级迁移风控层长周期扰动研判，完成整套法典基线冻结、边界划定、证伪条款开放。 　　体系固定基准：跨域迁移零号基准NT1-NT4四类负",
-      "pubDate": "Fri, 09 Oct 2026 12:30:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "文明级迁移风控层｜长周期不可逆的文明扰动识别",
-      "link": "https://www.leiphone.com/category/industrynews/zWaIaM9e09Kmh5Rm.html",
-      "snippet": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第六篇，是整套理论从国家元监管升维至文明存续尺度，从短期事件风控延伸到跨代际长周期扰动研判的底层范式层。 　　承接顶层监管层的制度框架，进入文明演化维度的风险审计。 　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论总",
-      "pubDate": "Fri, 09 Oct 2026 12:28:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "跨域顶层监管层｜监管者自身的跨域审计规则",
-      "link": "https://www.leiphone.com/category/industrynews/aemAabCklwZCGjIm.html",
-      "snippet": "本文为《碳硅道统·跨域迁移治理法典》七层体系官方连载第五篇，是整套理论从企业合规升维到公共治理、从行业自律升维到国家制度、从被动治理升维到元监管的顶层范式层。 　　解决全球AI治理终极制度盲区：监管不自审、规则不自勘。 　　体系固定基准：跨域迁移零号基准NT1-NT4四类负迁移定义、188集工业理论",
-      "pubDate": "Fri, 09 Oct 2026 12:27:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
+      "fetchedAt": "2026-10-10T12:02:40.308Z",
       "tags": [
         "政策监管"
       ]
@@ -677,23 +611,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "贾浩楠",
-      "fetchedAt": "2026-10-10T04:45:52.412Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "近万天猫品牌进入东南亚，Lazada把细分需求变成增长机会",
-      "link": "https://www.leiphone.com/category/industrynews/B15TR4XzQCYG9u7a.html",
-      "snippet": "中国品牌出海东南亚的命题正在发生变化。   近日，在Lazada Brand Gala上，一批通过天猫“一键轻出海”项目进入东南亚市场的中国品牌集中亮相。刚刚过去的9.9大促中，泰国时尚、越南电竞等品类均呈现出明显增长，一批中国品牌也在这些垂直市场中跑出新的增长案例。   天猫“一键轻出海”项目启动",
-      "pubDate": "Fri, 09 Oct 2026 12:09:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "综合"
       ]
@@ -709,58 +627,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-10-10T04:45:52.412Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Wayfair与雨果跨境达成战略合作，助推供应商高质量出海",
-      "link": "https://www.leiphone.com/category/industrynews/O3pNuPCwkHAjAiUM.html",
-      "snippet": "近日，全球领先的家居电商平台Wayfair与雨果跨境正式宣布达成战略合作。双方将依托各自的资源与能力优势，围绕品牌招商峰会、产业带城市供应商开发、卖家孵化教育增长、内容合作等项目展开深度协作，助力各类优质卖家扬帆出海、布局全球市场。 根据规划，双方的合作将沿着产业带开发、卖家增长、能力建设等多条主线",
-      "pubDate": "Fri, 09 Oct 2026 11:47:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "TRAE全面升级：双端融合，打造全链路开发平台",
-      "link": "https://www.leiphone.com/category/industrynews/wmndjzo2jLJzOY0Z.html",
-      "snippet": "10 月 9 日，TRAE宣布全面升级：TraeWork与TraeCode双端融合，统一连接Agent与IDE两种模式，覆盖从任务推进到深度编码的开发流程。  过去，TraeWork更偏向办公、任务和内容生成，TraeCode更专注专业开发者的编码需求。双端融合后，全新TRAE 用一个统一入口承接连",
-      "pubDate": "Fri, 09 Oct 2026 11:40:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "豆包工作新增画布功能，并接入豆包2.1 Lite模型",
-      "link": "https://www.leiphone.com/category/industrynews/J8Nj09CidhwiTl90.html",
-      "snippet": "近期，豆包工作持续更新，推出创作画布功能，并在模型上新增了轻量级的豆包2.1 Lite模型。 据介绍，画布功能主要针对复杂创作任务，速度更快，交互体验更好。该功能将素材、设计方案与创作成果集中到同一页面，用户可在一张无限画布上快速实现各个步骤，随时查看、对比和整理。图片生成后，用户仍可继续修改文字、",
-      "pubDate": "Fri, 09 Oct 2026 11:20:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-10T04:45:57.724Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
       ]
     },
     {
@@ -774,7 +643,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-10-10T04:45:52.412Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "综合"
       ]
@@ -790,26 +659,154 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-10-10T04:45:52.412Z",
+      "fetchedAt": "2026-10-10T12:02:28.021Z",
       "tags": [
         "AI应用",
         "开源工具"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "link": "https://www.qbitai.com/2026/10/502096.html",
-      "snippet": "让AI反复试错的“练兵场”来了",
-      "pubDate": "Fri, 09 Oct 2026 02:03:48 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-10-10T04:45:52.412Z",
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "link": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "snippet": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he",
+      "pubDate": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review",
+      "fetchedAt": "2026-10-10T12:02:38.543Z",
       "tags": [
-        "开源工具"
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic launches free AI security scans for open-source projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+      "snippet": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source proje",
+      "pubDate": "2026-10-08T21:53:51.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-10T12:02:38.300Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+      "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+      "snippet": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website t",
+      "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "California is trying to shut down robot vs. human cage matches",
+      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+      "snippet": "The California State Athletic Commission sent a cease-and-desist letter to a startup that hosted a match between a human and a robot last month, as re",
+      "pubDate": "2026-10-08T20:06:56.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-10T12:02:38.300Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+      "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+      "snippet": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are cr",
+      "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+      "snippet": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking",
+      "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+      "snippet": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment i",
+      "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+      "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+      "snippet": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+      "snippet": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to suba",
+      "pubDate": "Thu, 08 Oct 2026 18:18:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-10T12:02:38.003Z",
+      "tags": [
+        "大模型"
       ]
     }
   ]
