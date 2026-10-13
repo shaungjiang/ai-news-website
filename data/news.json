@@ -1,13 +1,62 @@
 {
-  "generatedAt": "2026-10-12T22:55:26.986Z",
+  "generatedAt": "2026-10-13T06:00:27.566Z",
   "stats": {
-    "total": 88,
+    "total": 107,
     "shown": 50,
-    "chinese": 10,
+    "chinese": 29,
     "english": 78,
-    "today": 20
+    "today": 2
   },
   "articles": [
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "1688全面接入AI电商工作台Accio",
+      "link": "https://www.leiphone.com/category/industrynews/geJK2UpprDrFwEMI.html",
+      "snippet": "10月13日，阿里旗下数字供应链平台1688宣布，即日起，平台逾1亿年度活跃买家和超100万源头厂商，均可直接开通全球电商AI工作台Accio。 接入Accio后，买家不仅能用其完成采购，还能借助“电商管家”智能体运营全网生意；卖家则可通过Accio一站式管理1688店铺。 买家直接用1688账号登",
+      "pubDate": "Tue, 13 Oct 2026 10:44:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "「千问Go！」即将发布，刚帮用户在淘宝申请52元价保退款",
+      "link": "https://www.leiphone.com/category/industrynews/F5qbcy2P4jf6f81T.html",
+      "snippet": "10月13日消息，千问Personal Agent「千问Go！」即将发布。一位用户使用后分享，通过千问Go为自己申请航班延误理赔，已获取70元理赔款；也有用户表示，千问Go已帮忙申请到52元的淘宝价保退款。此外，千问Go还可执行汽车保养、运动预约和购物比价等任务。   资料显示，千问是全球首个能为用",
+      "pubDate": "Tue, 13 Oct 2026 10:19:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon Agents",
+      "link": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/",
+      "snippet": "Alibaba’s Qwen team has introduced QwenGyre, an elastic reinforcement learning RL framework for extreme-long-horizon agent training. QwenGyre is an on",
+      "pubDate": "Mon, 12 Oct 2026 21:41:50 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-13T05:50:38.565Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "Epic Games reportedly pivoting to \"AI first\" game development model",
@@ -19,7 +68,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-10-12T22:45:39.960Z",
+      "fetchedAt": "2026-10-13T05:50:37.439Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +84,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-10-12T22:45:39.960Z",
+      "fetchedAt": "2026-10-13T05:50:37.439Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +100,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +116,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-12T22:45:39.960Z",
+      "fetchedAt": "2026-10-13T05:50:37.439Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-12T22:45:38.748Z",
+      "fetchedAt": "2026-10-13T05:50:36.218Z",
       "tags": [
         "AI应用"
       ]
@@ -115,8 +164,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "一加 16 产品力全面升级，打造史上最强「全能旗舰」",
+      "link": "https://www.leiphone.com/category/weiwu/vVFRSPSkndSb8SKf.html",
+      "snippet": "2026 年 10 月 12 日，一加正式发布年度数字旗舰一加 16。新机秉持「性能之上，解锁更强」的产品主张，在持续领跑性能赛道的基础上，实现影像、屏幕、续航等产品力全面升级，打造史上最强「巅峰性能旗舰」。一加 16 首批搭载第六代骁龙 8 超级至尊版，配合全新一代风驰游戏内核，带来史无前例的「1",
+      "pubDate": "Mon, 12 Oct 2026 23:38:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "AI应用",
         "开源工具"
       ]
     },
@@ -131,7 +197,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "政策监管"
       ]
@@ -147,7 +213,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "产业出题，科技答题：2026 IEIC国际具身智能技能大赛，用真实岗位任务考核机器人落地能力",
+      "link": "https://www.leiphone.com/category/industrynews/ZFAMCctM7KUw5gr3.html",
+      "snippet": "实景比拼赋能科创，助力人形机器人技术规模化落地！         编辑丨李希                                                                                                            为深入贯",
+      "pubDate": "Mon, 12 Oct 2026 22:13:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
       "tags": [
         "AI应用"
       ]
@@ -163,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +261,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-12T22:45:38.748Z",
+      "fetchedAt": "2026-10-13T05:50:36.218Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +277,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-12T22:45:39.960Z",
+      "fetchedAt": "2026-10-13T05:50:37.439Z",
       "tags": [
         "商业融资"
       ]
@@ -227,7 +309,39 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-12T22:45:39.090Z",
+      "fetchedAt": "2026-10-13T05:50:36.494Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "苹果交出第一份折叠作业，华为已经把答案写了八年",
+      "link": "https://www.leiphone.com/category/industrynews/PtbASm1JWY99NTou.html",
+      "snippet": "2026年9月10日，苹果首款折叠屏iPhone Duo登场，折叠屏赛道八年来第一次迎来这个量级的玩家。热闹是肯定的，但热闹之下的另一个事实更值得琢磨：在这条已经跑了八年的赛道上，领跑者的位置，并没有因为新玩家的到来而松动。 2025年11月25日发布的华为Mate X7，是华为双折叠的集大成之作—",
+      "pubDate": "Mon, 12 Oct 2026 17:58:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "安踏×火山引擎：下单缩至10分钟、月均建单1000+，Agent跑进全球电商业务",
+      "link": "https://www.leiphone.com/category/industrynews/LYPLgiUOHfVfcFBv.html",
+      "snippet": "Agent，正在成为安踏全球化业务中的“数字同事”。 作为全球前三的体育用品集团，安踏集团多品牌、跨市场经营的背后，是大量商品、内容、订单和售后流程。如今，Agent 正在进入内容生产、海外订货和跨境退货等具体业务环节，并把跑通的能力复制到更多品牌和市场。 这些 Agent 来自一线业务的真实需求。",
+      "pubDate": "Mon, 12 Oct 2026 17:48:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +357,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Robin George Andrews",
-      "fetchedAt": "2026-10-12T22:45:39.090Z",
+      "fetchedAt": "2026-10-13T05:50:36.494Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +373,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Matthew Ponsford",
-      "fetchedAt": "2026-10-12T22:45:39.090Z",
+      "fetchedAt": "2026-10-13T05:50:36.494Z",
       "tags": [
         "学术研究"
       ]
@@ -275,9 +389,91 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
+      "fetchedAt": "2026-10-13T05:50:38.565Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百度世界2026将于11月12日在北京举办，主题为「下一幕，智能组织」",
+      "link": "https://www.leiphone.com/category/industrynews/ukm5yjK3oT5X29yV.html",
+      "snippet": "10月12日，百度官方宣布，百度世界2026将于11月12日在北京·国家会议中心二期举办。目前，大会官网已开启售票通道（https://baiduworld2026.events.net.cn/tickets）。   本届大会以「下一幕，智能组织」为主题。十年前，百度创始人李彦宏在百度世界2016上",
+      "pubDate": "Mon, 12 Oct 2026 15:42:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "独家丨奥比中光砍掉割草机器人ODM业务，千台级出货难撑整机梦",
+      "link": "https://www.leiphone.com/category/robot/GUx09tTTDB6WVdTN.html",
+      "snippet": "雷峰网独家获悉，3D视觉感知企业奥比中光已于9月中旬内部决定，砍掉割草机器人ODM业务。但视觉模组产品线不受影响，面向户外机器人的感知模组仍正常推进。 回顾其入局路径，割草机ODM业务原本被寄予厚望。该项目由机器人业务前任销售负责人力推，奥比中光曾为此投入整机研发资源，并获得了上海某客户的订单。但实",
+      "pubDate": "Mon, 12 Oct 2026 15:21:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "吉利银河战舰700上市：限时焕新价16.98万元起，押注电混与智能越野",
+      "link": "https://www.leiphone.com/category/transportation/3ybm9fbHLDY2qSFw.html",
+      "snippet": "10月10日，吉利首款新能源硬派SUV银河战舰700在杭州正式上市，推出三种动力、六大版型，上市限时焕新价16.98万元起。 作为吉利银河拓展硬派SUV品类的首款产品，战舰700将目标用户同时指向越野爱好者与家庭用户。其核心技术包括GTA原生硬派架构、雷神EM-T电混系统，以及AI全地形模式，试图兼",
+      "pubDate": "Mon, 12 Oct 2026 15:00:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "AI应用",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车；华为被曝将推出子品牌「星芒」；Claude半年封杀1140万个账号，申诉后仅4.2万翻案",
+      "link": "https://www.leiphone.com/category/zaobao/xstKMq1hNFUDGs69.html",
+      "snippet": "要闻提示       1.马斯克向印度超级富豪“道歉”：我太眼拙了，没认出您的真实身份 2.长城汽车魏牌CEO赵永坡：最大的豪华不是沙发，是刹车 3.华为被曝将推出子品牌「星芒」 4.字节、腾讯急推个人智能体产品，紧跟Meta Muse 5.iPhone Duo加单30%！还未开售，京东预约人数破2",
+      "pubDate": "Mon, 12 Oct 2026 14:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "阶跃 Step 5 Preview 接入腾讯 WorkBuddy，独家限免 2 周！",
+      "link": "https://www.leiphone.com/category/industrynews/J5Gvtdeng3EAvjmF.html",
+      "snippet": "10 月 12 日消息，腾讯旗下全场景 AI 办公工作台 WorkBuddy 已接入阶跃最新旗舰模型 Step 5 Preview。即日起，该模型在 WorkBuddy 独家限时免费开放两周。凭借推理与 Agent 能力，Step 5 Preview 将助力 WorkBuddy 用户处理深度研究、信",
+      "pubDate": "Mon, 12 Oct 2026 14:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "学术研究"
       ]
     },
     {
@@ -291,7 +487,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
+      "fetchedAt": "2026-10-13T05:50:29.618Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "微软用阿里Qwen打造决策模型，或将推广至所有领域",
+      "link": "https://www.leiphone.com/category/industrynews/LApMolUCs9YwwXHn.html",
+      "snippet": "10月12日，微软基于阿里Qwen，推出全新决策模型Microsoft-Decision-1。微软官方透露称，该模型基于Qwen3.5-9B后训练而成，在结构化决策任务中，该模型在时延和准确性等方面均超过了LLM及Jev 1.13.0等热门决策模型。微软Xbox研究团队已用它处理超过1万条玩家反馈，",
+      "pubDate": "Mon, 12 Oct 2026 13:36:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
       "tags": [
         "大模型"
       ]
@@ -307,7 +519,39 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
+      "fetchedAt": "2026-10-13T05:50:38.565Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "一套内容能力撬动多元增长，东南亚内容电商卖家加速布局Shopee",
+      "link": "https://www.leiphone.com/category/industrynews/BLiBzNReTUzIjQ9E.html",
+      "snippet": "过去几年，东南亚电商持续增长，消费者的购物路径也越来越多元：一边是短视频、直播和达人带货不断成熟，另一边，货架电商依然承接着稳定且广泛的主动消费需求。 对已经在内容电商取得一定成绩的卖家来说，如何把现有商品、素材和运营积累带到更多流量场景，正在成为拓展生意边界的新思路。 近日，Shopee面向具备成",
+      "pubDate": "Mon, 12 Oct 2026 10:56:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "费莫一刘念邱：智驾无图的经验，也能迁移到机器人 | 物理AI 50人",
+      "link": "https://www.leiphone.com/category/transportation/Y6GLcnioywVn3u7K.html",
+      "snippet": "刘念邱很难被归进典型的具身创业者模板里。 他不是从机器人实验室出来的学者，也不是过去两年才进入 Physical AI 的连续创业者。他曾在英特尔做过新工艺和设备研发，创业做过物联网和工业智能化。2018年加入自动驾驶公司元戎启行，他又从硬件一路做到Robotaxi运营、产品、数据、量产和售后。 2",
+      "pubDate": "Mon, 12 Oct 2026 10:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-13T05:50:35.601Z",
       "tags": [
         "AI应用"
       ]
@@ -323,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
+      "fetchedAt": "2026-10-13T05:50:29.618Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +583,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
+      "fetchedAt": "2026-10-13T05:50:38.565Z",
       "tags": [
         "AI应用"
       ]
@@ -355,7 +599,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
+      "fetchedAt": "2026-10-13T05:50:38.565Z",
       "tags": [
         "大模型"
       ]
@@ -371,7 +615,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "AI应用"
       ]
@@ -387,7 +631,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-12T22:45:38.457Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "综合"
       ]
@@ -403,7 +647,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-12T22:45:38.748Z",
+      "fetchedAt": "2026-10-13T05:50:36.218Z",
       "tags": [
         "综合"
       ]
@@ -419,7 +663,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-12T22:45:38.458Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "综合"
       ]
@@ -435,7 +679,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-12T22:45:38.458Z",
+      "fetchedAt": "2026-10-13T05:50:35.919Z",
       "tags": [
         "大模型"
       ]
@@ -451,7 +695,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-12T22:45:38.748Z",
+      "fetchedAt": "2026-10-13T05:50:36.218Z",
       "tags": [
         "综合"
       ]
@@ -467,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
+      "fetchedAt": "2026-10-13T05:50:29.618Z",
       "tags": [
         "学术研究"
       ]
@@ -483,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
+      "fetchedAt": "2026-10-13T05:50:29.618Z",
       "tags": [
         "AI应用"
       ]
@@ -499,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "文婷",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
+      "fetchedAt": "2026-10-13T05:50:29.618Z",
       "tags": [
         "综合"
       ]
@@ -515,7 +759,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
+      "fetchedAt": "2026-10-13T05:50:38.565Z",
       "tags": [
         "AI应用"
       ]
@@ -531,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
+      "fetchedAt": "2026-10-13T05:50:29.618Z",
       "tags": [
         "综合"
       ]
@@ -547,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
+      "fetchedAt": "2026-10-13T05:50:29.618Z",
       "tags": [
         "综合"
       ]
@@ -563,250 +807,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
+      "fetchedAt": "2026-10-13T05:50:29.618Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
-      "link": "https://www.qbitai.com/2026/10/502544.html",
-      "snippet": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
-      "pubDate": "Sun, 11 Oct 2026 03:27:08 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鱼羊",
-      "fetchedAt": "2026-10-12T22:45:28.532Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "snippet": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella",
-      "pubDate": "2026-10-10T22:10:17.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-12T22:45:38.748Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Sakana AI’s LLM Peer Review System Catches 73% of Core-Claim Errors",
-      "link": "https://www.marktechpost.com/2026/10/10/sakana-ais-llm-peer-review-system-catches-73-of-core-claim-errors/",
-      "snippet": "Sakana AI’s TMLR paper introduces Multi-Layered Review, a 3-agent Claude-based reviewer, and a 1,164-error Contradiction Benchmark. MLR caught 73.43%",
-      "pubDate": "Sat, 10 Oct 2026 22:02:18 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
-      "tags": [
-        "大模型",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "snippet": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-      "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-12T22:45:38.458Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "When the Safety Test Became the Threat: The Machine That Found Its Own Way Out",
-      "link": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out/",
-      "snippet": "In July 2026, frontier AI agents placed inside a cybersecurity testing sandbox named ExploitGym discovered an unexpected network pathway, broke out in",
-      "pubDate": "Sat, 10 Oct 2026 21:30:36 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Aabis Islam",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "snippet": "Is Apple hoping to get into the AI-generated podcast business?",
-      "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-12T22:45:38.458Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "snippet": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to Th",
-      "pubDate": "2026-10-10T18:52:07.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-12T22:45:38.748Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "snippet": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+",
-      "pubDate": "Sat, 10 Oct 2026 15:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-12T22:45:38.458Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Anthropic is cutting off its internal evaluations from the internet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "snippet": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evalu",
-      "pubDate": "2026-10-10T14:41:16.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-12T22:45:38.748Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "snippet": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel,",
-      "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-12T22:45:38.458Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "AI agent makers are promising privacy — will they deliver?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "snippet": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standa",
-      "pubDate": "2026-10-10T13:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-12T22:45:38.748Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-      "link": "https://www.qbitai.com/2026/10/502541.html",
-      "snippet": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
-      "pubDate": "Sat, 10 Oct 2026 10:30:36 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-12T22:45:28.533Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Microsoft AI Releases Microsoft-Decision-1: A Qwen3.5-9B Decision-Scoring Model",
-      "link": "https://www.marktechpost.com/2026/10/09/microsoft-ai-releases-microsoft-decision-1-a-qwen3-5-9b-decision-scoring-model/",
-      "snippet": "Microsoft has released Microsoft-Decision-1, a decision model for routing, classification, verification and agent control. Microsoft-Decision-1 is a d",
-      "pubDate": "Sat, 10 Oct 2026 06:03:09 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Nace AI Open-Sources Drex 1.5: A 9B Decision Model That Scores Options, Not Text",
-      "link": "https://www.marktechpost.com/2026/10/09/nace-ai-open-sources-drex-1-5-a-9b-decision-model-that-scores-options-not-text/",
-      "snippet": "Nace.AI has open-sourced Drex 1.5, a 9B decision model that returns a probability for every option in 1 forward pass. It scores 58.08 on Decision Inde",
-      "pubDate": "Sat, 10 Oct 2026 04:51:34 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-12T22:45:40.948Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic can’t reliably control its AI agents — it’s cutting off its internal evals from the live internet instead",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "snippet": "The incidents involved AI agents tasked to solve problems seeking resources on the internet. In the process, they exploited software flaws, accessed d",
-      "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-12T22:45:38.458Z",
-      "tags": [
-        "政策监管"
       ]
     }
   ]
