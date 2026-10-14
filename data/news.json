@@ -1,13 +1,320 @@
 {
-  "generatedAt": "2026-10-14T07:21:26.590Z",
+  "generatedAt": "2026-10-14T13:28:17.243Z",
   "stats": {
-    "total": 104,
+    "total": 106,
     "shown": 50,
     "chinese": 29,
-    "english": 75,
-    "today": 7
+    "english": 77,
+    "today": 27
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "snippet": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+      "pubDate": "Wed, 14 Oct 2026 12:55:06 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-10-14T13:22:37.436Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: faking blood and the future of batteries",
+      "link": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The US milit",
+      "pubDate": "Wed, 14 Oct 2026 12:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-10-14T13:22:36.759Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
+      "link": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+      "snippet": "Attack method exposes flaws in OpenAI, Google safeguards against AI nudes.",
+      "pubDate": "Wed, 14 Oct 2026 11:00:30 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-10-14T13:22:37.436Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+      "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+      "snippet": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "link": "https://www.qbitai.com/2026/10/503294.html",
+      "snippet": "“具身进实景，劳动最光荣”",
+      "pubDate": "Wed, 14 Oct 2026 10:41:47 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "蚂蚁灵波连续签约隆盛唯睿、德马科技等企业，具身大脑加速进产线",
+      "link": "https://www.leiphone.com/category/industrynews/sDAmOLZ58Kpz8ZlD.html",
+      "snippet": "蚂蚁集团旗下具身智能公司蚂蚁灵波，正在加速其“通用大脑”的产业落地与价值兑现。 近日，蚂蚁灵波接连与隆盛科技（300680.SZ）控股子公司隆盛唯睿、物流装备与解决方案提供商德马科技（688360.SH）、德尔股份（300473.SZ）旗下机器人公司德迩象网等多家知名智能制造及现代物流企业达成深度战",
+      "pubDate": "Wed, 14 Oct 2026 17:15:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-14T13:22:35.913Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The US military’s race to make fake blood",
+      "link": "https://www.technologyreview.com/2026/10/14/1145807/us-military-race-to-make-fake-blood/",
+      "snippet": "Its call sign was Morphine 1-2.   In February 2007, the hulking dual-­rotor casualty evacuation helicopter had just flown three wounded soldiers to a",
+      "pubDate": "Wed, 14 Oct 2026 09:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Andrew Rosenblum",
+      "fetchedAt": "2026-10-14T13:22:36.759Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "9 Best AI Gateways in 2026: Bifrost, Portkey, LiteLLM, Kong and 5 More Ranked",
+      "link": "https://www.marktechpost.com/2026/10/14/best-ai-gateways-2026/",
+      "snippet": "Marktechpost ranks the 9 best AI gateways for 2026. We compare Bifrost, Portkey, LiteLLM, Kong, TrueFoundry, Cloudflare, Vercel, OpenRouter and Orq.ai",
+      "pubDate": "Wed, 14 Oct 2026 08:57:28 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-14T13:22:38.283Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
+      "link": "https://www.qbitai.com/2026/10/503244.html",
+      "snippet": "这妥妥是个物理版Agent啊！",
+      "pubDate": "Wed, 14 Oct 2026 08:01:18 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LFM2.5-24B-A2B: A 2B-Active MoE for On-Device Agents",
+      "link": "https://www.marktechpost.com/2026/10/14/liquid-ai-lfm2-5-24b-a2b/",
+      "snippet": "Liquid AI released LFM2.5-24B-A2B, an open-weight 24B Mixture-of-Experts reasoning model with 2B active parameters. It targets local agents, scoring 4",
+      "pubDate": "Wed, 14 Oct 2026 07:50:40 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-14T13:22:38.283Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "AI 短剧日产 1500 部：一场全员狂飙下的 「无人生还」",
+      "link": "https://www.leiphone.com/category/ai/M7t0xBzr6K3vaFwi.html",
+      "snippet": "“现在整个短剧行业就是一片混乱，每个人都很焦虑、很迷茫。” 这是过去一个月里，雷峰网与多位 AI 短剧从业者交流时，听到最多的一句话。 上个月刚跑通的流程，这个月平台改了分账规则又得重新算账。好不容易摸清了提示词的写法，AI 视频生成工具一更新经验立马作废。甲方的尾款还没到账，下一部剧的制作成本已经",
+      "pubDate": "Wed, 14 Oct 2026 15:42:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-14T13:22:35.913Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "爱诗科技香港办公室正式开幕，落地数码港共建香港AI枢纽",
+      "link": "https://www.leiphone.com/category/ai/K1JlUdh4evr88zDa.html",
+      "snippet": "香港，2026年10月13日——全球领先的AI视频大模型公司爱诗科技（AIsphere）今日宣布其香港办公室在香港数码港正式开幕。其香港办公室不仅是办公空间，更定位为辐射本地企业、政府机构、高校及创作者的AI枢纽。 开幕当日香港办公室即投入运营，公司日后将招募更多本地员工并持续举办面向产业的专场活动",
+      "pubDate": "Wed, 14 Oct 2026 15:18:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-14T13:22:35.913Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "link": "https://www.qbitai.com/2026/10/503231.html",
+      "snippet": "汽车竞争正在回归汽车本身",
+      "pubDate": "Wed, 14 Oct 2026 07:12:02 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "link": "https://www.qbitai.com/2026/10/503211.html",
+      "snippet": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "pubDate": "Wed, 14 Oct 2026 07:03:44 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦瑶",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
+      "link": "https://www.qbitai.com/2026/10/503201.html",
+      "snippet": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+      "pubDate": "Wed, 14 Oct 2026 06:45:38 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "千问办公发布电商版，开启邀测",
+      "link": "https://www.leiphone.com/category/industrynews/eg8S5cDorgtGnzPy.html",
+      "snippet": "10月14日，千问办公发布针对电商行业的AI生产力工具——千问办公电商版，助力商家运营方式升级。目前，千问办公电商版已开启邀测，用户在千问办公中切换“电商经营”模式即可体验。针对电商客户的日常工作场景，千问办公推出“跨平台经营看板”“趋势洞察及卖点分析”“爆款素材批量生成”“跨平台ROI智能优化”等",
+      "pubDate": "Wed, 14 Oct 2026 14:31:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-14T13:22:35.913Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "豆包工作上线新功能，支持跨AI产品一键导入已有配置",
+      "link": "https://www.leiphone.com/category/industrynews/x7Ukz8feAE9FBQsy.html",
+      "snippet": "近期，豆包工作持续更新，上线“数据导入与同步”功能，支持从其他AI产品一键导入数据，并推出“在新对话中继续”、消息注释和对话摘要侧栏等能力，进一步优化工作任务中的对话体验。 据介绍，豆包工作的“数据导入与同步”功能支持从 ChatGPT、Claude Code、TraeWork 等已适配产品，一键导",
+      "pubDate": "Wed, 14 Oct 2026 14:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-14T13:22:35.913Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "MemSilicon完成国际首款高密度、大容量1T4R 1Gb RRAM芯片流片",
+      "link": "https://www.qbitai.com/2026/10/503198.html",
+      "snippet": "CMOS标准工艺兼容的1TnR技术路线加速研发。",
+      "pubDate": "Wed, 14 Oct 2026 06:24:00 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "腾讯AI办公再进一步，企业微信与WorkBuddy深度联合",
+      "link": "https://www.leiphone.com/category/industrynews/7m8YMd1LU7x6aDvM.html",
+      "snippet": "10月14日，腾讯旗下两大用户规模领先的办公产品——企业微信与 WorkBuddy 联合发布新版本，实现双向深度联合。此次升级后，WorkBuddy 正式进入企业微信通讯录，可调用企微的工作上下文，二者共用一套企业微信账号体系。此次更新将腾讯长期积累的连接能力，与智能体的理解和执行能力结合，深入企业",
+      "pubDate": "Wed, 14 Oct 2026 13:57:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-14T13:22:35.913Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
@@ -19,7 +326,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-14T07:12:39.076Z",
+      "fetchedAt": "2026-10-14T13:22:38.283Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -36,7 +343,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-10-14T07:12:30.505Z",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
       "tags": [
         "商业融资"
       ]
@@ -52,7 +359,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-14T07:12:30.505Z",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
       "tags": [
         "AI应用"
       ]
@@ -68,7 +375,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-14T07:12:30.505Z",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
       "tags": [
         "大模型"
       ]
@@ -84,7 +391,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:36.527Z",
+      "fetchedAt": "2026-10-14T13:22:35.913Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +407,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-10-14T07:12:30.505Z",
+      "fetchedAt": "2026-10-14T13:22:31.346Z",
       "tags": [
         "AI应用"
       ]
@@ -116,10 +423,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:36.527Z",
+      "fetchedAt": "2026-10-14T13:22:35.913Z",
       "tags": [
         "AI应用",
         "政策监管"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "The EU’s next chapter in AI is agentic",
+      "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "snippet": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "pubDate": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-14T13:22:37.861Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -133,7 +456,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
       "tags": [
         "综合"
       ]
@@ -149,7 +472,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
       "tags": [
         "AI应用"
       ]
@@ -165,7 +488,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +504,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-14T07:12:39.076Z",
+      "fetchedAt": "2026-10-14T13:22:38.283Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -198,7 +521,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
       "tags": [
         "综合"
       ]
@@ -214,25 +537,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-14T07:12:39.076Z",
+      "fetchedAt": "2026-10-14T13:22:38.283Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "iPhone断网跑35B多模态！国产开源新模型，只占3G内存",
-      "link": "https://www.qbitai.com/2026/10/503109.html",
-      "snippet": "面壁开源MiniCPM-V 4.7",
-      "pubDate": "Tue, 13 Oct 2026 20:55:15 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "十三",
-      "fetchedAt": "2026-10-14T07:12:30.505Z",
-      "tags": [
-        "开源工具"
       ]
     },
     {
@@ -246,7 +553,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
+      "fetchedAt": "2026-10-14T13:22:36.424Z",
       "tags": [
         "学术研究"
       ]
@@ -262,7 +569,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
       "tags": [
         "AI应用"
       ]
@@ -278,7 +585,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
+      "fetchedAt": "2026-10-14T13:22:36.424Z",
       "tags": [
         "综合"
       ]
@@ -294,7 +601,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
+      "fetchedAt": "2026-10-14T13:22:36.424Z",
       "tags": [
         "综合"
       ]
@@ -310,7 +617,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
       "tags": [
         "综合"
       ]
@@ -326,7 +633,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-14T07:12:38.237Z",
+      "fetchedAt": "2026-10-14T13:22:37.436Z",
       "tags": [
         "综合"
       ]
@@ -342,7 +649,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
       "tags": [
         "AI应用"
       ]
@@ -358,7 +665,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
+      "fetchedAt": "2026-10-14T13:22:36.424Z",
       "tags": [
         "政策监管"
       ]
@@ -374,7 +681,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.170Z",
       "tags": [
         "综合"
       ]
@@ -390,7 +697,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.171Z",
       "tags": [
         "开源工具"
       ]
@@ -406,7 +713,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
+      "fetchedAt": "2026-10-14T13:22:36.424Z",
       "tags": [
         "AI应用"
       ]
@@ -422,7 +729,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-14T07:12:38.237Z",
+      "fetchedAt": "2026-10-14T13:22:37.436Z",
       "tags": [
         "AI应用"
       ]
@@ -438,7 +745,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.171Z",
       "tags": [
         "AI应用"
       ]
@@ -454,7 +761,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
+      "fetchedAt": "2026-10-14T13:22:36.424Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +777,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
+      "fetchedAt": "2026-10-14T13:22:36.424Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +793,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
+      "fetchedAt": "2026-10-14T13:22:36.171Z",
       "tags": [
         "综合"
       ]
@@ -502,316 +809,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-14T07:12:38.237Z",
+      "fetchedAt": "2026-10-14T13:22:37.436Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google finally releases Gemini 4 Argon",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "snippet": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can comp",
-      "pubDate": "2026-10-13T16:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "They war-gamed dimming the Sun. It went even worse than you think.",
-      "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "snippet": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
-      "pubDate": "Tue, 13 Oct 2026 15:17:59 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Karl Mathiesen, WIRED.com\n                ",
-      "fetchedAt": "2026-10-14T07:12:38.237Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game",
-      "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
-      "snippet": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, accor",
-      "pubDate": "2026-10-13T15:12:59.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "TechCrunch Disrupt 2026: Day 1",
-      "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
-      "snippet": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register f",
-      "pubDate": "Tue, 13 Oct 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
-      "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
-      "snippet": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lo",
-      "pubDate": "2026-10-13T13:55:45.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-14T07:12:37.134Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
-      "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-      "snippet": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
-      "pubDate": "Tue, 13 Oct 2026 13:50:19 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-      "snippet": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 o",
-      "pubDate": "Tue, 13 Oct 2026 13:28:06 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-      "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-      "snippet": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing c",
-      "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-      "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-      "snippet": "The startup will sell some of its assets to Disney for $20 million.",
-      "pubDate": "Tue, 13 Oct 2026 12:23:42 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-14T07:12:36.800Z",
-      "tags": [
-        "商业融资",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "link": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models",
-      "pubDate": "Tue, 13 Oct 2026 12:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-14T07:12:37.461Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "link": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "snippet": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "pubDate": "Tue, 13 Oct 2026 12:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-14T07:12:38.649Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
-      "link": "https://www.qbitai.com/2026/10/503107.html",
-      "snippet": "让VLA从“演示可用”逼近“产线可用”",
-      "pubDate": "Tue, 13 Oct 2026 11:05:39 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-14T07:12:30.505Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Open models have real benefits. Do they outweigh the risks?",
-      "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-      "snippet": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next.",
-      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Grace Huckins",
-      "fetchedAt": "2026-10-14T07:12:37.461Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "link": "https://www.qbitai.com/2026/10/503093.html",
-      "snippet": "Winverse AI",
-      "pubDate": "Tue, 13 Oct 2026 09:33:37 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-14T07:12:30.505Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨字节最早天使投资人，投了一家 AI 音乐硬件公司",
-      "link": "https://www.leiphone.com/category/weiwu/i0pZU5QKhkvoVvig.html",
-      "snippet": "SUAVE 目前已有 demo，产品计划 2027 年初上市。 作者丨黄艳冰  编辑丨董子博          雷峰网·鲸犀独家获悉，AI 音乐生成创作硬件公司 SUAVE 已完成千万级种子轮融资，投资方为海纳无限（HINA），资金将主要用于量产机型的软硬件研发。 据了解，海纳无限是由海纳亚洲中国团",
-      "pubDate": "Tue, 13 Oct 2026 17:20:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-14T07:12:36.527Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "AI labs are buying data from dead startups to train their models",
-      "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-      "snippet": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company ju",
-      "pubDate": "Tue, 13 Oct 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Matthew King",
-      "fetchedAt": "2026-10-14T07:12:37.461Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Z.ai GLM-Legal Beats Claude Fable 5 and Kimi K3 on Harvey LAB",
-      "link": "https://www.marktechpost.com/2026/10/13/zai-glm-legal-harvey-lab-legal-ai-model/",
-      "snippet": "Z.ai’s GLM-Legal is a legal AI model built on GLM-5.3-Flash. It scores 19.2% all-pass on Harvey’s Legal Agent Benchmark, nearly 3x its base, at $0.15",
-      "pubDate": "Tue, 13 Oct 2026 08:19:54 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-14T07:12:39.076Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中秋国庆影像数据出炉：大疆Pocket系列拿下云台相机9成市场份额",
-      "link": "https://www.leiphone.com/category/industrynews/fhYapSsp1iE9H2OM.html",
-      "snippet": "中秋与国庆相连的长假，是全年出行记录需求最集中的窗口。当家庭自驾、亲子旅行与返乡团聚压缩在同一段时间，“随身带一台相机”从兴趣项变成了许多人的出行必备。 10月13日，市场研究机构洛图科技（RUNTO）发布《中国手持智能相机线上零售市场周度追踪》报告。数据显示，2026年中秋国庆出行季（第38–40",
-      "pubDate": "Tue, 13 Oct 2026 15:40:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-14T07:12:36.527Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
-      "link": "https://www.qbitai.com/2026/10/502992.html",
-      "snippet": "宝马保时捷缺席",
-      "pubDate": "Tue, 13 Oct 2026 07:20:23 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-10-14T07:12:30.505Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
