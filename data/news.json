@@ -1,25 +1,139 @@
 {
-  "generatedAt": "2026-10-14T01:05:10.573Z",
+  "generatedAt": "2026-10-14T07:21:26.590Z",
   "stats": {
-    "total": 105,
+    "total": 104,
     "shown": 50,
     "chinese": 29,
-    "english": 76,
-    "today": 0
+    "english": 75,
+    "today": 7
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Releases Gemini 4 Argon API With 1M Token Output Limit",
+      "link": "https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/",
+      "snippet": "Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens",
+      "pubDate": "Wed, 14 Oct 2026 05:03:34 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-14T07:12:39.076Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "国内最年轻AI教授创业：要让世界模型走向全身全模态",
+      "link": "https://www.qbitai.com/2026/10/503172.html",
+      "snippet": "给Ego补上缺失的交互信息",
+      "pubDate": "Wed, 14 Oct 2026 04:51:32 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-10-14T07:12:30.505Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地",
+      "link": "https://www.qbitai.com/2026/10/503173.html",
+      "snippet": "从“懂空间”到“能干活”",
+      "pubDate": "Wed, 14 Oct 2026 04:09:29 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-14T07:12:30.505Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent",
+      "link": "https://www.qbitai.com/2026/10/503165.html",
+      "snippet": "10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent",
+      "pubDate": "Wed, 14 Oct 2026 03:32:48 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-14T07:12:30.505Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026",
+      "link": "https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html",
+      "snippet": "剖析视觉与动作脱节，引入 TR 指标与自适应引导，重构具身泛化机制。            作者丨张璐      编辑丨岑峰",
+      "pubDate": "Wed, 14 Oct 2026 10:35:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-14T07:12:36.527Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！",
+      "link": "https://www.qbitai.com/2026/10/503157.html",
+      "snippet": "一次采集，反复使用",
+      "pubDate": "Wed, 14 Oct 2026 02:14:50 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-10-14T07:12:30.505Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点",
+      "link": "https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html",
+      "snippet": "打通企业上下文或只是Agent智能体走进企业办公场景的开始，“成本效率是否可管控、安全合规是否可追溯，应用效果是否可优化”企业经营管理最关心的核心问题。 10月13日，腾讯 WorkBuddy 企业版管理后台上线“可观测中心”，作为企业级 Agent 智能体运行管理的「仪表盘」——从统计观测到轨迹分",
+      "pubDate": "Wed, 14 Oct 2026 09:36:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-14T07:12:36.527Z",
+      "tags": [
+        "AI应用",
+        "政策监管"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
       "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-      "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its",
+      "snippet": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its p",
       "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +149,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +165,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +181,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-14T00:55:19.205Z",
+      "fetchedAt": "2026-10-14T07:12:39.076Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -84,7 +198,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +214,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-14T00:55:19.205Z",
+      "fetchedAt": "2026-10-14T07:12:39.076Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +230,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-10-14T00:55:12.078Z",
+      "fetchedAt": "2026-10-14T07:12:30.505Z",
       "tags": [
         "开源工具"
       ]
@@ -132,7 +246,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "学术研究"
       ]
@@ -148,7 +262,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +278,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +294,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +310,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +326,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-14T00:55:18.102Z",
+      "fetchedAt": "2026-10-14T07:12:38.237Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +342,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "AI应用"
       ]
@@ -244,7 +358,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "政策监管"
       ]
@@ -260,7 +374,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +390,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "开源工具"
       ]
@@ -292,7 +406,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +422,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-14T00:55:18.102Z",
+      "fetchedAt": "2026-10-14T07:12:38.237Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +438,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +454,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "AI应用"
       ]
@@ -356,7 +470,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +486,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +502,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-14T00:55:18.102Z",
+      "fetchedAt": "2026-10-14T07:12:38.237Z",
       "tags": [
         "大模型"
       ]
@@ -404,7 +518,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -421,7 +535,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Karl Mathiesen, WIRED.com\n                ",
-      "fetchedAt": "2026-10-14T00:55:18.102Z",
+      "fetchedAt": "2026-10-14T07:12:38.237Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +551,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "AI应用"
       ]
@@ -453,7 +567,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "综合"
       ]
@@ -469,7 +583,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.741Z",
+      "fetchedAt": "2026-10-14T07:12:37.134Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +599,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "AI应用"
       ]
@@ -501,7 +615,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +631,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "开源工具"
       ]
@@ -533,7 +647,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-14T00:55:16.357Z",
+      "fetchedAt": "2026-10-14T07:12:36.800Z",
       "tags": [
         "商业融资",
         "政策监管"
@@ -550,7 +664,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-14T00:55:17.195Z",
+      "fetchedAt": "2026-10-14T07:12:37.461Z",
       "tags": [
         "综合"
       ]
@@ -566,7 +680,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:18.697Z",
+      "fetchedAt": "2026-10-14T07:12:38.649Z",
       "tags": [
         "大模型"
       ]
@@ -582,7 +696,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-14T00:55:12.078Z",
+      "fetchedAt": "2026-10-14T07:12:30.505Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +712,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-10-14T00:55:17.195Z",
+      "fetchedAt": "2026-10-14T07:12:37.461Z",
       "tags": [
         "综合"
       ]
@@ -614,7 +728,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-14T00:55:12.078Z",
+      "fetchedAt": "2026-10-14T07:12:30.505Z",
       "tags": [
         "大模型"
       ]
@@ -630,7 +744,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.002Z",
+      "fetchedAt": "2026-10-14T07:12:36.527Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -647,7 +761,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Matthew King",
-      "fetchedAt": "2026-10-14T00:55:17.195Z",
+      "fetchedAt": "2026-10-14T07:12:37.461Z",
       "tags": [
         "商业融资"
       ]
@@ -663,7 +777,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-14T00:55:19.205Z",
+      "fetchedAt": "2026-10-14T07:12:39.076Z",
       "tags": [
         "大模型"
       ]
@@ -679,7 +793,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.002Z",
+      "fetchedAt": "2026-10-14T07:12:36.527Z",
       "tags": [
         "AI应用"
       ]
@@ -695,122 +809,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-10-14T00:55:12.078Z",
+      "fetchedAt": "2026-10-14T07:12:30.505Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "link": "https://www.qbitai.com/2026/10/502954.html",
-      "snippet": "让材料感知压力，造出超薄高密度电子皮肤",
-      "pubDate": "Tue, 13 Oct 2026 07:19:21 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-10-14T00:55:12.078Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "link": "https://www.qbitai.com/2026/10/502920.html",
-      "snippet": "拉马克进化的幽灵",
-      "pubDate": "Tue, 13 Oct 2026 06:19:10 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-10-14T00:55:12.079Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档",
-      "link": "https://www.qbitai.com/2026/10/502907.html",
-      "snippet": "由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档",
-      "pubDate": "Tue, 13 Oct 2026 06:00:20 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-14T00:55:12.079Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”",
-      "link": "https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html",
-      "snippet": "它覆盖 23.5 平方公里，相当于 3291 个标准足球场，由 18.6 万张航拍与地面影像、150 亿个雷达点云训练而成，规模达 62 亿个高斯椭球。镇口的牌坊、红顶白墙的街区、通向远方的道路与山前转动的风机，都被收进了同一个连续的模型里。  这个模型，出现在中央广播电视总台重点纪录片《闽宁大道》",
-      "pubDate": "Tue, 13 Oct 2026 13:50:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.002Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "字节跳动 Seed 单独设立大模型安全与对齐部门",
-      "link": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
-      "snippet": "字节跳动 Seed 近日发出内部邮件，宣布将成立“Seed Model-Alignment&Preparedness”部门，由严林负责，汇报给 Seed 负责人吴永辉。原 Responsible AI 团队及部分 Chat 团队成员将转入新部门。 据悉，该部门的设立旨在加强安全与对齐方向的投入，对齐",
-      "pubDate": "Tue, 13 Oct 2026 13:43:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.002Z",
-      "tags": [
-        "政策监管",
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "拓竹官宣首款3D扫描仪，进军个人制造全品类",
-      "link": "https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html",
-      "snippet": "据拓竹科技（以下简称“拓竹”）官方消息，旗下首款3D扫描仪S1将于11月开售。这是拓竹首次进军3D扫描品类，意味着其产品版图从3D打印、激光切割、UV打印，进一步延伸至“现实数字化”入口。  行业公开数据显示，2025年全球消费级3D扫描仪市场规模约31亿美元，预计2035年将增长至68亿美元以上，",
-      "pubDate": "Tue, 13 Oct 2026 13:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.002Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "海尔官宣孙颖莎成为全球品牌代言人",
-      "link": "https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html",
-      "snippet": "10月13日，海尔正式官宣孙颖莎成为全球品牌代言人。双方将以“爱莎莎 AI在家”为主题，携手开启智慧生活新征程。一边是赛场上以实力和热忱持续领先的乒乓球运动员，一边是连续17年全球大家电零售量第一的领航品牌，双方因对专注、创新与卓越的共同追求而携手，也将共同把这份创造美好的期许带进日常生活，为全球用",
-      "pubDate": "Tue, 13 Oct 2026 13:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-14T00:55:16.002Z",
-      "tags": [
-        "商业融资"
       ]
     }
   ]

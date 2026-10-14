@@ -28,7 +28,7 @@
         <span class="logo-text">AI 新闻日报</span>
       </a>
       <div class="header-stats">
-        今日 <strong>0 条</strong> · 共 105 条
+        今日 <strong>7 条</strong> · 共 104 条
       </div>
     </div>
     <div class="header-right">
@@ -51,7 +51,7 @@
     <div class="hero-stats">
       <div class="hero-stat">
         <span class="hero-stat-icon">📰</span>
-        <span>今日 <strong>0</strong> 篇</span>
+        <span>今日 <strong>7</strong> 篇</span>
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🇨🇳</span>
@@ -59,7 +59,7 @@
       </div>
       <div class="hero-stat">
         <span class="hero-stat-icon">🌐</span>
-        <span>英文 <strong>76</strong> 篇</span>
+        <span>英文 <strong>75</strong> 篇</span>
       </div>
     </div>
   </div>
@@ -80,9 +80,9 @@
 
     <!-- ====== Language Filter ====== -->
     <div class="filter-bar">
-      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">105</span></button>
+      <button class="filter-tab active" data-filter-group="lang" data-filter-value="all" onclick="setFilter('lang', 'all', this)">全部<span class="filter-count">104</span></button>
       <button class="filter-tab" data-filter-group="lang" data-filter-value="zh" onclick="setFilter('lang', 'zh', this)">🇨🇳 中文<span class="filter-count">29</span></button>
-      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">76</span></button>
+      <button class="filter-tab" data-filter-group="lang" data-filter-value="en" onclick="setFilter('lang', 'en', this)">🌐 English<span class="filter-count">75</span></button>
     </div>
 
     <!-- ====== Time Filter ====== -->
@@ -117,11 +117,212 @@
       <p>没有匹配的新闻</p>
     </div>
 
+    <section class="date-section" data-date="今日">
+      <div class="date-heading">
+        <span class="date-icon">📅</span>
+        <span class="date-label">今日</span>
+        <span class="date-count">7 篇</span>
+      </div>
+
+      <div class="news-grid">
+        <article class="news-card scroll-hidden" data-lang="en" data-url="https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/" data-date="今日" data-tags='[&quot;AI应用&quot;,&quot;大模型&quot;]' data-pubdate="Wed, 14 Oct 2026 05:03:34 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#3b6df0"></span>
+              MarkTechPost
+            </span>
+            <span class="card-lang-tag en">
+              EN
+            </span>
+            <span class="card-time" data-pubdate="Wed, 14 Oct 2026 05:03:34 +0000" title="Wed, 14 Oct 2026 05:03:34 +0000">2 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/" target="_blank" rel="noopener">Google Releases Gemini 4 Argon API With 1M Token Output Limit</a>
+          </h3>
+
+          <p class="card-snippet">Google has made Gemini 4 Argon generally available on the Gemini API, AI Studio and the Gemini app. The sparse MoE model writes up to 1M output tokens</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
+            </div>
+            <a href="https://www.marktechpost.com/2026/10/13/google-gemini-4-argon-api-release/" target="_blank" rel="noopener" class="read-btn">
+              📖 Read Article
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/503172.html" data-date="今日" data-tags='[&quot;商业融资&quot;]' data-pubdate="Wed, 14 Oct 2026 04:51:32 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Wed, 14 Oct 2026 04:51:32 +0000" title="Wed, 14 Oct 2026 04:51:32 +0000">2 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/10/503172.html" target="_blank" rel="noopener">国内最年轻AI教授创业：要让世界模型走向全身全模态</a>
+          </h3>
+
+          <p class="card-snippet">给Ego补上缺失的交互信息</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/10/503172.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/503173.html" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Wed, 14 Oct 2026 04:09:29 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Wed, 14 Oct 2026 04:09:29 +0000" title="Wed, 14 Oct 2026 04:09:29 +0000">3 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/10/503173.html" target="_blank" rel="noopener">调度效率提升80%！商汤大装置助力上海量子城市首批智能体落地</a>
+          </h3>
+
+          <p class="card-snippet">从“懂空间”到“能干活”</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/10/503173.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/503165.html" data-date="今日" data-tags='[&quot;大模型&quot;]' data-pubdate="Wed, 14 Oct 2026 03:32:48 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Wed, 14 Oct 2026 03:32:48 +0000" title="Wed, 14 Oct 2026 03:32:48 +0000">3 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/10/503165.html" target="_blank" rel="noopener">响应速度比Claude Code快3倍，实现真正无限上下文！APUS AI开源Reflex Agent</a>
+          </h3>
+
+          <p class="card-snippet">10月13日，APUS AI（麒麟合盛网络技术股份有限公司）宣布开源Personal Agent产品Reflex Agent</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/10/503165.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html" data-date="今日" data-tags='[&quot;综合&quot;]' data-pubdate="Wed, 14 Oct 2026 10:35:00 +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#c62828"></span>
+              雷锋网
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Wed, 14 Oct 2026 10:35:00 +0800" title="Wed, 14 Oct 2026 10:35:00 +0800">4 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html" target="_blank" rel="noopener">宾大茅佳源：从单次演示到 83% 真机泛化，破解具身智能数据困局｜IROS 2026</a>
+          </h3>
+
+          <p class="card-snippet">剖析视觉与动作脱节，引入 TR 指标与自适应引导，重构具身泛化机制。            作者丨张璐      编辑丨岑峰</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
+            </div>
+            <a href="https://www.leiphone.com/category/private/x6DMLw9up0rlycKH.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/503157.html" data-date="今日" data-tags='[&quot;AI应用&quot;]' data-pubdate="Wed, 14 Oct 2026 02:14:50 +0000">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#e65100"></span>
+              量子位
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Wed, 14 Oct 2026 02:14:50 +0000" title="Wed, 14 Oct 2026 02:14:50 +0000">5 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.qbitai.com/2026/10/503157.html" target="_blank" rel="noopener">告别资料散落，让知识持续积累：openJiuwen首发个人知识空间，重塑个人办公智能体新体验！</a>
+          </h3>
+
+          <p class="card-snippet">一次采集，反复使用</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+            </div>
+            <a href="https://www.qbitai.com/2026/10/503157.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html" data-date="今日" data-tags='[&quot;AI应用&quot;,&quot;政策监管&quot;]' data-pubdate="Wed, 14 Oct 2026 09:36:00 +0800">
+          <div class="card-hd">
+            <span class="card-source">
+              <span class="card-source-dot" style="background:#c62828"></span>
+              雷锋网
+            </span>
+            <span class="card-lang-tag zh">
+              中
+            </span>
+            <span class="card-time" data-pubdate="Wed, 14 Oct 2026 09:36:00 +0800" title="Wed, 14 Oct 2026 09:36:00 +0800">5 小时前</span>
+          </div>
+
+          <h3 class="card-title">
+            <a href="https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html" target="_blank" rel="noopener">腾讯WorkBuddy企业版上线「可观测中心」破解规模化用Agent四大痛点</a>
+          </h3>
+
+          <p class="card-snippet">打通企业上下文或只是Agent智能体走进企业办公场景的开始，“成本效率是否可管控、安全合规是否可追溯，应用效果是否可优化”企业经营管理最关心的核心问题。 10月13日，腾讯 WorkBuddy 企业版管理后台上线“可观测中心”，作为企业级 Agent 智能体运行管理的「仪表盘」——从统计观测到轨迹分</p>
+
+          <div class="card-ft">
+            <div class="card-tags">
+              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
+              <span class="card-tag policy" onclick="event.stopPropagation(); filterByTag('政策监管')">政策监管</span>
+            </div>
+            <a href="https://www.leiphone.com/category/industrynews/f1Qk7Zv1CTpAQhYX.html" target="_blank" rel="noopener" class="read-btn">
+              📖 阅读原文
+            </a>
+          </div>
+        </article>
+      </div>
+    </section>
     <section class="date-section" data-date="昨天">
       <div class="date-heading">
         <span class="date-icon">📆</span>
         <span class="date-label">昨天</span>
-        <span class="date-count">50 篇</span>
+        <span class="date-count">43 篇</span>
       </div>
 
       <div class="news-grid">
@@ -134,14 +335,14 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 23:13:31 +0000" title="Tue, 13 Oct 2026 23:13:31 +0000">1 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 23:13:31 +0000" title="Tue, 13 Oct 2026 23:13:31 +0000">8 小时前</span>
           </div>
 
           <h3 class="card-title">
             <a href="https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/" target="_blank" rel="noopener">Science Corporation implants its vision-restoring chip in its first Stargardt disease patient</a>
           </h3>
 
-          <p class="card-snippet">Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company&#x27;s work with PRIMA is part of its</p>
+          <p class="card-snippet">Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company&#x27;s work with PRIMA is part of its p</p>
 
           <div class="card-ft">
             <div class="card-tags">
@@ -161,7 +362,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 23:05:34 +0000" title="Tue, 13 Oct 2026 23:05:34 +0000">1 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 23:05:34 +0000" title="Tue, 13 Oct 2026 23:05:34 +0000">8 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -188,7 +389,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 23:00:00 +0000" title="Tue, 13 Oct 2026 23:00:00 +0000">2 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 23:00:00 +0000" title="Tue, 13 Oct 2026 23:00:00 +0000">8 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -215,7 +416,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 22:53:44 +0000" title="Tue, 13 Oct 2026 22:53:44 +0000">2 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 22:53:44 +0000" title="Tue, 13 Oct 2026 22:53:44 +0000">8 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -243,7 +444,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 22:36:59 +0000" title="Tue, 13 Oct 2026 22:36:59 +0000">2 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 22:36:59 +0000" title="Tue, 13 Oct 2026 22:36:59 +0000">8 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -270,7 +471,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 22:14:20 +0000" title="Tue, 13 Oct 2026 22:14:20 +0000">2 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 22:14:20 +0000" title="Tue, 13 Oct 2026 22:14:20 +0000">9 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -297,7 +498,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 20:55:15 +0000" title="Tue, 13 Oct 2026 20:55:15 +0000">4 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 20:55:15 +0000" title="Tue, 13 Oct 2026 20:55:15 +0000">10 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -324,7 +525,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T20:45:25.000Z" title="2026-10-13T20:45:25.000Z">4 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T20:45:25.000Z" title="2026-10-13T20:45:25.000Z">10 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -351,7 +552,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 20:36:44 +0000" title="Tue, 13 Oct 2026 20:36:44 +0000">4 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 20:36:44 +0000" title="Tue, 13 Oct 2026 20:36:44 +0000">10 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -378,7 +579,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T19:42:42.000Z" title="2026-10-13T19:42:42.000Z">5 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T19:42:42.000Z" title="2026-10-13T19:42:42.000Z">11 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -405,7 +606,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T19:00:48.000Z" title="2026-10-13T19:00:48.000Z">6 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T19:00:48.000Z" title="2026-10-13T19:00:48.000Z">12 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -432,7 +633,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 18:30:00 +0000" title="Tue, 13 Oct 2026 18:30:00 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 18:30:00 +0000" title="Tue, 13 Oct 2026 18:30:00 +0000">12 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -459,7 +660,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 18:23:33 +0000" title="Tue, 13 Oct 2026 18:23:33 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 18:23:33 +0000" title="Tue, 13 Oct 2026 18:23:33 +0000">12 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -486,7 +687,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 18:05:24 +0000" title="Tue, 13 Oct 2026 18:05:24 +0000">6 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 18:05:24 +0000" title="Tue, 13 Oct 2026 18:05:24 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -513,7 +714,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T18:00:00.000Z" title="2026-10-13T18:00:00.000Z">7 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T18:00:00.000Z" title="2026-10-13T18:00:00.000Z">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -540,7 +741,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:30:00 +0000" title="Tue, 13 Oct 2026 17:30:00 +0000">7 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:30:00 +0000" title="Tue, 13 Oct 2026 17:30:00 +0000">13 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -567,7 +768,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:18:25 +0000" title="Tue, 13 Oct 2026 17:18:25 +0000">7 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:18:25 +0000" title="Tue, 13 Oct 2026 17:18:25 +0000">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -594,7 +795,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T17:01:31.000Z" title="2026-10-13T17:01:31.000Z">8 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T17:01:31.000Z" title="2026-10-13T17:01:31.000Z">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -621,7 +822,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:00:39 +0000" title="Tue, 13 Oct 2026 17:00:39 +0000">8 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:00:39 +0000" title="Tue, 13 Oct 2026 17:00:39 +0000">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -648,7 +849,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:00:00 +0000" title="Tue, 13 Oct 2026 17:00:00 +0000">8 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:00:00 +0000" title="Tue, 13 Oct 2026 17:00:00 +0000">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -675,7 +876,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T17:00:00.000Z" title="2026-10-13T17:00:00.000Z">8 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T17:00:00.000Z" title="2026-10-13T17:00:00.000Z">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -702,7 +903,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T16:42:51.000Z" title="2026-10-13T16:42:51.000Z">8 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T16:42:51.000Z" title="2026-10-13T16:42:51.000Z">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -729,7 +930,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 16:30:00 +0000" title="Tue, 13 Oct 2026 16:30:00 +0000">8 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 16:30:00 +0000" title="Tue, 13 Oct 2026 16:30:00 +0000">14 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -756,7 +957,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 16:00:02 +0000" title="Tue, 13 Oct 2026 16:00:02 +0000">9 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 16:00:02 +0000" title="Tue, 13 Oct 2026 16:00:02 +0000">15 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -783,7 +984,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T16:00:00.000Z" title="2026-10-13T16:00:00.000Z">9 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T16:00:00.000Z" title="2026-10-13T16:00:00.000Z">15 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -811,7 +1012,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 15:17:59 +0000" title="Tue, 13 Oct 2026 15:17:59 +0000">9 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 15:17:59 +0000" title="Tue, 13 Oct 2026 15:17:59 +0000">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -838,7 +1039,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T15:12:59.000Z" title="2026-10-13T15:12:59.000Z">9 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T15:12:59.000Z" title="2026-10-13T15:12:59.000Z">16 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -865,7 +1066,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 14:00:00 +0000" title="Tue, 13 Oct 2026 14:00:00 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 14:00:00 +0000" title="Tue, 13 Oct 2026 14:00:00 +0000">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -892,7 +1093,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="2026-10-13T13:55:45.000Z" title="2026-10-13T13:55:45.000Z">11 小时前</span>
+            <span class="card-time" data-pubdate="2026-10-13T13:55:45.000Z" title="2026-10-13T13:55:45.000Z">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -919,7 +1120,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:50:19 +0000" title="Tue, 13 Oct 2026 13:50:19 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:50:19 +0000" title="Tue, 13 Oct 2026 13:50:19 +0000">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -946,7 +1147,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:28:06 +0000" title="Tue, 13 Oct 2026 13:28:06 +0000">11 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:28:06 +0000" title="Tue, 13 Oct 2026 13:28:06 +0000">17 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -973,7 +1174,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:00:00 +0000" title="Tue, 13 Oct 2026 13:00:00 +0000">12 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:00:00 +0000" title="Tue, 13 Oct 2026 13:00:00 +0000">18 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1000,7 +1201,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 12:23:42 +0000" title="Tue, 13 Oct 2026 12:23:42 +0000">12 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 12:23:42 +0000" title="Tue, 13 Oct 2026 12:23:42 +0000">18 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1028,7 +1229,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 12:00:00 +0000" title="Tue, 13 Oct 2026 12:00:00 +0000">13 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 12:00:00 +0000" title="Tue, 13 Oct 2026 12:00:00 +0000">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1055,7 +1256,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 12:00:00 GMT" title="Tue, 13 Oct 2026 12:00:00 GMT">13 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 12:00:00 GMT" title="Tue, 13 Oct 2026 12:00:00 GMT">19 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1082,7 +1283,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 11:05:39 +0000" title="Tue, 13 Oct 2026 11:05:39 +0000">13 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 11:05:39 +0000" title="Tue, 13 Oct 2026 11:05:39 +0000">20 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1109,7 +1310,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 10:00:00 +0000" title="Tue, 13 Oct 2026 10:00:00 +0000">15 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 10:00:00 +0000" title="Tue, 13 Oct 2026 10:00:00 +0000">21 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1136,7 +1337,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 09:33:37 +0000" title="Tue, 13 Oct 2026 09:33:37 +0000">15 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 09:33:37 +0000" title="Tue, 13 Oct 2026 09:33:37 +0000">21 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1163,7 +1364,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:20:00 +0800" title="Tue, 13 Oct 2026 17:20:00 +0800">15 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 17:20:00 +0800" title="Tue, 13 Oct 2026 17:20:00 +0800">22 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1191,7 +1392,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 09:00:00 +0000" title="Tue, 13 Oct 2026 09:00:00 +0000">16 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 09:00:00 +0000" title="Tue, 13 Oct 2026 09:00:00 +0000">22 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1218,7 +1419,7 @@
             <span class="card-lang-tag en">
               EN
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 08:19:54 +0000" title="Tue, 13 Oct 2026 08:19:54 +0000">16 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 08:19:54 +0000" title="Tue, 13 Oct 2026 08:19:54 +0000">23 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1245,7 +1446,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 15:40:00 +0800" title="Tue, 13 Oct 2026 15:40:00 +0800">17 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 15:40:00 +0800" title="Tue, 13 Oct 2026 15:40:00 +0800">23 小时前</span>
           </div>
 
           <h3 class="card-title">
@@ -1272,7 +1473,7 @@
             <span class="card-lang-tag zh">
               中
             </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 07:20:23 +0000" title="Tue, 13 Oct 2026 07:20:23 +0000">17 小时前</span>
+            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 07:20:23 +0000" title="Tue, 13 Oct 2026 07:20:23 +0000">昨天</span>
           </div>
 
           <h3 class="card-title">
@@ -1286,196 +1487,6 @@
               <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
             </div>
             <a href="https://www.qbitai.com/2026/10/502992.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/502954.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Tue, 13 Oct 2026 07:19:21 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 07:19:21 +0000" title="Tue, 13 Oct 2026 07:19:21 +0000">17 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/10/502954.html" target="_blank" rel="noopener">华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁</a>
-          </h3>
-
-          <p class="card-snippet">让材料感知压力，造出超薄高密度电子皮肤</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/10/502954.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/502920.html" data-date="昨天" data-tags='[&quot;大模型&quot;]' data-pubdate="Tue, 13 Oct 2026 06:19:10 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 06:19:10 +0000" title="Tue, 13 Oct 2026 06:19:10 +0000">18 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/10/502920.html" target="_blank" rel="noopener">Claude团队又搞事：实测AI全自主复制进智能家电</a>
-          </h3>
-
-          <p class="card-snippet">拉马克进化的幽灵</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/10/502920.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.qbitai.com/2026/10/502907.html" data-date="昨天" data-tags='[&quot;综合&quot;]' data-pubdate="Tue, 13 Oct 2026 06:00:20 +0000">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#e65100"></span>
-              量子位
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 06:00:20 +0000" title="Tue, 13 Oct 2026 06:00:20 +0000">19 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.qbitai.com/2026/10/502907.html" target="_blank" rel="noopener">“模态进化”：第八届亿邦产业互联网年会暨首届产业智能体大会双会合体定档</a>
-          </h3>
-
-          <p class="card-snippet">由亿邦动力主办的“2026第八届亿邦产业互联网年会暨首届产业智能体大会”正式定档</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag general" onclick="event.stopPropagation(); filterByTag('综合')">综合</span>
-            </div>
-            <a href="https://www.qbitai.com/2026/10/502907.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html" data-date="昨天" data-tags='[&quot;商业融资&quot;]' data-pubdate="Tue, 13 Oct 2026 13:50:00 +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#c62828"></span>
-              雷锋网
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:50:00 +0800" title="Tue, 13 Oct 2026 13:50:00 +0800">19 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html" target="_blank" rel="noopener">其域创新以 62 亿个高斯、150 亿个点云，建成全球最大的空地一体 3D 高斯模型“闽宁镇”</a>
-          </h3>
-
-          <p class="card-snippet">它覆盖 23.5 平方公里，相当于 3291 个标准足球场，由 18.6 万张航拍与地面影像、150 亿个雷达点云训练而成，规模达 62 亿个高斯椭球。镇口的牌坊、红顶白墙的街区、通向远方的道路与山前转动的风机，都被收进了同一个连续的模型里。  这个模型，出现在中央广播电视总台重点纪录片《闽宁大道》</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://www.leiphone.com/category/industrynews/TvlYXDgobdGHyARw.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html" data-date="昨天" data-tags='[&quot;政策监管&quot;,&quot;大模型&quot;]' data-pubdate="Tue, 13 Oct 2026 13:43:00 +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#c62828"></span>
-              雷锋网
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:43:00 +0800" title="Tue, 13 Oct 2026 13:43:00 +0800">19 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html" target="_blank" rel="noopener">字节跳动 Seed 单独设立大模型安全与对齐部门</a>
-          </h3>
-
-          <p class="card-snippet">字节跳动 Seed 近日发出内部邮件，宣布将成立“Seed Model-Alignment&amp;Preparedness”部门，由严林负责，汇报给 Seed 负责人吴永辉。原 Responsible AI 团队及部分 Chat 团队成员将转入新部门。 据悉，该部门的设立旨在加强安全与对齐方向的投入，对齐</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag policy" onclick="event.stopPropagation(); filterByTag('政策监管')">政策监管</span>
-              <span class="card-tag model" onclick="event.stopPropagation(); filterByTag('大模型')">大模型</span>
-            </div>
-            <a href="https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html" data-date="昨天" data-tags='[&quot;AI应用&quot;]' data-pubdate="Tue, 13 Oct 2026 13:38:00 +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#c62828"></span>
-              雷锋网
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:38:00 +0800" title="Tue, 13 Oct 2026 13:38:00 +0800">19 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html" target="_blank" rel="noopener">拓竹官宣首款3D扫描仪，进军个人制造全品类</a>
-          </h3>
-
-          <p class="card-snippet">据拓竹科技（以下简称“拓竹”）官方消息，旗下首款3D扫描仪S1将于11月开售。这是拓竹首次进军3D扫描品类，意味着其产品版图从3D打印、激光切割、UV打印，进一步延伸至“现实数字化”入口。  行业公开数据显示，2025年全球消费级3D扫描仪市场规模约31亿美元，预计2035年将增长至68亿美元以上，</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag app" onclick="event.stopPropagation(); filterByTag('AI应用')">AI应用</span>
-            </div>
-            <a href="https://www.leiphone.com/category/industrynews/5nqkkreKm8OhUkCP.html" target="_blank" rel="noopener" class="read-btn">
-              📖 阅读原文
-            </a>
-          </div>
-        </article>
-        <article class="news-card scroll-hidden" data-lang="zh" data-url="https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html" data-date="昨天" data-tags='[&quot;商业融资&quot;]' data-pubdate="Tue, 13 Oct 2026 13:33:00 +0800">
-          <div class="card-hd">
-            <span class="card-source">
-              <span class="card-source-dot" style="background:#c62828"></span>
-              雷锋网
-            </span>
-            <span class="card-lang-tag zh">
-              中
-            </span>
-            <span class="card-time" data-pubdate="Tue, 13 Oct 2026 13:33:00 +0800" title="Tue, 13 Oct 2026 13:33:00 +0800">19 小时前</span>
-          </div>
-
-          <h3 class="card-title">
-            <a href="https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html" target="_blank" rel="noopener">海尔官宣孙颖莎成为全球品牌代言人</a>
-          </h3>
-
-          <p class="card-snippet">10月13日，海尔正式官宣孙颖莎成为全球品牌代言人。双方将以“爱莎莎 AI在家”为主题，携手开启智慧生活新征程。一边是赛场上以实力和热忱持续领先的乒乓球运动员，一边是连续17年全球大家电零售量第一的领航品牌，双方因对专注、创新与卓越的共同追求而携手，也将共同把这份创造美好的期许带进日常生活，为全球用</p>
-
-          <div class="card-ft">
-            <div class="card-tags">
-              <span class="card-tag biz" onclick="event.stopPropagation(); filterByTag('商业融资')">商业融资</span>
-            </div>
-            <a href="https://www.leiphone.com/category/industrynews/m6AoNUKEDKkoctjC.html" target="_blank" rel="noopener" class="read-btn">
               📖 阅读原文
             </a>
           </div>
@@ -1500,7 +1511,7 @@
 <footer class="site-footer">
   <p class="footer-brand">🤖 AI 新闻日报</p>
   <p>全天候实时更新 · 免费 · 开源</p>
-  <p>更新于 2026/10/14 01:05:10 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
+  <p>更新于 2026/10/14 07:21:26 <span class="live-badge" id="liveBadge"><span class="live-dot"></span> 实时</span></p>
 </footer>
 
 <!-- ====== Back to Top ====== -->
