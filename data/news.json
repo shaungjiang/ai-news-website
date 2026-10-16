@@ -1,13 +1,142 @@
 {
-  "generatedAt": "2026-10-16T14:45:15.147Z",
+  "generatedAt": "2026-10-16T19:29:36.863Z",
   "stats": {
-    "total": 88,
+    "total": 106,
     "shown": 50,
-    "chinese": 10,
+    "chinese": 28,
     "english": 78,
-    "today": 11
+    "today": 31
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "snippet": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive clou",
+      "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aditya Mehta",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with",
+      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "snippet": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with",
+      "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo, Dominic-Madori Davis",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "snippet": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competiti",
+      "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aditya Mehta",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Meta may use sweeping new commercial TOS to avoid millions in AI licensing fees",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-may-use-sweeping-new-commercial-tos-to-avoid-millions-in-ai-licensing-fees/",
+      "snippet": "Meta “streamlined” its commercial TOS. Legal experts warn it’s an AI power grab.",
+      "pubDate": "Fri, 16 Oct 2026 15:41:00 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-10-16T19:23:32.321Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "snippet": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "snippet": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. | Photo: Antonio G.",
+      "pubDate": "2026-10-16T15:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+      "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+      "snippet": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
+      "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Meta’s new terms may allow it to train AI on news sites for free",
@@ -19,7 +148,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-16T14:36:26.550Z",
+      "fetchedAt": "2026-10-16T19:23:32.321Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +196,39 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "抖音电商公布双11首日数据：店播成交额破千万元商家数量同比增长96%",
+      "link": "https://www.leiphone.com/category/industrynews/qgqGTqVLQMmIkNdP.html",
+      "snippet": "抖音电商公布2026年双11首日数据。报告显示，10月15日大促首日，平台上成交额新突破百万元的商家数量同比增长74%，店播成交额破千万元的商家数量同比增长96%。众多刚在平台起步不久的中小新商，借助平台分层扶持和经营激励，在大促首日完成了成交额突破百万的成绩。同时，今年双11开局呈现出商家与达人成",
+      "pubDate": "Fri, 16 Oct 2026 20:50:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "JAECOO × Momenta完成首个无接管凯旋门智驾挑战，联合征服巴黎“最难魔鬼环岛”",
+      "link": "https://www.leiphone.com/category/industrynews/LDt2TEiUf3wgi2Os.html",
+      "snippet": "当地时间10月12日，巴黎车展期间，JAECOO与Momenta共同完成首个无接管的凯旋门智驾挑战。奇瑞欧洲（德国）研发中心总经理侯小红、奇瑞欧洲（德国）研发中心CTO Peter Matkin与Momenta全球解决方案首席架构师饶庆，乘坐搭载Momenta R7世界模型的JAECOO 7测试车，",
+      "pubDate": "Fri, 16 Oct 2026 20:17:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
       "tags": [
         "综合"
       ]
@@ -83,9 +244,57 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
+      "fetchedAt": "2026-10-16T19:23:31.429Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "推翻一切！Nick Cammarata 万字长文宣告，AI 不是黑箱，99% 神经元清晰可见",
+      "link": "https://www.leiphone.com/category/yanxishe/Vr0JmbkUeZV5D9Qz.html",
+      "snippet": "亲手推翻自己十年前的结论，可解释性大佬 Nick Cammarata 这次读懂 AI 脑回路。          作者丨高允毅      编辑丨岑   峰",
+      "pubDate": "Fri, 16 Oct 2026 19:33:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "长鑫科技市值两月内跌去1万亿；阿里加码AI硬件品牌，天猫、速卖通联动；国行版苹果AI有望12月上线，百度、阿里参与合作丨雷峰早报",
+      "link": "https://www.leiphone.com/category/zaobao/EReMkZNn9w5H85Tf.html",
+      "snippet": "要闻提示       1.长鑫科技市值两月内跌去1万亿 2.年内已至少18次故障！DeepSeek发放宕机补偿，有人拿到3000元 3.阿里加码AI硬件品牌，天猫、速卖通联动 4.国行版苹果AI有望12月上线，百度、阿里参与合作 5.可灵AI新一代模型Kling 4.0正式上线，专业影像模型“卷”出",
+      "pubDate": "Fri, 16 Oct 2026 18:39:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "京东左琦发布诋毁信息被起诉，再发谣言后抖音电商表示将追加起诉",
+      "link": "https://www.leiphone.com/category/industrynews/s92jb2hngPJlF9Gj.html",
+      "snippet": "记者近日从抖音电商获悉，因在“618”大促期间通过朋友圈发布不实信息、诋毁其他平台，京东公司左琦被抖音电商起诉，北京市海淀区人民法院已正式立案受理。10月16日，抖音黑板报发布声明称，左琦被起诉后再次在朋友圈发布谣言，抖音电商已对其最新谣言内容完成法律存证，并将依法追加起诉。  （抖音黑板报发布情况",
+      "pubDate": "Fri, 16 Oct 2026 17:02:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -99,7 +308,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Linda Marsa",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
+      "fetchedAt": "2026-10-16T19:23:31.429Z",
       "tags": [
         "商业融资"
       ]
@@ -115,7 +324,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlie Jane Anders",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
+      "fetchedAt": "2026-10-16T19:23:31.429Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +340,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
+      "fetchedAt": "2026-10-16T19:23:31.429Z",
       "tags": [
         "综合"
       ]
@@ -147,9 +356,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Luria, Aliya Bhatia, Danah Boyd",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
+      "fetchedAt": "2026-10-16T19:23:31.429Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "中控技术接入千问办公，打造流程工业领域AI Native标杆企业",
+      "link": "https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html",
+      "snippet": "10月16日，中控技术股份有限公司（以下简称“中控技术”）正式接入千问办公，将Agent落地营销全链路。后续，千问办公还将优化中控技术的采购、供应链、财务、人力、研发等场景工作流，共建流程工业领域AI Native标杆企业。     图示 中控技术和千问办公签约现场   中控技术成立于1999年，是",
+      "pubDate": "Fri, 16 Oct 2026 15:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -163,9 +388,89 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-16T14:36:27.300Z",
+      "fetchedAt": "2026-10-16T19:23:33.060Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "抖省省诞生7个月：引流灌溉、重金猛推，日活2000万后急速降温",
+      "link": "https://www.leiphone.com/category/industrynews/14z0WQVo47kzEmxJ.html",
+      "snippet": "进入9月，抖音本地生活服务（简称：抖音生服）开始提速盈利节奏，继续降补，并大幅提升广告考核占比。服务零售部分类目广告考核占比提升到80%，GMV考核占比变小。 Ka餐饮类目广告考核占比保持20%，商圈广告考核占比保持10%。4月调整架构之前，广告考核还不是硬性指标。 过去半年，抖音生服推出独立APP",
+      "pubDate": "Fri, 16 Oct 2026 12:32:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "医美消费走向专业化、个性化，美团发布2026北极星医美榜",
+      "link": "https://www.leiphone.com/category/industrynews/6nUC46T5N52m2W2V.html",
+      "snippet": "10月14日，美团在杭州发布第四届北极星医美榜，全国共有42个城市的181家机构、来自36个城市的269位医生上榜，其中74家机构、156位医生首次上榜。上海、北京、杭州、重庆、成都、深圳、沈阳是北极星机构榜单主力城市，更多长期投入医疗专业与服务品质的机构和医生也进入了公众视野。 今年，北极星医美榜",
+      "pubDate": "Fri, 16 Oct 2026 12:10:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Kling 4.0正式上线：10-bit HDR、30秒原生直出 刷新视频模型新基准",
+      "link": "https://www.leiphone.com/category/industrynews/1GERVRJ72xJKmsus.html",
+      "snippet": "10月15日，可灵AI新一代视频生成模型 Kling 4.0 正式上线。 真实、可控、专业，是这一代模型升级的核心方向。Kling 4.0 聚焦高动态、强运镜的视频创作场景，在三个方向实现集中突破：大幅度动态表现更稳定，提升高速运动与复杂运镜的连贯性；单次原生生成最长可达30秒，支持长镜头与连续叙事",
+      "pubDate": "Fri, 16 Oct 2026 10:37:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "阿里千问上车宝马iX3",
+      "link": "https://www.leiphone.com/category/industrynews/1zjGZ4srbO3kyVEw.html",
+      "snippet": "10月15日消息，在2026宝马集团中国创新日上，宝马宣布新世代BMW iX3将搭载专为中国市场打造的座舱AI能力。该能力由宝马与阿里巴巴联合开发，以阿里千问大模型为AI底座，并由斑马负责座舱应用与车端集成，融入BMW智能个人助理（BMW Intelligent Personal Assistant",
+      "pubDate": "Fri, 16 Oct 2026 10:36:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "无人机表演十年后，大漠大想做「会干活」的机群",
+      "link": "https://www.leiphone.com/category/robot/OA7EpCSSkv3D6yMD.html",
+      "snippet": "即便对大漠大这家公司名字感到陌生的人，大概也看过它的无人机编队表演——7次登上央视春晚，多次出现在《新闻联播》里，但迄今为止，大漠大鲜少对外讲述自己的品牌故事。 在刚刚过去的国庆假期，大漠大在南昌、宜昌、昆明等多地执飞的无人机表演刷屏全网，持续推进“低空＋文旅＋融媒”的低空融媒业务运营，为城市发展打",
+      "pubDate": "Fri, 16 Oct 2026 10:31:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -179,9 +484,41 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-16T14:36:27.300Z",
+      "fetchedAt": "2026-10-16T19:23:33.060Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "付费用户占比超 20%，电商商家「涌入」千问办公",
+      "link": "https://www.leiphone.com/category/industrynews/csaOBaiXpZZLOOtp.html",
+      "snippet": "一双鞋还没生产出来，商家刘祥龙已经开始琢磨怎么卖了。 准备开一家3D打印鞋店时，他没有急着打样、拍摄、做详情页，而是先让AI帮忙调研市场、制作数字样品，再把商品图和详情页准备好，看看消费者愿不愿意点击、将其加购。 简单说，就是先让市场“投票”，再决定要不要真的把鞋做出来。 过去，开一家新店，从前期调",
+      "pubDate": "Fri, 16 Oct 2026 10:24:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "5 年前的机密文档被泄露：Anthropic 的所有胜利，早在 2021 年就写好了",
+      "link": "https://www.leiphone.com/category/yanxishe/gO1lTcRqFyRtbiFP.html",
+      "snippet": "一张五年前的研发清单，兑现如今 AI 行业大半成果。          作者丨高允毅      编辑丨岑   峰",
+      "pubDate": "Fri, 16 Oct 2026 07:55:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-16T19:23:30.598Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -195,7 +532,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +548,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
       "tags": [
         "大模型"
       ]
@@ -227,7 +564,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +580,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
       "tags": [
         "AI应用"
       ]
@@ -259,7 +596,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
       "tags": [
         "AI应用"
       ]
@@ -275,7 +612,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
       "tags": [
         "AI应用"
       ]
@@ -291,7 +628,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -308,7 +645,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +661,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-16T14:36:27.300Z",
+      "fetchedAt": "2026-10-16T19:23:33.060Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +677,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
       "tags": [
         "学术研究"
       ]
@@ -356,7 +693,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:26.975Z",
+      "fetchedAt": "2026-10-16T19:23:32.745Z",
       "tags": [
         "大模型"
       ]
@@ -372,7 +709,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
       "tags": [
         "AI应用"
       ]
@@ -388,7 +725,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
       "tags": [
         "AI应用"
       ]
@@ -404,7 +741,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +757,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
+      "fetchedAt": "2026-10-16T19:23:31.090Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +773,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-16T14:36:26.550Z",
+      "fetchedAt": "2026-10-16T19:23:32.321Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +789,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-16T14:36:26.550Z",
+      "fetchedAt": "2026-10-16T19:23:32.321Z",
       "tags": [
         "综合"
       ]
@@ -468,347 +805,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sean O'Kane",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
+      "fetchedAt": "2026-10-16T19:23:30.858Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "snippet": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center st",
-      "pubDate": "2026-10-15T14:30:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-      "snippet": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "CopilotKit Releases CLiF: A Continual Learning Platform That Turns Agent Traces and User Actions into Skills, Evals, and Fine-Tuning Data",
-      "link": "https://www.marktechpost.com/2026/10/15/copilotkit-releases-clif-a-continual-learning-platform-that-turns-agent-traces-and-user-actions-into-skills-evals-and-fine-tuning-data/",
-      "snippet": "Introduction Teams shipping AI agents at scale keep running into the same pattern. Even agents built on top-tier models like Fable and Astra struggle",
-      "pubDate": "Thu, 15 Oct 2026 14:19:27 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-16T14:36:27.300Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Nobody is safe from celebrity AI deepfakes",
-      "link": "https://www.theverge.com/report/1011927/instagram-celebrity-ai-slop-likeness-taylor-swift-mia-goth",
-      "snippet": "In hindsight, the post on Instagram should have raised more red flags. The image purported to show actress Mia Goth, just days after filing for divorc",
-      "pubDate": "2026-10-15T14:03:42.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-16T14:36:25.675Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "TechCrunch Disrupt 2026: Last day",
-      "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-      "snippet": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-      "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "openKylin Outlines Its Vision for Reimagining Linux in the AI Era at Open Source Summit Europe 2026",
-      "link": "https://www.marktechpost.com/2026/10/15/openkylin-outlines-its-vision-for-reimagining-linux-in-the-ai-era-at-open-source-summit-europe-2026/",
-      "snippet": "At Open Source Summit Europe 2026, openKylin outlined its vision for transitioning from resource management to intent management in the AI era. The co",
-      "pubDate": "Thu, 15 Oct 2026 13:23:45 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-16T14:36:27.300Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Teaching students to think and learn through questions",
-      "link": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-      "snippet": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "pubDate": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-16T14:36:26.975Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "link": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys",
-      "pubDate": "Thu, 15 Oct 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-      "snippet": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that atta",
-      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-16T14:36:25.415Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
-      "link": "https://www.qbitai.com/2026/10/503645.html",
-      "snippet": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
-      "pubDate": "Thu, 15 Oct 2026 10:07:08 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "How much more can nuclear power plants give?",
-      "link": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "snippet": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few we",
-      "pubDate": "Thu, 15 Oct 2026 10:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Casey Crownhart",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
-      "link": "https://www.qbitai.com/2026/10/503640.html",
-      "snippet": "Siri AI这次不包括在内",
-      "pubDate": "Thu, 15 Oct 2026 09:43:29 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Six wild ideas for perpetuating your mind",
-      "link": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-      "snippet": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billi",
-      "pubDate": "Thu, 15 Oct 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Antonio Regalado",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
-      "link": "https://www.qbitai.com/2026/10/503614.html",
-      "snippet": "Agent究竟该如何深入业务毛细血管？",
-      "pubDate": "Thu, 15 Oct 2026 08:48:31 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "link": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "snippet": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time,",
-      "pubDate": "Thu, 15 Oct 2026 08:43:24 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-16T14:36:25.928Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
-      "link": "https://www.qbitai.com/2026/10/503611.html",
-      "snippet": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
-      "pubDate": "Thu, 15 Oct 2026 08:16:19 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "这个双十一，百灵新模型干起活来不烧心",
-      "link": "https://www.qbitai.com/2026/10/503532.html",
-      "snippet": "大模型好不好用，百灵拿成品说话",
-      "pubDate": "Thu, 15 Oct 2026 07:35:24 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "AI时代，商学院这样培养未来商业领袖",
-      "link": "https://www.qbitai.com/2026/10/503504.html",
-      "snippet": "未来十年共创1000个AI课题",
-      "pubDate": "Thu, 15 Oct 2026 07:22:34 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "基元律动宣布开发者入驻超30万，开启双11预售福利",
-      "link": "https://www.qbitai.com/2026/10/503501.html",
-      "snippet": "基元律动（Token Rhythm）宣布已有超过30万名开发者入驻，同期推出双11预售限时福利。",
-      "pubDate": "Thu, 15 Oct 2026 06:59:37 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "苹果AI国内上线，阿里百度浮出水面",
-      "link": "https://www.qbitai.com/2026/10/503497.html",
-      "snippet": "苹果 Apple Intelligence（苹果智能）在中国大陆的上线进入最后阶段。",
-      "pubDate": "Thu, 15 Oct 2026 06:52:45 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
-      "link": "https://www.qbitai.com/2026/10/503446.html",
-      "snippet": "",
-      "pubDate": "Thu, 15 Oct 2026 06:35:46 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "程浅",
-      "fetchedAt": "2026-10-16T14:36:13.924Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
