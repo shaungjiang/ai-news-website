@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-10-18T03:32:11.864Z",
+  "generatedAt": "2026-10-18T08:47:52.361Z",
   "stats": {
     "total": 111,
     "shown": 50,
     "chinese": 30,
     "english": 81,
-    "today": 0
+    "today": 3
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "How to Make Zero-Training Tabular Predictions with NVIDIA Structured Data Models",
+      "link": "https://www.marktechpost.com/2026/10/17/how-to-make-zero-training-tabular-predictions-with-nvidia-structured-data-models/",
+      "snippet": "In this tutorial, we implement Structured Data Models, NVIDIA’s new library that puts several pretrained foundation models for tables behind one PyTor",
+      "pubDate": "Sun, 18 Oct 2026 05:56:05 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-10-18T08:38:00.152Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "2026湾芯展圆满落幕：3天展期，近8万平方米展区迎来超15.67万人次专业观众",
+      "link": "https://www.leiphone.com/category/chips/DnZbjQYkyrBmdOAJ.html",
+      "snippet": "10月16日，2026湾区半导体产业生态博览会（湾芯展WESEMiBAY）在深圳会展中心（福田）圆满收官。本届展会规模与能级实现跨越式提升，3天展期，近8万平方米展区迎来超15.67万人次专业观众，多位院士、150位顶尖学者同台论道，超500位产业领袖与一线技术精英共赴盛会，来自20余个国家和地区的",
+      "pubDate": "Sun, 18 Oct 2026 12:47:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
+      "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
+      "snippet": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agen",
+      "pubDate": "Sun, 18 Oct 2026 04:06:33 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-18T08:38:00.152Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Meta removes language that raised scraping and AI training concerns",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "开源工具"
       ]
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-18T03:27:36.131Z",
+      "fetchedAt": "2026-10-18T08:38:00.152Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +99,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "大模型"
       ]
@@ -83,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.995Z",
+      "fetchedAt": "2026-10-18T08:37:58.035Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +147,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +163,88 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.995Z",
+      "fetchedAt": "2026-10-18T08:37:58.035Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "link": "https://www.qbitai.com/2026/10/504067.html",
+      "snippet": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "pubDate": "Sat, 17 Oct 2026 12:21:09 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "鹭羽",
+      "fetchedAt": "2026-10-18T08:37:53.543Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "智谱新模型，懂法方面全球第一了",
+      "link": "https://www.qbitai.com/2026/10/503965.html",
+      "snippet": "AI的风还是刮到了法律圈",
+      "pubDate": "Sat, 17 Oct 2026 12:13:45 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "文婷",
+      "fetchedAt": "2026-10-18T08:37:53.543Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
+      "link": "https://www.qbitai.com/2026/10/503935.html",
+      "snippet": "整套系统原生支持MCP",
+      "pubDate": "Sat, 17 Oct 2026 12:10:35 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦瑶",
+      "fetchedAt": "2026-10-18T08:37:53.543Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
+      "link": "https://www.qbitai.com/2026/10/503910.html",
+      "snippet": "谜底指向时间",
+      "pubDate": "Sat, 17 Oct 2026 12:06:51 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "鹭羽",
+      "fetchedAt": "2026-10-18T08:37:53.543Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "科技企业出海，为啥我推荐你去迪拜？",
+      "link": "https://www.qbitai.com/2026/10/503893.html",
+      "snippet": "通往全球市场的超级跳板",
+      "pubDate": "Sat, 17 Oct 2026 09:05:08 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-10-18T08:37:53.543Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +260,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-18T03:27:36.131Z",
+      "fetchedAt": "2026-10-18T08:38:00.152Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -148,7 +277,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-18T03:27:36.131Z",
+      "fetchedAt": "2026-10-18T08:38:00.152Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +293,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-18T03:27:36.131Z",
+      "fetchedAt": "2026-10-18T08:38:00.152Z",
       "tags": [
         "AI应用"
       ]
@@ -180,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +341,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-18T03:27:36.131Z",
+      "fetchedAt": "2026-10-18T08:38:00.152Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +357,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-18T03:27:35.269Z",
+      "fetchedAt": "2026-10-18T08:37:59.386Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +373,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-18T03:27:35.269Z",
+      "fetchedAt": "2026-10-18T08:37:59.386Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +389,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:35.748Z",
+      "fetchedAt": "2026-10-18T08:37:59.807Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +405,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review",
-      "fetchedAt": "2026-10-18T03:27:34.307Z",
+      "fetchedAt": "2026-10-18T08:37:58.471Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "AI应用"
       ]
@@ -308,7 +437,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -325,7 +454,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Dominic-Madori Davis",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "AI应用"
       ]
@@ -341,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "大模型"
       ]
@@ -357,7 +486,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-18T03:27:35.269Z",
+      "fetchedAt": "2026-10-18T08:37:59.386Z",
       "tags": [
         "商业融资"
       ]
@@ -373,7 +502,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "开源工具"
       ]
@@ -389,7 +518,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.995Z",
+      "fetchedAt": "2026-10-18T08:37:58.035Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +534,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "综合"
       ]
@@ -421,7 +550,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.995Z",
+      "fetchedAt": "2026-10-18T08:37:58.035Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +566,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-18T03:27:35.269Z",
+      "fetchedAt": "2026-10-18T08:37:59.386Z",
       "tags": [
         "综合"
       ]
@@ -453,7 +582,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "商业融资"
       ]
@@ -469,7 +598,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-18T03:27:33.721Z",
+      "fetchedAt": "2026-10-18T08:37:57.719Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
+      "fetchedAt": "2026-10-18T08:37:53.544Z",
       "tags": [
         "商业融资"
       ]
@@ -501,7 +630,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
       "tags": [
         "综合"
       ]
@@ -517,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +662,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-10-18T03:27:34.307Z",
+      "fetchedAt": "2026-10-18T08:37:58.471Z",
       "tags": [
         "政策监管"
       ]
@@ -549,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
       "tags": [
         "综合"
       ]
@@ -565,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
       "tags": [
         "AI应用"
       ]
@@ -581,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
+      "fetchedAt": "2026-10-18T08:37:57.426Z",
       "tags": [
         "AI应用"
       ]
@@ -597,7 +726,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Linda Marsa",
-      "fetchedAt": "2026-10-18T03:27:34.307Z",
+      "fetchedAt": "2026-10-18T08:37:58.471Z",
       "tags": [
         "商业融资"
       ]
@@ -613,7 +742,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlie Jane Anders",
-      "fetchedAt": "2026-10-18T03:27:34.307Z",
+      "fetchedAt": "2026-10-18T08:37:58.471Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +758,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-18T03:27:34.307Z",
+      "fetchedAt": "2026-10-18T08:37:58.472Z",
       "tags": [
         "综合"
       ]
@@ -645,7 +774,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
+      "fetchedAt": "2026-10-18T08:37:53.544Z",
       "tags": [
         "综合"
       ]
@@ -661,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
+      "fetchedAt": "2026-10-18T08:37:53.544Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -678,136 +807,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "link": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "snippet": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from m",
-      "pubDate": "Fri, 16 Oct 2026 07:56:32 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Luria, Aliya Bhatia, Danah Boyd",
-      "fetchedAt": "2026-10-18T03:27:34.307Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中控技术接入千问办公，打造流程工业领域AI Native标杆企业",
-      "link": "https://www.leiphone.com/category/industrynews/8IM46Vzpf7IFumo7.html",
-      "snippet": "10月16日，中控技术股份有限公司（以下简称“中控技术”）正式接入千问办公，将Agent落地营销全链路。后续，千问办公还将优化中控技术的采购、供应链、财务、人力、研发等场景工作流，共建流程工业领域AI Native标杆企业。     图示 中控技术和千问办公签约现场   中控技术成立于1999年，是",
-      "pubDate": "Fri, 16 Oct 2026 15:51:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-18T03:27:33.385Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
-      "link": "https://www.qbitai.com/2026/10/503829.html",
-      "snippet": "范式智能技术集团有限公司联合北京睿思智联科技有限公司宣布，一站式生产级 AI 部署平台“模域”正式上线。",
-      "pubDate": "Fri, 16 Oct 2026 07:16:11 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "68岁亚马逊CTO：别让恐惧，替企业做AI决策",
-      "link": "https://www.qbitai.com/2026/10/503815.html",
-      "snippet": "经验没有压缩算法",
-      "pubDate": "Fri, 16 Oct 2026 07:01:31 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "十三",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Liquid AI Releases d1-ultra: A Multimodal Decision Model That Scores 65 on the AA Decision Index",
-      "link": "https://www.marktechpost.com/2026/10/15/liquid-ai-d1-ultra-decision-model/",
-      "snippet": "Liquid AI released d1-ultra, a text and image decision model that returns calibrated probabilities in 1 forward pass. It scores 65 on the Artificial A",
-      "pubDate": "Fri, 16 Oct 2026 06:26:41 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-18T03:27:36.131Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "超1亿元融资砸向四川具身科技！要把「情绪价值」卖进千家万户",
-      "link": "https://www.qbitai.com/2026/10/503782.html",
-      "snippet": "9.8万元起售，冲刺万台量产",
-      "pubDate": "Fri, 16 Oct 2026 06:17:53 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "百度世界2026五大亮点曝光，企业和开发者值得关注什么？",
-      "link": "https://www.qbitai.com/2026/10/503779.html",
-      "snippet": "10月15日，百度官方公众号发文公布百度世界2026五大亮点",
-      "pubDate": "Fri, 16 Oct 2026 06:07:41 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "中国机器人羽毛球连打1452拍！拿下吉尼斯，波士顿动力大佬被硬控",
-      "link": "https://www.qbitai.com/2026/10/503756.html",
-      "snippet": "背后是一套通用物理运动平台",
-      "pubDate": "Fri, 16 Oct 2026 05:47:01 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-10-18T03:27:27.432Z",
+      "fetchedAt": "2026-10-18T08:37:53.544Z",
       "tags": [
         "综合"
       ]
