@@ -1,26 +1,123 @@
 {
-  "generatedAt": "2026-10-19T19:44:59.384Z",
+  "generatedAt": "2026-10-19T23:33:15.902Z",
   "stats": {
-    "total": 111,
+    "total": 112,
     "shown": 50,
     "chinese": 30,
-    "english": 81,
-    "today": 34
+    "english": 82,
+    "today": 41
   },
   "articles": [
     {
       "id": "dGVjaGNydW5jaC1h",
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "snippet": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure w",
+      "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+      "snippet": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+      "pubDate": "Mon, 19 Oct 2026 22:04:28 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The fossil fuel comeback is here",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "snippet": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity d",
+      "pubDate": "2026-10-19T21:48:01.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-19T23:23:24.419Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "snippet": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more",
+      "pubDate": "2026-10-19T21:28:20.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-19T23:23:24.419Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+      "snippet": "US fears Saudi government will help ex-OpenAI engineer flee spying charges.",
+      "pubDate": "Mon, 19 Oct 2026 20:21:53 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-10-19T23:23:25.539Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+      "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+      "snippet": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chi",
+      "pubDate": "Mon, 19 Oct 2026 20:09:24 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
       "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
       "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-      "snippet": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online plat",
+      "snippet": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online plat",
       "pubDate": "Mon, 19 Oct 2026 19:28:34 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
+        "开源工具",
         "大模型"
       ]
     },
@@ -35,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -52,7 +149,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
         "商业融资"
       ]
@@ -68,7 +165,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
         "商业融资"
       ]
@@ -84,7 +181,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-10-19T19:40:37.538Z",
+      "fetchedAt": "2026-10-19T23:23:24.720Z",
       "tags": [
         "AI应用"
       ]
@@ -100,7 +197,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-10-19T19:40:37.538Z",
+      "fetchedAt": "2026-10-19T23:23:24.720Z",
       "tags": [
         "学术研究"
       ]
@@ -116,7 +213,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-10-19T19:40:38.523Z",
+      "fetchedAt": "2026-10-19T23:23:25.539Z",
       "tags": [
         "综合"
       ]
@@ -125,14 +222,14 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "People are using AI to make their smart TVs dumb again",
       "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-      "snippet": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of thei",
+      "snippet": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of the",
       "pubDate": "Mon, 19 Oct 2026 16:13:22 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +261,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "学术研究"
       ]
@@ -180,7 +277,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Maddy Varner\n                ",
-      "fetchedAt": "2026-10-19T19:40:38.523Z",
+      "fetchedAt": "2026-10-19T23:23:25.540Z",
       "tags": [
         "政策监管"
       ]
@@ -196,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:37.246Z",
+      "fetchedAt": "2026-10-19T23:23:24.419Z",
       "tags": [
         "政策监管"
       ]
@@ -212,7 +309,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:37.246Z",
+      "fetchedAt": "2026-10-19T23:23:24.419Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +325,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +341,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-19T19:40:39.347Z",
+      "fetchedAt": "2026-10-19T23:23:26.277Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -261,7 +358,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
         "综合"
       ]
@@ -277,7 +374,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Charlotte Jee",
-      "fetchedAt": "2026-10-19T19:40:37.538Z",
+      "fetchedAt": "2026-10-19T23:23:24.720Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +390,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "商业融资"
       ]
@@ -309,9 +406,26 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:37.246Z",
+      "fetchedAt": "2026-10-19T23:23:24.419Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "link": "https://openai.com/index/low-resource-programming-languages",
+      "snippet": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migr",
+      "pubDate": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-19T23:23:25.924Z",
+      "tags": [
+        "大模型",
+        "商业融资"
       ]
     },
     {
@@ -325,7 +439,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James Temple",
-      "fetchedAt": "2026-10-19T19:40:37.538Z",
+      "fetchedAt": "2026-10-19T23:23:24.720Z",
       "tags": [
         "学术研究"
       ]
@@ -341,7 +455,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Amit Katwala",
-      "fetchedAt": "2026-10-19T19:40:37.538Z",
+      "fetchedAt": "2026-10-19T23:23:24.720Z",
       "tags": [
         "大模型"
       ]
@@ -357,7 +471,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Volkan Gurses",
-      "fetchedAt": "2026-10-19T19:40:37.538Z",
+      "fetchedAt": "2026-10-19T23:23:24.720Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +487,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +503,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "AI应用"
       ]
@@ -421,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "商业融资"
       ]
@@ -437,7 +551,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "商业融资"
       ]
@@ -453,7 +567,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "开源工具",
         "大模型"
@@ -470,7 +584,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "综合"
       ]
@@ -486,7 +600,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "综合"
       ]
@@ -502,7 +616,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-19T19:40:39.347Z",
+      "fetchedAt": "2026-10-19T23:23:26.277Z",
       "tags": [
         "AI应用"
       ]
@@ -518,7 +632,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "学术研究"
       ]
@@ -534,7 +648,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "AI应用"
       ]
@@ -550,7 +664,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-19T19:40:39.347Z",
+      "fetchedAt": "2026-10-19T23:23:26.277Z",
       "tags": [
         "大模型"
       ]
@@ -566,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
         "综合"
       ]
@@ -582,7 +696,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:37.246Z",
+      "fetchedAt": "2026-10-19T23:23:24.419Z",
       "tags": [
         "综合"
       ]
@@ -598,7 +712,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-19T19:40:39.347Z",
+      "fetchedAt": "2026-10-19T23:23:26.277Z",
       "tags": [
         "开源工具"
       ]
@@ -614,7 +728,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
+      "fetchedAt": "2026-10-19T23:23:24.154Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +744,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Cristina Criddle, Financial Times\n                ",
-      "fetchedAt": "2026-10-19T19:40:38.523Z",
+      "fetchedAt": "2026-10-19T23:23:25.540Z",
       "tags": [
         "AI应用"
       ]
@@ -646,7 +760,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-10-19T19:40:32.194Z",
+      "fetchedAt": "2026-10-19T23:23:17.619Z",
       "tags": [
         "AI应用"
       ]
@@ -662,7 +776,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-19T19:40:39.347Z",
+      "fetchedAt": "2026-10-19T23:23:26.277Z",
       "tags": [
         "AI应用"
       ]
@@ -678,7 +792,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-19T19:40:39.347Z",
+      "fetchedAt": "2026-10-19T23:23:26.277Z",
       "tags": [
         "大模型"
       ]
@@ -694,119 +808,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Voxel51 3.0: A Unified Multimodal Data Platform for Physical AI",
-      "link": "https://www.marktechpost.com/2026/10/17/voxel51-3-0-physical-ai-data-platform/",
-      "snippet": "Voxel51 3.0 merges search, curation, annotation and evaluation of multimodal sensor data into one platform for physical AI teams. It adds Voxel51 Agen",
-      "pubDate": "Sun, 18 Oct 2026 04:06:33 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-19T19:40:39.347Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta removes language that raised scraping and AI training concerns",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "snippet": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Kyutai REKI: The 2.4B VLA Model Bringing Efficient Memory to Robot Manipulation",
-      "link": "https://www.marktechpost.com/2026/10/17/meet-kyutai-reki-the-2-4b-vla-model-bringing-efficient-memory-to-robot-manipulation/",
-      "snippet": "Kyutai, with Inria and École des Ponts, has released REKI, a 2.4B vision-language-action model (VLA) for robot manipulation. The REKI vision-language-",
-      "pubDate": "Sat, 17 Oct 2026 20:22:11 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-19T19:40:39.347Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "snippet": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-      "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "snippet": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there wa",
-      "pubDate": "Sat, 17 Oct 2026 18:48:08 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec, Lucas Ropek, Rebecca Bellan",
-      "fetchedAt": "2026-10-19T19:40:36.976Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Meta removes language that may have allowed it to scrape news sites",
-      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "snippet": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train",
-      "pubDate": "2026-10-17T15:04:36.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-19T19:40:37.246Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "12.88万起、华为电驱+L4同源智驾，Ray7能成为埃安年轻化的答卷吗？",
-      "link": "https://www.leiphone.com/category/transportation/F3nQwjeqDO0BtrQ0.html",
-      "snippet": "10月17日，埃安轿跑Ray7正式开启预售，预售价12.88 万起。新车车长4.9米，轴距2.9米，车头部分搭配3.25米的超长双环灯带，是埃安10年焕新的家族式标识。    新车采用宁德时代电池以及广汽自研的弹匣电池2.0技术，能够在充分释放续航能力的同时，监控电池健康状态。提供45.58kWh和",
-      "pubDate": "Sat, 17 Oct 2026 22:42:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-19T19:40:36.669Z",
+      "fetchedAt": "2026-10-19T23:23:23.900Z",
       "tags": [
         "综合"
       ]
