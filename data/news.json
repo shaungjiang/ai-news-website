@@ -1,13 +1,285 @@
 {
-  "generatedAt": "2026-10-20T19:56:29.216Z",
+  "generatedAt": "2026-10-20T23:02:03.535Z",
   "stats": {
-    "total": 112,
+    "total": 114,
     "shown": 50,
     "chinese": 30,
-    "english": 82,
-    "today": 47
+    "english": 84,
+    "today": 66
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+      "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+      "snippet": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went",
+      "pubDate": "Tue, 20 Oct 2026 22:24:02 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google’s more personalized Gemini AI is heading to your car",
+      "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+      "snippet": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into",
+      "pubDate": "2026-10-20T22:11:34.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-20T22:57:41.939Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+      "snippet": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure",
+      "pubDate": "Tue, 20 Oct 2026 21:25:22 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "link": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+      "snippet": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jennifer Chu",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Here’s the tea",
+      "link": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+      "snippet": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Benjamin Daniel",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Melt it, spin it, use it again",
+      "link": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/",
+      "snippet": "The average American throws out around 81 pounds of clothing each year, and there are few options for recycling it. MIT engineers hope to cut down on",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jennifer Chu",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "A reason to eat carbs",
+      "link": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+      "snippet": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new st",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Anne Trafton",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Robotic therapy for stroke patients",
+      "link": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients/",
+      "snippet": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the c",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Anne Wilson",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Taking a swing at a pickleball startup",
+      "link": "https://www.technologyreview.com/2026/10/20/1145287/taking-a-swing-at-a-pickleball-startup/",
+      "snippet": "In corporate America, Stanley Anderson ’79 says, executives often assume that their peers grew up in privileged circumstances.  He did not. “I spent m",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Kathryn M. O’Neill",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "A good TA: priceless",
+      "link": "https://www.technologyreview.com/2026/10/20/1145291/a-good-ta-priceless/",
+      "snippet": "These are images of quizzes I took in 3.091, Introduction to Solid-State Chemistry, in the fall of 1980. One is my very first exam at MIT, and getting",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Tom Davis ’84, SM ’85",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Nebraska native explores galaxies far, far away",
+      "link": "https://www.technologyreview.com/2026/10/20/1145294/nebraska-native-explores-galaxies-far-far-away/",
+      "snippet": "Growing up on a small farm in Nebraska, Megan Donahue ’85 discovered the wider world by reading her way through her local library. Today, she is learn",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Kathryn M. O’Neill",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "A champion for brain injury patients",
+      "link": "https://www.technologyreview.com/2026/10/20/1145297/a-champion-for-brain-injury-patients/",
+      "snippet": "Alissa Totman ’13 was a sophomore when she joined MIT BrainTrust, a student-run organization that connects Institute undergraduates and people with br",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Ari Daniel, PhD ’08",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "A cleaner path to rare earth metals",
+      "link": "https://www.technologyreview.com/2026/10/20/1145300/a-cleaner-path-to-rare-earth-metals/",
+      "snippet": "Tomás Villalón Jr. ’14 was raised in San Antonio, Texas, but vividly remembers smog hanging over the city his family came from—Monterrey, Mexico, a st",
+      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Kathryn M. O’Neill",
+      "fetchedAt": "2026-10-20T22:57:42.253Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "SpaceX’s AI business is beating expectations",
+      "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+      "snippet": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+      "pubDate": "Tue, 20 Oct 2026 20:40:41 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz, Kirsten Korosec",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+      "snippet": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Work",
+      "pubDate": "Tue, 20 Oct 2026 20:35:10 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
+      "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
+      "snippet": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
+      "pubDate": "Tue, 20 Oct 2026 20:07:58 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-10-20T22:57:43.113Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Gemini's Personal Intelligence is coming to cars",
+      "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+      "snippet": "It's probably time to audit your Gemini settings.",
+      "pubDate": "Tue, 20 Oct 2026 20:00:33 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-10-20T22:57:43.113Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
@@ -19,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +307,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -52,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-20T19:51:55.119Z",
+      "fetchedAt": "2026-10-20T22:57:43.113Z",
       "tags": [
         "综合"
       ]
@@ -68,7 +340,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.878Z",
+      "fetchedAt": "2026-10-20T22:57:41.939Z",
       "tags": [
         "AI应用"
       ]
@@ -84,7 +356,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +372,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-20T19:51:55.119Z",
+      "fetchedAt": "2026-10-20T22:57:43.113Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +388,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
       "tags": [
         "AI应用"
       ]
@@ -132,7 +404,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
       "tags": [
         "商业融资"
       ]
@@ -148,7 +420,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
+      "fetchedAt": "2026-10-20T22:57:41.418Z",
       "tags": [
         "学术研究"
       ]
@@ -164,23 +436,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-20T19:51:55.951Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The new economics of enterprise AI",
-      "link": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/",
-      "snippet": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and",
-      "pubDate": "Tue, 20 Oct 2026 15:20:25 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "David Sydow",
-      "fetchedAt": "2026-10-20T19:51:54.162Z",
+      "fetchedAt": "2026-10-20T22:57:43.812Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +452,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-20T19:51:55.951Z",
+      "fetchedAt": "2026-10-20T22:57:43.812Z",
       "tags": [
         "AI应用"
       ]
@@ -212,7 +468,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.878Z",
+      "fetchedAt": "2026-10-20T22:57:41.939Z",
       "tags": [
         "商业融资"
       ]
@@ -228,7 +484,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
+      "link": "https://www.qbitai.com/2026/10/504517.html",
+      "snippet": "兔皮底下，竟然是MiniMax！",
+      "pubDate": "Tue, 20 Oct 2026 13:29:54 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-10-20T22:57:37.966Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +516,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
       "tags": [
         "AI应用"
       ]
@@ -260,7 +532,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.878Z",
+      "fetchedAt": "2026-10-20T22:57:41.939Z",
       "tags": [
         "综合"
       ]
@@ -276,9 +548,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
+      "link": "https://www.qbitai.com/2026/10/504456.html",
+      "snippet": "把记忆原生焊进Transformer",
+      "pubDate": "Tue, 20 Oct 2026 12:50:34 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "鹭羽",
+      "fetchedAt": "2026-10-20T22:57:37.966Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -292,55 +580,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-20T19:51:55.119Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "link": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were loo",
-      "pubDate": "Tue, 20 Oct 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-20T19:51:54.162Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "link": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
-      "snippet": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island m",
-      "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "TripleTen",
-      "fetchedAt": "2026-10-20T19:51:54.162Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-      "snippet": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized reco",
-      "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:43.113Z",
       "tags": [
         "AI应用"
       ]
@@ -356,10 +596,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
       "tags": [
         "商业融资",
         "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+      "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+      "snippet": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized reco",
+      "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-10-20T22:57:41.678Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -373,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
+      "fetchedAt": "2026-10-20T22:57:41.418Z",
       "tags": [
         "AI应用"
       ]
@@ -389,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
+      "fetchedAt": "2026-10-20T22:57:41.418Z",
       "tags": [
         "AI应用"
       ]
@@ -405,25 +661,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
+      "fetchedAt": "2026-10-20T22:57:41.418Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "How to study a swiftly melting climate disaster",
-      "link": "https://www.technologyreview.com/2026/10/20/1147135/how-to-study-a-swiftly-melting-climate-disaster/",
-      "snippet": "Andrew Haverdink, a tall grad student in a rain bib and rubber boots, wrenched a double-handed drill from the frozen soil that underlies much of Alask",
-      "pubDate": "Tue, 20 Oct 2026 10:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "James Temple",
-      "fetchedAt": "2026-10-20T19:51:54.162Z",
-      "tags": [
-        "学术研究"
       ]
     },
     {
@@ -437,9 +677,25 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:55.582Z",
+      "fetchedAt": "2026-10-20T22:57:43.482Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
+      "link": "https://www.qbitai.com/2026/10/504452.html",
+      "snippet": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+      "pubDate": "Tue, 20 Oct 2026 09:57:35 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-20T22:57:37.966Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -453,42 +709,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
+      "fetchedAt": "2026-10-20T22:57:41.418Z",
       "tags": [
         "AI应用",
         "开源工具"
       ]
     },
     {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "A visit to Samsung’s massive new semiconductor hub",
-      "link": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
-      "snippet": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet grow",
-      "pubDate": "Tue, 20 Oct 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michelle Kim",
-      "fetchedAt": "2026-10-20T19:51:54.162Z",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+      "link": "https://www.qbitai.com/2026/10/504435.html",
+      "snippet": "当地时间10月12日，2026巴黎国际车展正式启幕。",
+      "pubDate": "Tue, 20 Oct 2026 09:13:14 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-20T22:57:37.966Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "These startups hope “blended” food will cut our appetite for red meat",
-      "link": "https://www.technologyreview.com/2026/10/20/1145927/blended-meat-food-startups-building-bridge-to-ditch-red-meat/",
-      "snippet": "In the fall of 2025, Jeff Dodge set up a six-foot folding table in the cafeteria of Cane Bay High School in Summerville, South Carolina, to conduct a",
-      "pubDate": "Tue, 20 Oct 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Meghan McCarron",
-      "fetchedAt": "2026-10-20T19:51:54.162Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -502,9 +742,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-20T19:51:55.951Z",
+      "fetchedAt": "2026-10-20T22:57:43.812Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+      "link": "https://www.qbitai.com/2026/10/504421.html",
+      "snippet": "最新发布TokenFleet调度框架",
+      "pubDate": "Tue, 20 Oct 2026 08:01:25 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-10-20T22:57:37.966Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -518,7 +774,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-20T19:51:55.951Z",
+      "fetchedAt": "2026-10-20T22:57:43.812Z",
       "tags": [
         "AI应用"
       ]
@@ -534,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
+      "fetchedAt": "2026-10-20T22:57:41.418Z",
       "tags": [
         "综合"
       ]
@@ -550,268 +806,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
+      "fetchedAt": "2026-10-20T22:57:41.418Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "抖音电商公布双11开门红数据：消费券带动成交额破亿商家数涨2倍",
-      "link": "https://www.leiphone.com/category/industrynews/30w2GXFtLv9CootW.html",
-      "snippet": "抖音电商公布2026年双11“开门红”阶段数据报告。报告显示，10月15日至18日大促“开门红”阶段，平台上消费券带动成交额破亿的商家数量同比增长200%。平台出资消费券与分层扶持政策共同发力，助力不同发展阶段商家在大促开局实现生意增长；店播、特色行业商家和农产品产业带生意集中爆发。 平台全资消费券",
-      "pubDate": "Tue, 20 Oct 2026 14:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "新石器完成近4亿美元新一轮融资，加速全球化与规模化商业落地",
-      "link": "https://www.leiphone.com/category/industrynews/eSrgjx3nGEGMMePm.html",
-      "snippet": "10月20日，全球领先的自动驾驶科技公司新石器（Neolix）宣布正式完成E轮近4亿美元融资。本轮融资由博裕投资与某国家级基金联合领投，阿里巴巴AEF NextGen香港基金、Monolith砺思资本、纪源资本、淡马锡旗下Vertex Growth、华映资本、广汽资本、金鼎资本、朗玛峰创投、正大机器",
-      "pubDate": "Tue, 20 Oct 2026 12:22:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "好价正当时！双11华为平板这样买，15%国补再叠教育优惠超值入手",
-      "link": "https://www.leiphone.com/category/industrynews/lG1dWd9RNAK2bEb7.html",
-      "snippet": "双11大促拉开序幕，电子设备迎来换新高峰，「双11平板选购指南」「学生党平板推荐」「2026年哪些办公产品值得买」等话题成为消费者热议的焦点。现在用户选购平板和笔记本，早已不只是为了观影娱乐，无纸化学习、移动办公、专业绘画创作，都成了核心的使用诉求。  面对更加多元的需求，华为MatePad系列凭借",
-      "pubDate": "Tue, 20 Oct 2026 12:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "启元机器人新进展：北大董豪团队推出 HIL-UMI，让后训练摆脱「真机依赖」",
-      "link": "https://www.leiphone.com/category/ai/XgCxObsqu8pc44px.html",
-      "snippet": "继无本体之后，具身后训练范式有了新进展。          作者丨齐铖湧      编辑丨岑   峰",
-      "pubDate": "Tue, 20 Oct 2026 12:06:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Inception Releases Mercury 3 Diffusion LLM at 1,068 Tokens per Second",
-      "link": "https://www.marktechpost.com/2026/10/19/inception-mercury-3-diffusion-llm/",
-      "snippet": "Inception released Mercury 3, a diffusion LLM it says runs at 1,068 tokens per second with a 1M-token context. On Inception’s own table it leads GPT-6",
-      "pubDate": "Tue, 20 Oct 2026 03:32:43 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jean-marc Mommessin",
-      "fetchedAt": "2026-10-20T19:51:55.951Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "抖音商城双11开门红数据发布：消费券带动成交额破亿商家数同比增长200%",
-      "link": "https://www.leiphone.com/category/industrynews/VSFOVaL9SbtiAsJX.html",
-      "snippet": "10月15日至18日，“2026抖音商城双11好物节”开门红阶段正式开启，秋冬消费热度持续走高，不同规模商家均迎来生意增长。数据显示，消费券带动成交额破亿商家数同比增长200%，消费券带动成交额破百万和破千万商家数分别同比增长38%和36%；同期，成交额破亿的直播间数量同比增长80%。   平台分层",
-      "pubDate": "Tue, 20 Oct 2026 11:06:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "全年最优惠！真正的双11今晚8点天猫开卖",
-      "link": "https://www.leiphone.com/category/industrynews/PxChMV65ai4TKgYz.html",
-      "snippet": "全年最优惠时刻开启！真正的双11今晚8点天猫开卖。   到手价就是划算的，店铺立减叠加平台消费券，低至7.2折。如果再加上行业加补券、国家补贴、淘金币这些权益，到手价还能更低，甚至到5折！       这样买省更多 已经加好购物车的消费者，今晚记得做两件事。   第一，领齐券。能领的权益都去领，重点",
-      "pubDate": "Tue, 20 Oct 2026 10:23:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "京东左琦的惊艳出道：最强公关，竟在采销",
-      "link": "https://www.leiphone.com/category/industrynews/1qas4lUYu8NA19Ki.html",
-      "snippet": "最近，抖音起诉京东员工的事上了热搜，双方官号都下场发了声明，你来我往，公众吃瓜吃得飞起。 围观群众顺着瓜藤一扒，发现事情最初竟然只是因为一个名叫“左琦”的京东不知名采销，发了一条朋友圈。 一个采销，不光能卖货，还能把舆论炒得这么热。这让多少公关人汗颜。 1、查无此人的“最强朋友圈” 先给左琦正个名。",
-      "pubDate": "Tue, 20 Oct 2026 09:47:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中科通量亮相2026 RISC-V中国峰会，全栈RISC-V智能覆盖视频+智算全场景",
-      "link": "https://www.leiphone.com/category/industrynews/2KBJmyhuJeiRQ7Op.html",
-      "snippet": "10月18日，第六届RISC-V中国峰会在深圳会展中心（福田）开幕。中科通量携SmarCo AI工作站、SmarCo智能视频编码一体机、SmarCo智算加速卡等产品与解决方案亮相，并以“全栈RISC-V智能 覆盖视频+智算全场景”为主题，集中展示国产RISC-V在视频与智算领域的全栈能力。峰会现场，",
-      "pubDate": "Tue, 20 Oct 2026 09:38:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:53.317Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "snippet": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protec",
-      "pubDate": "Tue, 20 Oct 2026 01:27:03 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "link": "https://www.qbitai.com/2026/10/504314.html",
-      "snippet": "OpenAI只掏出一个6.1 Terra…",
-      "pubDate": "Tue, 20 Oct 2026 01:09:43 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦晨",
-      "fetchedAt": "2026-10-20T19:51:49.584Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Drex Max: Nace AI’s Multimodal Decision Model for Computer-Use Agents with a Score 67.59",
-      "link": "https://www.marktechpost.com/2026/10/19/nace-ai-drex-max-multimodal-decision-model/",
-      "snippet": "Nace AI released Drex Max, a multimodal decision model that reads text and screenshots and returns calibrated probabilities. Nace reports 67.59 on Dec",
-      "pubDate": "Tue, 20 Oct 2026 00:03:38 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-20T19:51:55.951Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "OpenAI acquires Orchestra Bio",
-      "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "snippet": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance",
-      "pubDate": "Tue, 20 Oct 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-20T19:51:55.582Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-      "snippet": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-      "pubDate": "Mon, 19 Oct 2026 23:39:38 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-      "snippet": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over t",
-      "pubDate": "Mon, 19 Oct 2026 22:49:27 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-      "snippet": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "pubDate": "Mon, 19 Oct 2026 22:04:28 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-10-20T19:51:53.611Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
