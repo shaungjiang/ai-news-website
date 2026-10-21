@@ -1,13 +1,109 @@
 {
-  "generatedAt": "2026-10-21T14:58:42.546Z",
+  "generatedAt": "2026-10-21T20:01:24.978Z",
   "stats": {
-    "total": 111,
+    "total": 116,
     "shown": 50,
-    "chinese": 29,
-    "english": 82,
-    "today": 34
+    "chinese": 30,
+    "english": 86,
+    "today": 38
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+      "snippet": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make pur",
+      "pubDate": "Wed, 21 Oct 2026 19:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-21T19:56:49.997Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+      "link": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+      "snippet": "Google Cloud will have GPT 6.1 Astra, Sol, and Luna in the coming weeks.",
+      "pubDate": "Wed, 21 Oct 2026 18:51:42 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-10-21T19:56:51.328Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
+      "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
+      "snippet": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
+      "pubDate": "Wed, 21 Oct 2026 18:20:40 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-10-21T19:56:51.328Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "link": "https://openai.com/index/att-legal",
+      "snippet": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "pubDate": "Wed, 21 Oct 2026 17:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-21T19:56:51.794Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+      "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+      "snippet": "OpenEvidence is booming despite questions about accuracy and ads.",
+      "pubDate": "Wed, 21 Oct 2026 15:14:07 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Rafe Rosner-Uddin, Financial Times\n                ",
+      "fetchedAt": "2026-10-21T19:56:51.328Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Conversational Gemini navigation comes to Apple CarPlay",
+      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+      "snippet": "After introducing its Gemini AI assistant to Android Auto last year, Google is now bringing it to Apple CarPlay users. The conversational Gemini in na",
+      "pubDate": "2026-10-21T15:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-21T19:56:50.350Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
@@ -19,7 +115,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
+      "fetchedAt": "2026-10-21T19:56:49.997Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:18.060Z",
+      "fetchedAt": "2026-10-21T19:56:50.350Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:19.794Z",
+      "fetchedAt": "2026-10-21T19:56:51.794Z",
       "tags": [
         "大模型"
       ]
@@ -67,7 +163,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -83,25 +179,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:19.794Z",
+      "fetchedAt": "2026-10-21T19:56:51.794Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "link": "https://www.qbitai.com/2026/10/504734.html",
-      "snippet": "医疗AI质变时刻",
-      "pubDate": "Wed, 21 Oct 2026 11:30:59 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-10-21T14:54:13.467Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -115,25 +195,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "商业融资"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
+      "id": "bGVpcGhvbmU6aHR0",
       "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "link": "https://www.qbitai.com/2026/10/504730.html",
-      "snippet": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
-      "pubDate": "Wed, 21 Oct 2026 09:45:22 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
+      "link": "https://www.leiphone.com/category/industrynews/kgEaqVuNRRnvxpfp.html",
+      "snippet": "大模型训练过程，开始更多地出现在公众视野中。 此前，小米MiMo负责人罗福莉公开了MiMo-V2.6强化学习阶段的训练进展，让外界看到了大模型训练中的一些具体细节。 现在，Physical AI领域也有了类似尝试。 10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直",
+      "pubDate": "Wed, 21 Oct 2026 18:00:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
       "lang": "zh",
       "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-21T14:54:13.467Z",
+      "creator": "",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
-        "综合"
+        "大模型"
       ]
     },
     {
@@ -147,7 +227,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +243,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +259,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +275,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Corinne Iozzio",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +291,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Robin George Andrews",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +307,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Cassandra Willyard",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +323,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Cassandra Willyard",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +339,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sara Kiley Watson",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +355,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Alexander C. Kaufman",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -291,23 +371,23 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sara Kiley Watson",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "商业融资"
       ]
     },
     {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "LeCun押注的世界模型，中国一家清华系公司已经做进了机器人",
-      "link": "https://www.qbitai.com/2026/10/504653.html",
-      "snippet": "世界模型赛道新看点：千诀隐变量可辨识性方向的研究，比LeCun相近工作早一年，不堆画面预测，主打物理规律与跨本体复用。",
-      "pubDate": "Wed, 21 Oct 2026 07:15:05 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-10-21T14:54:13.467Z",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "snippet": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "pubDate": "Wed, 21 Oct 2026 07:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-21T19:56:51.794Z",
       "tags": [
         "学术研究"
       ]
@@ -323,7 +403,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:19.794Z",
+      "fetchedAt": "2026-10-21T19:56:51.794Z",
       "tags": [
         "大模型"
       ]
@@ -339,26 +419,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "量智齐飞！4个月9款车落地，轻舟城市NOA击穿10-20万体验天花板",
-      "link": "https://www.qbitai.com/2026/10/504638.html",
-      "snippet": "百万台搭载打底，智驾普及与安全并重",
-      "pubDate": "Wed, 21 Oct 2026 06:40:46 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-10-21T14:54:13.467Z",
-      "tags": [
-        "AI应用",
-        "政策监管"
       ]
     },
     {
@@ -372,7 +435,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "综合"
       ]
@@ -388,7 +451,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "AI应用"
       ]
@@ -404,7 +467,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-21T14:54:20.132Z",
+      "fetchedAt": "2026-10-21T19:56:52.197Z",
       "tags": [
         "AI应用"
       ]
@@ -420,7 +483,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "AI应用"
       ]
@@ -436,25 +499,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:19.794Z",
+      "fetchedAt": "2026-10-21T19:56:51.794Z",
       "tags": [
         "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "实探宁德时代总部：“去宁化”是喊太大声了",
-      "link": "https://www.qbitai.com/2026/10/504618.html",
-      "snippet": "电池开发，分工远比想象复杂",
-      "pubDate": "Wed, 21 Oct 2026 04:35:56 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-10-21T14:54:13.467Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -468,7 +515,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-21T14:54:20.132Z",
+      "fetchedAt": "2026-10-21T19:56:52.197Z",
       "tags": [
         "大模型"
       ]
@@ -484,7 +531,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +547,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "学术研究"
       ]
@@ -516,7 +563,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:17.437Z",
+      "fetchedAt": "2026-10-21T19:56:49.657Z",
       "tags": [
         "AI应用"
       ]
@@ -532,7 +579,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-21T14:54:13.467Z",
+      "fetchedAt": "2026-10-21T19:56:45.797Z",
       "tags": [
         "综合"
       ]
@@ -548,9 +595,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-10-21T14:54:13.467Z",
+      "fetchedAt": "2026-10-21T19:56:45.797Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "link": "https://openai.com/index/empowering-cyber-defenders",
+      "snippet": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public",
+      "pubDate": "Wed, 21 Oct 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-21T19:56:51.794Z",
+      "tags": [
+        "政策监管"
       ]
     },
     {
@@ -564,7 +627,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:18.060Z",
+      "fetchedAt": "2026-10-21T19:56:50.350Z",
       "tags": [
         "政策监管"
       ]
@@ -580,7 +643,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
+      "fetchedAt": "2026-10-21T19:56:49.997Z",
       "tags": [
         "AI应用"
       ]
@@ -596,7 +659,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
+      "fetchedAt": "2026-10-21T19:56:49.997Z",
       "tags": [
         "AI应用"
       ]
@@ -612,7 +675,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-21T14:54:18.060Z",
+      "fetchedAt": "2026-10-21T19:56:50.350Z",
       "tags": [
         "大模型"
       ]
@@ -628,7 +691,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
+      "fetchedAt": "2026-10-21T19:56:49.997Z",
       "tags": [
         "综合"
       ]
@@ -644,7 +707,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jennifer Chu",
-      "fetchedAt": "2026-10-21T14:54:18.461Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -660,7 +723,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Benjamin Daniel",
-      "fetchedAt": "2026-10-21T14:54:18.462Z",
+      "fetchedAt": "2026-10-21T19:56:50.653Z",
       "tags": [
         "综合"
       ]
@@ -676,7 +739,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz, Kirsten Korosec",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
+      "fetchedAt": "2026-10-21T19:56:49.997Z",
       "tags": [
         "商业融资"
       ]
@@ -692,7 +755,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
+      "fetchedAt": "2026-10-21T19:56:49.997Z",
       "tags": [
         "学术研究"
       ]
@@ -708,7 +771,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-21T14:54:19.347Z",
+      "fetchedAt": "2026-10-21T19:56:51.328Z",
       "tags": [
         "政策监管"
       ]
@@ -724,7 +787,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-21T14:54:19.347Z",
+      "fetchedAt": "2026-10-21T19:56:51.328Z",
       "tags": [
         "大模型"
       ]
@@ -740,74 +803,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
+      "fetchedAt": "2026-10-21T19:56:49.997Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ChatGPT now lets you lock your chats",
-      "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-      "snippet": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep tho",
-      "pubDate": "Tue, 20 Oct 2026 18:36:53 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Ukraine’s drone rescue of wounded soldier puts much touted idea into practice",
-      "link": "https://arstechnica.com/gadgets/2026/10/ukraines-drone-rescue-of-wounded-soldier-puts-much-touted-idea-into-practice/",
-      "snippet": "Ukraine’s latest drone innovation may boost bleak odds of evacuating casualties.",
-      "pubDate": "Tue, 20 Oct 2026 18:22:54 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-21T14:54:19.347Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-      "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-      "snippet": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the",
-      "pubDate": "2026-10-20T18:07:34.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-21T14:54:18.060Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "snippet": "Eric Schmidt’s fortune is about to get even bigger.",
-      "pubDate": "Tue, 20 Oct 2026 17:55:12 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-21T14:54:17.735Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
