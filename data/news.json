@@ -1,13 +1,175 @@
 {
-  "generatedAt": "2026-10-23T03:53:17.480Z",
+  "generatedAt": "2026-10-23T09:13:51.088Z",
   "stats": {
     "total": 114,
     "shown": 50,
-    "chinese": 29,
-    "english": 85,
-    "today": 2
+    "chinese": 28,
+    "english": 86,
+    "today": 13
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
+      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
+      "snippet": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and boun",
+      "pubDate": "Fri, 23 Oct 2026 08:58:47 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-23T09:09:16.704Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "link": "https://www.qbitai.com/2026/10/504901.html",
+      "snippet": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "pubDate": "Fri, 23 Oct 2026 07:35:51 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-23T09:09:08.816Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
+      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
+      "snippet": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside.",
+      "pubDate": "Fri, 23 Oct 2026 06:05:10 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-23T09:09:16.704Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
+      "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
+      "snippet": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, s",
+      "pubDate": "Fri, 23 Oct 2026 05:28:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-23T09:09:16.704Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+      "snippet": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-10-23T09:09:14.265Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "“PHP2Shell”敲响企业漏洞警钟，奇安信天戟提供一键速查方案",
+      "link": "https://www.leiphone.com/category/industrynews/9DeJmHEbinuBUT49.html",
+      "snippet": "10月21日，全球广泛使用的服务器端编程语言PHP被曝存在两项严重安全漏洞（CVE-2026-109618、CVE-2026-109619），统称为“PHP2Shell”。经奇安信技术专家验证，该漏洞可实现无认证远程任意命令执行，属于互联网基础设施级严重安全风险，对我国的潜在影响超百万级资产。由于利",
+      "pubDate": "Fri, 23 Oct 2026 11:03:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
+      "tags": [
+        "政策监管",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "擦窗机器人有了首个行业标准，你敢把窗户交给它吗？",
+      "link": "https://www.leiphone.com/category/smarthome/iDkOEQuhDC14QfOE.html",
+      "snippet": "“会不会掉下来？” 这是每个第一次把擦窗机器人放上玻璃的人，心里都会闪过的念头。没有一家厂商敢在宣传里写“绝不掉落”，涉及高空作业，这四个字背后的责任谁都担不起。 一台擦窗机器人卖的不只是清洁力，还有风险已被技术接管的承诺。 擦窗机器人正在成为家用机器人行业里一个越来越明显的变量。 IDC数据显示，",
+      "pubDate": "Fri, 23 Oct 2026 10:57:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "「千问Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
+      "link": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
+      "snippet": "10月23日消息，「千问Go!」上线新功能“我的应用”。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。用户可用于搭建互动课件、活动报名页、亲子导览、健身约课助手等专属应用，并且长期可用。 据悉，“我的应用”接入阿里云AI应用生产平台Meo",
+      "pubDate": "Fri, 23 Oct 2026 10:55:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "iPhone Duo开售，美团闪购：最早一单20分钟送达",
+      "link": "https://www.leiphone.com/category/industrynews/JaLr33yTu2JXaEb7.html",
+      "snippet": "北京时间今日早晨八点，iPhone Duo正式发售。作为Apple推出的首款折叠屏产品，消费者的热情使眼下的iPhone Duo可谓“一机难求”：早在一周前开启预售时，多个渠道就迅速售罄，苹果官网也因为流量过大一度卡顿。当前官网显示，iPhone Duo的预计交付时间已排至明年1月，二手市场溢价更令",
+      "pubDate": "Fri, 23 Oct 2026 10:45:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "“AI店长”帮部分试用商家增长超30%，美团外卖薛冰：将赠送给全国所有商家",
+      "link": "https://www.leiphone.com/category/industrynews/tZI7pYBhiFduVfr6.html",
+      "snippet": "10月22日，在2026年美团外卖产业大会上，美团正式发布“妙手外卖版·袋鼠管家”。美团外卖总经理薛冰宣布，将向全国餐饮商家免费提供一个懂外卖经营的“AI店长”。 大会披露的数据显示，2026年上半年餐饮商家的外卖营收增速超过全国餐饮平均营收，薛冰表示，“外卖行业进入积极向好，美团将帮助商家做好店型",
+      "pubDate": "Fri, 23 Oct 2026 10:43:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
+      ]
+    },
     {
       "id": "bGVpcGhvbmU6aHR0",
       "title": "72岁董明珠：被学生喊奶奶很不开心，人的价值不用年龄来衡量；雷军：汽车产业没有安全，其他都是零；iPhone Duo全球限购，每人限购2台",
@@ -19,7 +181,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
       "tags": [
         "政策监管"
       ]
@@ -35,7 +197,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "snippet": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital e",
+      "pubDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-23T09:09:16.288Z",
       "tags": [
         "学术研究"
       ]
@@ -51,7 +229,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +245,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +261,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Anand Logani",
-      "fetchedAt": "2026-10-23T03:44:28.362Z",
+      "fetchedAt": "2026-10-23T09:09:14.869Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +277,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +293,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "学术研究"
       ]
@@ -131,7 +309,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "综合"
       ]
@@ -147,23 +325,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-      "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "AI应用"
       ]
@@ -179,7 +341,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "snippet": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +373,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:29.475Z",
+      "fetchedAt": "2026-10-23T09:09:16.288Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +389,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "AI应用"
       ]
@@ -227,7 +405,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Events",
-      "fetchedAt": "2026-10-23T03:44:28.362Z",
+      "fetchedAt": "2026-10-23T09:09:14.869Z",
       "tags": [
         "政策监管"
       ]
@@ -243,7 +421,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "学术研究"
       ]
@@ -259,7 +437,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "综合"
       ]
@@ -275,7 +453,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "开源工具"
       ]
@@ -291,7 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-23T03:44:29.783Z",
+      "fetchedAt": "2026-10-23T09:09:16.704Z",
       "tags": [
         "AI应用"
       ]
@@ -307,7 +485,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "AI应用"
       ]
@@ -323,7 +501,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-23T03:44:29.783Z",
+      "fetchedAt": "2026-10-23T09:09:16.704Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +517,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "开源工具"
       ]
@@ -355,7 +533,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-23T03:44:29.783Z",
+      "fetchedAt": "2026-10-23T09:09:16.704Z",
       "tags": [
         "AI应用"
       ]
@@ -371,7 +549,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "综合"
       ]
@@ -387,7 +565,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-23T03:44:29.783Z",
+      "fetchedAt": "2026-10-23T09:09:16.704Z",
       "tags": [
         "AI应用"
       ]
@@ -403,7 +581,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "大模型"
       ]
@@ -419,7 +597,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:28.136Z",
+      "fetchedAt": "2026-10-23T09:09:14.571Z",
       "tags": [
         "综合"
       ]
@@ -435,7 +613,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Tom Wilson and Rafe Rosner-Uddin, Financial Times\n                ",
-      "fetchedAt": "2026-10-23T03:44:29.090Z",
+      "fetchedAt": "2026-10-23T09:09:15.783Z",
       "tags": [
         "综合"
       ]
@@ -451,7 +629,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "综合"
       ]
@@ -467,7 +645,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "大模型"
       ]
@@ -483,7 +661,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "商业融资"
       ]
@@ -499,7 +677,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-10-23T03:44:27.726Z",
+      "fetchedAt": "2026-10-23T09:09:14.266Z",
       "tags": [
         "商业融资"
       ]
@@ -515,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -532,23 +710,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-23T03:44:28.362Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "link": "https://www.leiphone.com/category/industrynews/vv6pTluWIUjUHMbi.html",
-      "snippet": "企业AI转型正在走向深水区，从单点工具和业务场景提效，向系统性的组织重构延伸。麦肯锡曾在《组织状态报告2026》中指出，尽管AI被视为新一轮生产力革命的重要驱动力，但真正将其转化为经营业绩的企业仍是少数，背后的关键在于，不少企业仍将AI转型停留在“工具升级”层面，却忽视了更本质的“组织重构”。如何将",
-      "pubDate": "Thu, 22 Oct 2026 20:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
+      "fetchedAt": "2026-10-23T09:09:14.869Z",
       "tags": [
         "综合"
       ]
@@ -564,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
       "tags": [
         "政策监管",
         "开源工具"
@@ -581,23 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
-      "link": "https://www.leiphone.com/category/industrynews/IshbO1ikAgjvB6G9.html",
-      "snippet": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。该模型专为快速决策打造，在处理结构化决策任务时，具备准确率更高、响应更快、Token成本更低等优势，尤其适合产业AI场景。LingDT-Decision-1.0提供4B和27B两个版本，目前，模型已经在蚂蚁数科 DTMa",
-      "pubDate": "Thu, 22 Oct 2026 18:54:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
       "tags": [
         "AI应用"
       ]
@@ -613,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
+      "fetchedAt": "2026-10-23T09:09:13.932Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -646,7 +792,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-23T03:44:28.362Z",
+      "fetchedAt": "2026-10-23T09:09:14.869Z",
       "tags": [
         "综合"
       ]
@@ -662,155 +808,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-10-23T03:44:28.362Z",
+      "fetchedAt": "2026-10-23T09:09:14.869Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Flowtica Rian：硬件的旧规律没变，新机会是做好Memory丨未来创新50人",
-      "link": "https://www.leiphone.com/category/weiwu/Sni49oUOM9rbTR7h.html",
-      "snippet": "大疆想收编的云台团队，十年做了四个硬件品类，现在押注 AI Memory。 作者丨吴优  编辑丨董子博          Plaud 爆火之后，国内一家叫 Flowtica 的公司也在短时间内闯入大众视野，去年上半年在 Kickstarter 平台上发布了世界首款 AI 笔 Flowtica Scr",
-      "pubDate": "Thu, 22 Oct 2026 17:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家丨徕芬副总联手苹果核心研发，创业移动出行咖啡智能硬件",
-      "link": "https://www.leiphone.com/category/weiwu/kcT0Gob16vBuSwSl.html",
-      "snippet": "雷峰网·鲸犀独家获悉，智能硬件公司几何逻辑完成数轮融资，并已经在产品侧取得新进展，计划于明年年初在 CES 亮相并同步开启众筹预售，推进量产交付。 企查查显示，几何逻辑已经于今年 7 月完成工商变更，获得来自云晖资本和比依集团的天使轮投资，具体金额未披露，预计估值数亿元。其中比依集团子公司为布局咖啡",
-      "pubDate": "Thu, 22 Oct 2026 17:24:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Accio成双11商家生意加速器：蓄水期缩短半个月、15分钟全网爆款调优",
-      "link": "https://www.leiphone.com/category/industrynews/wZadstkZcVlLudqv.html",
-      "snippet": "激战正酣的2026 双11商家，正在迎来AI agent的全面实战助力。   来自阿里旗下全球电商AI工作台Accio的消息，今年双十一，越来越多商家把Accio当成其AI产品首选，其跨平台店铺经营诊断、选品上新与数据分析等核心能力，正在帮助商家大幅压缩时间和提升效率，成为电商商家双11生意加速器。",
-      "pubDate": "Thu, 22 Oct 2026 17:00:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "AI’s hidden storage bill: What inference leaves behind",
-      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
-      "snippet": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. Bu",
-      "pubDate": "Thu, 22 Oct 2026 08:41:18 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Tim Rausch",
-      "fetchedAt": "2026-10-23T03:44:28.362Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "千问AI硬件：一副眼镜的「越界」，与一个Agent的野心",
-      "link": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
-      "snippet": "一副44g的眼镜能做什么？会议开始前自动录音，骑行时根据心率提醒你调整呼吸，在咖啡店看一眼外文菜单就知道你想问哪道菜，甚至点头就能完成支付。 这是千问日前发布的AI眼镜N1 Pro给出的答案。同一天，它还发布了一款1099元起的AI耳夹式耳机。三款硬件同日开售，眼镜到手价2218元起，耳机1099元",
-      "pubDate": "Thu, 22 Oct 2026 16:14:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-23T03:44:27.458Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
-      "link": "https://www.qbitai.com/2026/10/504841.html",
-      "snippet": "FSD一年增长70万付费用户",
-      "pubDate": "Thu, 22 Oct 2026 07:14:48 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-10-23T03:44:22.626Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
-      "link": "https://www.qbitai.com/2026/10/504832.html",
-      "snippet": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
-      "pubDate": "Thu, 22 Oct 2026 07:11:14 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-23T03:44:22.626Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "谁在给OpenAI供应具身数据？",
-      "link": "https://www.qbitai.com/2026/10/504800.html",
-      "snippet": "挤进全球Physical AI核心供应链",
-      "pubDate": "Thu, 22 Oct 2026 07:05:59 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦瑶",
-      "fetchedAt": "2026-10-23T03:44:22.626Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "IBM AI Releases Granite Speech 5.0 2B for Multilingual Transcription and Translation",
-      "link": "https://www.marktechpost.com/2026/10/22/ibm-granite-speech-5-0-2b-release/",
-      "snippet": "IBM released Granite Speech 5.0 2B, an Apache 2.0 speech recognition and translation model. It ranks #2 on the Open ASR Leaderboard with 5.68% average",
-      "pubDate": "Thu, 22 Oct 2026 07:00:56 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-23T03:44:29.783Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
