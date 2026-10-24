@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-10-23T23:00:54.005Z",
+  "generatedAt": "2026-10-24T03:45:09.266Z",
   "stats": {
     "total": 114,
     "shown": 50,
     "chinese": 29,
     "english": 85,
-    "today": 37
+    "today": 0
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Kyutai CADRE: Video Autoencoders That Cut World Model Lag Below 230 ms",
+      "link": "https://www.marktechpost.com/2026/10/23/kyutai-cadre-video-autoencoders-interactive-world-models/",
+      "snippet": "Kyutai released CADRE, a family of 7 open causal diffusion video autoencoders for interactive world models. World models built on CADRE run at 20 fps",
+      "pubDate": "Fri, 23 Oct 2026 23:26:53 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-24T03:38:29.545Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "snippet": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
+      "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
+      "snippet": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10",
+      "pubDate": "Fri, 23 Oct 2026 22:52:40 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-24T03:38:29.545Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-23T22:56:22.438Z",
+      "fetchedAt": "2026-10-24T03:38:28.865Z",
       "tags": [
         "政策监管"
       ]
@@ -67,7 +115,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +131,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +147,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-23T22:56:22.438Z",
+      "fetchedAt": "2026-10-24T03:38:28.865Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +179,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:22.894Z",
+      "fetchedAt": "2026-10-24T03:38:29.228Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -148,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "政策监管"
       ]
@@ -164,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "开源工具"
       ]
@@ -180,7 +228,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-23T22:56:21.455Z",
+      "fetchedAt": "2026-10-24T03:38:28.150Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +244,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +260,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -229,7 +277,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "大模型"
       ]
@@ -245,7 +293,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -262,7 +310,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -279,7 +327,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:22.894Z",
+      "fetchedAt": "2026-10-24T03:38:29.228Z",
       "tags": [
         "商业融资"
       ]
@@ -295,7 +343,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-23T22:56:21.455Z",
+      "fetchedAt": "2026-10-24T03:38:28.150Z",
       "tags": [
         "综合"
       ]
@@ -311,7 +359,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-23T22:56:23.300Z",
+      "fetchedAt": "2026-10-24T03:38:29.545Z",
       "tags": [
         "AI应用"
       ]
@@ -327,7 +375,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "综合"
       ]
@@ -343,7 +391,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -360,7 +408,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "综合"
       ]
@@ -376,7 +424,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "商业融资"
       ]
@@ -392,7 +440,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-23T22:56:16.698Z",
+      "fetchedAt": "2026-10-24T03:38:21.942Z",
       "tags": [
         "综合"
       ]
@@ -408,7 +456,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "AI应用"
       ]
@@ -424,7 +472,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "AI应用"
       ]
@@ -440,7 +488,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-23T22:56:23.300Z",
+      "fetchedAt": "2026-10-24T03:38:29.545Z",
       "tags": [
         "AI应用"
       ]
@@ -456,7 +504,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-23T22:56:23.300Z",
+      "fetchedAt": "2026-10-24T03:38:29.545Z",
       "tags": [
         "AI应用"
       ]
@@ -472,7 +520,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
       "tags": [
         "开源工具"
       ]
@@ -488,7 +536,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -505,7 +553,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "综合"
       ]
@@ -521,7 +569,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "AI应用"
       ]
@@ -537,7 +585,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "AI应用"
       ]
@@ -553,7 +601,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -570,7 +618,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:20.545Z",
+      "fetchedAt": "2026-10-24T03:38:27.368Z",
       "tags": [
         "政策监管"
       ]
@@ -586,7 +634,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
       "tags": [
         "学术研究"
       ]
@@ -602,7 +650,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:22.894Z",
+      "fetchedAt": "2026-10-24T03:38:29.228Z",
       "tags": [
         "学术研究"
       ]
@@ -618,7 +666,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
       "tags": [
         "商业融资"
       ]
@@ -634,7 +682,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "AI应用"
       ]
@@ -650,7 +698,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Anand Logani",
-      "fetchedAt": "2026-10-23T22:56:21.455Z",
+      "fetchedAt": "2026-10-24T03:38:28.150Z",
       "tags": [
         "综合"
       ]
@@ -666,7 +714,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "综合"
       ]
@@ -682,7 +730,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "学术研究"
       ]
@@ -698,7 +746,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:21.158Z",
+      "fetchedAt": "2026-10-24T03:38:27.888Z",
       "tags": [
         "综合"
       ]
@@ -714,7 +762,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
       "tags": [
         "AI应用"
       ]
@@ -730,7 +778,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
       "tags": [
         "AI应用"
       ]
@@ -746,7 +794,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
+      "fetchedAt": "2026-10-24T03:38:27.637Z",
       "tags": [
         "AI应用"
       ]
@@ -762,55 +810,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-23T22:56:22.894Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Foundations of Scalable AI",
-      "link": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "snippet": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This s",
-      "pubDate": "Thu, 22 Oct 2026 18:48:04 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "MIT Technology Review Events",
-      "fetchedAt": "2026-10-23T22:56:21.455Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-      "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-      "snippet": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come",
-      "pubDate": "Thu, 22 Oct 2026 18:43:53 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-23T22:56:20.845Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Liquid AI Launches RIPL, a Real-Time Inference Engine for Sub-50 ms LFMs",
-      "link": "https://www.marktechpost.com/2026/10/22/liquid-ai-ripl-real-time-inference-engine/",
-      "snippet": "Liquid AI released RIPL, a real-time inference engine for its LFM models. On one B200, LFM2.5-1.2B on RIPL showed 14.4 to 28.4x lower p95 latency than",
-      "pubDate": "Thu, 22 Oct 2026 17:33:25 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-23T22:56:23.300Z",
+      "fetchedAt": "2026-10-24T03:38:29.228Z",
       "tags": [
         "AI应用"
       ]
