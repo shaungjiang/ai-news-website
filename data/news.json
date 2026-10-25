@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-10-25T13:09:47.012Z",
+  "generatedAt": "2026-10-25T17:32:54.880Z",
   "stats": {
-    "total": 115,
+    "total": 114,
     "shown": 50,
     "chinese": 30,
-    "english": 85,
-    "today": 4
+    "english": 84,
+    "today": 10
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "snippet": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate Ameri",
+      "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
+      "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
+      "snippet": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7%",
+      "pubDate": "Sun, 25 Oct 2026 16:53:40 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+      "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lauren Forristal",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "snippet": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by sa",
+      "pubDate": "2026-10-25T13:25:32.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
+      "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
+      "snippet": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-t",
+      "pubDate": "Sun, 25 Oct 2026 12:12:18 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Google’s AI search changes upended online publishing",
@@ -19,9 +99,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+      "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+      "snippet": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company",
+      "pubDate": "Sun, 25 Oct 2026 11:32:29 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -35,7 +131,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
       "tags": [
         "学术研究"
       ]
@@ -51,7 +147,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +163,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
       "tags": [
         "开源工具"
       ]
@@ -83,7 +179,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +195,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-25T12:59:56.037Z",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -116,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "政策监管",
         "开源工具"
@@ -133,7 +229,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-25T12:59:56.037Z",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
       "tags": [
         "综合"
       ]
@@ -149,7 +245,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-25T12:59:56.037Z",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
       "tags": [
         "大模型"
       ]
@@ -165,7 +261,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-25T12:59:56.037Z",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
       "tags": [
         "综合"
       ]
@@ -181,7 +277,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
       "tags": [
         "大模型"
       ]
@@ -197,7 +293,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
       "tags": [
         "开源工具"
       ]
@@ -213,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -230,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -247,7 +343,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "AI应用"
       ]
@@ -263,7 +359,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
       "tags": [
         "AI应用"
       ]
@@ -279,7 +375,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "综合"
       ]
@@ -295,7 +391,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "AI应用"
       ]
@@ -311,7 +407,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "商业融资"
       ]
@@ -327,7 +423,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
+      "fetchedAt": "2026-10-25T17:27:16.283Z",
       "tags": [
         "AI应用"
       ]
@@ -343,25 +439,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-25T12:59:56.037Z",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Moonshot AI Releases Kimi K3.1 Pro: A 2.8T Total/104B Active Params (MoE) Model with 1M Context",
-      "link": "https://www.marktechpost.com/2026/10/23/moonshot-ai-kimi-k3-1-pro-open-weight-model/",
-      "snippet": "Moonshot AI released Kimi K3.1 Pro, a 2.8T-parameter, 104B-active MoE model with 1M-token context. It scores 65.7% on Terminal-Bench 4.0, costs $2/$10",
-      "pubDate": "Fri, 23 Oct 2026 22:52:40 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -375,7 +455,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-25T12:59:56.037Z",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
       "tags": [
         "综合"
       ]
@@ -391,7 +471,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "综合"
       ]
@@ -407,7 +487,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-25T12:59:57.269Z",
+      "fetchedAt": "2026-10-25T17:27:15.452Z",
       "tags": [
         "政策监管"
       ]
@@ -423,7 +503,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "综合"
       ]
@@ -439,7 +519,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-25T12:59:56.037Z",
+      "fetchedAt": "2026-10-25T17:27:13.884Z",
       "tags": [
         "综合"
       ]
@@ -455,7 +535,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-25T12:59:57.269Z",
+      "fetchedAt": "2026-10-25T17:27:15.452Z",
       "tags": [
         "AI应用"
       ]
@@ -471,7 +551,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "综合"
       ]
@@ -487,7 +567,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:57.666Z",
+      "fetchedAt": "2026-10-25T17:27:15.885Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -504,7 +584,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "政策监管"
       ]
@@ -520,7 +600,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "开源工具"
       ]
@@ -536,7 +616,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "AI应用"
       ]
@@ -552,7 +632,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-25T12:59:56.544Z",
+      "fetchedAt": "2026-10-25T17:27:14.489Z",
       "tags": [
         "综合"
       ]
@@ -568,7 +648,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:56.289Z",
+      "fetchedAt": "2026-10-25T17:27:14.190Z",
       "tags": [
         "综合"
       ]
@@ -584,7 +664,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -601,7 +681,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "大模型"
       ]
@@ -617,7 +697,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -634,7 +714,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -651,7 +731,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:57.666Z",
+      "fetchedAt": "2026-10-25T17:27:15.885Z",
       "tags": [
         "商业融资"
       ]
@@ -667,25 +747,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-25T12:59:56.544Z",
+      "fetchedAt": "2026-10-25T17:27:14.489Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "TinyFish Breaks Down Agentic Search Architecture for Production AI Agents",
-      "link": "https://www.marktechpost.com/2026/10/23/tinyfish-agentic-search-architecture-deep-research/",
-      "snippet": "TinyFish published two engineering research articles on agentic search. One defines a 7-phase production architecture with evidence contracts and boun",
-      "pubDate": "Fri, 23 Oct 2026 08:58:47 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -699,7 +763,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "综合"
       ]
@@ -715,7 +779,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -732,7 +796,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "综合"
       ]
@@ -748,73 +812,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
+      "fetchedAt": "2026-10-25T17:27:13.593Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
-      "link": "https://www.qbitai.com/2026/10/504901.html",
-      "snippet": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
-      "pubDate": "Fri, 23 Oct 2026 07:35:51 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-25T12:59:49.520Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "融资10亿+元，亿铸科技加速通用存算一体产业化",
-      "link": "https://www.leiphone.com/category/industrynews/ADXEXKrCVSzoJ36i.html",
-      "snippet": "国内首家通用存算一体架构（GP-IMC®）AI大算力芯片公司亿铸科技完成10亿+元融资。随着AI算力需求持续增长，通用存算一体等新型算力架构受到资本市场和产业界关注，亿铸科技也在技术研发与产品产业化方面持续推进。  亿铸科技正式运营于2022年，持续聚焦通用存算一体技术研发，坚持“通用存算一体+超异",
-      "pubDate": "Fri, 23 Oct 2026 15:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "剧中角色“喊你休息” 红果短剧上线防沉迷提醒视频",
-      "link": "https://www.leiphone.com/category/industrynews/GmXZhkN2aewwJOXM.html",
-      "snippet": "近日，红果短剧上线“休息提醒”和“睡眠提醒”两项机制。用户看剧超过一定时长，或在深夜时段打开红果短剧时，可能会在推荐页刷到一条特别的视频：熟悉的短剧角色对着镜头，提醒用户放下手机，休息一下。 据介绍，“休息提醒”在用户看剧超过一定时长后触发：在剧集播放页，屏幕上方会出现“是时候休息下啦”的提示；在推",
-      "pubDate": "Fri, 23 Oct 2026 15:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-25T12:59:55.776Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google Cloud Launches Agent Compute Engine: A MicroVM per AI Agent",
-      "link": "https://www.marktechpost.com/2026/10/22/google-cloud-agent-compute-engine-microvm-ai-agents/",
-      "snippet": "Google Cloud announced Agent Compute Engine, a compute service that gives every AI agent its own hardware-isolated microVM with no credentials inside.",
-      "pubDate": "Fri, 23 Oct 2026 06:05:10 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-25T12:59:57.981Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
