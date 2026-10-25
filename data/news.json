@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-10-25T00:12:27.484Z",
+  "generatedAt": "2026-10-25T07:26:23.849Z",
   "stats": {
     "total": 115,
     "shown": 50,
     "chinese": 30,
     "english": 85,
-    "today": 0
+    "today": 3
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
+      "link": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
+      "snippet": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findi",
+      "pubDate": "Sun, 25 Oct 2026 03:32:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
+      "link": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
+      "snippet": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitL",
+      "pubDate": "Sun, 25 Oct 2026 02:59:08 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
+      "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
+      "snippet": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-ca",
+      "pubDate": "Sun, 25 Oct 2026 02:30:18 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sana Hassan",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Blue Planet III is keeping the rough edges in the age of AI",
@@ -19,7 +67,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.894Z",
+      "fetchedAt": "2026-10-25T07:20:43.169Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +83,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-25T00:02:34.580Z",
+      "fetchedAt": "2026-10-25T07:20:42.879Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -52,7 +100,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.894Z",
+      "fetchedAt": "2026-10-25T07:20:43.169Z",
       "tags": [
         "政策监管",
         "开源工具"
@@ -69,7 +117,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-25T00:02:34.580Z",
+      "fetchedAt": "2026-10-25T07:20:42.879Z",
       "tags": [
         "综合"
       ]
@@ -85,7 +133,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-25T00:02:34.580Z",
+      "fetchedAt": "2026-10-25T07:20:42.879Z",
       "tags": [
         "大模型"
       ]
@@ -101,7 +149,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-25T00:02:34.580Z",
+      "fetchedAt": "2026-10-25T07:20:42.879Z",
       "tags": [
         "综合"
       ]
@@ -117,7 +165,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T00:02:36.456Z",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
       "tags": [
         "大模型"
       ]
@@ -133,7 +181,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-25T00:02:36.456Z",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
       "tags": [
         "开源工具"
       ]
@@ -149,7 +197,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -166,7 +214,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -183,7 +231,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用"
       ]
@@ -199,7 +247,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T00:02:36.456Z",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
       "tags": [
         "AI应用"
       ]
@@ -215,7 +263,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "综合"
       ]
@@ -231,7 +279,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用"
       ]
@@ -247,7 +295,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "商业融资"
       ]
@@ -263,7 +311,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-25T00:02:36.456Z",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
       "tags": [
         "AI应用"
       ]
@@ -279,7 +327,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-25T00:02:34.580Z",
+      "fetchedAt": "2026-10-25T07:20:42.879Z",
       "tags": [
         "综合"
       ]
@@ -295,7 +343,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T00:02:36.456Z",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
       "tags": [
         "AI应用"
       ]
@@ -311,7 +359,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-25T00:02:34.580Z",
+      "fetchedAt": "2026-10-25T07:20:42.879Z",
       "tags": [
         "综合"
       ]
@@ -327,7 +375,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.894Z",
+      "fetchedAt": "2026-10-25T07:20:43.169Z",
       "tags": [
         "综合"
       ]
@@ -343,7 +391,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-25T00:02:35.775Z",
+      "fetchedAt": "2026-10-25T07:20:44.389Z",
       "tags": [
         "政策监管"
       ]
@@ -359,7 +407,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.894Z",
+      "fetchedAt": "2026-10-25T07:20:43.169Z",
       "tags": [
         "综合"
       ]
@@ -375,7 +423,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-25T00:02:34.580Z",
+      "fetchedAt": "2026-10-25T07:20:42.879Z",
       "tags": [
         "综合"
       ]
@@ -391,7 +439,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-25T00:02:35.775Z",
+      "fetchedAt": "2026-10-25T07:20:44.389Z",
       "tags": [
         "AI应用"
       ]
@@ -407,7 +455,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.894Z",
+      "fetchedAt": "2026-10-25T07:20:43.169Z",
       "tags": [
         "综合"
       ]
@@ -423,7 +471,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:36.164Z",
+      "fetchedAt": "2026-10-25T07:20:44.848Z",
       "tags": [
         "大模型",
         "开源工具"
@@ -440,7 +488,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.894Z",
+      "fetchedAt": "2026-10-25T07:20:43.169Z",
       "tags": [
         "政策监管"
       ]
@@ -456,9 +504,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.894Z",
+      "fetchedAt": "2026-10-25T07:20:43.169Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "link": "https://www.leiphone.com/category/industrynews/sf7R7WgzGyvZwKLa.html",
+      "snippet": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。 面向AI for Work数万亿美元级蓝海市场，全球领先的AI营销科技公司钛动科技，在会上正式发布行业首个 Pro Agent ——Navos Pro。Navos Pro以 Pro",
+      "pubDate": "Fri, 23 Oct 2026 20:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -472,7 +536,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-25T00:02:35.144Z",
+      "fetchedAt": "2026-10-25T07:20:43.437Z",
       "tags": [
         "综合"
       ]
@@ -488,7 +552,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.894Z",
+      "fetchedAt": "2026-10-25T07:20:43.169Z",
       "tags": [
         "综合"
       ]
@@ -504,7 +568,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -521,7 +585,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "大模型"
       ]
@@ -537,7 +601,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -554,7 +618,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -571,7 +635,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:36.164Z",
+      "fetchedAt": "2026-10-25T07:20:44.848Z",
       "tags": [
         "商业融资"
       ]
@@ -587,7 +651,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-25T00:02:35.144Z",
+      "fetchedAt": "2026-10-25T07:20:43.437Z",
       "tags": [
         "综合"
       ]
@@ -603,7 +667,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T00:02:36.456Z",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
       "tags": [
         "AI应用"
       ]
@@ -619,7 +683,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "综合"
       ]
@@ -635,7 +699,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -652,7 +716,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "综合"
       ]
@@ -668,7 +732,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "商业融资"
       ]
@@ -684,7 +748,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-25T00:02:29.122Z",
+      "fetchedAt": "2026-10-25T07:20:37.796Z",
       "tags": [
         "综合"
       ]
@@ -700,7 +764,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用"
       ]
@@ -716,7 +780,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
+      "fetchedAt": "2026-10-25T07:20:42.574Z",
       "tags": [
         "AI应用"
       ]
@@ -732,23 +796,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-25T00:02:36.456Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "You.com Launches Inference Router: 12 Open-Weight Models With 99.9% Uptime SLA",
-      "link": "https://www.marktechpost.com/2026/10/22/you-com-inference-router-open-weight-models-uptime-sla/",
-      "snippet": "You.com launched Inference Router, an OpenAI-compatible API for 12 open-weight models with a 99.9% uptime SLA, zero data retention, 100% US hosting, s",
-      "pubDate": "Fri, 23 Oct 2026 05:28:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-25T00:02:36.456Z",
+      "fetchedAt": "2026-10-25T07:20:45.212Z",
       "tags": [
         "AI应用"
       ]
@@ -764,58 +812,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-10-25T00:02:34.580Z",
+      "fetchedAt": "2026-10-25T07:20:42.879Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "“PHP2Shell”敲响企业漏洞警钟，奇安信天戟提供一键速查方案",
-      "link": "https://www.leiphone.com/category/industrynews/9DeJmHEbinuBUT49.html",
-      "snippet": "10月21日，全球广泛使用的服务器端编程语言PHP被曝存在两项严重安全漏洞（CVE-2026-109618、CVE-2026-109619），统称为“PHP2Shell”。经奇安信技术专家验证，该漏洞可实现无认证远程任意命令执行，属于互联网基础设施级严重安全风险，对我国的潜在影响超百万级资产。由于利",
-      "pubDate": "Fri, 23 Oct 2026 11:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
-      "tags": [
-        "政策监管",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "擦窗机器人有了首个行业标准，你敢把窗户交给它吗？",
-      "link": "https://www.leiphone.com/category/smarthome/iDkOEQuhDC14QfOE.html",
-      "snippet": "“会不会掉下来？” 这是每个第一次把擦窗机器人放上玻璃的人，心里都会闪过的念头。没有一家厂商敢在宣传里写“绝不掉落”，涉及高空作业，这四个字背后的责任谁都担不起。 一台擦窗机器人卖的不只是清洁力，还有风险已被技术接管的承诺。 擦窗机器人正在成为家用机器人行业里一个越来越明显的变量。 IDC数据显示，",
-      "pubDate": "Fri, 23 Oct 2026 10:57:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "「千问Go!」上线“我的应用”，支持搭建长期、可分享的专属应用",
-      "link": "https://www.leiphone.com/category/industrynews/rTNQlAtTr6ROkXI1.html",
-      "snippet": "10月23日消息，「千问Go!」上线新功能“我的应用”。用户无需编程，只要说出需求，就能搭建用于生活、工作和学习等场景的应用。生成的应用支持对外分享、持续更新数据。用户可用于搭建互动课件、活动报名页、亲子导览、健身约课助手等专属应用，并且长期可用。 据悉，“我的应用”接入阿里云AI应用生产平台Meo",
-      "pubDate": "Fri, 23 Oct 2026 10:55:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-25T00:02:34.339Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
