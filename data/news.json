@@ -1,13 +1,241 @@
 {
-  "generatedAt": "2026-10-27T04:12:51.336Z",
+  "generatedAt": "2026-10-27T11:48:50.312Z",
   "stats": {
-    "total": 120,
+    "total": 117,
     "shown": 50,
-    "chinese": 30,
-    "english": 90,
-    "today": 5
+    "chinese": 29,
+    "english": 88,
+    "today": 21
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "snippet": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+      "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-10-27T11:43:42.608Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Data center backlash is uniting America",
+      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+      "snippet": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilit",
+      "pubDate": "2026-10-27T10:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求；Anthropic公开上市申请，最快11月中旬上市；周畅被曝离职？接近字节人士回应",
+      "link": "https://www.leiphone.com/category/zaobao/9LHYVcJC8iwgwnhk.html",
+      "snippet": "要闻提示     1.长鑫拒绝苹果等海外订单，优先保障国内存储芯片需求 2.Seedance 核心研发负责人周畅被曝离职？接近字节人士否认 3.李楠谈iPhone Duo屏幕开裂问题：本质是苹果和供应链生疏了 4.道歉也翻车？小鹏经理Etta道歉视频疑似用AI生成 5.奥迪中国四环标和字母标正式分家",
+      "pubDate": "Tue, 27 Oct 2026 17:34:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "千问办公接入乐奇AI眼镜，一句话发起任务",
+      "link": "https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
+      "snippet": "10月27日，在乐奇AI眼镜新品发布会上，乐奇Rokid和千问办公宣布达成合作，千问办公正式接入乐奇AI眼镜。用户在“Rokid AI”App里的智能体商店添加“千问办公”，绑定千问办公账号后，就可以戴上眼镜用语音唤起千问办公、下发任务，并在眼镜端查看结果。       比如，用户直接说：“千问办公",
+      "pubDate": "Tue, 27 Oct 2026 17:03:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "超1800支参赛队伍创纪录，蚂蚁灵波具身模型挑战赛即将决赛",
+      "link": "https://www.leiphone.com/category/industrynews/g4nk653U5p12RMpR.html",
+      "snippet": "10月27日，由蚂蚁灵波科技主办的首届“蚂蚁灵波具身大模型挑战赛”线上初赛正式落下帷幕。官方数据显示：大赛共吸引了海内外1855支队伍、3252位选手报名。参赛者来自13个国家，覆盖648 个知名高校、科研院所以及头部科技企业及具身智能公司，其中包含 41个海外高校和单位，首届大赛就创下行业最大规模",
+      "pubDate": "Tue, 27 Oct 2026 17:00:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "How solid-state transformers could help power the AI boom",
+      "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "snippet": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicat",
+      "pubDate": "Tue, 27 Oct 2026 09:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Casey Crownhart",
+      "fetchedAt": "2026-10-27T11:43:43.212Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "GLM-5.5 要来了？唐杰最新论文，曝出智谱神秘模型",
+      "link": "https://www.leiphone.com/category/ai/LjPPo6aqhHUrRMFg.html",
+      "snippet": "图像生成正确率 54%，文字问答仅 14.57%。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Tue, 27 Oct 2026 15:43:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "10月28日见！华为畅享 100 系列三款新品蓄势待发：满分配置抢先看",
+      "link": "https://www.leiphone.com/category/industrynews/GABZR4IV17tSEHlt.html",
+      "snippet": "距离10月28日华为双十一焕新季·全场景新品发布会越来越近，华为畅享系列的新一代产品也逐渐揭开面纱。10月27日，随着华为畅享 100 系列三款单品海报陆续释出，这一系列在外观设计、核心配置与日常体验方面的看点进一步明朗。据了解，华为畅享 100 系列已于10月23日开启预订，此次新品包括华为畅享",
+      "pubDate": "Tue, 27 Oct 2026 14:25:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "OCR 3.0 时代来了！文心 Unlimited OCR 2 开源发布，超长文档解析迎来“页数自由”",
+      "link": "https://www.leiphone.com/category/industrynews/2U4kLHAVeff62mJx.html",
+      "snippet": "10月27日，百度发布并开源文心 Unlimited OCR 2，全球首次实现任意页数文档解析，将 OCR 的处理上限从数十页推向“无限”，并达到最先进水平（SOTA）。实测显示，该模型能够一次性解析《哈利·波特》全系列 7 部作品，累计超过 3600 页，在文档长度大幅增加的情况下，依然保持较高的",
+      "pubDate": "Tue, 27 Oct 2026 14:21:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "源创计划首期路演：五个AI硬科技项目集中亮相，智源学者加速从实验室走向产业一线",
+      "link": "https://www.leiphone.com/category/ai/80I0hBKAVSTsKbtM.html",
+      "snippet": "从底层芯片、神经形态计算，到机器人自主部署、极端环境物理智能和地表物理环境建模，人工智能前沿技术正沿着多条不同路径推进产业应用落地。如何让实验室里的原创成果跨越工程验证与商业化之间的距离，成为科研创新走向产业实践的重要课题。 10月26日，北京智源人工智能研究院发布的“源创计划”首期路演在中关村国际",
+      "pubDate": "Tue, 27 Oct 2026 14:15:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "AI应用",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "国家人工智能应用中试基地（家居家电方向）在青启动",
+      "link": "https://www.leiphone.com/category/industrynews/4Q531t2z54a5Bvqs.html",
+      "snippet": "10月27日，家居家电方向的国家人工智能应用中试基地（以下简称“中试基地”），在青岛举行建设启动仪式。该基地由海尔智家承建，来自家居家电企业、人工智能技术相关企业、高校院所的200多位行业专家代表出席活动。   据了解，该基地的目标是打造全球引领的“新一代智慧家电”中试基地，让家居家电行业的AI创新",
+      "pubDate": "Tue, 27 Oct 2026 13:55:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "vLLM Semantic Router Releases d3-ultra: A 27B Open Multimodal Decision Model",
+      "link": "https://www.marktechpost.com/2026/10/26/vllm-semantic-router-d3-ultra-27b-multimodal-decision-model/",
+      "snippet": "vLLM Semantic Router released d3-ultra, a 27B open-weight multimodal decision model. It reads text, images and video once, then returns probabilities",
+      "pubDate": "Tue, 27 Oct 2026 05:50:57 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-27T11:43:44.720Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Baidu Open-Sources Unlimited OCR 2 for Hundred-Page Document Parsing",
+      "link": "https://www.marktechpost.com/2026/10/26/baidu-unlimited-ocr-2-open-source-long-document-ocr/",
+      "snippet": "Baidu has released Unlimited OCR 2, an MIT-licensed 3B OCR model that parses hundred-page documents in one request. Its SR-SWA attention keeps per-ste",
+      "pubDate": "Tue, 27 Oct 2026 05:26:36 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-27T11:43:44.720Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "link": "https://www.qbitai.com/2026/10/505580.html",
+      "snippet": "10 月 23 日，以 “ AI is Profitable ” 为主题的 2026 TGC 科技增长大会于广州召开。",
+      "pubDate": "Tue, 27 Oct 2026 03:23:55 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-27T11:43:38.440Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
@@ -19,10 +247,43 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
+      "fetchedAt": "2026-10-27T11:43:44.720Z",
       "tags": [
         "AI应用",
         "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "上新风向标，抖音商城双 11 年度新品必买榜出炉",
+      "link": "https://www.leiphone.com/category/industrynews/6GEzRzr8cZlaoWgW.html",
+      "snippet": "双11大促正酣，抖音商城发布2026年度新品必买榜TOP100，覆盖护肤、彩香、鞋靴、耐消等类目。榜单聚焦具有引领性的新品赛道，精选最具代表性的100款新品，让每一件好物都被看见。 从细胞级抗老的成分进阶，到一盒多用、一抹成妆的美妆新风；从城市与山野之间的足下美学，到懂生活懂情绪的治愈系家电产品。这",
+      "pubDate": "Tue, 27 Oct 2026 10:09:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "新华投控战略投资九识：赋能智能驾驶与物理AI，共筑智慧物流“中国路”",
+      "link": "https://www.leiphone.com/category/industrynews/orc621EEenIn4Myu.html",
+      "snippet": "10月23日，九识与新华社投资控股有限公司（新华投控）签署战略投资协议，达成深度战略合作。这是新华投控在智能驾驶和物理AI领域的首个产业直投项目。双方将在品牌塑造、智慧物流生态构建及海外拓展三方面强强联合。九识今年实现跨越式发展：成为行业首个百亿独角兽，实现全球首个L4级无图方案规模化量产，除车辆销",
+      "pubDate": "Tue, 27 Oct 2026 10:05:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -36,7 +297,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
+      "fetchedAt": "2026-10-27T11:43:42.608Z",
       "tags": [
         "开源工具"
       ]
@@ -52,7 +313,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:00.892Z",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
       "tags": [
         "AI应用"
       ]
@@ -68,23 +329,23 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
+      "fetchedAt": "2026-10-27T11:43:42.608Z",
       "tags": [
         "学术研究"
       ]
     },
     {
       "id": "bGVpcGhvbmU6aHR0",
-      "title": "知名具身智能公司陷欠薪停工风波：员工称欠薪近800万元，CEO称联系不上实控人；iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题",
+      "title": "iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题；宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」",
       "link": "https://www.leiphone.com/category/zaobao/owgP45BwczuhdF3j.html",
-      "snippet": "要闻提示     1.知名具身智能公司陷欠薪停工风波：员工称欠薪近800万元，CEO称联系不上实控人 2.iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题 3.00后美女经理玩梗“老登”遭吐槽：小鹏总裁悬赏100万澄清 4.宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」 5.字节",
+      "snippet": "要闻提示     1.iPhone Duo被曝屏幕亮线开裂！苹果客服回应：非硬件问题 2.00后美女经理玩梗“老登”遭吐槽：小鹏总裁悬赏100万澄清 3.宇树机器人侧空翻表演甩断腿，前一天刚演示「踢凹车门」 4.字节商业化GenAI负责人文石磊离职，团队或面临调整 5.周鸿祎大动作！拟2.19亿底价",
       "pubDate": "Tue, 27 Oct 2026 08:20:00 +0800",
       "sourceName": "雷锋网",
       "sourceId": "leiphone",
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:00.892Z",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
       "tags": [
         "综合"
       ]
@@ -100,7 +361,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
       "tags": [
         "AI应用"
       ]
@@ -116,7 +377,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:02.878Z",
+      "fetchedAt": "2026-10-27T11:43:44.374Z",
       "tags": [
         "大模型"
       ]
@@ -132,7 +393,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +409,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Samuel Axon\n                ",
-      "fetchedAt": "2026-10-27T04:03:02.514Z",
+      "fetchedAt": "2026-10-27T11:43:43.912Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +425,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-27T04:03:02.514Z",
+      "fetchedAt": "2026-10-27T11:43:43.912Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +441,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Will Douglas Heaven",
-      "fetchedAt": "2026-10-27T04:03:01.734Z",
+      "fetchedAt": "2026-10-27T11:43:43.212Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +457,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +473,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-27T04:03:02.514Z",
+      "fetchedAt": "2026-10-27T11:43:43.912Z",
       "tags": [
         "商业融资"
       ]
@@ -228,7 +489,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
       "tags": [
         "商业融资"
       ]
@@ -244,7 +505,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
+      "fetchedAt": "2026-10-27T11:43:42.608Z",
       "tags": [
         "大模型"
       ]
@@ -260,7 +521,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
+      "fetchedAt": "2026-10-27T11:43:42.608Z",
       "tags": [
         "开源工具"
       ]
@@ -276,9 +537,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
+      "fetchedAt": "2026-10-27T11:43:44.720Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "link": "https://www.qbitai.com/2026/10/505551.html",
+      "snippet": "地球最富兄妹俩堂堂来袭！7名联创仍紧握50.1%总投票权",
+      "pubDate": "Mon, 26 Oct 2026 16:06:31 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦晨",
+      "fetchedAt": "2026-10-27T11:43:38.440Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -292,7 +569,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +585,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
+      "fetchedAt": "2026-10-27T11:43:42.608Z",
       "tags": [
         "政策监管"
       ]
@@ -324,7 +601,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kana Inagaki, Financial Times\n                ",
-      "fetchedAt": "2026-10-27T04:03:02.514Z",
+      "fetchedAt": "2026-10-27T11:43:43.912Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +617,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:02.878Z",
+      "fetchedAt": "2026-10-27T11:43:44.374Z",
       "tags": [
         "学术研究"
       ]
@@ -356,7 +633,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +649,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:02.878Z",
+      "fetchedAt": "2026-10-27T11:43:44.374Z",
       "tags": [
         "大模型"
       ]
@@ -388,7 +665,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
       "tags": [
         "大模型"
       ]
@@ -404,7 +681,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
+      "fetchedAt": "2026-10-27T11:43:42.931Z",
       "tags": [
         "综合"
       ]
@@ -420,7 +697,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-27T04:03:01.734Z",
+      "fetchedAt": "2026-10-27T11:43:43.212Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +713,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:00.892Z",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
       "tags": [
         "AI应用"
       ]
@@ -452,7 +729,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:00.892Z",
+      "fetchedAt": "2026-10-27T11:43:42.339Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -469,347 +746,73 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-27T04:03:02.878Z",
+      "fetchedAt": "2026-10-27T11:43:44.374Z",
       "tags": [
         "大模型"
       ]
     },
     {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
-      "snippet": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform mak",
-      "pubDate": "Mon, 26 Oct 2026 09:01:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sam Hiner, Emma Leiken",
-      "fetchedAt": "2026-10-27T04:03:01.734Z",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "link": "https://www.qbitai.com/2026/10/505539.html",
+      "snippet": "10月23日至25日，以“见证超能发生”为主题的“天禧AI × 观猹大会”在杭州茶叶博览会会议会展中心启幕。",
+      "pubDate": "Mon, 26 Oct 2026 09:46:13 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-27T11:43:38.440Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "link": "https://www.qbitai.com/2026/10/505529.html",
+      "snippet": "模型开始利用GPU缓存聊天？",
+      "pubDate": "Mon, 26 Oct 2026 09:37:57 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "程浅",
+      "fetchedAt": "2026-10-27T11:43:38.440Z",
       "tags": [
         "政策监管"
       ]
     },
     {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Tsinghua AI Open-Sources AKV, a Cache Engineering Server for LLM Agents on SGLang",
-      "link": "https://www.marktechpost.com/2026/10/26/tsinghua-akv-kv-cache-engineering-llm-agents/",
-      "snippet": "Tsinghua researchers released AKV, an SGLang-based serving system for cache engineering. LLM agents drop and reposition KV cache instead of summarizin",
-      "pubDate": "Mon, 26 Oct 2026 07:56:45 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "link": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "snippet": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher eng",
-      "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-27T04:03:02.878Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "link": "https://openai.com/index/openai-cut-incident-investigation",
-      "snippet": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workfl",
-      "pubDate": "Mon, 26 Oct 2026 07:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-27T04:03:02.878Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "DeepSeek 开源看家算子的同一周，AI 超过了它",
-      "link": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
-      "snippet": "国产大模型的竞争，正从模型层延伸到算力层：再强的模型，最终都要基于算子在芯片上执行。同一个模型、同一块芯片，换一套更优的算子，有时会带来数倍的性能提升。算子的效率决定了同样的显卡能跑多快，也决定了每个 token 的价格。 DeepSeek 近日全面开源推理框架 DeepInfer。继模型权重和 F",
-      "pubDate": "Mon, 26 Oct 2026 14:58:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "A社联创演讲：AI奇点已来",
+      "link": "https://www.qbitai.com/2026/10/505521.html",
+      "snippet": "所谓奇点，或许是AI跃过人类的那个点。",
+      "pubDate": "Mon, 26 Oct 2026 09:35:14 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-27T04:03:00.892Z",
+      "creator": "程浅",
+      "fetchedAt": "2026-10-27T11:43:38.440Z",
       "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "趋境科技完成 B 轮融资，半年实现超十倍速增长，加速高品质 AI Token 规模化交付",
-      "link": "https://www.leiphone.com/category/yanxishe/upPcOw2EaMaw2Otv.html",
-      "snippet": "近日，雷峰网获悉，高品质 AI Token 生产服务商趋境科技（Approaching.AI）完成 B 轮融资，本轮融资金额超13亿人民币；今年内已累计募得24亿人民币。多项核心经营指标在半年内实现超十倍速增长，持续获得产业和资本的高度认可。 本轮融资由浙财创新、萧山资本、工银投资、中关村科学城、星",
-      "pubDate": "Mon, 26 Oct 2026 10:37:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-27T04:03:00.892Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Introducing GPT-6.1 Terra",
-      "link": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "snippet": "Bringing fast and capable computer use to everyone",
-      "pubDate": "Mon, 26 Oct 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-27T04:03:02.878Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "snippet": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "pubDate": "Sun, 25 Oct 2026 21:31:16 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-      "link": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-      "snippet": "Nanbeige LLM Lab released Nanbeige4.3-33B, a 33B dense Apache 2.0 model with 512K context. It reports 80.9 on Terminal-Bench 2.1 and will teach the up",
-      "pubDate": "Sun, 25 Oct 2026 21:15:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "snippet": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate Ameri",
-      "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural Language Together for the First Time",
-      "link": "https://www.marktechpost.com/2026/10/25/hugging-face-carbon-x-14b-dna-language-model/",
-      "snippet": "Hugging Face released Carbon-X, an open 14.8B DNA language model built on Qwen3-14B. It reads raw DNA in chat, answers in English, and averages 66.7%",
-      "pubDate": "Sun, 25 Oct 2026 16:53:40 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "snippet": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "snippet": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by sa",
-      "pubDate": "2026-10-25T13:25:32.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Researchers from Stanford and UC Berkeley Introduce TokenGate: Token-Gated Attention Makes Long-Context Prefill Up to 11.3x Faster",
-      "link": "https://www.marktechpost.com/2026/10/25/stanford-berkeley-tokengate-learned-token-pruning-llm-prefill/",
-      "snippet": "Stanford and UC Berkeley researchers released TokenGate, a drop-in learned token pruning module for LLMs. It cuts long-context prefill time-to-first-t",
-      "pubDate": "Sun, 25 Oct 2026 12:12:18 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google’s AI search changes upended online publishing",
-      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Ro",
-      "pubDate": "2026-10-25T12:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-27T04:03:01.481Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-      "link": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
-      "snippet": "Anthropic has launched OSS Scanner, a free, opt-in vulnerability scanner for critical open-source projects. The Anthropic OSS Scanner runs the company",
-      "pubDate": "Sun, 25 Oct 2026 11:32:29 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Microsoft Open-Sources Agensh: A Multi-Agent Harness for 1,024 Agents",
-      "link": "https://www.marktechpost.com/2026/10/24/microsoft-agensh-multi-agent-harness-1024-agents/",
-      "snippet": "Microsoft Research open-sourced Agensh, a multi-agent harness with no central orchestrator. Self-organizing workers share a Git repo, chat and a findi",
-      "pubDate": "Sun, 25 Oct 2026 03:32:59 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cognition Open-Sources an Agent Plugin that Helps Secure Systems against Recent Cybersecurity Threats",
-      "link": "https://www.marktechpost.com/2026/10/24/cognition-devin-vulnerability-fixes-plugin-php2shell-nodejs-gitlab/",
-      "snippet": "Cognition released the Devin Vulnerability Fixes plugin, 3 MIT-licensed agent skills that inventory, patch and test PHP, Node.js and self-managed GitL",
-      "pubDate": "Sun, 25 Oct 2026 02:59:08 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "How to Run Underdog Saluki 27B: 2-Bit Qwen3.8-27B Tool-Calling Guide",
-      "link": "https://www.marktechpost.com/2026/10/24/underdog-saluki-27b-coding-guide-llama-cpp/",
-      "snippet": "Explore a complete coding guide comparing Underdog Saluki 27B with ISTA's GSQ-RCO quantization, examining GGUF headers, memory usage, and BFCL tool-ca",
-      "pubDate": "Sun, 25 Oct 2026 02:30:18 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-10-27T04:03:03.207Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Will AI expose the rickety infrastructure of the internet?",
-      "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-      "snippet": "The moment you realize the internet is \"held together by glue and dreams.\"",
-      "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-27T04:03:01.134Z",
-      "tags": [
-        "AI应用",
         "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "NeoLab第一个商业模式：转售GPU",
+      "link": "https://www.qbitai.com/2026/10/505478.html",
+      "snippet": "从冲刺AGI到转售GPU。",
+      "pubDate": "Mon, 26 Oct 2026 09:31:47 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "程浅",
+      "fetchedAt": "2026-10-27T11:43:38.440Z",
+      "tags": [
+        "综合"
       ]
     }
   ]
