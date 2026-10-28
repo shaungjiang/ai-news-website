@@ -1,13 +1,270 @@
 {
-  "generatedAt": "2026-10-28T15:06:08.857Z",
+  "generatedAt": "2026-10-28T20:55:24.744Z",
   "stats": {
-    "total": 95,
+    "total": 94,
     "shown": 50,
     "chinese": 10,
-    "english": 85,
-    "today": 11
+    "english": 84,
+    "today": 29
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "snippet": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announ",
+      "pubDate": "2026-10-28T20:03:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+      "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "snippet": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+      "pubDate": "Wed, 28 Oct 2026 19:19:58 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+      "snippet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly",
+      "pubDate": "Wed, 28 Oct 2026 19:05:46 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+      "snippet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly",
+      "pubDate": "Wed, 28 Oct 2026 18:50:39 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo, Rebecca Bellan",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+      "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+      "snippet": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+      "pubDate": "Wed, 28 Oct 2026 18:47:27 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-10-28T20:49:45.057Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Microsoft is ending Copilot support on smart TVs",
+      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "snippet": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is en",
+      "pubDate": "2026-10-28T18:36:26.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google DeepMind Introduces Gemini 4 Carbon, Its Top Model for Cyber Defense and Coding",
+      "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-gemini-4-carbon-frontier-model/",
+      "snippet": "Google DeepMind introduced Gemini 4 Carbon, a frontier model that scores 59 on the Artificial Analysis Intelligence Index and 88.2% on SEC-bench Pro.",
+      "pubDate": "Wed, 28 Oct 2026 17:48:38 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-28T20:49:46.138Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google AI gets cagey when asked who won the 2020 elections",
+      "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+      "snippet": "But the AI responses get more forthright when asked outside the US.",
+      "pubDate": "Wed, 28 Oct 2026 17:46:32 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-10-28T20:49:45.057Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "MiniMax Open-Sources MCode Stack: 15 Agent Skills Its Coding Team Uses Daily",
+      "link": "https://www.marktechpost.com/2026/10/28/minimax-open-sources-mcode-stack-agent-skills/",
+      "snippet": "MiniMax has open-sourced MCode Stack, an MIT-licensed repo of 17 SKILL.md skills and 5 checklists that its MiniMax Code team uses daily for code revie",
+      "pubDate": "Wed, 28 Oct 2026 17:20:29 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-28T20:49:46.138Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+      "snippet": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "snippet": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps",
+      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "snippet": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses so",
+      "pubDate": "2026-10-28T17:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
+      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "snippet": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI trai",
+      "pubDate": "2026-10-28T16:15:30.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI execs may be too out of touch to build for the general public",
+      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+      "snippet": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+      "pubDate": "Wed, 28 Oct 2026 15:53:52 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+      "snippet": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+      "pubDate": "Wed, 28 Oct 2026 15:41:18 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Kate Park",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+      "snippet": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a bi",
+      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "xAI is buying out homeowners who promise not to sue over data center noise",
@@ -19,9 +276,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "snippet": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "pubDate": "Wed, 28 Oct 2026 13:15:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-28T20:49:45.659Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -35,7 +308,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +324,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-28T15:01:27.448Z",
+      "fetchedAt": "2026-10-28T20:49:44.349Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +340,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +356,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-28T15:01:27.448Z",
+      "fetchedAt": "2026-10-28T20:49:44.349Z",
       "tags": [
         "综合"
       ]
@@ -99,15 +372,31 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "b3BlbmFpLWJsb2c6",
+      "title": "The future of the firm",
+      "link": "https://openai.com/index/the-future-of-the-firm",
+      "snippet": "How AI might enter the org chart—beneath, beside, and between us.",
+      "pubDate": "Wed, 28 Oct 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-10-28T20:49:45.659Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
       "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "link": "https://openai.com/index/legora",
       "snippet": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-val",
       "pubDate": "Wed, 28 Oct 2026 09:30:00 GMT",
       "sourceName": "OpenAI",
@@ -115,7 +404,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-28T15:01:28.874Z",
+      "fetchedAt": "2026-10-28T20:49:45.659Z",
       "tags": [
         "大模型",
         "政策监管"
@@ -132,7 +421,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-28T15:01:29.275Z",
+      "fetchedAt": "2026-10-28T20:49:46.138Z",
       "tags": [
         "大模型"
       ]
@@ -148,7 +437,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-28T15:01:29.275Z",
+      "fetchedAt": "2026-10-28T20:49:46.138Z",
       "tags": [
         "大模型"
       ]
@@ -164,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
+      "fetchedAt": "2026-10-28T20:49:34.027Z",
       "tags": [
         "大模型"
       ]
@@ -180,7 +469,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "大模型"
       ]
@@ -212,7 +501,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +517,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-28T15:01:29.275Z",
+      "fetchedAt": "2026-10-28T20:49:46.138Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +533,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-10-28T15:01:28.386Z",
+      "fetchedAt": "2026-10-28T20:49:45.057Z",
       "tags": [
         "政策监管"
       ]
@@ -260,7 +549,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "政策监管"
       ]
@@ -276,7 +565,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "政策监管"
       ]
@@ -292,7 +581,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-10-28T15:01:28.386Z",
+      "fetchedAt": "2026-10-28T20:49:45.057Z",
       "tags": [
         "商业融资"
       ]
@@ -308,7 +597,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-28T15:01:29.275Z",
+      "fetchedAt": "2026-10-28T20:49:46.138Z",
       "tags": [
         "AI应用"
       ]
@@ -324,7 +613,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
       "tags": [
         "学术研究"
       ]
@@ -340,7 +629,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "商业融资"
       ]
@@ -356,7 +645,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-10-28T15:01:28.386Z",
+      "fetchedAt": "2026-10-28T20:49:45.057Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +661,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
       "tags": [
         "AI应用"
       ]
@@ -388,7 +677,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +693,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
+      "fetchedAt": "2026-10-28T20:49:44.037Z",
       "tags": [
         "商业融资"
       ]
@@ -420,25 +709,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "snippet": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your",
-      "pubDate": "2026-10-27T16:14:18.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -452,23 +725,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-28T15:01:28.386Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google’s next Genie AI model generates more realistic experiences",
-      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "snippet": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It a",
-      "pubDate": "2026-10-27T16:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
+      "fetchedAt": "2026-10-28T20:49:45.057Z",
       "tags": [
         "综合"
       ]
@@ -484,7 +741,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-28T15:01:28.874Z",
+      "fetchedAt": "2026-10-28T20:49:45.659Z",
       "tags": [
         "大模型"
       ]
@@ -500,25 +757,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "snippet": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models",
-      "pubDate": "2026-10-27T13:50:51.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -532,7 +773,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "综合"
       ]
@@ -548,25 +789,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
+      "fetchedAt": "2026-10-28T20:49:43.729Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-      "snippet": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -580,232 +805,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Mirendil Launches Fern 0.1, Its First Model, With 10M-Token Context",
-      "link": "https://www.marktechpost.com/2026/10/27/mirendil-fern-10m-token-context-model/",
-      "snippet": "Mirendil released Fern 0.1, its first model, pretrained from scratch with a 10M-token context window. It targets agentic AI R&D work, scores 100% on R",
-      "pubDate": "Tue, 27 Oct 2026 12:57:46 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-28T15:01:29.275Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "link": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Will the rea",
-      "pubDate": "Tue, 27 Oct 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-28T15:01:27.448Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "link": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "snippet": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an expe",
-      "pubDate": "Tue, 27 Oct 2026 11:19:18 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michael MacKenzie",
-      "fetchedAt": "2026-10-28T15:01:27.448Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-      "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-      "snippet": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-      "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-10-28T15:01:26.842Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "印奇把4D雷达也端到端了",
-      "link": "https://www.qbitai.com/2026/10/505852.html",
-      "snippet": "毫米波雷达，AI算力10TOPS",
-      "pubDate": "Tue, 27 Oct 2026 10:40:12 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "贾浩楠",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Data center backlash is uniting America",
-      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "snippet": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilit",
-      "pubDate": "2026-10-27T10:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-28T15:01:27.124Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "link": "https://www.qbitai.com/2026/10/505830.html",
-      "snippet": "顶尖智能汽车玩家的终局，不会停在智能汽车",
-      "pubDate": "Tue, 27 Oct 2026 09:54:51 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "贾浩楠",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "How solid-state transformers could help power the AI boom",
-      "link": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
-      "snippet": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicat",
-      "pubDate": "Tue, 27 Oct 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Casey Crownhart",
-      "fetchedAt": "2026-10-28T15:01:27.448Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "link": "https://www.qbitai.com/2026/10/505799.html",
-      "snippet": "无人在环进店实测啃下长尾场景",
-      "pubDate": "Tue, 27 Oct 2026 08:46:12 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "KV Cache被压成常数！OCR开源新王：页数没上限，缓存砍96%",
-      "link": "https://www.qbitai.com/2026/10/505773.html",
-      "snippet": "OCR 3.0时代，来了",
-      "pubDate": "Tue, 27 Oct 2026 08:35:33 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "GPT-6.1 Terra首批网友实测来了！1折价格获得Astra级电脑操作能力",
-      "link": "https://www.qbitai.com/2026/10/505719.html",
-      "snippet": "同一天，OpenAI还甩出3项AI科学新发现",
-      "pubDate": "Tue, 27 Oct 2026 08:27:46 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "一水",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "国产AI 3D大模型Hi3D来了！开源可商用，PK干掉GPT-6",
-      "link": "https://www.qbitai.com/2026/10/505694.html",
-      "snippet": "还是专业的模型做专业的事情",
-      "pubDate": "Tue, 27 Oct 2026 08:18:59 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
-      "tags": [
-        "大模型",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "做能源与算力的“搭桥人”：达卯科技以能源大脑定义算电协同 | CPE 2026",
-      "link": "https://www.qbitai.com/2026/10/505687.html",
-      "snippet": "破解绿电直连项目落地僵局",
-      "pubDate": "Tue, 27 Oct 2026 07:44:41 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "OXR强势开源！1.3B横扫全球三榜第一，速度快过Paddle、MinerU，RSI让它卷出新高度",
-      "link": "https://www.qbitai.com/2026/10/505635.html",
-      "snippet": "开源一周，Github 拿下超 1000 star，X上关注度破百万，并登上 Today‘s news 推荐",
-      "pubDate": "Tue, 27 Oct 2026 07:41:02 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-28T15:01:17.170Z",
+      "fetchedAt": "2026-10-28T20:49:34.027Z",
       "tags": [
         "开源工具"
       ]
