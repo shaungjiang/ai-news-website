@@ -1,13 +1,320 @@
 {
-  "generatedAt": "2026-10-29T08:17:24.646Z",
+  "generatedAt": "2026-10-29T16:49:43.317Z",
   "stats": {
-    "total": 91,
+    "total": 111,
     "shown": 50,
-    "chinese": 10,
+    "chinese": 30,
     "english": 81,
-    "today": 7
+    "today": 33
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google admits AI search makes less money, but it's fixing that with more ads",
+      "link": "https://arstechnica.com/gadgets/2026/10/google-admits-ai-search-makes-less-money-but-its-fixing-that-with-more-ads/",
+      "snippet": "Google's negative cash flow balloons to -$9.06 billion, and stock price tumbles following Q3 earnings.",
+      "pubDate": "Thu, 29 Oct 2026 16:24:55 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-10-29T16:40:54.999Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
+      "snippet": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+      "pubDate": "Thu, 29 Oct 2026 16:21:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "snippet": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "pubDate": "Thu, 29 Oct 2026 14:35:26 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "别再盯着 800 亿美元亏损了，Anthropic 的 AI 造 AI 已推进到 26%！",
+      "link": "https://www.leiphone.com/category/ai/t2cIBqBZVfpYPhPg.html",
+      "snippet": "AI 已接管 90% 代码编写，甚至为了完成任务开始“越狱”。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Thu, 29 Oct 2026 22:23:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.360Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "拉爆游戏引擎？深度拆解 Genie 4，从视频生成到世界控制，Google 要跨越什么？",
+      "link": "https://www.leiphone.com/category/yanxishe/F3FpQlhpT7u7ekyU.html",
+      "snippet": "动态条件注入、因果核验与异步协作的三大技术挑战，暴露出哪些致命的技术死角？          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Thu, 29 Oct 2026 22:22:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.360Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "DeepSeek 又一开源重器！深挖 DeepInfer 究竟藏着多少技术狠活？",
+      "link": "https://www.leiphone.com/category/ai/HecXToP0EHbPjPd0.html",
+      "snippet": "单集群日处理约 155 万亿 Token，推理优化争夺毫秒。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Thu, 29 Oct 2026 22:14:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.360Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "snippet": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
+      "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
+      "snippet": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "link": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We",
+      "pubDate": "Thu, 29 Oct 2026 12:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-10-29T16:40:54.220Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "31岁女工程师猝死，其生前按ChatGPT指示减药，还被告知「完全没必要担心」；美国一公司招人遛机器狗：时薪20美元，不用铲屎但得扛狗回来",
+      "link": "https://www.leiphone.com/category/zaobao/ZWf8n2mgF0X5Rkfj.html",
+      "snippet": "要闻提示      1.31岁女工程师猝死，其生前按ChatGPT指示减药，还被告知“完全没有必要担心” 2.网友发视频称“医生用豆包开药”，涉事医院回应 3.米哈游通告：游戏泄密人员被判赔100万元 4.三家车企拟入选国家级名单：小米汽车位列第一 5.云鲸智能迎来品牌十周年：定位全球AI智能清洁专",
+      "pubDate": "Thu, 29 Oct 2026 19:38:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.360Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "snippet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Huggin",
+      "pubDate": "Thu, 29 Oct 2026 10:11:12 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Madhulika Srikumar, Claire Leibowicz",
+      "fetchedAt": "2026-10-29T16:40:54.220Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "AI has come for Arizona’s water",
+      "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+      "snippet": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services",
+      "pubDate": "2026-10-29T10:00:04.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.944Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Our climate models have a big, dangerous blind spot",
+      "link": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
+      "snippet": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting of",
+      "pubDate": "Thu, 29 Oct 2026 10:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "James Temple",
+      "fetchedAt": "2026-10-29T16:40:54.220Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "抖音李亮发文：希望同行在阳光下竞争，专家自媒体要遵守基本道德规范",
+      "link": "https://www.leiphone.com/category/industrynews/poaG1T65huOcWV91.html",
+      "snippet": "抖音李亮就短剧发展再发声，全文如下： 最近大家谈论短剧比较多，我也说一下我个人看法。短剧和传统的影视剧没有本质区别，只是载体不同，表现形式不同，没有哪个好，哪个不好。试想如果短剧改成45分钟一集，或90分钟一集，与电视剧、电影的区别大吗？我觉得核心是内容质量，短剧这个形态发展比较晚，在社会各界的关注",
+      "pubDate": "Thu, 29 Oct 2026 17:18:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.360Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "国家超算互联网调价：降低AI研发、调试成本",
+      "link": "https://www.leiphone.com/category/industrynews/tZQilZ5sagKCk1Sm.html",
+      "snippet": "近日，国家超算互联网宣布最新价格调整，新用户可享DeepSeek-V4.1-Flash-1017、GLM-5.3-Flash两款前沿模型0.1元5000万tokens限时秒杀特惠；同时，多款新主流模型已纳入TokenPlan套餐池。此外，订阅TokenPlan用户还可享限时夜间免费模型权益：10月2",
+      "pubDate": "Thu, 29 Oct 2026 17:03:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.360Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "豆包工作向企业客户开放配置三方模型",
+      "link": "https://www.leiphone.com/category/industrynews/bMidAUlVn5zmruyD.html",
+      "snippet": "为支持企业需求，豆包工作今日向客户开放三方大模型服务，首批将接入 Kimi 3.1 Pro、GLM 5.3、DeepSeek V4.1 Flash 等系列模型。  本次更新面向团队订阅版和企业订阅版客户开放。功能上线后默认直接开启，企业无需另行向模型厂商采购，也无需额外申请，后续按照用量扣除企业已有",
+      "pubDate": "Thu, 29 Oct 2026 17:01:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "蚂蚁灵光2.0打通钉钉、支付宝等数十项服务，加速走向“能管事”",
+      "link": "https://www.leiphone.com/category/industrynews/eigNbrwrLkMYpiwN.html",
+      "snippet": "AI从“会聊天”走向“能管事”，接入真实工作流是落地关键。继蚂蚁集团10月27日发布灵光2.0后，记者今日体验发现，新版灵光已进一步拓展跨平台连接能力，不仅原生打通支付宝生态，还接入了钉钉命令行接口（CLI）等数十项外部工具。  （图1：灵光App【我的服务】页面） 以钉钉为例，灵光2.0可在用户授",
+      "pubDate": "Thu, 29 Oct 2026 16:54:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Infini-AI-Lab Releases Hermit, an Open-Source Harness Adapter Framework for AI Agents",
+      "link": "https://www.marktechpost.com/2026/10/29/infini-ai-lab-hermit-harness-adapter-framework/",
+      "snippet": "Infini-AI-Lab released Hermit, an Apache-2.0 harness adapter framework that trains an external layer of instructions, skills, memory and tools from ta",
+      "pubDate": "Thu, 29 Oct 2026 08:24:52 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-29T16:40:55.804Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Block Unveils Dessa, a Full-Duplex Speech Model Trained Only on Speech",
+      "link": "https://www.marktechpost.com/2026/10/29/block-dessa-full-duplex-speech-model/",
+      "snippet": "Block’s AI lab released Dessa, a full-duplex speech-to-speech model trained only on human conversation audio. It runs locally on a MacBook Pro M4 Max,",
+      "pubDate": "Thu, 29 Oct 2026 07:50:39 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-29T16:40:55.804Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
@@ -19,9 +326,74 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-29T08:08:36.972Z",
+      "fetchedAt": "2026-10-29T16:40:55.804Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "大语言模型“收入榜”出炉，阿里云以46.6%份额居首",
+      "link": "https://www.leiphone.com/category/industrynews/VsFzLhOgbV95UM6v.html",
+      "snippet": "10月29日，国际数据公司（IDC）最新发布的《中国AI软件市场半年度追踪，26H1》显示，2026年上半年，阿里云在中国大语言模型MaaS市场的份额为46.6%，智谱、火山引擎分别以10.6%、10.2%位列第二、第三。",
+      "pubDate": "Thu, 29 Oct 2026 15:13:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百望股份：企业AI最大的误区，是把所有流程都用AI重做一遍",
+      "link": "https://www.leiphone.com/category/ai/wmSBFfeSyB0dOjqO.html",
+      "snippet": "如果要给过去两年企业AI应用的热潮找一句最有代表性的口号，“用AI把所有事情重新做一遍”，大概会是其中之一。 从客服、营销、研发，到财务、人力、采购，几乎每一个传统软件赛道都在寻找自己的AI版本：过去由人填写的表格变成AI生成，由人阅读的材料变成AI识别，由人点击的按钮变成Agent调用，那些已经被",
+      "pubDate": "Thu, 29 Oct 2026 14:54:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "20人9个月，《不问凡尘》用AI搓出26万玩家买单的超写实互动作品",
+      "link": "https://www.leiphone.com/category/industrynews/fk4nWrM8On84S6FB.html",
+      "snippet": "上线仅三周，《不问凡尘》就在 Steam 拿到87%的好评率，预估近千万流水，超26万玩家走进这个AI生成的修仙世界。支撑这款超写实互动作品研发与上线的，是一支约20人的团队。 AI在这里不是简单的提效工具，而是贯穿游戏资产生产、研发协作和交互实现的核心生产力。依托火山引擎的模型和云服务，《不问凡尘",
+      "pubDate": "Thu, 29 Oct 2026 14:01:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "TRAE上线开发者个人助理“TRAE宝”",
+      "link": "https://www.leiphone.com/category/industrynews/VtaDCTK8rnfs2sSX.html",
+      "snippet": "10月29日，AI开发产品TRAE正式上线开发者个人助理“TRAE宝”。与此前围绕单次任务展开的Agent对话不同，TRAE宝将双层助理体系引入开发工作流，让 AI 持续理解开发者长期积累的项目、任务与决策，而非仅响应当前的某一条指令。 长期以来，用户在AI开发过程中的时间消耗不仅在于写代码本身，而",
+      "pubDate": "Thu, 29 Oct 2026 13:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
       ]
     },
     {
@@ -35,7 +407,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-29T08:08:36.972Z",
+      "fetchedAt": "2026-10-29T16:40:55.804Z",
       "tags": [
         "大模型"
       ]
@@ -51,9 +423,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "fetchedAt": "2026-10-29T16:40:46.422Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "商场的黄金铺位，为什么换成了3D打印机？",
+      "link": "https://www.leiphone.com/category/industrynews/QUCX94lmPkS6scqb.html",
+      "snippet": "在过去的十一假期，拓竹科技一口气开了两家商场品牌店，位于上海和北京，现在其线下渠道已覆盖国内100多座城市，销售触点突破400个。 在一二线城市顶级商圈的显眼位置，可能会看见一台台3D打印机和围着看的好奇消费者。如果假期到访，往往在开门前就已聚集起不少家长和小朋友，等着进店参观或报名体验课。 这些门",
+      "pubDate": "Thu, 29 Oct 2026 11:23:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -67,9 +455,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "fetchedAt": "2026-10-29T16:40:46.422Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "瞄准高性能硬件需求，3C卖家如何切入东南亚细分市场？",
+      "link": "https://www.leiphone.com/category/industrynews/EErFYCDINUus7sOF.html",
+      "snippet": "一场游戏能否流畅运行，往往取决于电脑里那些不太起眼的硬件。从运行速度、画面表现到设备稳定性，对于热衷电竞的消费者而言，一块性能更好的硬件，带来的可能是截然不同的游戏体验。而在东南亚，随着电竞、移动办公等数字生活场景不断丰富，消费者对3C产品的需求也变得更加多元。 这种变化正为中国3C卖家带来新的市场",
+      "pubDate": "Thu, 29 Oct 2026 10:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -83,7 +487,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "fetchedAt": "2026-10-29T16:40:46.422Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "抢跑双11开门红，这些品牌如何凭“好货与好策略”率先突围？",
+      "link": "https://www.leiphone.com/category/industrynews/7vvYw1kiPRTCA8w0.html",
+      "snippet": "2026年抖音商城双11好物节开门红阶段已经打响，各行业品牌稳扎稳打、实现生意增长。在流量与销量的双重角逐中，打动消费者的不再局限于价格。将优质的商品供给、丰富的内容生态、有竞争力的价格与稳定的履约服务相结合，同时善用智能工具提效，是品牌在双11 实现增长的重要路径。 本文将拆解7大品牌在开门红阶段",
+      "pubDate": "Thu, 29 Oct 2026 10:13:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-29T16:40:53.361Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +519,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "fetchedAt": "2026-10-29T16:40:46.422Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +535,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "fetchedAt": "2026-10-29T16:40:46.422Z",
       "tags": [
         "大模型"
       ]
@@ -131,7 +551,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.229Z",
+      "fetchedAt": "2026-10-29T16:40:53.944Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +567,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +583,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
       "tags": [
         "商业融资"
       ]
@@ -179,7 +599,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
       "tags": [
         "商业融资"
       ]
@@ -195,7 +615,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.229Z",
+      "fetchedAt": "2026-10-29T16:40:53.944Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +631,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +647,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-29T08:08:35.486Z",
+      "fetchedAt": "2026-10-29T16:40:54.220Z",
       "tags": [
         "开源工具"
       ]
@@ -243,7 +663,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.229Z",
+      "fetchedAt": "2026-10-29T16:40:53.944Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -260,7 +680,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +696,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
       "tags": [
         "开源工具"
       ]
@@ -292,7 +712,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Rebecca Bellan",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
       "tags": [
         "开源工具"
       ]
@@ -308,7 +728,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-29T08:08:36.258Z",
+      "fetchedAt": "2026-10-29T16:40:54.999Z",
       "tags": [
         "大模型"
       ]
@@ -324,7 +744,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.229Z",
+      "fetchedAt": "2026-10-29T16:40:53.944Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +760,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-29T08:08:36.972Z",
+      "fetchedAt": "2026-10-29T16:40:55.804Z",
       "tags": [
         "大模型"
       ]
@@ -356,7 +776,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-10-29T08:08:36.258Z",
+      "fetchedAt": "2026-10-29T16:40:54.999Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +792,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-29T08:08:36.972Z",
+      "fetchedAt": "2026-10-29T16:40:55.804Z",
       "tags": [
         "综合"
       ]
@@ -388,424 +808,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-      "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-      "snippet": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps",
-      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
-      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
-      "snippet": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses so",
-      "pubDate": "2026-10-28T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.229Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Meta says it&#8217;ll probably delay its controversial new business terms again",
-      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
-      "snippet": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI trai",
-      "pubDate": "2026-10-28T16:15:30.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.229Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
-      "snippet": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "pubDate": "Wed, 28 Oct 2026 15:53:52 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-      "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-      "snippet": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-      "pubDate": "Wed, 28 Oct 2026 15:41:18 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kate Park",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-      "snippet": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a bi",
-      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "xAI is buying out homeowners who promise not to sue over data center noise",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
-      "snippet": "xAI’s Southaven, Mississippi data center. | Photo by Brandon Dill / AFP via Getty Images\t  A subsidiary of Elon Musk's xAI is offering to buy up homes",
-      "pubDate": "2026-10-28T14:44:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.230Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "snippet": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "pubDate": "Wed, 28 Oct 2026 13:15:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-29T08:08:36.657Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
-      "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
-      "snippet": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running o",
-      "pubDate": "Wed, 28 Oct 2026 13:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "link": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are",
-      "pubDate": "Wed, 28 Oct 2026 12:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-29T08:08:35.486Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Voters in Texas agree: They hate data centers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-      "snippet": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can ra",
-      "pubDate": "2026-10-28T12:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.230Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Pairing industrial AI autonomy and human control",
-      "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
-      "snippet": "",
-      "pubDate": "Wed, 28 Oct 2026 12:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-29T08:08:35.486Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Meta quietly launched an &#8216;AI pet journal&#8217; app",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
-      "snippet": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conv",
-      "pubDate": "2026-10-28T11:27:30.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-29T08:08:35.230Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-      "link": "https://www.qbitai.com/2026/10/506194.html",
-      "snippet": "让基建作为常驻buff",
-      "pubDate": "Wed, 28 Oct 2026 11:09:10 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦晨",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
-      "link": "https://www.qbitai.com/2026/10/506098.html",
-      "snippet": "让基建作为常驻buff",
-      "pubDate": "Wed, 28 Oct 2026 10:32:39 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "The future of the firm",
-      "link": "https://openai.com/index/the-future-of-the-firm",
-      "snippet": "How AI might enter the org chart—beneath, beside, and between us.",
-      "pubDate": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-29T08:08:36.657Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Legora is building the agentic operating system for legal work",
-      "link": "https://openai.com/index/legora",
-      "snippet": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-val",
-      "pubDate": "Wed, 28 Oct 2026 09:30:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-29T08:08:36.657Z",
-      "tags": [
-        "大模型",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "威卡：用数据集链接具身智能和工程机械",
-      "link": "https://www.qbitai.com/2026/10/506063.html",
-      "snippet": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
-      "pubDate": "Wed, 28 Oct 2026 09:01:27 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
-      "link": "https://www.qbitai.com/2026/10/506055.html",
-      "snippet": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
-      "pubDate": "Wed, 28 Oct 2026 08:59:00 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
-      "link": "https://www.qbitai.com/2026/10/506042.html",
-      "snippet": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
-      "pubDate": "Wed, 28 Oct 2026 08:55:26 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-10-29T08:08:23.982Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Polymathic AI and Princeton Researchers Release FlashMap, a Flow Map Drafter for 6.14x Faster LLM Decoding",
-      "link": "https://www.marktechpost.com/2026/10/28/flashmap-flow-map-speculative-decoding/",
-      "snippet": "FlashMap is a speculative decoding drafter from Polymathic AI, Princeton and USC ISI researchers. It drafts 16 tokens jointly in one pass and reaches",
-      "pubDate": "Wed, 28 Oct 2026 08:18:03 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-29T08:08:36.972Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet Google DeepMind’s Genie 4: Real-Time World Model With Native Audio",
-      "link": "https://www.marktechpost.com/2026/10/28/google-deepmind-genie-4-world-model/",
-      "snippet": "Google DeepMind released Genie 4 as a research preview. The real-time world model adds native audio, live dialogue and text steering, with Gemini 3.8",
-      "pubDate": "Wed, 28 Oct 2026 07:34:58 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-29T08:08:36.972Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "snippet": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
-      "pubDate": "Wed, 28 Oct 2026 01:15:28 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-      "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-      "snippet": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she di",
-      "pubDate": "Tue, 27 Oct 2026 23:34:27 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The data center boom has an upside: innovation for the US grid",
-      "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
-      "snippet": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insider",
-      "pubDate": "Tue, 27 Oct 2026 22:55:41 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-29T08:08:34.948Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Meet LEANN: An Open-Source Vector Index that Shrinks a 60M-Chunk RAG Index from 201 GB to 6 GB",
-      "link": "https://www.marktechpost.com/2026/10/27/leann-vector-index-mlsys-2026/",
-      "snippet": "UC Berkeley’s LEANN vector index stores a pruned graph and recomputes embeddings at query time. It matches HNSW accuracy at 90% recall using 4 GB inst",
-      "pubDate": "Tue, 27 Oct 2026 21:54:37 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-29T08:08:36.972Z",
+      "fetchedAt": "2026-10-29T16:40:53.644Z",
       "tags": [
         "综合"
       ]
