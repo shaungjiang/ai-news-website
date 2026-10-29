@@ -1,13 +1,125 @@
 {
-  "generatedAt": "2026-10-29T01:40:58.589Z",
+  "generatedAt": "2026-10-29T08:17:24.646Z",
   "stats": {
-    "total": 112,
+    "total": 91,
     "shown": 50,
-    "chinese": 30,
-    "english": 82,
-    "today": 0
+    "chinese": 10,
+    "english": 81,
+    "today": 7
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "AssemblyAI Ships AssemblyAI-TTS-1: A $15 per 1M Character Text-to-Speech API for Voice Agents",
+      "link": "https://www.marktechpost.com/2026/10/29/assemblyai-tts-1-text-to-speech-api-voice-agents/",
+      "snippet": "AssemblyAI has released AssemblyAI-TTS-1, its first text-to-speech model for voice agents. It costs $15 per 1M characters, offers unlimited concurrenc",
+      "pubDate": "Thu, 29 Oct 2026 07:28:36 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-29T08:08:36.972Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "NVIDIA Releases Nemotron 3.5 Transcribe: An Open 30B MoE Model for 40-Language Transcription with ~4B Active Parameters",
+      "link": "https://www.marktechpost.com/2026/10/28/nvidia-nemotron-3-5-transcribe-open-speech-llm/",
+      "snippet": "NVIDIA released Nemotron 3.5 Transcribe, an open-weights speech LLM with 4.3B active parameters. It transcribes 40 languages, adds speaker labels and",
+      "pubDate": "Thu, 29 Oct 2026 04:41:24 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-29T08:08:36.972Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "link": "https://www.qbitai.com/2026/10/506281.html",
+      "snippet": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "pubDate": "Thu, 29 Oct 2026 03:27:50 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "link": "https://www.qbitai.com/2026/10/506273.html",
+      "snippet": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+      "pubDate": "Thu, 29 Oct 2026 02:51:45 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "link": "https://www.qbitai.com/2026/10/505934.html",
+      "snippet": "用扩散模型怎么做做Agent？",
+      "pubDate": "Thu, 29 Oct 2026 02:18:28 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "link": "https://www.qbitai.com/2026/10/506246.html",
+      "snippet": "理想今年最后一场发布会，自研电池芯片全部上车",
+      "pubDate": "Thu, 29 Oct 2026 00:59:26 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "link": "https://www.qbitai.com/2026/10/506227.html",
+      "snippet": "能连肝数日修Bug，免疫提示词注入",
+      "pubDate": "Thu, 29 Oct 2026 00:03:58 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "梦晨",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "tags": [
+        "大模型"
+      ]
+    },
     {
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
@@ -19,7 +131,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.229Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-29T01:36:31.919Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "商业融资"
       ]
@@ -51,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-10-29T01:36:31.919Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "商业融资"
       ]
@@ -67,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-29T01:36:31.919Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "商业融资"
       ]
@@ -83,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.229Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +211,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-29T01:36:31.919Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +227,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-29T01:36:32.545Z",
+      "fetchedAt": "2026-10-29T08:08:35.486Z",
       "tags": [
         "开源工具"
       ]
@@ -131,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.229Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -148,7 +260,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "AI应用"
       ]
@@ -164,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "开源工具"
       ]
@@ -180,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Rebecca Bellan",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "开源工具"
       ]
@@ -196,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-29T01:36:33.536Z",
+      "fetchedAt": "2026-10-29T08:08:36.258Z",
       "tags": [
         "大模型"
       ]
@@ -212,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.229Z",
       "tags": [
         "综合"
       ]
@@ -228,7 +340,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-29T01:36:34.327Z",
+      "fetchedAt": "2026-10-29T08:08:36.972Z",
       "tags": [
         "大模型"
       ]
@@ -244,7 +356,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-10-29T01:36:33.536Z",
+      "fetchedAt": "2026-10-29T08:08:36.258Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +372,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-29T01:36:34.327Z",
+      "fetchedAt": "2026-10-29T08:08:36.972Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +388,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +404,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "大模型"
       ]
@@ -308,7 +420,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.229Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +436,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.229Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +452,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "综合"
       ]
@@ -356,7 +468,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "综合"
       ]
@@ -372,7 +484,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "AI应用"
       ]
@@ -388,7 +500,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.230Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +516,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:33.987Z",
+      "fetchedAt": "2026-10-29T08:08:36.657Z",
       "tags": [
         "大模型"
       ]
@@ -420,7 +532,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +548,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-29T01:36:32.545Z",
+      "fetchedAt": "2026-10-29T08:08:35.486Z",
       "tags": [
         "商业融资"
       ]
@@ -452,7 +564,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.230Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +580,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-10-29T01:36:32.545Z",
+      "fetchedAt": "2026-10-29T08:08:35.486Z",
       "tags": [
         "综合"
       ]
@@ -484,25 +596,41 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:32.221Z",
+      "fetchedAt": "2026-10-29T08:08:35.230Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "具身智能军备竞赛，胜负手在工程生态",
-      "link": "https://www.leiphone.com/category/ai/D4SlkV6zQ4ill9MG.html",
-      "snippet": "开源工程底座 FluxVLA Engine 技术报告全解读。          作者丨邓哲敏      编辑丨齐铖湧",
-      "pubDate": "Wed, 28 Oct 2026 18:17:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "【图片中转测试，未发布】工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "link": "https://www.qbitai.com/2026/10/506194.html",
+      "snippet": "让基建作为常驻buff",
+      "pubDate": "Wed, 28 Oct 2026 11:09:10 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
+      "creator": "梦晨",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
       "tags": [
-        "开源工具"
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "工程能力一键复用，专心卷新能力！轮子造一次就够了｜详解FluxVLA Engine技术报告",
+      "link": "https://www.qbitai.com/2026/10/506098.html",
+      "snippet": "让基建作为常驻buff",
+      "pubDate": "Wed, 28 Oct 2026 10:32:39 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -516,7 +644,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:33.987Z",
+      "fetchedAt": "2026-10-29T08:08:36.657Z",
       "tags": [
         "综合"
       ]
@@ -532,42 +660,58 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-29T01:36:33.987Z",
+      "fetchedAt": "2026-10-29T08:08:36.657Z",
       "tags": [
         "大模型",
         "政策监管"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "字节辟谣\"群演数据喂大模型\"：严重失实！",
-      "link": "https://www.leiphone.com/category/industrynews/kw1tPKZvQauDl4UJ.html",
-      "snippet": "近日，有网络传言称\"横店与字节合作，将15万名群演的肖像和声音喂给字节大模型\"。字节豆包公关负责人刘星今日通过微博作出回应，表示该传言严重失实。 据介绍，此次引发讨论的项目为横店影视AI服务平台建设项目。刘星表示，该项目的初衷是希望建设一套影视行业的公共数字基础设施，把影视基地实景等资产做成高质量数",
-      "pubDate": "Wed, 28 Oct 2026 17:16:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "威卡：用数据集链接具身智能和工程机械",
+      "link": "https://www.qbitai.com/2026/10/506063.html",
+      "snippet": "威卡：为工程机械的智能化与少人化，提供一条被验证的路径",
+      "pubDate": "Wed, 28 Oct 2026 09:01:27 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
       "tags": [
-        "大模型"
+        "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "华为群英传之刘睿：AI助手要告别聊天框，从“被动响应”走向“主动服务”",
-      "link": "https://www.leiphone.com/category/ai/Ep3M1c7RboyafpOS.html",
-      "snippet": "在商汤没做成的技术，登上了华为发布会。   作者：李秋悦  编辑：吴彤     2022年6月，刘睿港中文博士毕业，赶上的却是一个“坏时候”。 深度学习的高光已持续近十年，新突破越来越难；疫情之下，经济低迷，同届不少同学选择延期，再守一年实验室。 刘睿没有等，他直接去了商汤。 两个月后，Stable",
-      "pubDate": "Wed, 28 Oct 2026 16:43:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "19个项目18个成功，6个GPCR靶点全获命中！国产AI制药再破技术天花板",
+      "link": "https://www.qbitai.com/2026/10/506055.html",
+      "snippet": "精度达AlphaFold 3两倍，分子之心拿下高难度抗体设计",
+      "pubDate": "Wed, 28 Oct 2026 08:59:00 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
+      "creator": "思邈",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
       "tags": [
-        "AI应用"
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "0营收估值200亿美元，具身版OpenAI又融10亿美元",
+      "link": "https://www.qbitai.com/2026/10/506042.html",
+      "snippet": "斯坦福伯克利宗师组团，贝索斯红杉抢着送钱",
+      "pubDate": "Wed, 28 Oct 2026 08:55:26 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-10-29T08:08:23.982Z",
+      "tags": [
+        "商业融资"
       ]
     },
     {
@@ -581,25 +725,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-29T01:36:34.327Z",
+      "fetchedAt": "2026-10-29T08:08:36.972Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "模态缺失、噪声干扰怎么办？天津大学张长青：给多模态融合加上「可信度量尺」| CNCC 2026",
-      "link": "https://www.leiphone.com/category/private/L0riZpWS688dpXnN.html",
-      "snippet": "真正的挑战，是让模型保留有效信息、识别可靠证据，并适应新的任务。          作者丨张  璐      编辑丨马晓宁",
-      "pubDate": "Wed, 28 Oct 2026 15:58:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -613,106 +741,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-29T01:36:34.327Z",
+      "fetchedAt": "2026-10-29T08:08:36.972Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "抖音副总裁李亮回应秦朔：关于中国互联网“字节时间”的分析存在常识性错误",
-      "link": "https://www.leiphone.com/category/industrynews/Rq9ScWtg3Hg7Y3xU.html",
-      "snippet": "10月28日，抖音集团副总裁李亮发文表示，今天又看到秦朔老先生关于中国互联网到底存不存在“字节时间”的分析，里面存在几个基本常识性错误。",
-      "pubDate": "Wed, 28 Oct 2026 15:11:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "豆包工作能力升级：操作电脑可录制成技能，锁屏后也能继续任务",
-      "link": "https://www.leiphone.com/category/industrynews/MYDTBZqQkhfVtkte.html",
-      "snippet": "近期，豆包工作电脑操作能力升级，屏幕点击精度、速度提升，更准、更快。直接在对话中提出操作电脑的相关需求，经用户授权后，豆包工作就可以自动查看电脑屏幕，模拟人工鼠标和键盘操作相关应用。与此同时，在原有跨应用操作、将浏览器操作录制成技能的基础上，用户现在可以录制电脑操作，把演示过程保存为可复用技能；另外",
-      "pubDate": "Wed, 28 Oct 2026 15:00:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "华为无线发布全系列创新成果，领启新一代通信网",
-      "link": "https://www.leiphone.com/category/industrynews/AenD5N0wKBYyfCch.html",
-      "snippet": "[中国，上海，2026年10月27日] 在华为Decoding China 2026活动上，华为公司副总裁、无线网络业务管理委员会主任方向发布了面向新一代通信网的全系列创新成果。华为围绕泛在体验、极简绿色、极致谱效三大方向，持续推进底层技术创新，推出全球首款U6GHz商用设备VitaAAU、Giga",
-      "pubDate": "Wed, 28 Oct 2026 14:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019",
-      "link": "https://www.qbitai.com/2026/10/505928.html",
-      "snippet": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3.1-flash-1019。",
-      "pubDate": "Wed, 28 Oct 2026 04:04:48 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-29T01:36:27.785Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "云鲸十年：技术承担繁琐，洁净回归日常",
-      "link": "https://www.leiphone.com/category/smarthome/NHOI9tpUsgkSX4BY.html",
-      "snippet": "这十年，家庭清洁赛道的变化算不上轰轰烈烈，却足够扎实深刻。扫地机器人早已从少数人的新鲜尝鲜，走进千家万户，成为普通家庭里习以为常的家电。行业标准也一步步迭代，手动洗拖布成为过去，扫拖一体变成基础标配；基站自清洁、自动上下水、防缠绕、环境感知，串联起整个行业的升级脉络。大家比拼的重心，也悄悄变了，不再",
-      "pubDate": "Wed, 28 Oct 2026 11:30:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "AI做中学 创未来｜智源SoulAgent持续拓展教育应用",
-      "link": "https://www.leiphone.com/category/ai/TKr0YQ085uv1ME7X.html",
-      "snippet": "10月19日至24日，北京智源人工智能研究院（以下简称“智源研究院”）连续走进中国人民大学附属中学，先后支持北京市“做中学”领航行动海淀区工作部署会暨科学与工程实践研讨会、“AI做中学，创未来——人工智能赋能创新人才培养研讨会”等活动，围绕SoulAgent在真实课堂、教研和学习场景中的应用开展实践",
-      "pubDate": "Wed, 28 Oct 2026 11:19:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -726,25 +757,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "微软向6万员工发出自愿离职邀请，补偿至少N+2；身家2800亿的梁文锋，被曝长期在北京租房；苹果否认iPhone Duo为赶产能放宽质检",
-      "link": "https://www.leiphone.com/category/zaobao/SXb4aJpFWlpTjfkN.html",
-      "snippet": "要闻提示      1.加码AI精简人力！微软向 6 万员工发出自愿离职邀请，补偿至少N+2 2.DeepSeek大举扩充团队！梁文锋2800亿首登富豪榜前十，被曝长期在北京租房 3.iPhone Duo被曝为赶产能放宽质检！苹果客服否认 4.抖音回应中国互联网进入字节时间：极不严谨，纯属瞎扯 5.",
-      "pubDate": "Wed, 28 Oct 2026 09:11:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-29T01:36:31.598Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -758,7 +773,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "大模型"
       ]
@@ -774,7 +789,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-29T01:36:31.920Z",
+      "fetchedAt": "2026-10-29T08:08:34.948Z",
       "tags": [
         "综合"
       ]
@@ -790,25 +805,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-29T01:36:34.327Z",
+      "fetchedAt": "2026-10-29T08:08:36.972Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-      "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-      "snippet": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
-      "pubDate": "Tue, 27 Oct 2026 21:50:04 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jon Brodkin\n                ",
-      "fetchedAt": "2026-10-29T01:36:33.536Z",
-      "tags": [
-        "政策监管"
       ]
     }
   ]
