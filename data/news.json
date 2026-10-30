@@ -1,13 +1,269 @@
 {
-  "generatedAt": "2026-10-30T12:22:51.127Z",
+  "generatedAt": "2026-10-30T19:06:04.866Z",
   "stats": {
-    "total": 111,
+    "total": 94,
     "shown": 50,
-    "chinese": 30,
-    "english": 81,
-    "today": 33
+    "chinese": 10,
+    "english": 84,
+    "today": 31
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "snippet": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the s",
+      "pubDate": "2026-10-30T18:21:38.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet TokenEconomizer: Microsoft’s Plugin That Cuts Coding Agent Costs by Up to 30.9%",
+      "link": "https://www.marktechpost.com/2026/10/30/microsoft-tokeneconomizer-coding-agent-cost-control/",
+      "snippet": "Microsoft Research and UC Berkeley released TokenEconomizer, an open-source plugin that learns from past sessions to cut coding agent token costs by 1",
+      "pubDate": "Fri, 30 Oct 2026 17:53:37 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-30T19:00:26.086Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+      "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+      "snippet": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+      "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "link": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "snippet": "Low costs and offline security mean magnetic tape still has a job.",
+      "pubDate": "Fri, 30 Oct 2026 17:38:19 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Nick Indge\n                ",
+      "fetchedAt": "2026-10-30T19:00:25.243Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+      "snippet": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO",
+      "pubDate": "2026-10-30T17:38:04.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "AI Security Agents Compared: Claude, Codex, Mantis, Cloudflare",
+      "link": "https://www.marktechpost.com/2026/10/30/ai-security-agents-claude-codex-mantis-cloudflare/",
+      "snippet": "Anthropic, OpenAI, Cloudflare and Google each released an AI agent that hunts security bugs in source code. All 4 use the same find, disprove, then pa",
+      "pubDate": "Fri, 30 Oct 2026 17:34:15 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-10-30T19:00:26.086Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google’s first data center satellite is online and writing poetry",
+      "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+      "snippet": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+      "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+      "link": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+      "snippet": "Applying for FAFSA may get messy as DOJ “ghost student” crackdown ramps up.",
+      "pubDate": "Fri, 30 Oct 2026 16:53:49 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-10-30T19:00:25.243Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+      "snippet": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion",
+      "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+      "snippet": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applic",
+      "pubDate": "2026-10-30T14:58:06.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+      "snippet": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those con",
+      "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+      "snippet": "DoorDash said that it is open to working with third-party agent makers.",
+      "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Silicon Valley wants you to invest in miracles",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+      "snippet": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a",
+      "pubDate": "2026-10-30T13:11:05.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+      "snippet": "After months of bombarding mathematicians  with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researcher",
+      "pubDate": "2026-10-30T13:01:14.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+      "snippet": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "TechCrunch Events",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+      "snippet": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scal",
+      "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Dominic-Madori Davis",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
@@ -19,7 +275,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-30T12:18:00.563Z",
+      "fetchedAt": "2026-10-30T19:00:24.444Z",
       "tags": [
         "综合"
       ]
@@ -35,71 +291,23 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-30T12:18:00.307Z",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "盖伦奖提名一年后，希格生科的边界、验证与野心",
-      "link": "https://www.leiphone.com/category/aihealth/BseLhlDzaWQ8XrWr.html",
-      "snippet": "“五年前我们把这页PPT放出来，很多人都说这是在‘画饼’。但现在我们和晶泰合作研发的全球首款弥漫性胃癌靶向药，已迈向关键临床验证。”          作者丨周蕾      编辑丨岑峰",
-      "pubDate": "Fri, 30 Oct 2026 18:03:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Making it easier for websites to express AI training preferences",
+      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "snippet": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "在代谢酶网络里，默达生物找到了一个让坏细胞「吃不饱饭」的开关",
-      "link": "https://www.leiphone.com/category/aihealth/zzOQHx9piL86TXHJ.html",
-      "snippet": "“相较于复杂的生物学预测，我们目前更看重AI在海量筛选方面的应用价值。”          作者丨周蕾      编辑丨岑峰",
-      "pubDate": "Fri, 30 Oct 2026 17:51:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "欣旺达前三季度营收634.62亿元，终止H股上市计划",
-      "link": "https://www.leiphone.com/category/industrynews/STPEobhiyi9XOsmj.html",
-      "snippet": "10月29日，欣旺达电子股份有限公司（300207.SZ）发布2026年三季度经营业绩，同步披露多项公告，涉及动力板块股权调整及终止H股上市计划等事项。报告显示，前三季度实现营业收入634.62 亿元，同比增长45.78%；第三季度单季营收252.84亿元，同比增长52.78%。 同日披露的公告显示",
-      "pubDate": "Fri, 30 Oct 2026 17:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "天数智芯天垓300实测对标H200，国产GPU接下来拼什么？",
-      "link": "https://www.leiphone.com/category/chips/748GRHfg9VPRbp7x.html",
-      "snippet": "在实测场景中达到H200的性能水平后，国产GPU的竞争，开始进一步转向系统效率、软件适配与实际交付。 本周的天数智芯媒体开放日上，最新一代天垓300与H200的实机对比，是最直观的性能展示。让GPU与专用芯片组成异构系统，是对推理效率的新探索。软件栈引入Agent与Skills，则试图解决客户部署、",
-      "pubDate": "Fri, 30 Oct 2026 17:02:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
+      "fetchedAt": "2026-10-30T19:00:25.685Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +323,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-30T12:18:00.307Z",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
       "tags": [
         "大模型"
       ]
@@ -131,57 +339,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-30T12:18:00.563Z",
+      "fetchedAt": "2026-10-30T19:00:24.444Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "不设限的年轻科学家：三年200万、不设考核，何享健基金在赌什么",
-      "link": "https://www.leiphone.com/category/smarthome/H5tRYv4Yf8t41mqJ.html",
-      "snippet": "2026年10月24日，佛山顺德美的全球创新中心。20位青年科学家接过何享健青年科学家资助证书。 场面并不喧嚣。整场揭晓环节只用了不到20分钟：一位院士致辞，20位青年科学家分批上台领取证书，合影，结束。没有铺垫，没有\"花红柳绿\"。 这份克制，和这份资助本身的气质是吻合的。2023年5月，美的集团创",
-      "pubDate": "Fri, 30 Oct 2026 16:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Community safety report and new protections for teens",
+      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "snippet": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reportin",
+      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
+      "fetchedAt": "2026-10-30T19:00:25.685Z",
       "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "科大讯飞董事长与总裁主动降薪，两人均少领超2000万；阿维塔回应会议视频被吐槽「演的太尬」：是摆拍，但事是真的；百度副总裁吴甜已离职",
-      "link": "https://www.leiphone.com/category/zaobao/zRRabO7xif7QiyjK.html",
-      "snippet": "要闻提示      1.科大讯飞回应高管薪资质疑：董事长与总裁主动降薪，两人均少领超2000万 2.内部会议视频被吐槽演的太尬！阿维塔副总裁：是摆拍，但事是真的 3.华为“天才少年”杨玉雯加盟南京大学 4.百度确认吴甜已离职，文心模型下周将发布新进展 5.王腾创业首秀感谢小米和雷军！回应蹭流量质疑：",
-      "pubDate": "Fri, 30 Oct 2026 16:42:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "让触觉像视觉一样可规模化，哥大李昀烛团队 FlexiTac 的开源实践 | IROS 2026",
-      "link": "https://www.leiphone.com/category/robot/sRmmVes4DwBoIeRm.html",
-      "snippet": "FlexiTac压阻式传感器可兼顾柔性、低成本与一致性。          作者丨向欣      编辑丨岑峰",
-      "pubDate": "Fri, 30 Oct 2026 16:13:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "开源工具"
+        "大模型"
       ]
     },
     {
@@ -195,27 +371,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-30T12:17:55.008Z",
+      "fetchedAt": "2026-10-30T19:00:14.099Z",
       "tags": [
         "开源工具",
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
-      "link": "https://www.leiphone.com/category/industrynews/7pQrGMmdsjx5dOSR.html",
-      "snippet": "10 月 30 日，百度 APP 在北京举办产品升级沟通会。百度搜索实现递归自我进化，并全新升级搜索 AI API，活动期间最低价仅需 4.9 元/千次，低于 DeepSeek 搜索 API。同时围绕搜索框、AI 镜头、GUI 可视化、AI 互动应用等方向推出重大升级，给用户带来更智能、更聪明、更好",
-      "pubDate": "Fri, 30 Oct 2026 15:30:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     },
     {
@@ -229,157 +388,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-30T12:18:01.975Z",
+      "fetchedAt": "2026-10-30T19:00:26.086Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "IROS 2026 观察：从 Demo 到生产力工具，灵巧手还要跨过几道坎？",
-      "link": "https://www.leiphone.com/category/robot/jv4zJUmQr2wkoN0i.html",
-      "snippet": "灵巧手的设计逻辑，要由落地需求反推。          作者丨向  欣      编辑丨高景辉",
-      "pubDate": "Fri, 30 Oct 2026 15:23:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "伯牙智能刘欣：GPT-6 之后，轮到硬件拖机器人后腿了 | 物理AI 50人",
-      "link": "https://www.leiphone.com/category/robot/EnKFLg1RRmN9SaHJ.html",
-      "snippet": "灵巧手去年出货近 2 万只，大部分在「吃灰」          作者丨向   欣      编辑丨高景辉",
-      "pubDate": "Fri, 30 Oct 2026 15:13:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "具身的数据管线，到底应该怎么做？",
-      "link": "https://www.leiphone.com/category/robot/espiC5FlGhRbSj1b.html",
-      "snippet": "数据规模不断扩大，有效性却没有跟上。          作者丨向   欣      编辑丨高景辉",
-      "pubDate": "Fri, 30 Oct 2026 15:11:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "宇树最新财报：重金投入研发，上市后的考题变了",
-      "link": "https://www.leiphone.com/category/robot/9NTmjVmWkIyllzaj.html",
-      "snippet": "雷峰网 10月28日晚，宇树披露上市后的首份三季报。2026年前三季度，营收已经超过2025全年，公司实现营收18.17亿元，但毛利率明显回落，研发费用率大幅抬升，扣非利润实际下滑。 宇树的收入还在加速增长，利润却没有跟上。不过，表面看，这是一份“增收不增利”的财报。实质上，这是宇树主动用过去两年赚",
-      "pubDate": "Fri, 30 Oct 2026 15:10:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "解读丨Misa 的全彩豪赌：卖不到千万台，Rokid 就输了",
-      "link": "https://www.leiphone.com/category/weiwu/FrjosYobsoHysRCW.html",
-      "snippet": "提词器是原生应用，但依然不是杀手级应用。  作者丨黄艳冰  编辑丨姚单          “眼镜的 iPhone 时刻来了。” 10月27日，Rokid 创始人兼 CEO Misa 在首款全彩 AI 眼镜 Rokid Color 亮相后，抛出了这句话。 与市面上已有的全彩尝试相比，Rokid Col",
-      "pubDate": "Fri, 30 Oct 2026 15:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "MiniMax H3 开源生态持续拓展，英伟达团队开源 4K 视频增强方案",
-      "link": "https://www.leiphone.com/category/industrynews/eJ3swacisd2iTByo.html",
-      "snippet": "近日，由英伟达与麻省理工学院研究人员组成的 Efficient-Large-Model 团队，在 Hugging Face 发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，配套推理代码已在 NVlabs/Sana 仓库开放。该方案基于 MiniMax H3，将低分辨率视频草",
-      "pubDate": "Fri, 30 Oct 2026 15:06:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "豆包再送免费福利：累计签到30天可得8800额度，新用户免费领一个月订阅",
-      "link": "https://www.leiphone.com/category/industrynews/zUR47PS79V5yRTMq.html",
-      "snippet": "近日，豆包再次面向用户推出免费福利活动：所有用户每日签到即可获取更多额度，累计签到30天可得8800额度；新用户还可领取30天免费体验套餐。 新用户免费领一个月订阅 据介绍，首次登录豆包电脑版或豆包工作电脑版的新用户，可直接领取30天免费体验套餐，该套餐提供的免费额度可用于除生视频、Pro模型以外的",
-      "pubDate": "Fri, 30 Oct 2026 14:58:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "一加 Ace 7 Pro 火爆热销：首销销量同比上涨 225%",
-      "link": "https://www.leiphone.com/category/industrynews/J2nk3KJCQ7qxQP05.html",
-      "snippet": "10月29日，「性能直升跨代之作」一加 Ace 7 系列发布即开售，凭借“性能直升一代、游戏横扫全场”的超旗舰体验首销告捷，一加 Ace 7 Pro 首销销量同比一加 Ace 6上涨225%，同时，一加 16 和一加 Ace 7 Pro 包揽2026 年安卓手机首销销量冠军和亚军。一加中国区总裁李杰",
-      "pubDate": "Fri, 30 Oct 2026 14:35:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "脑景中心启幕、四款新品齐发！熵基科技加码非侵入式脑机接口全栈技术与应用平台",
-      "link": "https://www.leiphone.com/category/industrynews/aRWuqU4d3JN0qMP6.html",
-      "snippet": "10月29日，以\"BE THE CHANGE MAKER\"为主题的熵基科技全球合作伙伴大会2026在东莞启幕，会期将持续至10月31日。本届大会聚焦原生AI发展趋势，围绕空间智能、脑机接口与人工智能融合创新，以及全球产业生态协同展开，集中呈现熵基科技在技术创新、产品研发与场景应用方面的最新进展。 大",
-      "pubDate": "Fri, 30 Oct 2026 14:00:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
       ]
     },
     {
@@ -393,7 +404,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-10-30T12:17:55.008Z",
+      "fetchedAt": "2026-10-30T19:00:14.099Z",
       "tags": [
         "开源工具"
       ]
@@ -409,7 +420,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-10-30T12:17:55.009Z",
+      "fetchedAt": "2026-10-30T19:00:14.099Z",
       "tags": [
         "大模型"
       ]
@@ -425,58 +436,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-30T12:18:01.975Z",
+      "fetchedAt": "2026-10-30T19:00:26.086Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "阿里用速卖通把双11带到韩国，还豪送4辆特斯拉！",
-      "link": "https://www.leiphone.com/category/industrynews/pTCNnUnvfLfUtt27.html",
-      "snippet": "被韩国人实名羡慕的中国购物节，其实已经抵达韩国！   据韩媒报道，阿里旗下跨境平台速卖通AliExpress宣布11月1日至18日开启海外双11，所有类别商品最高可享80%的折扣，还拿出4辆特斯拉Model Y做抽奖。     （韩媒报道速卖通双11送特斯拉）   韩国双11期间，速卖通将在首尔圣水",
-      "pubDate": "Fri, 30 Oct 2026 12:20:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "阿里云发布新版飞天企业版，支持海外客户升级企业级AI能力",
-      "link": "https://www.leiphone.com/category/industrynews/52mMRkhA2aqlY1FL.html",
-      "snippet": "10月29日消息，阿里云在国际云栖大会上发布面向国际市场的新版飞天企业版（Apsara Stack International v3.18），提供可信AI云解决方案，支持全球政府、运营商及大型企业升级AI基础设施。目前，飞天企业版已在全球20余个国家和地区实现本地化部署。   随着AI加速应用于政务",
-      "pubDate": "Fri, 30 Oct 2026 12:18:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "卓驭发布“磐行”智驾解决方案：切入商用车市场，一年可回本",
-      "link": "https://www.leiphone.com/category/transportation/rwe6sLir6r3aYzeu.html",
-      "snippet": "10月29日晚，智能驾驶方案商卓驭科技正式发布商用车智能辅助驾驶解决方案“卓驭磐行”，并公布了商用重卡、客车、轻卡、ROBOVAN等业务进展。 此次卓驭磐行分为PDS 4和PDS 5两个版本。 PDS 4对应高悟性大模型4.0及以上版本，主要支持高速NOA，面向重卡干线物流。目前这一版本已经实现量产",
-      "pubDate": "Fri, 30 Oct 2026 12:04:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-10-30T12:17:59.757Z",
-      "tags": [
-        "大模型"
       ]
     },
     {
@@ -490,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-30T12:17:55.009Z",
+      "fetchedAt": "2026-10-30T19:00:14.099Z",
       "tags": [
         "AI应用"
       ]
@@ -506,7 +468,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-30T12:17:55.009Z",
+      "fetchedAt": "2026-10-30T19:00:14.099Z",
       "tags": [
         "综合"
       ]
@@ -522,7 +484,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "综合"
       ]
@@ -538,7 +500,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-10-30T12:17:55.009Z",
+      "fetchedAt": "2026-10-30T19:00:14.099Z",
       "tags": [
         "综合"
       ]
@@ -554,7 +516,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "综合"
       ]
@@ -570,7 +532,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-30T12:18:01.975Z",
+      "fetchedAt": "2026-10-30T19:00:26.086Z",
       "tags": [
         "AI应用"
       ]
@@ -586,7 +548,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "综合"
       ]
@@ -602,7 +564,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "商业融资"
       ]
@@ -618,7 +580,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "商业融资"
       ]
@@ -634,7 +596,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "AI应用"
       ]
@@ -650,7 +612,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-30T12:18:01.300Z",
+      "fetchedAt": "2026-10-30T19:00:25.243Z",
       "tags": [
         "综合"
       ]
@@ -666,7 +628,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-30T12:18:00.307Z",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
       "tags": [
         "大模型"
       ]
@@ -682,7 +644,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-30T12:18:01.975Z",
+      "fetchedAt": "2026-10-30T19:00:26.086Z",
       "tags": [
         "AI应用"
       ]
@@ -698,7 +660,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "AI应用"
       ]
@@ -714,7 +676,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "AI应用"
       ]
@@ -730,7 +692,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-10-30T12:18:01.662Z",
+      "fetchedAt": "2026-10-30T19:00:25.685Z",
       "tags": [
         "综合"
       ]
@@ -746,7 +708,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "综合"
       ]
@@ -762,7 +724,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-10-30T12:18:01.300Z",
+      "fetchedAt": "2026-10-30T19:00:25.243Z",
       "tags": [
         "商业融资"
       ]
@@ -778,7 +740,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-10-30T12:18:00.032Z",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
       "tags": [
         "大模型"
       ]
@@ -794,7 +756,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-30T12:18:00.307Z",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
       "tags": [
         "综合"
       ]
@@ -810,10 +772,43 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-30T12:18:00.307Z",
+      "fetchedAt": "2026-10-30T19:00:24.157Z",
       "tags": [
         "AI应用",
         "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+      "snippet": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "pubDate": "Thu, 29 Oct 2026 14:35:26 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+      "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+      "snippet": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
+      "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-10-30T19:00:23.852Z",
+      "tags": [
+        "综合"
       ]
     }
   ]
