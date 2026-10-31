@@ -1,13 +1,61 @@
 {
-  "generatedAt": "2026-10-31T11:58:46.165Z",
+  "generatedAt": "2026-10-31T17:02:50.474Z",
   "stats": {
-    "total": 98,
+    "total": 117,
     "shown": 50,
-    "chinese": 10,
+    "chinese": 29,
     "english": 88,
-    "today": 5
+    "today": 10
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "snippet": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Anthony Ha",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "snippet": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm s",
+      "pubDate": "2026-10-31T16:05:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet Factory Droid 1.0: A Model-Independent Coding Agent Harness Built on Script Mode",
+      "link": "https://www.marktechpost.com/2026/10/31/factory-droid-1-0-frontier-harness/",
+      "snippet": "Factory released Droid 1.0, a model-independent coding agent harness that makes programmatic tool calling the default. On Factory’s own Terminal-Bench",
+      "pubDate": "Sat, 31 Oct 2026 10:38:14 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-10-31T16:56:10.904Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Vercel Labs Open-Sources agent-desktop for Agent Computer Use",
@@ -19,9 +67,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-31T11:49:00.277Z",
+      "fetchedAt": "2026-10-31T16:56:10.904Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从“懂回答”到“能执行”：Zoho如何让AI走进企业业务",
+      "link": "https://www.leiphone.com/category/industrynews/00recUTGoMQ1JRh4.html",
+      "snippet": "10月20日，在以“助力中国企业全球化成长”为主题的Zoho北京媒体沟通会上， Zoho不仅向外界展示了其最新的企业级AI全景战略，更试图回答一个当前行业的普遍痛点：当AI大模型喧嚣了两年之后，为什么大多数企业在业务中依然觉得AI“用不起来”？ Zoho全球副总裁Mathivanan一针见血地点出了",
+      "pubDate": "Sat, 31 Oct 2026 17:55:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -35,7 +99,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
+      "fetchedAt": "2026-10-31T16:56:03.704Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +115,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
+      "fetchedAt": "2026-10-31T16:56:03.704Z",
       "tags": [
         "综合"
       ]
@@ -67,9 +131,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
+      "fetchedAt": "2026-10-31T16:56:03.704Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "智能驾驶进入物理AI时代？7位行业嘉宾给出最新判断",
+      "link": "https://www.leiphone.com/category/transportation/pqEtZnYepE5D1PzD.html",
+      "snippet": "10月26日，第八届智能驾驶大会暨2026环秀湖物理AI产业发展推介会在苏州相城举行。 上一届，车路云一体化、智能驾驶出海和无人驾驶商业化是讨论重点，而到了今年，大会的讨论边界进一步从智能驾驶向物理AI延伸。 世界模型、强化学习、端侧智能、虚拟仿真、Robotaxi之外，机器人、低空飞行器等不同形态",
+      "pubDate": "Sat, 31 Oct 2026 11:31:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -83,7 +163,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "综合"
       ]
@@ -99,9 +179,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "阿里巴巴与 Apple 达成合作，将千问集成至 Apple 智能",
+      "link": "https://www.leiphone.com/category/industrynews/es0ZV9LsDEsG7QLE.html",
+      "snippet": "10月31日，阿里巴巴与Apple达成合作，将千问集成至 Apple 智能，中国用户可以在Siri、写作工具及视觉智能中，直接调用千问的文本与图像理解、内容生成等能力。这些功能将于11月4日起随最新的iOS 开发者 Beta 版开放测试，并将于12月iOS 27.3正式发布时面向中国用户推出。",
+      "pubDate": "Sat, 31 Oct 2026 06:52:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
       ]
     },
     {
@@ -115,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "AI应用"
       ]
@@ -131,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "政策监管"
       ]
@@ -147,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "商业融资"
       ]
@@ -163,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-10-31T11:48:59.570Z",
+      "fetchedAt": "2026-10-31T16:56:10.074Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +276,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "综合"
       ]
@@ -195,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-10-31T11:48:59.570Z",
+      "fetchedAt": "2026-10-31T16:56:10.074Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "综合"
       ]
@@ -243,7 +340,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nate Anderson\n                ",
-      "fetchedAt": "2026-10-31T11:48:59.570Z",
+      "fetchedAt": "2026-10-31T16:56:10.074Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +356,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "开源工具"
       ]
@@ -275,7 +372,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-10-31T11:48:59.570Z",
+      "fetchedAt": "2026-10-31T16:56:10.074Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +388,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +404,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-31T11:49:00.277Z",
+      "fetchedAt": "2026-10-31T16:56:10.904Z",
       "tags": [
         "AI应用"
       ]
@@ -323,7 +420,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "综合"
       ]
@@ -339,7 +436,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nick Indge\n                ",
-      "fetchedAt": "2026-10-31T11:48:59.570Z",
+      "fetchedAt": "2026-10-31T16:56:10.074Z",
       "tags": [
         "AI应用"
       ]
@@ -355,7 +452,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "综合"
       ]
@@ -371,7 +468,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-10-31T11:49:00.277Z",
+      "fetchedAt": "2026-10-31T16:56:10.904Z",
       "tags": [
         "大模型"
       ]
@@ -387,7 +484,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "综合"
       ]
@@ -403,7 +500,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-10-31T11:48:59.570Z",
+      "fetchedAt": "2026-10-31T16:56:10.074Z",
       "tags": [
         "AI应用"
       ]
@@ -419,7 +516,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "开源工具"
       ]
@@ -435,9 +532,25 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "游戏手柄销量涨108%！《影之刃零》爆火带动游戏装备“换新潮”",
+      "link": "https://www.leiphone.com/category/industrynews/enkwU0KIpvIsMoN3.html",
+      "snippet": "10月29日，备受瞩目的国产“3A”游戏大作《影之刃零》正式发售，热度持续攀升。第三方平台SteamDB监测显示，《影之刃零》发售首日，Steam同时在线峰值达到43万人，稳居Steam全球畅销榜第一位。 冲上全球第一的《影之刃零》迅速“拉爆”了电玩设备市场的热度，迫不及待尝鲜的玩家掀起了一波设备“",
+      "pubDate": "Fri, 30 Oct 2026 22:20:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -451,7 +564,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "AI应用"
       ]
@@ -467,7 +580,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "综合"
       ]
@@ -483,7 +596,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "学术研究"
       ]
@@ -499,7 +612,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "学术研究"
       ]
@@ -515,7 +628,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "综合"
       ]
@@ -531,7 +644,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
+      "fetchedAt": "2026-10-31T16:56:08.546Z",
       "tags": [
         "商业融资"
       ]
@@ -547,7 +660,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
+      "fetchedAt": "2026-10-31T16:56:03.704Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "一天造300万个沙盒，10万张卡自己写系统：2026年国产 RSI 到底有多野？",
+      "link": "https://www.leiphone.com/category/yanxishe/UIbgVZxTjEoMswaE.html",
+      "snippet": "国产 RSI 的真实水位：没人敢真动模型权重，但所有人都在改 \"造 AI 的机器\"。          作者丨高允毅      编辑丨岑   峰",
+      "pubDate": "Fri, 30 Oct 2026 19:32:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
       "tags": [
         "综合"
       ]
@@ -563,9 +692,57 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-10-31T11:48:58.913Z",
+      "fetchedAt": "2026-10-31T16:56:09.226Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "李飞飞挖的三个「坑」：从 ImageNet 到空间智能，这一次她会怎么填？",
+      "link": "https://www.leiphone.com/category/academic/oi5NEt93WcuWwFr8.html",
+      "snippet": "82 亿美元，已经为整个世界模型赛道提供了价值锚点。          作者丨幸丽娟      编辑丨岑   峰",
+      "pubDate": "Fri, 30 Oct 2026 19:12:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "进击中的影石：攻击性强，血条太脆 ？",
+      "link": "https://www.leiphone.com/category/weiwu/KlCbWSV85pD8wKbW.html",
+      "snippet": "影石并不缺成功故事。 十一年前，年轻的影石以破局者的姿态，切入全景相机这片无人区，打了一场漂亮的仗。 它的成绩单也够耀眼，成立11年，影石相机全球累计出货量已经突破1000万台，其中470万台来自过去一年。在其最擅长的全景相机市场，2026年二季度的全球出货份额约73%。 手机影像从业者许衡评价：“",
+      "pubDate": "Fri, 30 Oct 2026 19:12:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "全行业两年攒下百万小时数据，影溯想 1 个月生产完：全国首个具身仿真数采中心落地杭州",
+      "link": "https://www.leiphone.com/category/academic/xPVWQgBN3Foj7fo5.html",
+      "snippet": "产能公式从“人×小时”，变成“环境配置数×并行算力”。          作者丨幸丽娟      编辑丨岑   峰",
+      "pubDate": "Fri, 30 Oct 2026 19:08:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -579,7 +756,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
+      "fetchedAt": "2026-10-31T16:56:03.704Z",
       "tags": [
         "综合"
       ]
@@ -595,7 +772,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
+      "fetchedAt": "2026-10-31T16:56:08.849Z",
       "tags": [
         "综合"
       ]
@@ -611,203 +788,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
+      "fetchedAt": "2026-10-31T16:56:03.704Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Making it easier for websites to express AI training preferences",
-      "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "snippet": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
-      "pubDate": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "沙钢接入千问办公，已将Agent落地核心业务场景",
+      "link": "https://www.leiphone.com/category/industrynews/mxLii4LkfIz829iH.html",
+      "snippet": "近日，江苏沙钢钢铁有限公司（以下简称“沙钢”）正式接入千问办公，已将Agent落地到电炉冶炼复盘、变压器状态评估、财务经营分析等业务场景，让分散的关键数据更快进入生产工作流，部分核心业务场景提效可达数百倍。      沙钢是全国最大的电炉钢生产基地，产品应用于港珠澳大桥、“西气东输”等国家重大工程，",
+      "pubDate": "Fri, 30 Oct 2026 18:38:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-10-31T11:48:59.967Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-      "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-      "snippet": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language mo",
-      "pubDate": "2026-10-30T09:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-10-31T11:48:58.669Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
-      "link": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
-      "snippet": "GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last decade. But to some clinical psychologists, they can represent someth",
-      "pubDate": "Fri, 30 Oct 2026 09:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-10-31T11:48:58.913Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Community safety report and new protections for teens",
-      "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "snippet": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reportin",
-      "pubDate": "Fri, 30 Oct 2026 09:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-31T11:48:59.967Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "百度 APP 发布四大 AI 升级，搜索已实现递归自我进化",
-      "link": "https://www.qbitai.com/2026/10/506771.html",
-      "snippet": "",
-      "pubDate": "Fri, 30 Oct 2026 08:50:44 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "好莱坞最缺的答案，被这家 10 亿美元估值的 AI 影视独角兽写进了片单",
-      "link": "https://www.qbitai.com/2026/10/506747.html",
-      "snippet": "创立 4 年，估值站上 10 亿美元——资本市场定价的不是一部电影，而是一套内容生产基础设施。",
-      "pubDate": "Fri, 30 Oct 2026 08:12:11 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
-      "link": "https://www.qbitai.com/2026/10/506743.html",
-      "snippet": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
-      "pubDate": "Fri, 30 Oct 2026 07:31:11 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Samaya AI Releases Sterling: A 3B-Active Finance Research Agent Model that Beats Claude Fable 5.1 on FrontierFinance at 11x Lower Cost",
-      "link": "https://www.marktechpost.com/2026/10/30/samaya-sterling-post-trained-finance-research-model-frontierfinance/",
-      "snippet": "Samaya AI’s Sterling is a post-trained Nemotron 3.5 Lightning model for financial research. It scores 58.9% on FrontierFinance at $0.61 per question,",
-      "pubDate": "Fri, 30 Oct 2026 07:26:12 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-31T11:49:00.277Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
-      "link": "https://www.qbitai.com/2026/10/506686.html",
-      "snippet": "解析一切",
-      "pubDate": "Fri, 30 Oct 2026 05:52:47 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-10-31T11:48:47.652Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Edge0 Releases Audio8-TTS-Realistic, a 0.6B Voice Cloning TTS Model",
-      "link": "https://www.marktechpost.com/2026/10/29/edge0-audio8-tts-realistic-0-6b-voice-cloning/",
-      "snippet": "Edge0 released Audio8-TTS-Realistic, a 0.6B open-weight zero-shot voice cloning TTS model under Apache 2.0. It supports 23 languages and adds a final",
-      "pubDate": "Fri, 30 Oct 2026 05:02:52 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-10-31T11:49:00.277Z",
+      "fetchedAt": "2026-10-31T16:56:08.245Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-      "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-      "snippet": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-      "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-10-31T11:48:58.390Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Fair use benefits everyone",
-      "link": "https://openai.com/index/fair-use-benefits-everyone",
-      "snippet": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI",
-      "pubDate": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-10-31T11:48:59.967Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
