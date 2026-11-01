@@ -1,13 +1,62 @@
 {
-  "generatedAt": "2026-11-01T08:55:11.311Z",
+  "generatedAt": "2026-11-01T16:46:23.517Z",
   "stats": {
     "total": 118,
     "shown": 50,
     "chinese": 30,
     "english": 88,
-    "today": 7
+    "today": 11
   },
   "articles": [
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "link": "https://www.qbitai.com/2026/11/507076.html",
+      "snippet": "西湖世界模型研究中心成立",
+      "pubDate": "Sun, 01 Nov 2026 13:28:10 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "link": "https://www.qbitai.com/2026/11/507038.html",
+      "snippet": "",
+      "pubDate": "Sun, 01 Nov 2026 13:09:55 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "林, 方舟",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
+      "link": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
+      "snippet": "近日，Pika 发布 MiniMax H3 衍生模型 Pika H3 Flex，并开放适配器权重与推理代码。该模型通过六步去噪联合生成画面和声音，支持文本、首尾帧和多模态参考输入，供创作者进行镜头设计、参考生成和视频编辑。      本次发布包含两套 LoRA 适配器，分别用于文本及首尾帧条件生成、",
+      "pubDate": "Sun, 01 Nov 2026 17:46:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
+      "tags": [
+        "开源工具",
+        "AI应用"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Nace AI Open-Sources Drex Max v1: A 27B Decision Model That Runs Locally on Apple Silicon",
@@ -19,7 +68,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-01T08:50:29.664Z",
+      "fetchedAt": "2026-11-01T16:36:34.779Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +84,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-11-01T08:50:17.041Z",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +100,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-11-01T08:50:17.041Z",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
       "tags": [
         "综合"
       ]
@@ -67,9 +116,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-01T08:50:29.664Z",
+      "fetchedAt": "2026-11-01T16:36:34.779Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "极氪10月交付同比增长51.6%，“海外最贵中国车”9X首销售罄",
+      "link": "https://www.leiphone.com/category/transportation/oDbG4KXJpt7KOOqy.html",
+      "snippet": "11月1日，极氪公布销量数据：10月交付新车32483辆，同比增长51.6%，1-10月交付超32万辆，同比增94.4%，平均客单价近37万元，已完成年度30万辆销售目标，是主流车企中量价齐升且唯一提前超额完成全年目标的品牌。其中，极氪7X连续4个月月销过万。同时，旗舰车型极氪9X在国内的热销也为海",
+      "pubDate": "Sun, 01 Nov 2026 15:13:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -83,7 +148,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.019Z",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +164,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.019Z",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +180,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-11-01T08:50:17.041Z",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
       "tags": [
         "开源工具"
       ]
@@ -131,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +228,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "政策监管"
       ]
@@ -179,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "商业融资"
       ]
@@ -195,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
+      "fetchedAt": "2026-11-01T16:36:32.633Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +276,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-11-01T08:50:17.041Z",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
       "tags": [
         "开源工具"
       ]
@@ -227,7 +292,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-01T08:50:29.664Z",
+      "fetchedAt": "2026-11-01T16:36:34.779Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +308,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-01T08:50:29.664Z",
+      "fetchedAt": "2026-11-01T16:36:34.779Z",
       "tags": [
         "AI应用"
       ]
@@ -259,7 +324,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.019Z",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
       "tags": [
         "大模型"
       ]
@@ -275,7 +340,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-11-01T08:50:17.041Z",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +356,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-11-01T08:50:17.041Z",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +372,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-11-01T08:50:17.041Z",
+      "fetchedAt": "2026-11-01T16:36:25.395Z",
       "tags": [
         "大模型"
       ]
@@ -323,9 +388,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.019Z",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "商汤开源 SenseNova Loop-9B-Preview：探索以计算深度释放模型潜力",
+      "link": "https://www.leiphone.com/category/industrynews/f9tAHG0kPopK1Nnw.html",
+      "snippet": "商汤开源日日新 SenseNova Loop-9B-Preview。这是商汤面向下一代模型架构的一项前沿探索：它采用创新  Looped Transformer 架构，引入循环计算、扩展模型的有效计算深度，并探索更充分的信息交互机制，提升模型在复杂任务上的处理能力，在仅 9B 的有限参数规模下，媲美",
+      "pubDate": "Sat, 31 Oct 2026 10:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -339,7 +420,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "综合"
       ]
@@ -355,7 +436,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "政策监管"
       ]
@@ -371,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.019Z",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -388,7 +469,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
+      "fetchedAt": "2026-11-01T16:36:32.633Z",
       "tags": [
         "AI应用"
       ]
@@ -404,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "政策监管"
       ]
@@ -420,7 +501,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "商业融资"
       ]
@@ -436,7 +517,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-01T08:50:28.851Z",
+      "fetchedAt": "2026-11-01T16:36:33.802Z",
       "tags": [
         "综合"
       ]
@@ -452,7 +533,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "综合"
       ]
@@ -468,7 +549,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "商业融资"
       ]
@@ -484,7 +565,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-11-01T08:50:28.851Z",
+      "fetchedAt": "2026-11-01T16:36:33.802Z",
       "tags": [
         "综合"
       ]
@@ -500,7 +581,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
+      "fetchedAt": "2026-11-01T16:36:32.633Z",
       "tags": [
         "综合"
       ]
@@ -516,7 +597,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nate Anderson\n                ",
-      "fetchedAt": "2026-11-01T08:50:28.851Z",
+      "fetchedAt": "2026-11-01T16:36:33.802Z",
       "tags": [
         "综合"
       ]
@@ -532,7 +613,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
+      "fetchedAt": "2026-11-01T16:36:32.633Z",
       "tags": [
         "开源工具"
       ]
@@ -548,7 +629,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-11-01T08:50:28.851Z",
+      "fetchedAt": "2026-11-01T16:36:33.802Z",
       "tags": [
         "综合"
       ]
@@ -564,7 +645,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
+      "fetchedAt": "2026-11-01T16:36:32.633Z",
       "tags": [
         "综合"
       ]
@@ -580,7 +661,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-01T08:50:29.664Z",
+      "fetchedAt": "2026-11-01T16:36:34.779Z",
       "tags": [
         "AI应用"
       ]
@@ -596,7 +677,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "综合"
       ]
@@ -612,7 +693,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Nick Indge\n                ",
-      "fetchedAt": "2026-11-01T08:50:28.851Z",
+      "fetchedAt": "2026-11-01T16:36:33.802Z",
       "tags": [
         "AI应用"
       ]
@@ -628,7 +709,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
+      "fetchedAt": "2026-11-01T16:36:32.633Z",
       "tags": [
         "综合"
       ]
@@ -644,7 +725,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-01T08:50:29.664Z",
+      "fetchedAt": "2026-11-01T16:36:34.779Z",
       "tags": [
         "大模型"
       ]
@@ -660,7 +741,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "综合"
       ]
@@ -676,7 +757,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-11-01T08:50:28.851Z",
+      "fetchedAt": "2026-11-01T16:36:33.802Z",
       "tags": [
         "AI应用"
       ]
@@ -692,7 +773,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:32.287Z",
       "tags": [
         "开源工具"
       ]
@@ -708,7 +789,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
+      "fetchedAt": "2026-11-01T16:36:32.633Z",
       "tags": [
         "AI应用"
       ]
@@ -724,87 +805,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.019Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-      "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-      "snippet": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those con",
-      "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-      "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-      "snippet": "DoorDash said that it is open to working with third-party agent makers.",
-      "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Silicon Valley wants you to invest in miracles",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "snippet": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a",
-      "pubDate": "2026-10-30T13:11:05.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "snippet": "After months of bombarding mathematicians  with a relentless stream of AI-generated results, OpenAI CEO Sam Altman says he sympathizes with researcher",
-      "pubDate": "2026-10-30T13:01:14.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-01T08:50:27.577Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-      "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-      "snippet": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-      "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "TechCrunch Events",
-      "fetchedAt": "2026-11-01T08:50:27.280Z",
+      "fetchedAt": "2026-11-01T16:36:31.944Z",
       "tags": [
         "综合"
       ]
