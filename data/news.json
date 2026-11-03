@@ -1,25 +1,121 @@
 {
-  "generatedAt": "2026-11-02T20:04:36.609Z",
+  "generatedAt": "2026-11-03T02:20:58.259Z",
   "stats": {
-    "total": 114,
+    "total": 113,
     "shown": 50,
     "chinese": 30,
-    "english": 84,
-    "today": 45
+    "english": 83,
+    "today": 3
   },
   "articles": [
     {
       "id": "dGVjaGNydW5jaC1h",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "snippet": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "pubDate": "Tue, 03 Nov 2026 01:49:52 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "The Letter Company Releases Letterpress-1: A Coding Agent Built for Growth Engineering",
+      "link": "https://www.marktechpost.com/2026/11/02/letter-letterpress-1-growth-engineering-coding-agent/",
+      "snippet": "Letter has released the beta of Letterpress-1, a coding agent, harness and IDE for growth engineering. It reads a git-based site and its market, then",
+      "pubDate": "Tue, 03 Nov 2026 00:43:03 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-03T02:11:07.410Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "snippet": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be worki",
+      "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "snippet": "The one-year-old startup is now valued at $300 million.",
+      "pubDate": "Mon, 02 Nov 2026 23:13:53 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Marina Temkin",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+      "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+      "snippet": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI repres",
+      "pubDate": "Mon, 02 Nov 2026 22:14:50 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Web host Squarespace lays off 19% of its employees",
+      "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+      "snippet": "The website builder said that the job losses are part of a broader restructuring of its organization.",
+      "pubDate": "Mon, 02 Nov 2026 19:25:59 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
       "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
       "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-      "snippet": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it t",
+      "snippet": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distribut",
       "pubDate": "Mon, 02 Nov 2026 19:19:17 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-11-02T20:00:02.593Z",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
       "tags": [
         "政策监管",
         "开源工具"
@@ -29,14 +125,14 @@
       "id": "dGhldmVyZ2UtYWk6",
       "title": "Anthropic clamps down on Claude’s AI video game clones",
       "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "snippet": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardwa",
+      "snippet": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to re-create existing video games, as reported by Tom's Hardw",
       "pubDate": "2026-11-02T18:56:02.000Z",
       "sourceName": "The Verge",
       "sourceId": "theverge-ai",
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.845Z",
+      "fetchedAt": "2026-11-03T02:11:05.822Z",
       "tags": [
         "大模型"
       ]
@@ -52,7 +148,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-02T20:00:04.602Z",
+      "fetchedAt": "2026-11-03T02:11:07.410Z",
       "tags": [
         "AI应用"
       ]
@@ -68,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-02T20:00:03.860Z",
+      "fetchedAt": "2026-11-03T02:11:06.705Z",
       "tags": [
         "AI应用"
       ]
@@ -84,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-11-02T20:00:03.860Z",
+      "fetchedAt": "2026-11-03T02:11:06.705Z",
       "tags": [
         "大模型"
       ]
@@ -100,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.845Z",
+      "fetchedAt": "2026-11-03T02:11:05.822Z",
       "tags": [
         "综合"
       ]
@@ -116,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.845Z",
+      "fetchedAt": "2026-11-03T02:11:05.822Z",
       "tags": [
         "政策监管"
       ]
@@ -132,7 +228,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-11-02T20:00:03.101Z",
+      "fetchedAt": "2026-11-03T02:11:06.056Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-11-02T20:00:02.593Z",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
       "tags": [
         "综合"
       ]
@@ -164,9 +260,25 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-02T20:00:02.593Z",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Scaling Git at OpenAI",
+      "link": "https://openai.com/index/scaling-git-at-openai",
+      "snippet": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "pubDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-03T02:11:07.095Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -180,7 +292,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-02T20:00:02.593Z",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +308,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:04.274Z",
+      "fetchedAt": "2026-11-03T02:11:07.095Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +324,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "TechCrunch Events",
-      "fetchedAt": "2026-11-02T20:00:02.593Z",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
       "tags": [
         "AI应用"
       ]
@@ -228,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-02T20:00:02.593Z",
+      "fetchedAt": "2026-11-03T02:11:05.518Z",
       "tags": [
         "大模型"
       ]
@@ -244,7 +356,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "十三",
-      "fetchedAt": "2026-11-02T19:59:54.925Z",
+      "fetchedAt": "2026-11-03T02:11:00.598Z",
       "tags": [
         "开源工具"
       ]
@@ -260,7 +372,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "商业融资"
       ]
@@ -276,7 +388,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Affan Syed",
-      "fetchedAt": "2026-11-02T20:00:03.101Z",
+      "fetchedAt": "2026-11-03T02:11:06.056Z",
       "tags": [
         "综合"
       ]
@@ -292,7 +404,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-02T20:00:03.101Z",
+      "fetchedAt": "2026-11-03T02:11:06.056Z",
       "tags": [
         "综合"
       ]
@@ -308,7 +420,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +436,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "商业融资"
       ]
@@ -340,7 +452,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "大模型"
       ]
@@ -356,7 +468,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "AI应用"
       ]
@@ -372,7 +484,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -389,7 +501,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-11-02T20:00:03.101Z",
+      "fetchedAt": "2026-11-03T02:11:06.056Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "AI应用"
       ]
@@ -421,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -438,7 +550,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:04.274Z",
+      "fetchedAt": "2026-11-03T02:11:07.095Z",
       "tags": [
         "政策监管"
       ]
@@ -454,7 +566,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "AI应用"
       ]
@@ -470,7 +582,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "商业融资"
       ]
@@ -486,7 +598,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "商业融资"
       ]
@@ -502,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -519,7 +631,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-02T19:59:54.925Z",
+      "fetchedAt": "2026-11-03T02:11:00.598Z",
       "tags": [
         "AI应用"
       ]
@@ -535,7 +647,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-02T20:00:04.602Z",
+      "fetchedAt": "2026-11-03T02:11:07.410Z",
       "tags": [
         "AI应用"
       ]
@@ -551,7 +663,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-02T20:00:04.602Z",
+      "fetchedAt": "2026-11-03T02:11:07.410Z",
       "tags": [
         "AI应用"
       ]
@@ -567,7 +679,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-11-02T19:59:54.925Z",
+      "fetchedAt": "2026-11-03T02:11:00.599Z",
       "tags": [
         "大模型"
       ]
@@ -583,7 +695,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "大模型"
       ]
@@ -599,7 +711,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "AI应用"
       ]
@@ -615,7 +727,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "AI应用"
       ]
@@ -631,7 +743,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-11-02T19:59:54.925Z",
+      "fetchedAt": "2026-11-03T02:11:00.599Z",
       "tags": [
         "商业融资"
       ]
@@ -647,7 +759,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "综合"
       ]
@@ -663,7 +775,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-11-02T19:59:54.925Z",
+      "fetchedAt": "2026-11-03T02:11:00.599Z",
       "tags": [
         "开源工具"
       ]
@@ -679,7 +791,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
+      "fetchedAt": "2026-11-03T02:11:05.239Z",
       "tags": [
         "综合"
       ]
@@ -695,123 +807,10 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦晨",
-      "fetchedAt": "2026-11-02T19:59:54.925Z",
+      "fetchedAt": "2026-11-03T02:11:00.599Z",
       "tags": [
         "大模型",
         "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "2026 全球 AI 新云 NeoCloud：考验基本功的时候到了",
-      "link": "https://www.leiphone.com/category/industrynews/uZRzXBZy6pdl88Uf.html",
-      "snippet": "10月19日，一张全球AI新云（NeoCloud）产业图谱引发行业关注。 CoreWeave、Nebius以GPU云服务为核心；Lambda、Together AI与九章云极 DataCanvas则在算力供给之上，跨入“训练・推理・Token工厂”交叉赛道；AI 工程与AIDC运营，则作为底层底座贯",
-      "pubDate": "Mon, 02 Nov 2026 09:54:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Qodo builds context into AI code review with Codex",
-      "link": "https://openai.com/index/qodo-codex-plugin",
-      "snippet": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
-      "pubDate": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-02T20:00:04.274Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "snippet": "Data centers are deeply unpopular. But what if we called them something else?",
-      "pubDate": "Sun, 01 Nov 2026 21:55:23 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-02T20:00:02.593Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "snippet": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
-      "pubDate": "Sun, 01 Nov 2026 20:57:58 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-02T20:00:02.593Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
-      "link": "https://www.qbitai.com/2026/11/507076.html",
-      "snippet": "西湖世界模型研究中心成立",
-      "pubDate": "Sun, 01 Nov 2026 13:28:10 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-11-02T19:59:54.925Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "link": "https://www.qbitai.com/2026/11/507038.html",
-      "snippet": "",
-      "pubDate": "Sun, 01 Nov 2026 13:09:55 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "林, 方舟",
-      "fetchedAt": "2026-11-02T19:59:54.925Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "Pika 基于 MiniMax H3 开源 H3 Flex，六步实现音视频联合生成",
-      "link": "https://www.leiphone.com/category/industrynews/MK1z0js4sqcp1xca.html",
-      "snippet": "近日，Pika 发布 MiniMax H3 衍生模型 Pika H3 Flex，并开放适配器权重与推理代码。该模型通过六步去噪联合生成画面和声音，支持文本、首尾帧和多模态参考输入，供创作者进行镜头设计、参考生成和视频编辑。      本次发布包含两套 LoRA 适配器，分别用于文本及首尾帧条件生成、",
-      "pubDate": "Sun, 01 Nov 2026 17:46:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-02T20:00:02.351Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
       ]
     }
   ]
