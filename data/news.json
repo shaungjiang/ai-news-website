@@ -1,13 +1,317 @@
 {
-  "generatedAt": "2026-11-06T11:59:12.160Z",
+  "generatedAt": "2026-11-06T19:05:40.066Z",
   "stats": {
-    "total": 117,
+    "total": 118,
     "shown": 50,
     "chinese": 30,
-    "english": 87,
-    "today": 27
+    "english": 88,
+    "today": 47
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacki",
+      "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Zack Whittaker",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Lucas Ropek",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "snippet": "Meta will now allow you to build customized, app-like experiences within its Muse AI assistant. The new feature, called \"spaces,\" allows Muse to build",
+      "pubDate": "2026-11-06T18:10:10.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "How a Blue Wave midterm might reshape the AI industry",
+      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
+      "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related",
+      "pubDate": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
+      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
+      "snippet": "Meta won't force Facebook page owners to allow AI training on linked content.",
+      "pubDate": "Fri, 06 Nov 2026 17:43:02 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-11-06T18:58:59.642Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
+      "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
+      "snippet": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-",
+      "pubDate": "Fri, 06 Nov 2026 17:28:04 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-06T18:59:00.528Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "After the midterms, is the AI industry in for a rough two years?",
+      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related",
+      "pubDate": "Fri, 06 Nov 2026 17:23:52 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Theresa Loconsolo, Anthony Ha",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "AI is the new dating dealbreaker",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "snippet": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her new city, and connect with oth",
+      "pubDate": "2026-11-06T17:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Big Tech lost big in the 2026 election",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "snippet": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about t",
+      "pubDate": "2026-11-06T16:38:02.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "snippet": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge,",
+      "pubDate": "2026-11-06T16:34:39.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Could potential AI clones of GTA VI force a quicker official port?",
+      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
+      "snippet": "A former Rockstar tech director thinks the developer is facing new time pressures.",
+      "pubDate": "Fri, 06 Nov 2026 16:19:12 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-11-06T18:58:59.642Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+      "snippet": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumption",
+      "pubDate": "Fri, 06 Nov 2026 15:54:47 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "snippet": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "pubDate": "Fri, 06 Nov 2026 14:10:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Amazon will let you text Alexa your shopping list",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "snippet": "Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe",
+      "pubDate": "2026-11-06T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a",
+      "pubDate": "Fri, 06 Nov 2026 13:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-11-06T18:58:58.904Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Underdog shows off a 32MB speech model in new demo",
+      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+      "snippet": "Despite its small size, Underdog's new model can generate both speech and music.",
+      "pubDate": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Physicl raises $10M to make the digital world real enough for robots",
+      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+      "snippet": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
+      "pubDate": "Fri, 06 Nov 2026 13:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Protesters break into Microsoft data center site in Amsterdam",
+      "link": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+      "snippet": "Members of the action group Geef Tegengas put a banner on a crane during a protest. | Image: Getty Images\t  Protesters have broken into a construction",
+      "pubDate": "2026-11-06T11:55:19.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "创始人操纵股价罚没4047万，倍轻松再难「轻松」",
+      "link": "https://www.leiphone.com/category/weiwu/dpUYWHZif8UtQpLA.html",
+      "snippet": "常坐飞机的人，多半在机场见过一家叫“倍轻松”的店，它2021年上市，号称“健康智能硬件第一股”。 11月4日晚，这家公司的创始人马学军，等到了证监会那张悬了一年多的罚单：因联合6名当事人操纵自家股票，罚没合计4047.31万元，证券市场禁入5年，禁止交易5年。同日，他辞去董事、董事长、总经理等全部职",
+      "pubDate": "Fri, 06 Nov 2026 18:37:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "bWl0LXRyOmh0dHBz",
       "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -19,7 +323,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-11-06T11:52:30.998Z",
+      "fetchedAt": "2026-11-06T18:58:58.904Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +339,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "政策监管"
       ]
@@ -51,9 +355,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "link": "https://openai.com/index/partnering-with-hacktron",
+      "snippet": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-06T18:59:00.127Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -67,7 +387,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +403,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "学术研究"
       ]
@@ -99,7 +419,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +435,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "学术研究"
       ]
@@ -131,7 +451,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-11-06T11:52:23.410Z",
+      "fetchedAt": "2026-11-06T18:58:53.519Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +467,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "梦瑶",
-      "fetchedAt": "2026-11-06T11:52:23.410Z",
+      "fetchedAt": "2026-11-06T18:58:53.519Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +483,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-06T11:52:23.410Z",
+      "fetchedAt": "2026-11-06T18:58:53.519Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +499,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +515,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-11-06T11:52:30.352Z",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
       "tags": [
         "商业融资"
       ]
@@ -211,7 +531,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-11-06T11:52:23.410Z",
+      "fetchedAt": "2026-11-06T18:58:53.519Z",
       "tags": [
         "政策监管"
       ]
@@ -227,7 +547,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-06T11:52:32.508Z",
+      "fetchedAt": "2026-11-06T18:59:00.528Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +563,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-06T11:52:23.410Z",
+      "fetchedAt": "2026-11-06T18:58:53.519Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +579,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +595,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "商业融资"
       ]
@@ -291,7 +611,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-11-06T11:52:23.410Z",
+      "fetchedAt": "2026-11-06T18:58:53.519Z",
       "tags": [
         "综合"
       ]
@@ -307,7 +627,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "商业融资"
       ]
@@ -323,7 +643,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -340,7 +660,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -357,7 +677,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "商业融资"
       ]
@@ -373,7 +693,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "商业融资"
       ]
@@ -389,7 +709,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-06T11:52:23.410Z",
+      "fetchedAt": "2026-11-06T18:58:53.519Z",
       "tags": [
         "开源工具"
       ]
@@ -405,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.070Z",
+      "fetchedAt": "2026-11-06T18:58:57.961Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -422,7 +742,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +758,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +774,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-06T11:52:32.508Z",
+      "fetchedAt": "2026-11-06T18:59:00.528Z",
       "tags": [
         "大模型"
       ]
@@ -470,7 +790,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-06T11:52:30.352Z",
+      "fetchedAt": "2026-11-06T18:58:58.239Z",
       "tags": [
         "AI应用"
       ]
@@ -486,330 +806,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
+      "fetchedAt": "2026-11-06T18:58:58.558Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
-      "link": "https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/",
-      "snippet": "Google is technically offering schools more choice but not the choices anyone wants.",
-      "pubDate": "Thu, 05 Nov 2026 21:40:36 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-11-06T11:52:31.715Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/",
-      "snippet": "Bitter energy drinks turned out to be ChatGPT-steered poisoning, lawsuit says.",
-      "pubDate": "Thu, 05 Nov 2026 21:39:40 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-11-06T11:52:31.715Z",
-      "tags": [
-        "大模型",
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
-      "link": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
-      "snippet": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid",
-      "pubDate": "Thu, 05 Nov 2026 21:33:00 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-06T11:52:32.508Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "link": "https://openai.com/index/cultfit-builds-with-codex",
-      "snippet": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "pubDate": "Thu, 05 Nov 2026 20:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:32.184Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "snippet": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life",
-      "pubDate": "Thu, 05 Nov 2026 19:48:28 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-06T11:52:30.353Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "snippet": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastruc",
-      "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-06T11:52:30.353Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "snippet": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-      "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-06T11:52:30.353Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Muse has a voice mode now",
-      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "snippet": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out",
-      "pubDate": "2026-11-05T19:03:04.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "snippet": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market,",
-      "pubDate": "Thu, 05 Nov 2026 18:02:27 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-06T11:52:30.353Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "snippet": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-06T11:52:30.353Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Claude AI can plug directly into your bank account",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "snippet": "Anthropic has a new pitch for managing your personal finances: let Claude do it instead, with a new Personal Finance feature that connects it to your",
-      "pubDate": "2026-11-05T18:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "‘Total repudiation’: The blue wave is about to hit AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "snippet": "On Tuesday night, Democrats made history as they took control of the House and the Senate, and a blue wave swept through traditionally red and swing s",
-      "pubDate": "2026-11-05T17:51:52.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Grimes is going to star in an AI movie that’s coming to theaters",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "snippet": "The AI-generated sci-fi film Gods Don't Give Gifts has added a bit of star power: Pop star Grimes is going to appear in the movie. Billed as \"the firs",
-      "pubDate": "2026-11-05T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI says its new cybersecurity model is better at not hacking other companies",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "snippet": "OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI model, which it says is better at finding vulnerabilities and less likely",
-      "pubDate": "2026-11-05T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Australian universities are creating AI-native graduates",
-      "link": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "snippet": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
-      "pubDate": "Thu, 05 Nov 2026 17:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:32.183Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Axiom Math wants to keep AI slop out of mathematics",
-      "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-      "snippet": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one",
-      "pubDate": "Thu, 05 Nov 2026 16:16:45 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aditya Mehta",
-      "fetchedAt": "2026-11-06T11:52:30.353Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-      "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-      "snippet": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-      "pubDate": "Thu, 05 Nov 2026 15:19:05 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-11-06T11:52:30.353Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The hidden supply chain costs of the AI boom",
-      "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-      "snippet": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book,",
-      "pubDate": "2026-11-05T15:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-      "snippet": "BERLIN, GERMANY - JANUARY 16: In this photo illustration the logo of the music streaming service SoundCloud is displayed on a smartphone on January 16",
-      "pubDate": "2026-11-05T15:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-06T11:52:30.689Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Aina’s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
-      "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "snippet": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-      "pubDate": "Thu, 05 Nov 2026 14:42:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-06T11:52:30.353Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
