@@ -1,13 +1,93 @@
 {
-  "generatedAt": "2026-11-05T21:54:29.488Z",
+  "generatedAt": "2026-11-06T02:04:47.113Z",
   "stats": {
-    "total": 114,
+    "total": 98,
     "shown": 50,
-    "chinese": 29,
-    "english": 85,
-    "today": 52
+    "chinese": 10,
+    "english": 88,
+    "today": 2
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "snippet": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to c",
+      "pubDate": "2026-11-06T00:37:56.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Airbnb is working on an AI travel agent",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "snippet": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings sha",
+      "pubDate": "2026-11-06T00:06:12.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
+      "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
+      "snippet": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% p",
+      "pubDate": "Thu, 05 Nov 2026 22:58:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-06T02:00:26.833Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "snippet": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles w",
+      "pubDate": "2026-11-05T22:26:50.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "YXJzdGVjaG5pY2Et",
       "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
@@ -19,7 +99,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-11-05T21:47:49.088Z",
+      "fetchedAt": "2026-11-06T02:00:26.006Z",
       "tags": [
         "大模型"
       ]
@@ -35,10 +115,42 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-11-05T21:47:49.088Z",
+      "fetchedAt": "2026-11-06T02:00:26.006Z",
       "tags": [
         "大模型",
         "政策监管"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Baidu Releases ERNIE 5.5 Flash Base: A 280B MoE Base Model With 14B Active Parameters",
+      "link": "https://www.marktechpost.com/2026/11/05/baidu-ernie-5-5-flash-base-280b-moe/",
+      "snippet": "Baidu has released ERNIE 5.5 Flash Base, a 280B sparse MoE base model with 14B active parameters, trained on 33.5T tokens and published before any mid",
+      "pubDate": "Thu, 05 Nov 2026 21:33:00 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-06T02:00:26.833Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "link": "https://openai.com/index/cultfit-builds-with-codex",
+      "snippet": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-06T02:00:26.538Z",
+      "tags": [
+        "开源工具"
       ]
     },
     {
@@ -52,7 +164,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "AI应用"
       ]
@@ -68,7 +180,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "综合"
       ]
@@ -84,7 +196,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "AI应用"
       ]
@@ -100,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:48.121Z",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
       "tags": [
         "AI应用"
       ]
@@ -109,16 +221,16 @@
       "id": "dGVjaGNydW5jaC1h",
       "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
       "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "snippet": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in i",
+      "snippet": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market,",
       "pubDate": "Thu, 05 Nov 2026 18:02:27 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
-        "商业融资"
+        "学术研究"
       ]
     },
     {
@@ -132,7 +244,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "大模型"
       ]
@@ -148,7 +260,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:48.121Z",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
       "tags": [
         "大模型"
       ]
@@ -164,7 +276,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:48.121Z",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +292,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:48.121Z",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
       "tags": [
         "AI应用"
       ]
@@ -196,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:48.121Z",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
       "tags": [
         "大模型"
       ]
@@ -212,7 +324,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aditya Mehta",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "商业融资"
       ]
@@ -228,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "综合"
       ]
@@ -244,7 +356,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:48.121Z",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
       "tags": [
         "综合"
       ]
@@ -260,7 +372,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:48.121Z",
+      "fetchedAt": "2026-11-06T02:00:25.001Z",
       "tags": [
         "综合"
       ]
@@ -276,7 +388,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "综合"
       ]
@@ -292,25 +404,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "累计发货量突破100万台！鸿蒙电脑厚积薄发，持续拓展桌面应用生态",
-      "link": "https://www.leiphone.com/category/industrynews/6igykQlGwvA6vyCV.html",
-      "snippet": "全球桌面操作系统市场格局已固化数十年。面对极高的生态壁垒，传统替代型系统往往困于“特定场景可用、大众市场难推”的瓶颈，难以实现规模化商业闭环。在11月5日启幕的2026鸿蒙办公产业峰会上，一个数字非常亮眼，截至2026年10月，鸿蒙电脑累计发货量突破100万台。  华为终端BG平板与PC产品线总裁朱",
-      "pubDate": "Thu, 05 Nov 2026 21:48:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -324,7 +420,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-05T21:47:48.380Z",
+      "fetchedAt": "2026-11-06T02:00:25.243Z",
       "tags": [
         "政策监管"
       ]
@@ -340,7 +436,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "商业融资"
       ]
@@ -356,7 +452,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-05T21:47:49.088Z",
+      "fetchedAt": "2026-11-06T02:00:26.006Z",
       "tags": [
         "综合"
       ]
@@ -372,39 +468,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "李彦宏百度世界2026演讲海报曝光，或分享智能组织进化新思考",
-      "link": "https://www.leiphone.com/category/industrynews/49uolfG855V4Zc9M.html",
-      "snippet": "11月4日，百度官方发布了一则百度世界2026大会预热海报，提前透露了百度创始人李彦宏将于11月12日在大会开幕式上发表主题演讲的相关线索。   海报中的三个问题引人关注：“什么是AI时代的新厂房？”“组织进化三原则是哪些？”“智能组织将迎来的三大机会是什么？” 结合本届大会“下一幕，智能组织”的主",
-      "pubDate": "Thu, 05 Nov 2026 19:26:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Big Tech’s big AI buildout will not end until someone stops it",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-      "snippet": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spendin",
-      "pubDate": "2026-11-05T10:45:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:48.121Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "综合"
       ]
@@ -420,25 +484,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-11-05T21:47:48.380Z",
+      "fetchedAt": "2026-11-06T02:00:25.243Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "从卖配置到铺自研技术，理想i6的第二年",
-      "link": "https://www.leiphone.com/category/transportation/rQrb2B1pDwOfnMlg.html",
-      "snippet": "上市一年、累计销量近19万辆之后，理想给i6提出了一个更大的目标。 “我们希望理想i6成为理想汽车在全球销量最高的一款车。”理想汽车董事长兼CEO李想在新车发布时表示。 10月28日，2026款理想i6正式发布，全国统一零售价24.98万元，首销期限时权益价23.98万元，同步开启试驾、定购与交付。",
-      "pubDate": "Thu, 05 Nov 2026 17:13:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -452,7 +500,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:49.524Z",
+      "fetchedAt": "2026-11-06T02:00:26.538Z",
       "tags": [
         "大模型"
       ]
@@ -468,8 +516,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-05T21:47:49.849Z",
+      "fetchedAt": "2026-11-06T02:00:26.833Z",
       "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "link": "https://openai.com/index/merge-builds-with-openai",
+      "snippet": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare s",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-06T02:00:26.538Z",
+      "tags": [
+        "大模型",
         "AI应用"
       ]
     },
@@ -484,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-05T21:47:43.472Z",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
       "tags": [
         "开源工具"
       ]
@@ -500,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-11-05T21:47:43.472Z",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
       "tags": [
         "综合"
       ]
@@ -516,74 +581,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-05T21:47:49.849Z",
+      "fetchedAt": "2026-11-06T02:00:26.833Z",
       "tags": [
         "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "挖走 Claude Code 产品负责人 Cat Wu，OpenAI 直击 Anthropic 上市命门",
-      "link": "https://www.leiphone.com/category/yanxishe/iIUJoulGndesZear.html",
-      "snippet": "人、基建落位，OpenAI 押注团队 Agent。          作者丨高允毅      编辑丨岑   峰",
-      "pubDate": "Thu, 05 Nov 2026 15:01:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "91% ≈ 0%？谷歌最新研究，戳破工程 Agent 的高正确率泡沫",
-      "link": "https://www.leiphone.com/category/ai/YZ0bP2vh94KY45RG.html",
-      "snippet": "41.3% 的设计项跨过安全门槛，复杂工程仍困于约束耦合。          作者丨郑佳美 岑   峰      编辑丨岑   峰",
-      "pubDate": "Thu, 05 Nov 2026 13:51:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "政策监管",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "更强的模型之外，ACM MM 2026还在关注什么？",
-      "link": "https://www.leiphone.com/category/private/eQlbsTc2zonGxU4h.html",
-      "snippet": "模型能力的提升，正在与更具体的人、更复杂的环境和更长远的影响结合。          作者丨张璐      编辑丨张驰",
-      "pubDate": "Thu, 05 Nov 2026 13:47:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "上海交大邓志杰：扩散语言模型，怎样才能又快又好",
-      "link": "https://www.leiphone.com/category/private/T9k5sQixxLljsoH7.html",
-      "snippet": "从基础路线到系统优化，讲解如何将并行潜力，转化为实际速度。          作者丨张璐      编辑丨张驰",
-      "pubDate": "Thu, 05 Nov 2026 13:44:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
         "大模型"
       ]
     },
@@ -598,7 +598,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-05T21:47:49.849Z",
+      "fetchedAt": "2026-11-06T02:00:26.833Z",
       "tags": [
         "AI应用"
       ]
@@ -614,7 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-05T21:47:43.472Z",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
       "tags": [
         "AI应用"
       ]
@@ -630,74 +630,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-11-05T21:47:43.472Z",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "清洁机器人出海患上「三高」：高库存、高税率、高门槛",
-      "link": "https://www.leiphone.com/category/weiwu/DGcLJU9RgJPPzGhP.html",
-      "snippet": "01 墙 “北美市场不搞了。老品接着卖，新品没有了。” 一位传感器企业负责人周铭最近拜访一家头部智能硬件公司时，对方如此表态。据他观察，几家清洁电器头部企业的新品规划，也都在往欧洲、澳洲挪。 让厂商按下暂停键的，是7月28日的一纸清单。美国联邦通信委员会（FCC）把“外国生产的先进机器人设备”列入受",
-      "pubDate": "Thu, 05 Nov 2026 11:58:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "2000万人用灵光，灵光2.0上线一周托管超116万项事务",
-      "link": "https://www.leiphone.com/category/industrynews/rJ5oXEPsUlwSPneA.html",
-      "snippet": "11月5日消息，蚂蚁集团旗下AI助手灵光公布最新数据：自今年10月27日灵光2.0上线，一周内已帮助用户管理超116万项事务，执行超360万次任务。随着AI从“回答问题”走向“持续管事”，能主动帮用户管理日常事务的个人AI助理，正加速进入实际生活场景。目前，灵光用户已突破2000万。  10月27日",
-      "pubDate": "Thu, 05 Nov 2026 11:51:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "世界模型热潮里，百度重新亮出无人驾驶底牌",
-      "link": "https://www.leiphone.com/category/transportation/d85n0vUzY4Df9bd2.html",
-      "snippet": "10月17日，上海徐浦大桥上发生了一起令人揪心的事故，一辆平板货车先撞上了一辆白色小客车，然后车子驶入对向车道，又接连撞了4辆车，事故造成了1死2伤。 事故过后，网络上涌现了很多对于事故全过程的还原和讨论。如果白色小客车没有违规变道，或者货车早点刹车，结果会不会不同？ 现实世界中，人们从亲历的险情、",
-      "pubDate": "Thu, 05 Nov 2026 11:02:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "子公司把母公司告了！安世半导体起诉闻泰科技，索赔134亿元；中兴手机账号主体变更，将调整为上海申启纪元；腾讯混元正式发布Hy4",
-      "link": "https://www.leiphone.com/category/zaobao/uojoiQ2Owilfvr8B.html",
-      "snippet": "要闻提示      1.子公司把母公司告了！安世半导体索赔134亿元，闻泰科技强硬回击 2.中兴手机账号主体变更，将调整为上海申启纪元 3.腾讯混元发布最新一代大语言模型Hy4，跻身最强开源模型队列 4.iPhone系统天气Bug显示下周五-32℃，苹果客服致歉：系统端口问题 5.京东本地生活业务负",
-      "pubDate": "Thu, 05 Nov 2026 10:07:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "开源工具",
-        "大模型"
       ]
     },
     {
@@ -711,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-05T21:47:43.472Z",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
       "tags": [
         "AI应用"
       ]
@@ -727,7 +662,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-05T21:47:49.524Z",
+      "fetchedAt": "2026-11-06T02:00:26.538Z",
       "tags": [
         "政策监管"
       ]
@@ -743,25 +678,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "衡宇",
-      "fetchedAt": "2026-11-05T21:47:43.472Z",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "360亮相北大AI+X青年人才实践发展论坛，联合发布“AI原生人才标准”",
-      "link": "https://www.leiphone.com/category/industrynews/litxyBn8AmWERGUM.html",
-      "snippet": "近日，青年人才能力数字服务平台与北大青年AI+创新劳动实践平台发布暨AI+X青年人才实践发展论坛隆重举办。本次会议由中国技术交易所、北京大学信息科学技术学院联合主办，锚定AI时代青年人才培育、产教深度协同等创新方向，汇聚职上青云等共建伙伴、高校科研力量与产业生态资源，共寻智能浪潮下青年人才发展的创新",
-      "pubDate": "Thu, 05 Nov 2026 09:57:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-05T21:47:47.610Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -775,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-11-05T21:47:43.472Z",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
       "tags": [
         "综合"
       ]
@@ -791,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-05T21:47:43.472Z",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
       "tags": [
         "AI应用"
       ]
@@ -807,9 +726,90 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-05T21:47:47.858Z",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
       "tags": [
         "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "snippet": "Data center opposition crossed party lines in Tuesday’s midterms.",
+      "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Dominic-Madori Davis",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "link": "https://openai.com/ads/customers/flipsnack",
+      "snippet": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+      "pubDate": "Thu, 05 Nov 2026 00:45:15 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-06T02:00:26.538Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "link": "https://www.qbitai.com/2026/11/507675.html",
+      "snippet": "薪资+期权不限！实习生也能训核心模型",
+      "pubDate": "Thu, 05 Nov 2026 00:41:34 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "听雨",
+      "fetchedAt": "2026-11-06T02:00:14.811Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "link": "https://openai.com/index/franklin-templeton",
+      "snippet": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment",
+      "pubDate": "Thu, 05 Nov 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-06T02:00:26.538Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "snippet": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle",
+      "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-11-06T02:00:24.591Z",
+      "tags": [
+        "商业融资"
       ]
     }
   ]
