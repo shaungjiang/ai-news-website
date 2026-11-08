@@ -1,13 +1,110 @@
 {
-  "generatedAt": "2026-11-08T05:00:27.871Z",
+  "generatedAt": "2026-11-08T12:57:40.212Z",
   "stats": {
     "total": 115,
     "shown": 50,
     "chinese": 30,
     "english": 85,
-    "today": 0
+    "today": 6
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
+      "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
+      "snippet": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Re",
+      "pubDate": "Sun, 08 Nov 2026 10:46:18 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-08T12:53:19.144Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
+      "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
+      "snippet": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functio",
+      "pubDate": "Sun, 08 Nov 2026 10:27:27 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-08T12:53:19.144Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "终端侧AI：从单点应用走向智能体体验",
+      "link": "https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html",
+      "snippet": "发言人：高通公司AI产品技术中国区负责人 万卫星 2026年11月7日，上海   终端侧AI发展到了什么阶段？ 终端侧AI经过过去3至4年的发展，正在迎来一个比较重要的变化节点。 从应用来看，终端侧AI并不是从大模型开始的。影像其实是AI较早在终端落地的领域之一。近年来手机拍照效果不断提升，背后就有",
+      "pubDate": "Sun, 08 Nov 2026 15:54:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-08T12:53:16.965Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
+      "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
+      "snippet": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash rout",
+      "pubDate": "Sun, 08 Nov 2026 06:18:33 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-08T12:53:19.144Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
+      "link": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
+      "snippet": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while He",
+      "pubDate": "Sun, 08 Nov 2026 04:45:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-08T12:53:19.144Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "资本正在撤离“世界模型”",
+      "link": "https://www.qbitai.com/2026/11/508466.html",
+      "snippet": "没有永远的夏天",
+      "pubDate": "Sun, 08 Nov 2026 04:09:55 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-11-08T12:53:10.726Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
@@ -19,7 +116,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +132,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +148,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Sana Hassan",
-      "fetchedAt": "2026-11-08T04:53:48.236Z",
+      "fetchedAt": "2026-11-08T12:53:19.144Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +164,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +180,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +212,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "AI应用"
       ]
@@ -131,9 +228,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
+      "fetchedAt": "2026-11-08T12:53:16.965Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
+      "link": "https://www.qbitai.com/2026/11/508449.html",
+      "snippet": "AI写代码太快，基础设施跟不上了",
+      "pubDate": "Sat, 07 Nov 2026 09:38:56 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "听雨",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
+      "tags": [
+        "开源工具",
+        "商业融资"
       ]
     },
     {
@@ -147,9 +261,41 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-08T04:53:48.236Z",
+      "fetchedAt": "2026-11-08T12:53:19.144Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "link": "https://www.qbitai.com/2026/11/508344.html",
+      "snippet": "融资缩水，硅谷投资人也谨慎了",
+      "pubDate": "Sat, 07 Nov 2026 08:11:25 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "田, 晏林",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "link": "https://www.qbitai.com/2026/11/508330.html",
+      "snippet": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "pubDate": "Sat, 07 Nov 2026 07:59:28 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "田, 晏林",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -163,7 +309,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-11-08T04:53:39.370Z",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
       "tags": [
         "综合"
       ]
@@ -179,14 +325,14 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "cWJpdGFpOmh0dHBz",
-      "title": "",
+      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
       "link": "https://www.qbitai.com/2026/11/508236.html",
       "snippet": "中国版cosmos再交卷",
       "pubDate": "Sat, 07 Nov 2026 03:31:44 +0000",
@@ -195,7 +341,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
       "tags": [
         "综合"
       ]
@@ -211,7 +357,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
+      "fetchedAt": "2026-11-08T12:53:16.965Z",
       "tags": [
         "学术研究"
       ]
@@ -243,7 +389,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "综合"
       ]
@@ -259,7 +405,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "商业融资"
       ]
@@ -275,7 +421,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "综合"
       ]
@@ -291,7 +437,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "商业融资"
       ]
@@ -307,7 +453,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "综合"
       ]
@@ -323,7 +469,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "学术研究"
       ]
@@ -339,7 +485,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "AI应用"
       ]
@@ -355,7 +501,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "AI应用"
       ]
@@ -371,7 +517,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "综合"
       ]
@@ -387,7 +533,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-11-08T04:53:47.453Z",
+      "fetchedAt": "2026-11-08T12:53:18.373Z",
       "tags": [
         "政策监管"
       ]
@@ -403,7 +549,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-08T04:53:48.236Z",
+      "fetchedAt": "2026-11-08T12:53:19.144Z",
       "tags": [
         "AI应用"
       ]
@@ -419,7 +565,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "综合"
       ]
@@ -435,7 +581,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "AI应用"
       ]
@@ -451,7 +597,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:46.154Z",
+      "fetchedAt": "2026-11-08T12:53:17.502Z",
       "tags": [
         "商业融资"
       ]
@@ -467,7 +613,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-11-08T04:53:47.453Z",
+      "fetchedAt": "2026-11-08T12:53:18.373Z",
       "tags": [
         "综合"
       ]
@@ -483,7 +629,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "商业融资"
       ]
@@ -499,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "听雨",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
       "tags": [
         "综合"
       ]
@@ -515,7 +661,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "AI应用"
       ]
@@ -531,7 +677,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-08T04:53:46.538Z",
+      "fetchedAt": "2026-11-08T12:53:17.752Z",
       "tags": [
         "综合"
       ]
@@ -547,7 +693,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "综合"
       ]
@@ -563,7 +709,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-08T04:53:45.846Z",
+      "fetchedAt": "2026-11-08T12:53:17.235Z",
       "tags": [
         "商业融资"
       ]
@@ -579,7 +725,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
+      "fetchedAt": "2026-11-08T12:53:16.965Z",
       "tags": [
         "商业融资"
       ]
@@ -595,7 +741,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Grace Huckins",
-      "fetchedAt": "2026-11-08T04:53:46.538Z",
+      "fetchedAt": "2026-11-08T12:53:17.752Z",
       "tags": [
         "综合"
       ]
@@ -611,41 +757,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
+      "fetchedAt": "2026-11-08T12:53:10.727Z",
       "tags": [
         "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阶跃终端 STEPX Neo 智能体手机亮相进博会高通展台，软硬模一体打造智能体新体验",
-      "link": "https://www.qbitai.com/2026/11/508170.html",
-      "snippet": "阶跃终端旗下 STEPX Neo 智能体手机首次亮相",
-      "pubDate": "Fri, 06 Nov 2026 09:21:51 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "阿里巴巴发布《2026 AI向善行动报告》 AI数据中心可持续发展成年度亮点",
-      "link": "https://www.qbitai.com/2026/11/508165.html",
-      "snippet": "11月5日，阿里巴巴发布《2026 AI向善行动报告》",
-      "pubDate": "Fri, 06 Nov 2026 09:19:00 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -659,7 +773,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
+      "fetchedAt": "2026-11-08T12:53:16.965Z",
       "tags": [
         "政策监管"
       ]
@@ -675,7 +789,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
+      "fetchedAt": "2026-11-08T12:53:16.965Z",
       "tags": [
         "大模型"
       ]
@@ -691,121 +805,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-08T04:53:47.892Z",
+      "fetchedAt": "2026-11-08T12:53:18.826Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "李佳琦卖出万份Token，天猫的AI生意才刚开场",
-      "link": "https://www.leiphone.com/category/industrynews/h454rlPtg41JIuFd.html",
-      "snippet": "Token正在成为AI时代的“流量包”。（雷峰网雷峰网雷峰网） 11月2日晚，李佳琦直播间上架AI千问办公的Token算力，开播半小时，售出10万份千问办公个人会员月卡，累计约2万亿Token。 这次千问办公CEO陈宇森也来到直播间现场，雷峰网此前了解到，这位阿里最年轻的事业部CEO，业内普遍评价他",
-      "pubDate": "Fri, 06 Nov 2026 15:57:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "办了33年的ACM MM，重新划定研究范围",
-      "link": "https://www.leiphone.com/category/academic/XWkCJB9bbcRr9Ioe.html",
-      "snippet": "随着AI的发展，多媒体的研究边界在进一步拓宽。          作者丨张   驰      编辑丨马晓宁",
-      "pubDate": "Fri, 06 Nov 2026 15:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "上交大张伟楠教授：AI如何走出屏幕，真正改变物理世界？ | CNCC 2026",
-      "link": "https://www.leiphone.com/category/academic/TRS6Uqs5TY2MaUU4.html",
-      "snippet": "物理智能的核心挑战：让 AI 在充满不确定性、行动后果难以撤销的真实世界中，形成感知、预测、行动与持续学习的完整闭环。          作者丨张   驰      编辑丨马晓宁",
-      "pubDate": "Fri, 06 Nov 2026 15:25:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "CoRL 六年：论文数×4.5，谁在推着它涨？",
-      "link": "https://www.leiphone.com/category/academic/3fdO5oKaYZHXYOxI.html",
-      "snippet": "两强争霸，国内高校迅速崛起。          作者丨张   驰      编辑丨马晓宁",
-      "pubDate": "Fri, 06 Nov 2026 15:09:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
-      "link": "https://www.qbitai.com/2026/11/508155.html",
-      "snippet": "Q3营收实现数倍增长",
-      "pubDate": "Fri, 06 Nov 2026 07:00:29 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "link": "https://www.qbitai.com/2026/11/508118.html",
-      "snippet": "挑战商业视频的高难度场景",
-      "pubDate": "Fri, 06 Nov 2026 06:54:17 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦瑶",
-      "fetchedAt": "2026-11-08T04:53:39.371Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "申通快递和千问办公达成战略合作，推动物流服务智能化升级",
-      "link": "https://www.leiphone.com/category/industrynews/r82YrCccBHeqYIZv.html",
-      "snippet": "今日消息，申通快递与千问办公正式达成战略合作。双方将围绕快递核心场景打造 AI 办公体系，以Agent能力支撑申通快递全国网点的增长战略落地，推动AI从总部管理向末端网点规模化输出，加速物流服务智能化升级。申通快递总裁韩永彦与千问办公CEO陈宇森等共同见证签约。     图示 申通快递和千问办公战略",
-      "pubDate": "Fri, 06 Nov 2026 14:34:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-08T04:53:45.594Z",
-      "tags": [
-        "AI应用"
       ]
     }
   ]
