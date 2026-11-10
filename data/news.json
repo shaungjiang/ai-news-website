@@ -1,811 +1,815 @@
 {
-  "generatedAt": "2026-11-09T05:10:15.119Z",
+  "generatedAt": "2026-11-10T00:05:16.828Z",
   "stats": {
-    "total": 93,
+    "total": 109,
     "shown": 50,
-    "chinese": 10,
-    "english": 83,
+    "chinese": 27,
+    "english": 82,
     "today": 0
   },
   "articles": [
     {
       "id": "dGhldmVyZ2UtYWk6",
-      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "snippet": "Jensen Huang, chief executive officer of Nvidia Corp., attends a media briefing following the company's \"Japan AI Ecosystem\" reception in Tokyo, Japan",
-      "pubDate": "2026-11-08T22:54:50.000Z",
+      "title": "What could China get from Jensen Huang?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "snippet": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is",
+      "pubDate": "2026-11-09T23:51:58.000Z",
       "sourceName": "The Verge",
       "sourceId": "theverge-ai",
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "snippet": "Jensen Huang and President Trump. | Getty Images\t  President Trump held a White House press briefing earlier today and responded to several questions",
+      "pubDate": "2026-11-09T23:47:46.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "snippet": "In a memo to the company, Huang admitted that he had an affair.",
-      "pubDate": "Sun, 08 Nov 2026 21:00:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "snippet": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was repo",
-      "pubDate": "2026-11-08T20:22:39.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Apple is racing to make Siri more agentic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "snippet": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that",
-      "pubDate": "2026-11-08T19:18:19.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Elvis and Eminem rights holders are suing Suno",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "snippet": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records",
-      "pubDate": "2026-11-08T17:23:19.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google AI Releases Elephant-Goldfish Model Plugin for Spec-First Coding",
-      "link": "https://www.marktechpost.com/2026/11/08/google-elephant-goldfish-model-plugin-spec-review-coding-agents/",
-      "snippet": "Google's Elephant-Goldfish Model plugin makes coding agents draft specs, then runs 5 zero-context review stages before any code. The post Google AI Re",
-      "pubDate": "Sun, 08 Nov 2026 10:46:18 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Which Routing Does Each MoE Model Use? DeepSeek, Qwen, Mixtral, Llama 4, gpt-oss Compared",
-      "link": "https://www.marktechpost.com/2026/11/08/moe-model-routing-comparison/",
-      "snippet": "A config-verified comparison of how 10 open MoE models route tokens: total and active parameters, expert counts, top-k, shared experts, gating functio",
-      "pubDate": "Sun, 08 Nov 2026 10:27:27 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "MoE Routing Strategies Explained: Top-K, Expert-Choice, Sigmoid Gating and Dynamic Routing (2026 Guide)",
-      "link": "https://www.marktechpost.com/2026/11/07/moe-routing-strategies-explained/",
-      "snippet": "MoE routing strategies decide which experts process each token. This guide explains 7 methods, from Mixtral's top-2 softmax to DeepSeek-V4's hash rout",
-      "pubDate": "Sun, 08 Nov 2026 06:18:33 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Nous Research Releases Arete-27B that Cuts Qwen3.8-27B Propaganda From 22% to 0.9%",
-      "link": "https://www.marktechpost.com/2026/11/07/nous-research-arete-27b-qwen3-8-27b-propaganda-fine-tune/",
-      "snippet": "Nous Research released Arete-27B, an Apache 2.0 fine-tune of Qwen3.8-27B. On Nous’s 803-prompt eval, propaganda answers fell from 22% to 0.9% while He",
-      "pubDate": "Sun, 08 Nov 2026 04:45:59 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "资本正在撤离“世界模型”",
-      "link": "https://www.qbitai.com/2026/11/508466.html",
-      "snippet": "没有永远的夏天",
-      "pubDate": "Sun, 08 Nov 2026 04:09:55 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-11-09T05:01:13.192Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "snippet": "On Equity, we unpacked what the midterms mean for the tech industry.",
-      "pubDate": "Sat, 07 Nov 2026 22:07:22 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "snippet": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidi",
-      "pubDate": "Sat, 07 Nov 2026 21:17:08 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "How to Run NVIDIA Dory 4B with llama.cpp: Loop by Loop Guide",
-      "link": "https://www.marktechpost.com/2026/11/07/coding-guide-nvidia-dory-4b-llama-cpp/",
-      "snippet": "Explore a comprehensive coding guide for NVIDIA's Dory 1.0 4B looped language model. Learn how to build the pinned llama.cpp branch, analyze loop-by-l",
-      "pubDate": "Sat, 07 Nov 2026 19:22:44 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Sana Hassan",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
-      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "snippet": "The NYT Cooking app now has a built in AI assistant. | Photo: Jennifer Pattison Tuohy / The Verge\t  Around 7PM each weeknight, I find myself standing",
-      "pubDate": "2026-11-07T15:50:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The US let Nvidia sell chips to an empty office in China",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "snippet": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared",
-      "pubDate": "2026-11-07T15:43:45.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "AI broke the cybersecurity world. What’s next?",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "snippet": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right n",
-      "pubDate": "2026-11-07T15:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Why a new report on Anthropic automating AI development is alarming researchers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "snippet": "Anthropic CEO Dario Amodei. | Photo: Jason Henry/Bloomberg via Getty Images\t  Anthropic is using AI to build more powerful AI. And it appears to be wo",
-      "pubDate": "2026-11-07T12:30:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
-      "link": "https://www.qbitai.com/2026/11/508449.html",
-      "snippet": "AI写代码太快，基础设施跟不上了",
-      "pubDate": "Sat, 07 Nov 2026 09:38:56 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-11-09T05:01:13.192Z",
-      "tags": [
-        "开源工具",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Buoyant Releases Kinference: An Open Source Inference Control Plane for Kubernetes and vLLM",
-      "link": "https://www.marktechpost.com/2026/11/07/buoyant-kinference-open-source-inference-control-plane-kubernetes-vllm/",
-      "snippet": "Buoyant has released Kinference, an Apache 2.0 inference control plane for vLLM on Kubernetes. It adds declarative routing policies, KV-cache-aware lo",
-      "pubDate": "Sat, 07 Nov 2026 08:16:33 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
-      "link": "https://www.qbitai.com/2026/11/508344.html",
-      "snippet": "融资缩水，硅谷投资人也谨慎了",
-      "pubDate": "Sat, 07 Nov 2026 08:11:25 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-11-09T05:01:13.192Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "为了去AI味，人类开始主动写烂文章了……",
-      "link": "https://www.qbitai.com/2026/11/508330.html",
-      "snippet": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
-      "pubDate": "Sat, 07 Nov 2026 07:59:28 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-11-09T05:01:13.192Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
-      "link": "https://www.qbitai.com/2026/11/508264.html",
-      "snippet": "苦单Session久矣，两大Agent玩家不谋而合。",
-      "pubDate": "Sat, 07 Nov 2026 05:01:17 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "田, 晏林",
-      "fetchedAt": "2026-11-09T05:01:13.193Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "AGENTS.MD，危险危险危险！！！",
-      "link": "https://www.qbitai.com/2026/11/508244.html",
-      "snippet": "全新的电脑病毒",
-      "pubDate": "Sat, 07 Nov 2026 03:43:55 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-11-09T05:01:13.193Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "浙大00后博士生再交卷！把十几种物理要素装进一个世界模型｜华为昇腾原生",
-      "link": "https://www.qbitai.com/2026/11/508236.html",
-      "snippet": "中国版cosmos再交卷",
-      "pubDate": "Sat, 07 Nov 2026 03:31:44 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-11-09T05:01:13.193Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Jeff Dean李飞飞最新对谈：全是RSI非共识",
-      "link": "https://www.qbitai.com/2026/11/508196.html",
-      "snippet": "RSI不可能无限快",
-      "pubDate": "Sat, 07 Nov 2026 03:23:29 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-11-09T05:01:13.193Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "snippet": "The deal highlights the challenges of developing massive AI data centers.",
-      "pubDate": "Sat, 07 Nov 2026 01:40:28 +0000",
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "snippet": "The PR firm was enlisted shortly after an Oct. 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "pubDate": "Mon, 09 Nov 2026 23:28:37 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
+      "fetchedAt": "2026-11-09T23:58:34.843Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "dGhldmVyZ2UtYWk6",
-      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "snippet": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one o",
-      "pubDate": "2026-11-06T23:46:18.000Z",
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "snippet": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company",
+      "pubDate": "2026-11-09T23:07:59.000Z",
       "sourceName": "The Verge",
       "sourceId": "theverge-ai",
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "snippet": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry",
-      "pubDate": "2026-11-06T23:00:44.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:25.893Z",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-      "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-      "snippet": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-      "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "snippet": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese exe",
+      "pubDate": "Mon, 09 Nov 2026 22:46:09 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-      "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-      "snippet": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacki",
-      "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Zack Whittaker",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-11-09T23:58:34.843Z",
       "tags": [
         "学术研究"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-      "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-      "snippet": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-      "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
+      "title": "The race is on to sue Nvidia",
+      "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "snippet": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securi",
+      "pubDate": "Mon, 09 Nov 2026 22:23:42 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "How a Blue Wave midterm might reshape the AI industry",
-      "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
-      "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related",
-      "pubDate": "Fri, 06 Nov 2026 18:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "“Does Meta think we can’t read?” Meta abandons sketchy commercial terms update.",
-      "link": "https://arstechnica.com/tech-policy/2026/11/does-meta-think-we-cant-read-meta-abandons-sketchy-commercial-terms-update/",
-      "snippet": "Meta won't force Facebook page owners to allow AI training on linked content.",
-      "pubDate": "Fri, 06 Nov 2026 17:43:02 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-11-09T05:01:26.809Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Zyphra ZYFA: FP8 FlashAttention for AMD MI355X, Up to 1.76x Faster",
-      "link": "https://www.marktechpost.com/2026/11/06/zyphra-zyfa-fp8-flashattention-amd-mi355x/",
-      "snippet": "Zyphra released ZYFA, open-source FP8 and BF16 prefill attention kernels for AMD Instinct MI355X. On real model activations, its FP8 kernels run 1.16-",
-      "pubDate": "Fri, 06 Nov 2026 17:28:04 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "After the midterms, is the AI industry in for a rough two years?",
-      "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-      "snippet": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related",
-      "pubDate": "Fri, 06 Nov 2026 17:23:52 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Theresa Loconsolo, Anthony Ha",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Could potential AI clones of GTA VI force a quicker official port?",
-      "link": "https://arstechnica.com/gaming/2026/11/could-potential-ai-clones-of-gta-vi-force-a-quicker-official-port/",
-      "snippet": "A former Rockstar tech director thinks the developer is facing new time pressures.",
-      "pubDate": "Fri, 06 Nov 2026 16:19:12 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-11-09T05:01:26.809Z",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-11-09T23:58:34.843Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-      "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-      "snippet": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumption",
-      "pubDate": "Fri, 06 Nov 2026 15:54:47 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "A\\三大内部模型曝光！领先Opus5.5三个月，RSI缩短80%实验时间",
-      "link": "https://www.qbitai.com/2026/11/508184.html",
-      "snippet": "Dario刚喊减速…",
-      "pubDate": "Fri, 06 Nov 2026 15:21:56 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "听雨",
-      "fetchedAt": "2026-11-09T05:01:13.193Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
-      "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
-      "snippet": "Amazon said that the feature will roll out to millions of users in coming weeks.",
-      "pubDate": "Fri, 06 Nov 2026 14:10:00 +0000",
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "snippet": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "pubDate": "Mon, 09 Nov 2026 20:09:06 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
+      "fetchedAt": "2026-11-09T23:58:34.843Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The backlash about data centers might really just be about electricity",
+      "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters we",
+      "pubDate": "Mon, 09 Nov 2026 19:35:33 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "James O'Donnell",
+      "fetchedAt": "2026-11-09T23:58:35.552Z",
       "tags": [
         "AI应用"
       ]
     },
     {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "link": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a",
-      "pubDate": "Fri, 06 Nov 2026 13:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-09T05:01:26.148Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Underdog shows off a 32MB speech model in new demo",
-      "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-      "snippet": "Despite its small size, Underdog's new model can generate both speech and music.",
-      "pubDate": "Fri, 06 Nov 2026 13:02:16 +0000",
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "snippet": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Physicl raises $10M to make the digital world real enough for robots",
-      "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-      "snippet": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-      "pubDate": "Fri, 06 Nov 2026 13:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
-      "link": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
-      "snippet": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tu",
-      "pubDate": "Fri, 06 Nov 2026 10:00:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Grace Huckins",
-      "fetchedAt": "2026-11-09T05:01:26.148Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "为什么每个 Personal Agent 背后，都必须配备一台“云电脑”？",
-      "link": "https://www.qbitai.com/2026/11/508174.html",
-      "snippet": "PPIO 沙箱，把“云电脑”做成开箱即用的 API",
-      "pubDate": "Fri, 06 Nov 2026 09:25:59 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-09T05:01:13.193Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "link": "https://openai.com/index/partnering-with-hacktron",
-      "snippet": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-      "pubDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-09T05:01:27.205Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-      "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-      "snippet": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
-      "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Thinking Machines Releases Inkling 2 Small, a 594B MoE With 17B Active",
-      "link": "https://www.marktechpost.com/2026/11/05/thinking-machines-inkling-2-small-release/",
-      "snippet": "Thinking Machines Lab released Inkling 2 Small, a 594B-parameter MoE with 17B active parameters. It scores 31 on the Artificial Analysis Intelligence",
-      "pubDate": "Fri, 06 Nov 2026 04:25:07 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-11-09T23:58:34.843Z",
       "tags": [
         "AI应用"
       ]
     },
     {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "snippet": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro w",
+      "pubDate": "2026-11-09T19:09:58.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "snippet": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical chall",
+      "pubDate": "2026-11-09T19:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
       "id": "b3BlbmFpLWJsb2c6",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "snippet": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab scienc",
-      "pubDate": "Fri, 06 Nov 2026 00:00:00 GMT",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "snippet": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing re",
+      "pubDate": "Mon, 09 Nov 2026 19:00:00 GMT",
       "sourceName": "OpenAI",
       "sourceId": "openai-blog",
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-09T05:01:27.205Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google Releases Gemini Omni 1.2 Flash: 15-Second AI Video at $0.07 per Second",
-      "link": "https://www.marktechpost.com/2026/11/05/google-gemini-omni-1-2-flash-15-second-video/",
-      "snippet": "Google released Gemini Omni 1.2 Flash, a video generation and editing model with native 15-second clips, multi-turn conversational editing and a 30% p",
-      "pubDate": "Thu, 05 Nov 2026 22:58:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-09T05:01:27.563Z",
+      "fetchedAt": "2026-11-09T23:58:36.978Z",
       "tags": [
         "大模型"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
-      "snippet": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "snippet": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions a",
+      "pubDate": "Mon, 09 Nov 2026 18:09:52 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-11-09T23:58:34.844Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "snippet": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Storie",
+      "pubDate": "2026-11-09T18:07:23.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "snippet": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "pubDate": "Mon, 09 Nov 2026 18:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-11-09T23:58:34.844Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The future of AI hinges on… Jensen Huang’s sex life?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "snippet": "Step 1. Cut a hole in the box. | Image: The Verge\t  I would prefer that these people's sex lives were none of my business but I guess we have to talk",
+      "pubDate": "2026-11-09T17:36:08.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "link": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "snippet": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared.",
+      "pubDate": "Mon, 09 Nov 2026 17:24:26 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Kyle Orland\n                ",
+      "fetchedAt": "2026-11-09T23:58:36.362Z",
+      "tags": [
+        "开源工具",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Unveils TPU 8i Max and TPU 8tx: A Dual-Chip TPU and a Confidential TPU",
+      "link": "https://www.marktechpost.com/2026/11/09/google-tpu-8i-max-tpu-8tx/",
+      "snippet": "Google added TPU 8i Max and TPU 8tx to its eighth-generation TPU lineup. TPU 8i Max packs 2 TPU 8i chips per package for long-context agents. TPU 8tx",
+      "pubDate": "Mon, 09 Nov 2026 17:09:54 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-09T23:58:37.385Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "link": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "snippet": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional r",
+      "pubDate": "Mon, 09 Nov 2026 17:05:43 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Grace Huckins",
+      "fetchedAt": "2026-11-09T23:58:35.552Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
+      "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
+      "snippet": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
+      "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim De Chant",
+      "fetchedAt": "2026-11-09T23:58:34.844Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Baidu’s ERNIE Evolve Automated Research System Beats NanoChat and NanoGPT Records",
+      "link": "https://www.marktechpost.com/2026/11/09/baidu-ernie-evolve-automated-research-system/",
+      "snippet": "Baidu’s ERNIE Evolve is an automated research system that edits code, runs experiments and keeps only verified gains. It beat public bests on NanoChat",
+      "pubDate": "Mon, 09 Nov 2026 16:31:59 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-09T23:58:37.385Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Medium’s new TK app brings AI assistance directly into the writing process",
+      "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
+      "snippet": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
+      "pubDate": "Mon, 09 Nov 2026 16:12:28 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-09T05:01:25.594Z",
+      "fetchedAt": "2026-11-09T23:58:34.844Z",
       "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai",
+      "snippet": "Asked about AI executives' warnings about their models' safety on 60 Minutes, Trump said, \"I think that the risk is not nearly as real as it- as they",
+      "pubDate": "2026-11-09T15:50:38.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Disney and Adobe are building generative AI tools together",
+      "link": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership",
+      "snippet": "Who wants a hand-designed and creatively curated monorail anyway. | Image: Disney / Adobe\t  The Walt Disney Company has teamed up with Adobe to develo",
+      "pubDate": "2026-11-09T15:38:56.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Hold up — I had a great time talking to the RIAA guy",
+      "link": "https://www.theverge.com/podcast/1029684/riaa-mitch-glazier-napster-ai-labels-music",
+      "snippet": "Today, I’m talking with Mitch Glazier, who is CEO and chairman of the RIAA. This conversation was a real full-circle moment for me: I was in college w",
+      "pubDate": "2026-11-09T15:30:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:35.218Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "云深处发布全新四足机器人  实现50Kg大负载、复杂地形作业",
+      "link": "https://www.leiphone.com/category/industrynews/EihvEi3hKb9icG62.html",
+      "snippet": "11月6日，云深处科技正式发布四足机器人新产品——绝影X50。它通过“感控融合”全新升级，搭配高刚性高响应关节系统，实现了更大负载、更强通行与更稳姿态的综合突破。云深处进一步拓展了四足机器人在极端环境下的重载作业边界，为应急消防、能源电力等高风险行业解决痛点。 重载与通行，长期是四足机器人难以两全的",
+      "pubDate": "Mon, 09 Nov 2026 23:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Nvidia CEO's affair becomes a national security problem",
+      "link": "https://arstechnica.com/tech-policy/2026/11/ceo-jensen-huang-admits-affair-as-nvidia-probes-possible-chinese-espionage/",
+      "snippet": "Nvidia is probing whether Chinese intelligence targeted its CEO through an affair.",
+      "pubDate": "Mon, 09 Nov 2026 15:23:20 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Demetri Sevastopulo, Financial Times\n                ",
+      "fetchedAt": "2026-11-09T23:58:36.362Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百度搭子连中三元：中信建投、国家电投数科、通用数科",
+      "link": "https://www.leiphone.com/category/industrynews/tm7T5JBmm4u6YUQi.html",
+      "snippet": "11月5日至6日，中信建投证券、国家电投集团数字科技有限公司、通用技术数科公司相继公布成交候选人名单。三个项目分别有5家、4家和3家厂商入围，百度均排名第一。三次竞标的产品都是百度搭子。   百度搭子是百度推出的新一代通用智能体，是Agent时代的统一入口，可调度百度搜索、秒哒、胜算、伐谋等专业能力",
+      "pubDate": "Mon, 09 Nov 2026 22:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "千问办公2.0，补上了办公Agent最关键的「短板」",
+      "link": "https://www.leiphone.com/category/industrynews/ljjfjnedPmwgYh6Q.html",
+      "snippet": "“过去几个月，各家都在拼命证明AI越来越能干活。但说实话，一个人能干活，不代表一群人就能协作。” 一位长期关注AI办公的业内人士，试用完市面上主流的AI办公产品后发现，有些“麻烦”还是绕不开，最典型的就是有些活儿还得靠人工来回“倒腾”。 “Agent能独立完成任务，但很难接住任务在人与人之间的流转。",
+      "pubDate": "Mon, 09 Nov 2026 22:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
+      "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
+      "snippet": "Automattic aims to compete with the likes of Lovable with Spacefast.",
+      "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-11-09T23:58:34.844Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "link": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The",
+      "pubDate": "Mon, 09 Nov 2026 13:15:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Charlotte Jee",
+      "fetchedAt": "2026-11-09T23:58:35.552Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Innovating with AI in the special chemicals industry",
+      "link": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "snippet": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting n",
+      "pubDate": "Mon, 09 Nov 2026 13:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review Insights",
+      "fetchedAt": "2026-11-09T23:58:35.552Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "link": "https://openai.com/index/control-room",
+      "snippet": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns a",
+      "pubDate": "Mon, 09 Nov 2026 13:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:36.978Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "乘联会：10月增程市场逆势环比大涨31.3%，小米澎程成为最强推动力",
+      "link": "https://www.leiphone.com/category/industrynews/n8tGHmir0aXabfKi.html",
+      "snippet": "11月9日，乘联会发布了最新的市场产销数据：2026年10月全国乘用车市场零售164.3万辆，同比下降27.1%，1-10月乘用车累计零售1,497.8万辆，同比下降22.3%。虽然大盘预冷，但增程市场迎来关键转折。乘联会数据显示，10月增程车型批发15.2万辆，同比增长19.9%，环比增长31.3",
+      "pubDate": "Mon, 09 Nov 2026 18:35:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "无预警！ChatGPT突然大规模封号，包括付费用户；圆通总裁心疼儿子Tim：他比大多数人想象的辛苦；英伟达遭大劫案，价值超7千万元货物失踪",
+      "link": "https://www.leiphone.com/category/zaobao/Z2uc8AJRp0PQO7Kb.html",
+      "snippet": "要闻提示      1.无预警！曝ChatGPT突然大规模封号，包括付费用户 2.圆通总裁心疼儿子Tim：他真的比大多数人想象的辛苦 3.马斯克：当年进中国建厂被要求合资，以特斯拉是婴儿为由拒绝了 4.智能指环售价2499元，称戴上后不容易被推倒？众多网友指出没有科学依据 5.网传“余承东不再管汽车",
+      "pubDate": "Mon, 09 Nov 2026 18:32:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "阿里云获中国专利金奖：破解AI时代的超大规模智能算力调度难题",
+      "link": "https://www.leiphone.com/category/industrynews/ljc6ifIFxCUD6DYG.html",
+      "snippet": "11月6日，第二十六届中国专利奖颁奖大会在无锡举行，阿里云提交的专利\"一种用户请求的处理方法和装置\"荣获中国专利金奖，这也是本届唯一云厂商荣获金奖。该专利技术可动态实时感知算力需求变化，尤其针对互联网和AI时代剧烈的需求潮汐，实现了超大规模智能算力的按需分配、随需伸缩、安全供给——高峰时撑得住，低谷",
+      "pubDate": "Mon, 09 Nov 2026 18:03:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The climate case for AI has not been made",
+      "link": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "snippet": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial",
+      "pubDate": "Mon, 09 Nov 2026 10:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Mary Nichols, Jeremy Tamanini",
+      "fetchedAt": "2026-11-09T23:58:35.552Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "字节跳动发布Seedream 5.5，上线豆包、豆包工作、即梦",
+      "link": "https://www.leiphone.com/category/industrynews/CoJod8Z9X1pDj1sv.html",
+      "snippet": "11 月 9 日，字节跳动正式发布豆包图像创作模型 Seedream 5.5。相较上一代 Seedream 5.0 Pro，新模型的生成速度大幅提升，同时增强了多轮编辑稳定性，原生支持透明素材生成，并针对图像真实感和小字渲染方面做了重点优化，更好地满足了专业创作场景对质量、稳定性与效率的要求。 目前",
+      "pubDate": "Mon, 09 Nov 2026 17:41:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百度文心首次披露RSI进展：ERNIE Evolve已用于最新模型研发，文心5.5 Flash 或将近期发布",
+      "link": "https://www.leiphone.com/category/industrynews/FO9Dx6HKj5Bvno5y.html",
+      "snippet": "11月9日，百度文心首次披露 RSI 最新进展，公布参与文心 5.5 Flash 研发的自动研究系统 ERNIE Evolve，其能够围绕目标与约束，自主提出研究方向、开展实验、验证结果并积累经验，既可以持续优化已有路径，也能根据实际效果探索新方向。在 NanoChat AutoResearch 和",
+      "pubDate": "Mon, 09 Nov 2026 17:18:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "学术研究",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "行业最大规模具身模型挑战赛迎来决赛：15支战队将展开48小时真机角逐",
+      "link": "https://www.leiphone.com/category/industrynews/5ejIhKWAtmfZvdqx.html",
+      "snippet": "11月6日，首届蚂蚁灵波具身大模型挑战赛决赛晋级战队正式出炉：15支战队、59位选手从全球1855支队伍、3252位选手中脱颖而出，锁定线下决赛资格。  （图：首届蚂蚁灵波具身大模型挑战赛决赛入围名单） 15强集结，48小时真机黑客松决战 本届挑战赛聚焦具身大模型与物理世界的交互能力，吸引了全球13",
+      "pubDate": "Mon, 09 Nov 2026 17:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "“AI毁了我的计算机学位”",
+      "link": "https://www.qbitai.com/2026/11/508706.html",
+      "snippet": "教授也用Claude糊弄…",
+      "pubDate": "Mon, 09 Nov 2026 08:57:20 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "Jay",
+      "fetchedAt": "2026-11-09T23:58:31.300Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
+      "link": "https://www.qbitai.com/2026/11/507843.html",
+      "snippet": "",
+      "pubDate": "Mon, 09 Nov 2026 08:44:00 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "闻乐",
+      "fetchedAt": "2026-11-09T23:58:31.300Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
+      "link": "https://www.qbitai.com/2026/11/508694.html",
+      "snippet": "11月9日，千问办公发布2.0版本",
+      "pubDate": "Mon, 09 Nov 2026 08:34:03 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-11-09T23:58:31.300Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "叙事奔涌，何以为锚?丨第 20 届中国投资年会·有限合伙人峰会即将启幕",
+      "link": "https://www.qbitai.com/2026/11/508690.html",
+      "snippet": "厘清故事与现实的边界，回归投资与产业的底层逻辑。",
+      "pubDate": "Mon, 09 Nov 2026 08:26:45 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-11-09T23:58:31.300Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Reason Machines Open-Sources Aspen, a Git Server Built for AI Agents",
+      "link": "https://www.marktechpost.com/2026/11/09/reason-machines-aspen-open-source-git-server-ai-agents/",
+      "snippet": "Reason Machines has open-sourced Aspen, a self-hosted Git server for AI agents. It follows OpenAI’s Pando design and sustained 567 pushes per second o",
+      "pubDate": "Mon, 09 Nov 2026 08:20:20 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-09T23:58:37.385Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "link": "https://openai.com/index/coderabbit-codex-daybreak",
+      "snippet": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+      "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:36.978Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "link": "https://openai.com/index/kuken",
+      "snippet": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down fr",
+      "pubDate": "Mon, 09 Nov 2026 08:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:36.978Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "0sec Labs Open-Sources 0, an AI Security Harness With Web UI, CLI and MCP",
+      "link": "https://www.marktechpost.com/2026/11/08/0sec-labs-open-sources-0-ai-security-harness/",
+      "snippet": "0sec Labs has open-sourced 0, an AI security harness for code review, pentesting, reverse engineering and fixes. It runs locally through a browser con",
+      "pubDate": "Mon, 09 Nov 2026 07:55:18 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-09T23:58:37.385Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "皮尔法伯集团与晶泰科技达成AI驱动药物发现合作，将在肿瘤领域联合开展多个研发项目",
+      "link": "https://www.leiphone.com/category/shengwuyiyao/HMCKdmWiZA0bT07Q.html",
+      "snippet": "雷峰网消息，2026年11月6日，皮尔法伯集团与晶泰科技（2228.HK）宣布达成一项合作协议。双方将在肿瘤领域联合开展多个研发项目，共同发现新型临床候选药物，并有望拓展至皮肤病、罕见病等领域。   根据协议，晶泰科技将依托其一体化的“AI+机器人”核心能力，针对未披露的靶点从头设计并交付新型小分子",
+      "pubDate": "Mon, 09 Nov 2026 15:28:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从一笔投资到一个生态：浦东创投把AI创业者带进了“朋友圈”",
+      "link": "https://www.leiphone.com/category/industrynews/sGptXfOtHwkxuGrm.html",
+      "snippet": "9月22日，张江人工智能创新小镇的一间路演厅里，二十余支极早期创业团队依次登台。这里没有太多成熟企业的标准答案：不少公司成立尚不足一年，有的还没有完整产品，更谈不上稳定营收。但在这场结营仪式上，团队们迎来了一个重要节点——他们全部与浦东创投完成签约，入营阶段获得的种子支持得到确认，其中超过半数项目获",
+      "pubDate": "Mon, 09 Nov 2026 15:17:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-09T23:58:34.518Z",
+      "tags": [
+        "商业融资",
         "AI应用"
       ]
     }
