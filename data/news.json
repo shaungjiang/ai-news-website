@@ -1,13 +1,141 @@
 {
-  "generatedAt": "2026-11-12T21:26:53.648Z",
+  "generatedAt": "2026-11-13T02:33:38.362Z",
   "stats": {
-    "total": 96,
+    "total": 95,
     "shown": 50,
     "chinese": 10,
-    "english": 86,
-    "today": 48
+    "english": 85,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
+      "link": "https://www.marktechpost.com/2026/11/12/liquid-ai-liquidcodec-streaming-audio-codec/",
+      "snippet": "Liquid AI released LiquidCodec, a ~74M-parameter streaming audio codec that powers LFM3-Audio-2B and LFM3-Omni-2B. It runs at 12.5 Hz with 12 codebook",
+      "pubDate": "Thu, 12 Nov 2026 22:43:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-13T02:26:58.905Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "link": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
+      "snippet": "This Congressional investigation into Nvidia's China sales and its dealings with Trump is the second one, so far, since news of the alleged spy affair",
+      "pubDate": "Thu, 12 Nov 2026 22:42:51 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+      "snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+      "pubDate": "Thu, 12 Nov 2026 22:28:47 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-11-13T02:26:57.876Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Muse can now place calls to US businesses — if you pay",
+      "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+      "snippet": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+      "pubDate": "Thu, 12 Nov 2026 22:22:28 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "snippet": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-unde",
+      "pubDate": "2026-11-12T21:55:32.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "CopilotKit Releases OpenBot 1.0: An MIT-Licensed, Self-Hostable AI Coworker With Built-In Governance",
+      "link": "https://www.marktechpost.com/2026/11/12/copilotkit-openbot-1-0-open-source-ai-coworker/",
+      "snippet": "CopilotKit released OpenBot 1.0, an MIT-licensed, self-hostable AI coworker workspace. Companies bring their own agents, models and infrastructure, wh",
+      "pubDate": "Thu, 12 Nov 2026 21:45:36 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-13T02:26:58.905Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop",
+      "pubDate": "Thu, 12 Nov 2026 21:35:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+      "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+      "snippet": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center rai",
+      "pubDate": "Thu, 12 Nov 2026 21:27:10 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Jensen Huang was having a third affair, Reuters reports",
@@ -19,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +163,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-11-12T21:20:12.294Z",
+      "fetchedAt": "2026-11-13T02:26:56.939Z",
       "tags": [
         "综合"
       ]
@@ -43,7 +171,7 @@
     {
       "id": "b3BlbmFpLWJsb2c6",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "link": "https://openai.com/index/amplitude",
+      "link": "https://openai.com/business/customer-stories/amplitude",
       "snippet": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, an",
       "pubDate": "Thu, 12 Nov 2026 20:00:00 GMT",
       "sourceName": "OpenAI",
@@ -51,7 +179,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:13.637Z",
+      "fetchedAt": "2026-11-13T02:26:58.468Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +195,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-12T21:20:13.239Z",
+      "fetchedAt": "2026-11-13T02:26:57.876Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +211,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "综合"
       ]
@@ -99,7 +227,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "大模型"
       ]
@@ -115,7 +243,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-11-12T21:20:13.239Z",
+      "fetchedAt": "2026-11-13T02:26:57.876Z",
       "tags": [
         "大模型"
       ]
@@ -131,7 +259,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "AI应用"
       ]
@@ -147,7 +275,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-11-12T21:20:13.239Z",
+      "fetchedAt": "2026-11-13T02:26:57.876Z",
       "tags": [
         "大模型"
       ]
@@ -163,7 +291,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -180,7 +308,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "综合"
       ]
@@ -196,7 +324,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +340,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -229,7 +357,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-12T21:20:13.976Z",
+      "fetchedAt": "2026-11-13T02:26:58.905Z",
       "tags": [
         "AI应用"
       ]
@@ -245,7 +373,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "综合"
       ]
@@ -261,7 +389,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "政策监管"
       ]
@@ -277,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "开源工具"
       ]
@@ -293,7 +421,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "学术研究",
         "AI应用"
@@ -310,7 +438,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "开源工具"
       ]
@@ -326,7 +454,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "综合"
       ]
@@ -342,7 +470,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "商业融资"
       ]
@@ -358,7 +486,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "综合"
       ]
@@ -374,7 +502,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "AI应用"
       ]
@@ -390,7 +518,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "综合"
       ]
@@ -406,7 +534,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "综合"
       ]
@@ -422,7 +550,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "综合"
       ]
@@ -438,7 +566,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "综合"
       ]
@@ -454,7 +582,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "AI应用"
       ]
@@ -470,25 +598,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-11-12T21:20:13.239Z",
+      "fetchedAt": "2026-11-13T02:26:57.876Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop",
-      "pubDate": "Thu, 12 Nov 2026 14:30:01 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -502,25 +614,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
+      "fetchedAt": "2026-11-13T02:26:56.608Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031689/jensen-huang-nvidia-ceo-resigns",
-      "snippet": "Jensen Huang at GTC Berlin last month. | Photo: Soeren Stache / picture alliance via Getty Images\t  Nvidia's board announced that Jensen Huang - its l",
-      "pubDate": "2026-11-12T13:53:16.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-12T21:20:11.982Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -534,7 +630,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kate Park",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:56.225Z",
       "tags": [
         "商业融资"
       ]
@@ -550,9 +646,25 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-12T21:20:12.294Z",
+      "fetchedAt": "2026-11-13T02:26:56.939Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "link": "https://openai.com/business/customer-stories/gondola",
+      "snippet": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "pubDate": "Thu, 12 Nov 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-13T02:26:58.468Z",
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -566,7 +678,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "Jay",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
+      "fetchedAt": "2026-11-13T02:26:44.905Z",
       "tags": [
         "开源工具"
       ]
@@ -582,7 +694,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
+      "fetchedAt": "2026-11-13T02:26:44.905Z",
       "tags": [
         "大模型"
       ]
@@ -598,7 +710,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
+      "fetchedAt": "2026-11-13T02:26:44.905Z",
       "tags": [
         "商业融资"
       ]
@@ -614,7 +726,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
+      "fetchedAt": "2026-11-13T02:26:44.905Z",
       "tags": [
         "综合"
       ]
@@ -630,7 +742,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
+      "fetchedAt": "2026-11-13T02:26:44.905Z",
       "tags": [
         "综合"
       ]
@@ -646,7 +758,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-12T21:20:13.637Z",
+      "fetchedAt": "2026-11-13T02:26:58.468Z",
       "tags": [
         "AI应用"
       ]
@@ -662,7 +774,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-12T21:20:13.976Z",
+      "fetchedAt": "2026-11-13T02:26:58.905Z",
       "tags": [
         "综合"
       ]
@@ -678,7 +790,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
+      "fetchedAt": "2026-11-13T02:26:44.905Z",
       "tags": [
         "综合"
       ]
@@ -694,119 +806,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "百曜科技入选全球 The Information 50！",
-      "link": "https://www.qbitai.com/2026/11/509285.html",
-      "snippet": "百曜科技入选“2026年全球最具潜力 50 家初创公司”榜单。",
-      "pubDate": "Thu, 12 Nov 2026 06:13:22 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "snippet": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "pubDate": "Thu, 12 Nov 2026 03:13:10 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Connie Loizos",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
-      "link": "https://www.qbitai.com/2026/11/509281.html",
-      "snippet": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
-      "pubDate": "Thu, 12 Nov 2026 01:45:04 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-12T21:20:02.111Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Supporting research on AI and children’s safety",
-      "link": "https://openai.com/index/children-first-declaration",
-      "snippet": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-      "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-12T21:20:13.637Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "snippet": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "pubDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-12T21:20:13.637Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "snippet": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "pubDate": "Wed, 11 Nov 2026 23:28:45 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
-      "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
-      "snippet": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of havin",
-      "pubDate": "Wed, 11 Nov 2026 23:17:05 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-12T21:20:11.635Z",
+      "fetchedAt": "2026-11-13T02:26:44.905Z",
       "tags": [
         "综合"
       ]
