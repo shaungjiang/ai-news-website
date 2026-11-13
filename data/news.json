@@ -1,13 +1,403 @@
 {
-  "generatedAt": "2026-11-13T02:33:38.362Z",
+  "generatedAt": "2026-11-13T12:02:11.115Z",
   "stats": {
-    "total": 95,
+    "total": 114,
     "shown": 50,
-    "chinese": 10,
-    "english": 85,
-    "today": 0
+    "chinese": 30,
+    "english": 84,
+    "today": 24
   },
   "articles": [
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
+      "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
+      "snippet": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports o",
+      "pubDate": "Fri, 13 Nov 2026 10:32:26 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-13T11:55:31.734Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "snippet": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic lim",
+      "pubDate": "Fri, 13 Nov 2026 10:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Jessica Hamzelou",
+      "fetchedAt": "2026-11-13T11:55:29.947Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "link": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
+      "snippet": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming t",
+      "pubDate": "Fri, 13 Nov 2026 10:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Aaron Zamost",
+      "fetchedAt": "2026-11-13T11:55:29.947Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Google Releases Gemini 4 Hydrogen: 2.5x Faster Than Gemini 3.8 Flash",
+      "link": "https://www.marktechpost.com/2026/11/13/google-gemini-4-hydrogen/",
+      "snippet": "Google released Gemini 4 Hydrogen, a fast agentic model with a 1M-token window, 4 thinking levels and $1.50/$7.50 pricing. Google reports a 51 Artific",
+      "pubDate": "Fri, 13 Nov 2026 09:45:48 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-13T11:55:31.734Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "9.99万的ID.ERA 5X，大众开始用中国效率打价格战",
+      "link": "https://www.leiphone.com/category/transportation/vNdfiZqSJgLMJc3M.html",
+      "snippet": "从过去全球技术导入中国，转向中国本土研发定义产品，并反哺全球，大众在华的研发模式迎来的关键转身，集中在一款新车型中。 11月12日，上汽大众ID.ERA 5X正式上市，限时权益价9.99万起，共推出四款配置。定位都市纯电SUV，瞄准年轻用户与家庭市场。  作为一款主打高性价比的紧凑型纯电SUV，上汽",
+      "pubDate": "Fri, 13 Nov 2026 17:38:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "AI应用",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "独家丨港大孵化的半导体材料公司，融资数千万",
+      "link": "https://www.leiphone.com/category/weiwu/DewyIGiyxQl09nUM.html",
+      "snippet": "一个发表于《Nature》的技术，能在三步剥出晶圆级薄膜，公司获耀途独家投资。   作者丨陈玘凡  编辑丨吴优         雷峰网·鲸犀独家获悉，半导体材料公司钻耐科思科技（DiamNEX）已完成数千万元新一轮融资，由耀途资本独家投资。  钻耐科思（DiamNEX）成立于2025年，由香港大学孵",
+      "pubDate": "Fri, 13 Nov 2026 17:22:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "海尔热水器双11战报：京东天猫双平台销量TOP1",
+      "link": "https://www.leiphone.com/category/industrynews/pDERNZsb2r8U4vS5.html",
+      "snippet": "随着双11落幕，热水器市场也结束了新一轮换新热潮。从近两年的用户需求来看，热水器不再只看重热水供给，而是更加关注使用安全、沐浴水质与维保省心，家庭用水的健康化、场景化、智能化成为选购核心标尺。激烈角逐之中，海尔热水器脱颖而出，拿下京东、天猫双平台热水器销量 TOP1，电热、燃热双线领跑，用亮眼战绩印",
+      "pubDate": "Fri, 13 Nov 2026 17:17:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "政策监管",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "中金公司与蚂蚁集团达成战略合作 共探AI赋能财富管理",
+      "link": "https://www.leiphone.com/category/industrynews/U7WtbV9kyb90UuZ0.html",
+      "snippet": "11月13日，中国国际金融股份有限公司（简称“中金公司”）与蚂蚁科技集团股份有限公司（简称“蚂蚁集团”）签署战略合作协议。 双方将结合中金公司在专业投研、金融服务等方面的积累，以及蚂蚁集团在人工智能、行业生态、客户运营等方面的优势，围绕金融大模型技术创新、AI赋能财富管理、客户全生命周期服务等领域开",
+      "pubDate": "Fri, 13 Nov 2026 17:05:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "独家丨一家主动灭火的智慧消防公司，融资超千万",
+      "link": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+      "snippet": "把 AI 用在“水火之间”——菲思拓的整体方案，已接入超三万家单位。 作者丨陈玘凡  编辑丨吴优         雷峰网·鲸犀独家获悉，做主动灭火的智慧消防公司菲思拓已完成千万级天使轮融资，投资方为北京国润智投科技有限公司。 菲思拓已经开启新一轮融资，投前估值 3 亿元，本轮资金意在进行产品研发、市",
+      "pubDate": "Fri, 13 Nov 2026 17:04:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "美团陈一方：2026洗浴行业线上化率超20%",
+      "link": "https://www.leiphone.com/category/industrynews/reILtCnNdcvKB3fi.html",
+      "snippet": "11月13日，2027美团洗浴指南在沈阳发布。美团服务零售乐生活业务部负责人陈一方介绍，中国洗浴行业正呈现出新发展气象，2026年洗浴行业线上化率已超20%。越来越多洗浴商户把美团作为承接多元消费需求的主阵地，更多门店特色服务、多种供需组合产品在线上同步首发。",
+      "pubDate": "Fri, 13 Nov 2026 16:43:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "解读丨不插电的宠物梳毛器，凭什么拿下三千家海外门店？",
+      "link": "https://www.leiphone.com/category/weiwu/Hxr2CvehePVKjS4m.html",
+      "snippet": "用专利，PawSwing 在宠物梳毛器品类画了一个大圈。  作者丨陈玘凡 编辑丨吴优         雷峰网·鲸犀获悉，宠物智能硬件公司「橘猫宇宙」近日完成数千万元Pre-A轮融资，高秉强教授及旗下高锋耐心基金、前海创新投资、常垒创投等持续加注，并同步开启新一轮融资。资金将主要用于技术创新、产品迭代",
+      "pubDate": "Fri, 13 Nov 2026 16:29:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "商业融资",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "英伟达博客发声：她不一样，她懂显卡 ( bushi )，她懂端到端！",
+      "link": "https://www.leiphone.com/category/ai/1jG5k34DSlHSSJE9.html",
+      "snippet": "她叫Alpamayo 2 Edge，因果推理结合扩散动作，端到端输出闭环表现提升 48.9%。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Fri, 13 Nov 2026 15:49:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "40 亿参数模型拿下 6 个评测第一，西湖大学团队押注「概念世界模型」",
+      "link": "https://www.leiphone.com/category/academic/nhzldlwI6rJVyXIl.html",
+      "snippet": "西湖世界模型研究中心成立，施一公亲自揭牌。           作者丨张岂萍      编辑丨幸丽娟",
+      "pubDate": "Fri, 13 Nov 2026 15:43:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "黑格科技双十一斩获光固化 3D 打印类目 “三冠王”",
+      "link": "https://www.leiphone.com/category/weiwu/AkhKWQN8s6nqa5d6.html",
+      "snippet": "雷峰网获悉，11月13日，黑格科技宣布2026 年双十一全周期（10 月 20 日 —11 月 11 日）战报：在天猫、京东双平台光固化 3D 打印机类目，黑格科技同时拿下销量第一、销售额第一和市占率第一，加冕类目 “三冠王”。旗下 Reflex RS Turbo 机型表现突出，位列光固化 3D 打",
+      "pubDate": "Fri, 13 Nov 2026 15:42:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "中大梁小丹团队，GeoThinker 两项研究成果，破除空间推理「几何信息用不好、计算开销大」难题",
+      "link": "https://www.leiphone.com/category/academic/FpJFXrs9xGOOewKA.html",
+      "snippet": "不再实时调用外部三维几何编码器，视觉语言模型空间推理提速约 3.6 倍。          作者丨张岂萍      编辑丨幸丽娟",
+      "pubDate": "Fri, 13 Nov 2026 15:40:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "猫粮要保鲜，饮水要恒温，淘宝出海宠物智能用品跑出新增长",
+      "link": "https://www.leiphone.com/category/industrynews/Fs1xk6Oh4bie2guE.html",
+      "snippet": "这个双11，宠物品牌出海提速。据统计，淘宝天猫宠物行业已有超半数宠物品牌进入海外市场，其中宠物智能设备海外成交增速领跑全行业，智能喂食器、智能饮水机、智能储粮桶和宠物可穿戴设备等品类的海外成交额均实现两位数同比增长，全球宠物行业跑步进入“智能时代”。 对于养宠物的家庭来说，宠物智能设备并不是一个时髦",
+      "pubDate": "Fri, 13 Nov 2026 15:29:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆",
+      "link": "https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html",
+      "snippet": "近日，京博控股集团与千问办公达成战略合作，明确全集团将基于千问办公打造AI Native组织。后续双方将围绕科研创新、生产运营优化、经营分析、流程组织重构等核心场景展开合作，共同探索化工行业的智能化升级路径。京博控股集团执行董事、首席轮值总裁栾波，集团轮值总裁兼海外总裁汪君华和千问办公CEO陈宇森等",
+      "pubDate": "Fri, 13 Nov 2026 15:27:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "高德推出AutoSDK国际版，海外司机也能体验到中国导航了！",
+      "link": "https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html",
+      "snippet": "近年来，中国汽车产业全球化进程显著加速。中国汽车工业协会数据显示，2024年中国汽车出口量达585.9万辆，同比增长19.3%，稳居全球首位。 然而，在硬件实力大步“走出去”的同时，海外用户的车载导航体验却成为中国车企提升品牌软实力和用户满意度的关键瓶颈。一直以来，车企在全球导航市场面临着产品定义不",
+      "pubDate": "Fri, 13 Nov 2026 15:25:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "谷歌的遗憾，被高德弥补了",
+      "link": "https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html",
+      "snippet": "谷歌曾在I/O 开发者大会上展示了一段令外界惊叹的演示：用户可以从高空“飞入”3D地图，沉浸式感受城市街景。 不过，这项被称为“沉浸式视图”的功能，至今仍未在谷歌地图中规模化落地。反倒是在今年，国内的高德后来居上，用更前沿的技术，将飞行视角从街道延伸至了店铺，并且真正实现了规模化应用。 2026 年",
+      "pubDate": "Fri, 13 Nov 2026 15:15:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "埃安Ray7正式上市，702公里激光雷达后驱版13.47万元",
+      "link": "https://www.leiphone.com/category/transportation/AxCfndkvZtBgm8PZ.html",
+      "snippet": "11月12日，昊铂埃安旗下超级纯电轿车Ray7正式上市，上市限时价11.47万-14.47万元。新车共5个版本：530后驱驾趣版11.47万元、530后驱激光版12.47万元、702后驱驾趣宁德版12.47万元、702后驱激光宁德版13.47万元、702后驱EMB激光宁德版14.47万元。  车身部",
+      "pubDate": "Fri, 13 Nov 2026 12:00:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "国台严选背后：从两会记者到APEC央视主播团，Pocket 4P 为何成为媒体人标配",
+      "link": "https://www.leiphone.com/category/industrynews/XwQ7utNsCKydcl0N.html",
+      "snippet": "2026年APEC峰会前夕，中央广播电视总台推出特别节目《主播骑遇未来之城》，康辉、刘妙然等央视名嘴穿行深圳街头。其中，康辉单手持握大疆 Osmo Pocket 4P 穿梭在熙攘的地铁站内从容记录的画面，迅速在产业界与传媒圈刷屏。  图：康辉手举Osmo Pocket4P记录深圳地铁镜头 一个跨越十",
+      "pubDate": "Fri, 13 Nov 2026 11:46:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "独家丨腾讯 AI 李牧青离职，出任 AI 公司联席 CEO",
+      "link": "https://www.leiphone.com/category/industrynews/xfpQo71RiPDWJHvS.html",
+      "snippet": "雷峰网独家获悉，近日，腾讯云 AI 全球业务负责人李牧青，正式出任教育 AI 科技公司启鸣达人联席 CEO。 雷峰网了解到，李牧青本科、硕士毕业于上海交通大学，曾任 UCLA 访问学者。2016 年，他加入依图科技，主导早期 AI 产业化体系的建设，亲历「AI 四小龙」从初创走向鼎盛。 2018 年",
+      "pubDate": "Fri, 13 Nov 2026 11:43:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "ID. ERA 5X上市，限时权益价9.99万元起",
+      "link": "https://www.leiphone.com/category/transportation/Uxxem2Ha3zzVNdv9.html",
+      "snippet": "近日，上汽大众ID. ERA 5X正式上市，新车共推出Pro、Pro+、Max、Ultra四款车型。限时权益价为9.99万元—13.99万元。作为一款面向年轻人与家庭用户的都市纯电SUV，ID. ERA 5X是大众CMP+CEA+ADAS全球首款量产车，全系标配4纳米MTK8676车规级芯片与豆包大",
+      "pubDate": "Fri, 13 Nov 2026 11:16:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "VLM 在预测性空间推理上的缺口还有多大？21 个模型，最高准确率仅 58.0%",
+      "link": "https://www.leiphone.com/category/academic/Ma9dfYJE9ifGDZ9I.html",
+      "snippet": "空间专项模型反而不如通用模型？浙大庄越挺团队提出空间智能新基准          作者丨张岂萍      编辑丨幸丽娟",
+      "pubDate": "Fri, 13 Nov 2026 10:59:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-13T11:55:29.121Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Liquid AI Releases LiquidCodec, a 74M-Parameter Streaming Audio Codec",
@@ -19,7 +409,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-13T02:26:58.905Z",
+      "fetchedAt": "2026-11-13T11:55:31.734Z",
       "tags": [
         "AI应用"
       ]
@@ -35,7 +425,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "AI应用"
       ]
@@ -51,7 +441,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-13T02:26:57.876Z",
+      "fetchedAt": "2026-11-13T11:55:30.700Z",
       "tags": [
         "开源工具"
       ]
@@ -67,7 +457,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +473,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
+      "fetchedAt": "2026-11-13T11:55:29.673Z",
       "tags": [
         "大模型"
       ]
@@ -99,7 +489,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-13T02:26:58.905Z",
+      "fetchedAt": "2026-11-13T11:55:31.734Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +505,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +521,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "商业融资"
       ]
@@ -147,7 +537,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Russell Brandom",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +553,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "James O'Donnell",
-      "fetchedAt": "2026-11-13T02:26:56.939Z",
+      "fetchedAt": "2026-11-13T11:55:29.947Z",
       "tags": [
         "综合"
       ]
@@ -179,7 +569,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-13T02:26:58.468Z",
+      "fetchedAt": "2026-11-13T11:55:31.387Z",
       "tags": [
         "AI应用"
       ]
@@ -195,7 +585,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-13T02:26:57.876Z",
+      "fetchedAt": "2026-11-13T11:55:30.700Z",
       "tags": [
         "AI应用"
       ]
@@ -211,7 +601,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
+      "fetchedAt": "2026-11-13T11:55:29.673Z",
       "tags": [
         "综合"
       ]
@@ -227,7 +617,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "大模型"
       ]
@@ -243,7 +633,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-11-13T02:26:57.876Z",
+      "fetchedAt": "2026-11-13T11:55:30.700Z",
       "tags": [
         "大模型"
       ]
@@ -259,7 +649,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "AI应用"
       ]
@@ -275,7 +665,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-11-13T02:26:57.876Z",
+      "fetchedAt": "2026-11-13T11:55:30.700Z",
       "tags": [
         "大模型"
       ]
@@ -291,7 +681,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -308,7 +698,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
+      "fetchedAt": "2026-11-13T11:55:29.673Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +714,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
+      "fetchedAt": "2026-11-13T11:55:29.673Z",
       "tags": [
         "综合"
       ]
@@ -340,7 +730,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "开源工具",
         "商业融资"
@@ -357,7 +747,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-13T02:26:58.905Z",
+      "fetchedAt": "2026-11-13T11:55:31.734Z",
       "tags": [
         "AI应用"
       ]
@@ -373,7 +763,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "综合"
       ]
@@ -389,7 +779,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "政策监管"
       ]
@@ -405,7 +795,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
+      "fetchedAt": "2026-11-13T11:55:29.370Z",
       "tags": [
         "开源工具"
       ]
@@ -421,394 +811,10 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
+      "fetchedAt": "2026-11-13T11:55:29.673Z",
       "tags": [
         "学术研究",
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "More game developers are starting to use generative AI",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "snippet": "A photo from the GDC Festival of Gaming 2026 event.\t  More video game developers are using generative AI tools in their jobs compared to last year, ac",
-      "pubDate": "2026-11-12T17:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Jensen Huang agrees to testify before Congress",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-      "snippet": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after seve",
-      "pubDate": "Thu, 12 Nov 2026 16:36:37 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-      "snippet": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the",
-      "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Jensen Huang is out. What did China want from him?",
-      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "snippet": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minu",
-      "pubDate": "2026-11-12T16:30:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
-      "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
-      "snippet": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
-      "pubDate": "Thu, 12 Nov 2026 16:12:44 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "snippet": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an inves",
-      "pubDate": "2026-11-12T15:48:12.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-      "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
-      "snippet": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
-      "pubDate": "Thu, 12 Nov 2026 15:37:29 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-      "snippet": "This is the investment firm's largest fund to date.",
-      "pubDate": "Thu, 12 Nov 2026 15:18:14 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
-      "snippet": "This is Fireworks' second data breach in as many months.",
-      "pubDate": "Thu, 12 Nov 2026 15:02:28 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Zack Whittaker",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company",
-      "pubDate": "2026-11-12T15:01:31.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-      "link": "https://arstechnica.com/google/2026/11/google-pushes-privacy-angle-as-gemini-powered-smartglasses-debut-starting-at-395/",
-      "snippet": "The first Gemini smartglasses are a collab between Google, Samsung, Gentle Monster, and Warby Parker.",
-      "pubDate": "Thu, 12 Nov 2026 14:50:17 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-11-13T02:26:57.876Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "I reviewed the Apple HomeView, ask me anything",
-      "link": "https://www.theverge.com/tech/1031868/i-reviewed-the-apple-homeview-ask-me-anything",
-      "snippet": "Getting up close and personal with the Apple HomeView. | Photo: Hunter McRae for The Verge\t  Hi! I'm Jen Tuohy, The Verge's senior smart home reviewer",
-      "pubDate": "2026-11-12T14:10:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-13T02:26:56.608Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-      "snippet": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "pubDate": "Thu, 12 Nov 2026 13:26:25 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kate Park",
-      "fetchedAt": "2026-11-13T02:26:56.225Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "link": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What to know",
-      "pubDate": "Thu, 12 Nov 2026 13:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-13T02:26:56.939Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "link": "https://openai.com/business/customer-stories/gondola",
-      "snippet": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-      "pubDate": "Thu, 12 Nov 2026 12:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-13T02:26:58.468Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
-      "link": "https://www.qbitai.com/2026/11/509440.html",
-      "snippet": "「CAD拆解」",
-      "pubDate": "Thu, 12 Nov 2026 11:36:20 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "Jay",
-      "fetchedAt": "2026-11-13T02:26:44.905Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
-      "link": "https://www.qbitai.com/2026/11/509404.html",
-      "snippet": "银河智学首席科学家邓澍军博士发表主题演讲",
-      "pubDate": "Thu, 12 Nov 2026 10:45:33 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-13T02:26:44.905Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
-      "link": "https://www.qbitai.com/2026/11/509381.html",
-      "snippet": "全世界都在踩刹车，达里奥一个人踩油门",
-      "pubDate": "Thu, 12 Nov 2026 10:11:29 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-11-13T02:26:44.905Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
-      "link": "https://www.qbitai.com/2026/11/509355.html",
-      "snippet": "Grok在让人破绷这件事上，从来不会让人失望。",
-      "pubDate": "Thu, 12 Nov 2026 10:08:24 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "henry",
-      "fetchedAt": "2026-11-13T02:26:44.905Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
-      "link": "https://www.qbitai.com/2026/11/509349.html",
-      "snippet": "企业 AI 的难题，不只是模型够不够强",
-      "pubDate": "Thu, 12 Nov 2026 09:34:06 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-13T02:26:44.905Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "snippet": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-      "pubDate": "Thu, 12 Nov 2026 09:30:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-13T02:26:58.468Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "IBM Announces IBM Quantum Nighthawk r3: A New Processor to Support 10k Quantum Operations on 520 Programmable Qubits",
-      "link": "https://www.marktechpost.com/2026/11/12/ibm-quantum-nighthawk-r3-520-qubits-1040-qubit-system-2027/",
-      "snippet": "IBM announced Quantum Nighthawk r3, a 520-qubit processor designed for 10,000 quantum operations. 2 r3 chips will link into a 1,040-qubit system in 20",
-      "pubDate": "Thu, 12 Nov 2026 08:42:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-13T02:26:58.905Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "马斯克已准备好聘请黄仁勋",
-      "link": "https://www.qbitai.com/2026/11/509334.html",
-      "snippet": "老黄出轨认错、再曝婚外恋",
-      "pubDate": "Thu, 12 Nov 2026 08:16:11 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-11-13T02:26:44.905Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "Anthropic玻璃翼计划被质疑！近4万个候补漏洞，只修了217条",
-      "link": "https://www.qbitai.com/2026/11/509291.html",
-      "snippet": "只管挖不管埋。",
-      "pubDate": "Thu, 12 Nov 2026 07:55:11 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "程浅",
-      "fetchedAt": "2026-11-13T02:26:44.905Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
