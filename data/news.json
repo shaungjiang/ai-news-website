@@ -1,13 +1,125 @@
 {
-  "generatedAt": "2026-11-14T08:48:43.802Z",
+  "generatedAt": "2026-11-14T16:30:59.374Z",
   "stats": {
     "total": 115,
     "shown": 50,
     "chinese": 30,
     "english": 85,
-    "today": 2
+    "today": 11
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "snippet": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode",
+      "pubDate": "2026-11-14T15:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-14T16:24:17.664Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "snippet": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t  On January 6th, 2025,",
+      "pubDate": "2026-11-14T12:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-14T16:24:17.664Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+      "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
+      "snippet": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8",
+      "pubDate": "Sat, 14 Nov 2026 10:21:21 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-14T16:24:19.790Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
+      "link": "https://www.qbitai.com/2026/11/510297.html",
+      "snippet": "马斯克也签名了",
+      "pubDate": "Sat, 14 Nov 2026 10:08:08 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "鹭羽",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "link": "https://www.qbitai.com/2026/11/510232.html",
+      "snippet": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
+      "pubDate": "Sat, 14 Nov 2026 09:58:22 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "鹭羽",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
+      "link": "https://www.qbitai.com/2026/11/510150.html",
+      "snippet": "童年的纸飞机，现在终于飞回我手里～",
+      "pubDate": "Sat, 14 Nov 2026 09:48:34 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "程浅",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "绿电进Token出！联想重新定义词元工厂",
+      "link": "https://www.qbitai.com/2026/11/510094.html",
+      "snippet": "年产2000万亿Token，成本狂降70%",
+      "pubDate": "Sat, 14 Nov 2026 09:41:02 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
@@ -19,7 +131,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-14T08:42:04.157Z",
+      "fetchedAt": "2026-11-14T16:24:19.790Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -36,9 +148,41 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "大模型"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
+      "link": "https://www.qbitai.com/2026/11/510013.html",
+      "snippet": "狂揽3000万播放量",
+      "pubDate": "Sat, 14 Nov 2026 02:59:35 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "突发！DeepSeek开放全家桶API",
+      "link": "https://www.qbitai.com/2026/11/510003.html",
+      "snippet": "官方App功能均可自由组合调用",
+      "pubDate": "Sat, 14 Nov 2026 02:39:56 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -52,7 +196,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:02.060Z",
+      "fetchedAt": "2026-11-14T16:24:17.664Z",
       "tags": [
         "AI应用"
       ]
@@ -68,7 +212,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin, Dominic-Madori Davis",
-      "fetchedAt": "2026-11-14T08:42:01.762Z",
+      "fetchedAt": "2026-11-14T16:24:17.414Z",
       "tags": [
         "商业融资"
       ]
@@ -84,7 +228,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-14T08:42:03.421Z",
+      "fetchedAt": "2026-11-14T16:24:18.940Z",
       "tags": [
         "开源工具"
       ]
@@ -100,7 +244,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:02.060Z",
+      "fetchedAt": "2026-11-14T16:24:17.664Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -117,7 +261,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-11-14T08:42:01.762Z",
+      "fetchedAt": "2026-11-14T16:24:17.414Z",
       "tags": [
         "商业融资",
         "开源工具"
@@ -134,7 +278,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-14T08:42:01.762Z",
+      "fetchedAt": "2026-11-14T16:24:17.414Z",
       "tags": [
         "政策监管"
       ]
@@ -150,7 +294,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-11-14T08:42:03.421Z",
+      "fetchedAt": "2026-11-14T16:24:18.940Z",
       "tags": [
         "学术研究"
       ]
@@ -166,7 +310,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-14T08:42:04.157Z",
+      "fetchedAt": "2026-11-14T16:24:19.790Z",
       "tags": [
         "综合"
       ]
@@ -182,7 +326,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "AI应用"
       ]
@@ -198,7 +342,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-14T08:42:04.157Z",
+      "fetchedAt": "2026-11-14T16:24:19.790Z",
       "tags": [
         "AI应用"
       ]
@@ -214,7 +358,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-14T08:42:01.762Z",
+      "fetchedAt": "2026-11-14T16:24:17.414Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -231,7 +375,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-14T08:42:01.762Z",
+      "fetchedAt": "2026-11-14T16:24:17.414Z",
       "tags": [
         "综合"
       ]
@@ -247,7 +391,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:03.821Z",
+      "fetchedAt": "2026-11-14T16:24:19.414Z",
       "tags": [
         "大模型",
         "AI应用"
@@ -264,7 +408,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:02.060Z",
+      "fetchedAt": "2026-11-14T16:24:17.664Z",
       "tags": [
         "综合"
       ]
@@ -280,7 +424,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-14T08:42:01.762Z",
+      "fetchedAt": "2026-11-14T16:24:17.414Z",
       "tags": [
         "AI应用"
       ]
@@ -296,7 +440,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:02.060Z",
+      "fetchedAt": "2026-11-14T16:24:17.664Z",
       "tags": [
         "大模型"
       ]
@@ -312,7 +456,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-14T08:42:02.495Z",
+      "fetchedAt": "2026-11-14T16:24:17.973Z",
       "tags": [
         "综合"
       ]
@@ -328,7 +472,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-11-14T08:42:01.762Z",
+      "fetchedAt": "2026-11-14T16:24:17.414Z",
       "tags": [
         "商业融资"
       ]
@@ -344,7 +488,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-14T08:42:01.762Z",
+      "fetchedAt": "2026-11-14T16:24:17.414Z",
       "tags": [
         "综合"
       ]
@@ -360,7 +504,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:02.060Z",
+      "fetchedAt": "2026-11-14T16:24:17.664Z",
       "tags": [
         "综合"
       ]
@@ -376,7 +520,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-14T08:42:04.157Z",
+      "fetchedAt": "2026-11-14T16:24:19.790Z",
       "tags": [
         "AI应用"
       ]
@@ -392,7 +536,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "综合"
       ]
@@ -408,7 +552,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Jessica Hamzelou",
-      "fetchedAt": "2026-11-14T08:42:02.495Z",
+      "fetchedAt": "2026-11-14T16:24:17.973Z",
       "tags": [
         "综合"
       ]
@@ -424,7 +568,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Aaron Zamost",
-      "fetchedAt": "2026-11-14T08:42:02.495Z",
+      "fetchedAt": "2026-11-14T16:24:17.973Z",
       "tags": [
         "综合"
       ]
@@ -440,7 +584,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-14T08:42:04.157Z",
+      "fetchedAt": "2026-11-14T16:24:19.790Z",
       "tags": [
         "大模型"
       ]
@@ -456,7 +600,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -473,7 +617,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "商业融资"
       ]
@@ -489,7 +633,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "政策监管",
         "AI应用"
@@ -506,7 +650,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "大模型"
       ]
@@ -522,7 +666,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -539,7 +683,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "henry",
-      "fetchedAt": "2026-11-14T08:41:56.814Z",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
       "tags": [
         "综合"
       ]
@@ -555,7 +699,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -572,7 +716,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -589,7 +733,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:03.821Z",
+      "fetchedAt": "2026-11-14T16:24:19.414Z",
       "tags": [
         "综合"
       ]
@@ -605,7 +749,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-14T08:41:56.814Z",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
       "tags": [
         "综合"
       ]
@@ -621,7 +765,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "综合"
       ]
@@ -637,7 +781,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "鹭羽",
-      "fetchedAt": "2026-11-14T08:41:56.814Z",
+      "fetchedAt": "2026-11-14T16:24:12.389Z",
       "tags": [
         "综合"
       ]
@@ -653,7 +797,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "学术研究"
       ]
@@ -669,154 +813,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
+      "fetchedAt": "2026-11-14T16:24:17.117Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "中大梁小丹团队，GeoThinker 两项研究成果，破除空间推理「几何信息用不好、计算开销大」难题",
-      "link": "https://www.leiphone.com/category/academic/FpJFXrs9xGOOewKA.html",
-      "snippet": "不再实时调用外部三维几何编码器，视觉语言模型空间推理提速约 3.6 倍。          作者丨张岂萍      编辑丨幸丽娟",
-      "pubDate": "Fri, 13 Nov 2026 15:40:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "猫粮要保鲜，饮水要恒温，淘宝出海宠物智能用品跑出新增长",
-      "link": "https://www.leiphone.com/category/industrynews/Fs1xk6Oh4bie2guE.html",
-      "snippet": "这个双11，宠物品牌出海提速。据统计，淘宝天猫宠物行业已有超半数宠物品牌进入海外市场，其中宠物智能设备海外成交增速领跑全行业，智能喂食器、智能饮水机、智能储粮桶和宠物可穿戴设备等品类的海外成交额均实现两位数同比增长，全球宠物行业跑步进入“智能时代”。 对于养宠物的家庭来说，宠物智能设备并不是一个时髦",
-      "pubDate": "Fri, 13 Nov 2026 15:29:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "京博控股集团与千问办公达成战略合作，共创化工行业AI Native标杆",
-      "link": "https://www.leiphone.com/category/industrynews/TVkq6K4xkcX9zKSN.html",
-      "snippet": "近日，京博控股集团与千问办公达成战略合作，明确全集团将基于千问办公打造AI Native组织。后续双方将围绕科研创新、生产运营优化、经营分析、流程组织重构等核心场景展开合作，共同探索化工行业的智能化升级路径。京博控股集团执行董事、首席轮值总裁栾波，集团轮值总裁兼海外总裁汪君华和千问办公CEO陈宇森等",
-      "pubDate": "Fri, 13 Nov 2026 15:27:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "高德推出AutoSDK国际版，海外司机也能体验到中国导航了！",
-      "link": "https://www.leiphone.com/category/industrynews/1QHwFdkqb0nSgOjV.html",
-      "snippet": "近年来，中国汽车产业全球化进程显著加速。中国汽车工业协会数据显示，2024年中国汽车出口量达585.9万辆，同比增长19.3%，稳居全球首位。 然而，在硬件实力大步“走出去”的同时，海外用户的车载导航体验却成为中国车企提升品牌软实力和用户满意度的关键瓶颈。一直以来，车企在全球导航市场面临着产品定义不",
-      "pubDate": "Fri, 13 Nov 2026 15:25:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "比亚迪第1900万辆新能源汽车下线，科技新奢旗舰SUV方程豹钛9开启预订",
-      "link": "https://www.qbitai.com/2026/11/509730.html",
-      "snippet": "比亚迪第1900万辆新能源汽车在西安工厂正式下线",
-      "pubDate": "Fri, 13 Nov 2026 07:17:54 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-14T08:41:56.814Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "谷歌的遗憾，被高德弥补了",
-      "link": "https://www.leiphone.com/category/industrynews/VKIfDDIJRVZxJZR7.html",
-      "snippet": "谷歌曾在I/O 开发者大会上展示了一段令外界惊叹的演示：用户可以从高空“飞入”3D地图，沉浸式感受城市街景。 不过，这项被称为“沉浸式视图”的功能，至今仍未在谷歌地图中规模化落地。反倒是在今年，国内的高德后来居上，用更前沿的技术，将飞行视角从街道延伸至了店铺，并且真正实现了规模化应用。 2026 年",
-      "pubDate": "Fri, 13 Nov 2026 15:15:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-14T08:42:01.506Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "从仰望极速新纪录和鼎曜全球发布 看比亚迪的国际化与高端化之路",
-      "link": "https://www.qbitai.com/2026/11/509716.html",
-      "snippet": "比亚迪正在把规模优势转化为技术与品牌价值",
-      "pubDate": "Fri, 13 Nov 2026 07:12:42 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-14T08:41:56.814Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "比亚迪与神州租车首批闪充车及闪充站投放仪式顺利举行，战略合作落地兑现，闪充中国再次提速",
-      "link": "https://www.qbitai.com/2026/11/509710.html",
-      "snippet": "2026年11月10日，比亚迪与神州租车首批闪充车及闪充站投放仪式在山东济南隆重举办",
-      "pubDate": "Fri, 13 Nov 2026 07:09:05 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-14T08:41:56.814Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "高难盲测超越GPT-6-Astra与Opus-5！无界前沿开源Fx-Bio-1031，把RSI带进生命科学",
-      "link": "https://www.qbitai.com/2026/11/509663.html",
-      "snippet": "数据不出域、本地可部署",
-      "pubDate": "Fri, 13 Nov 2026 07:06:32 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "思邈",
-      "fetchedAt": "2026-11-14T08:41:56.814Z",
-      "tags": [
-        "大模型"
       ]
     }
   ]
