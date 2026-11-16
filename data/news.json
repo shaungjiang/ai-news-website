@@ -1,13 +1,623 @@
 {
-  "generatedAt": "2026-11-16T05:18:09.444Z",
+  "generatedAt": "2026-11-16T15:09:55.946Z",
   "stats": {
     "total": 117,
     "shown": 50,
-    "chinese": 30,
-    "english": 87,
-    "today": 4
+    "chinese": 28,
+    "english": 89,
+    "today": 43
   },
   "articles": [
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+      "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+      "snippet": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "pubDate": "Mon, 16 Nov 2026 15:02:34 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ram Iyer",
+      "fetchedAt": "2026-11-16T15:03:14.140Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+      "snippet": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfron",
+      "pubDate": "Mon, 16 Nov 2026 14:48:13 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Aisha Malik",
+      "fetchedAt": "2026-11-16T15:03:14.140Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Jensen Huang allies build a \"war room\" to get him back at Nvidia",
+      "link": "https://arstechnica.com/ai/2026/11/jensen-huang-allies-build-a-war-room-to-get-him-back-at-nvidia/",
+      "snippet": "Huang is weighing a return just days after resigning amid a deepening scandal.",
+      "pubDate": "Mon, 16 Nov 2026 14:06:16 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Michael Acton, Financial Times\n                ",
+      "fetchedAt": "2026-11-16T15:03:15.547Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Audible is trying to make it easier to find audiobooks you’ll actually like",
+      "link": "https://www.theverge.com/tech/1034083/audible-audio-discovery-ai-feature-availability",
+      "snippet": "Here’s what the new audio discovery feature looks like in the Audible app. | Image: Audible\t  Audible is introducing an AI-assisted synopsis feature t",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:14.495Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Google Maps can now create trip itineraries for you",
+      "link": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "snippet": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details abo",
+      "pubDate": "2026-11-16T14:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:14.495Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "link": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
+      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there",
+      "pubDate": "Mon, 16 Nov 2026 13:10:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Thomas Macaulay",
+      "fetchedAt": "2026-11-16T15:03:14.809Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "The Nvidia scandal isn’t slowing down",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
+      "snippet": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote",
+      "pubDate": "2026-11-16T13:00:00.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:14.495Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Building AI that can work across the enterprise",
+      "link": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+      "snippet": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the busines",
+      "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "MIT Technology Review Insights",
+      "fetchedAt": "2026-11-16T15:03:14.809Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM",
+      "link": "https://techcrunch.com/2026/11/16/freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm/",
+      "snippet": "Dreamteam has signed up more than 100 customers across 13 countries, with some businesses switching from established CRMs.",
+      "pubDate": "Mon, 16 Nov 2026 12:30:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Jagmeet Singh",
+      "fetchedAt": "2026-11-16T15:03:14.140Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO",
+      "link": "https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html",
+      "snippet": "要闻提示      1.黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 2.女子称因拒绝给HR带咖啡被取消面试，BOSS直聘回应：已暂停该招聘账号权限 3.董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证 4.腾讯 AI 李牧青离职，出任 AI 公司联席 CEO 5.韩路也来凑热闹",
+      "pubDate": "Mon, 16 Nov 2026 19:21:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "link": "https://www.qbitai.com/2026/11/510542.html",
+      "snippet": "具身智能的真正价值是“把人的经验、技能复刻出来”",
+      "pubDate": "Mon, 16 Nov 2026 10:57:31 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Meet Meta’s JiTTests: LLM-Generated Tests Designed to Fail Before Risky Code Lands",
+      "link": "https://www.marktechpost.com/2026/11/16/meta-jittests-llm-catching-tests-privacy-bugs/",
+      "snippet": "Meta has moved Catching JiTTests into production. The LLM system writes tests designed to fail on risky diffs, and caught 74 privacy SEVs before landi",
+      "pubDate": "Mon, 16 Nov 2026 10:39:41 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-16T15:03:16.507Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装",
+      "link": "https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html",
+      "snippet": "11月13日，启境汽车以“一车双能 为热爱上新”为主题，正式推出启境GT7 Ultra舒享版增程、纯电双车型，限时权益价分别为22.19万元与23.19万元。两款新车均标配面向L3级自动驾驶架构，启境GT7此次上新进一步拓宽了动力选择：增程版主打超长续航，纯电版兼顾豪华舒享。双车型均享最低首付6.6",
+      "pubDate": "Mon, 16 Nov 2026 17:54:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Alibaba Releases Qwen4-Max: 2.4T MoE, 71B Active, 1M Context",
+      "link": "https://www.marktechpost.com/2026/11/16/alibaba-qwen4-max-release/",
+      "snippet": "Alibaba released Qwen4-Max, a proprietary 2.4T-parameter MoE model with 71B active parameters, native vision and a 1M-token context. It costs $1.5/M i",
+      "pubDate": "Mon, 16 Nov 2026 09:44:17 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-16T15:03:16.507Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "Hark Releases Handoff², a 2x Faster Computer-Use Agent for Hark Pro",
+      "link": "https://www.marktechpost.com/2026/11/16/hark-handoff-2-computer-use-agent-2x-faster/",
+      "snippet": "Hark has released Handoff², the computer-use agent inside Hark Pro. It averages 2x faster than v1, completes 82% of 478 internal web tasks, and learne",
+      "pubDate": "Mon, 16 Nov 2026 09:08:37 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Michal Sutter",
+      "fetchedAt": "2026-11-16T15:03:16.507Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "link": "https://openai.com/index/lvmh-media-division-partnership",
+      "snippet": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "pubDate": "Mon, 16 Nov 2026 09:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:15.998Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景",
+      "link": "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html",
+      "snippet": "近日，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，让AI办公进一步走向职业化。据悉，这也是业内首个面向多个专业场景、不同职业人群定制的AI工作台功能。  工作台页面 据豆包工作官方介绍，“工作台”是为用户的专业工作场景提供的专属AI工作空间。金融、医疗、教育、",
+      "pubDate": "Mon, 16 Nov 2026 16:59:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "link": "https://www.qbitai.com/2026/11/510526.html",
+      "snippet": "12月1日，细数AI的未竟之问。",
+      "pubDate": "Mon, 16 Nov 2026 08:45:17 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
+      "link": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
+      "snippet": "物理AI的热度，正从机器人本体向产业链上下游扩散。 过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。 答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏",
+      "pubDate": "Mon, 16 Nov 2026 16:04:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+      "link": "https://www.qbitai.com/2026/11/510496.html",
+      "snippet": "在华为待了快10000天。",
+      "pubDate": "Mon, 16 Nov 2026 08:02:07 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "程浅",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026",
+      "link": "https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html",
+      "snippet": "研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。          作者丨张   璐      编辑丨马晓宁",
+      "pubDate": "Mon, 16 Nov 2026 15:59:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "link": "https://www.qbitai.com/2026/11/510493.html",
+      "snippet": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+      "pubDate": "Mon, 16 Nov 2026 07:58:57 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "link": "https://www.qbitai.com/2026/11/510486.html",
+      "snippet": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+      "pubDate": "Mon, 16 Nov 2026 07:51:57 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
+      "link": "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html",
+      "snippet": "时隔两年，World Labs 的工作已经完全不同了。          作者丨齐铖湧      编辑丨岑   峰",
+      "pubDate": "Mon, 16 Nov 2026 15:28:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "余承东发布新款问界M8：38万元起售，全系预埋L3架构",
+      "link": "https://www.qbitai.com/2026/11/510436.html",
+      "snippet": "余承东重新明确分工",
+      "pubDate": "Mon, 16 Nov 2026 07:26:33 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "杰西卡",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」",
+      "link": "https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html",
+      "snippet": "一场横跨科研、经济、AI、社会话题、算力未来的女性对话。          作者丨齐铖湧      编辑丨岑   峰",
+      "pubDate": "Mon, 16 Nov 2026 15:24:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "snippet": "",
+      "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:15.998Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "snippet": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "pubDate": "Mon, 16 Nov 2026 06:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:15.998Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "韩国消费者爱上速卖通双11！中国品牌成交大涨4倍",
+      "link": "https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html",
+      "snippet": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。     （速卖通韩国在双11活动现场送出特斯拉大奖）   速卖通平台数据显示，11月1日至10日，电脑办公品牌",
+      "pubDate": "Mon, 16 Nov 2026 13:33:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "韩国消费者爱上双11！速卖通上中国品牌成交大涨4倍",
+      "link": "https://www.leiphone.com/category/industrynews/Qm4GG0NRchACeSdH.html",
+      "snippet": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。随着新能源车的兴起，电动汽车配件也在韩国热卖。11月1日至10日，速卖通汽摩配类目的买家数较去年同期几乎翻番，电",
+      "pubDate": "Mon, 16 Nov 2026 13:31:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "龙芯、海光老兵集结，通研院孵化的AGI芯片公司浮出水面！半年连融数亿元",
+      "link": "https://www.qbitai.com/2026/11/510416.html",
+      "snippet": "杨立昆、李飞飞都在追问的事，通芯智能想用一颗芯片来回答。",
+      "pubDate": "Mon, 16 Nov 2026 05:05:22 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
+      "link": "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html",
+      "snippet": "11月16日，千问办公一口气上线10款模型，包括刚刚发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多款三方大模型。目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。      此前，千问办公在模型供给上为用户",
+      "pubDate": "Mon, 16 Nov 2026 12:08:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "AI应用",
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径",
+      "link": "https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html",
+      "snippet": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的",
+      "pubDate": "Mon, 16 Nov 2026 12:00:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
+      "link": "https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html",
+      "snippet": "2026 年 11 月 14 日，深圳湾文化广场北馆INNO100 全球创新旗舰店，Kickstarter为其平台上的众筹爆款新品——妙动科技打造的多地形跟拍机器人Beni，举办“首硬礼”中国线下首发活动。即日起用户可在该线下门店现场体验并直接购买Beni跟拍机器人，标准套装4999元、探索套装57",
+      "pubDate": "Mon, 16 Nov 2026 11:50:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "抖音商城双11 好物节收官：品牌如何在大促中收获生意爆发？",
+      "link": "https://www.leiphone.com/category/industrynews/k4AfYGyYAfHKk0WW.html",
+      "snippet": "2026年抖音商城双11好物节已落下帷幕，品牌商家们围绕不同的消费需求规划货盘与内容，并结合消费券、补贴和现货履约保障，取得了各具特点的经营成果。 接下来，本文将结合品牌的真实案例，分享商家在大促中的“高能打法”与可复用的经营策略。 荣耀：携手「上新了！超级开新」IP首发年度新品，联动明星达人直播引",
+      "pubDate": "Mon, 16 Nov 2026 11:37:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？",
+      "link": "https://www.leiphone.com/category/industrynews/uQHWYgknaxF4jzlB.html",
+      "snippet": "11月16日，华为终端发布华为Mate X8新机屏幕卖点视频，官宣其将搭载第二代灵珑屏。与此同时，以“大、亮、平”为主题的户外广告同步登陆多个核心商圈户外大屏，迅速掀起新一轮热议。作为新一代大折叠的核心升级点，这次屏幕焕新显然不止是常规参数迭代，而是预示着折叠屏体验即将迎来一次全面进阶。  提到折叠",
+      "pubDate": "Mon, 16 Nov 2026 11:35:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "tags": [
+        "AI应用",
+        "开源工具"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "今天截止！2026年度AI表彰，错过再等一年！",
+      "link": "https://www.qbitai.com/2026/11/510382.html",
+      "snippet": "量子位在寻找“能干”的答案",
+      "pubDate": "Mon, 16 Nov 2026 03:19:53 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "提速2.48倍且画质不掉线，AI视频“降本增效”有了新解法",
+      "link": "https://www.qbitai.com/2026/11/510369.html",
+      "snippet": "是石科技最新发布多模态模型服务",
+      "pubDate": "Mon, 16 Nov 2026 03:07:39 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "思邈",
+      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
     {
       "id": "bGVpcGhvbmU6aHR0",
       "title": "会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景",
@@ -19,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-16T05:13:48.815Z",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -36,7 +646,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-16T05:13:48.815Z",
+      "fetchedAt": "2026-11-16T15:03:13.788Z",
       "tags": [
         "AI应用",
         "大模型"
@@ -53,7 +663,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
+      "fetchedAt": "2026-11-16T15:03:14.140Z",
       "tags": [
         "AI应用",
         "学术研究"
@@ -70,7 +680,23 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
+      "fetchedAt": "2026-11-16T15:03:14.495Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "link": "https://openai.com/index/the-kings-trust-and-openai",
+      "snippet": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+      "pubDate": "Mon, 16 Nov 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-16T15:03:15.998Z",
       "tags": [
         "AI应用"
       ]
@@ -86,7 +712,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
+      "fetchedAt": "2026-11-16T15:03:14.140Z",
       "tags": [
         "商业融资"
       ]
@@ -102,7 +728,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-16T05:13:51.182Z",
+      "fetchedAt": "2026-11-16T15:03:15.998Z",
       "tags": [
         "大模型"
       ]
@@ -118,7 +744,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-16T05:13:51.182Z",
+      "fetchedAt": "2026-11-16T15:03:15.998Z",
       "tags": [
         "学术研究"
       ]
@@ -134,7 +760,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
+      "fetchedAt": "2026-11-16T15:03:14.140Z",
       "tags": [
         "综合"
       ]
@@ -150,7 +776,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
+      "fetchedAt": "2026-11-16T15:03:14.495Z",
       "tags": [
         "综合"
       ]
@@ -166,7 +792,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
+      "fetchedAt": "2026-11-16T15:03:14.140Z",
       "tags": [
         "综合"
       ]
@@ -182,638 +808,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "An overview of Jensen Huang’s messy days",
-      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
-      "snippet": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallou",
-      "pubDate": "2026-11-15T13:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Bland Launches Tofu-1, a Full-Duplex Speech-to-Speech Model for Calls",
-      "link": "https://www.marktechpost.com/2026/11/15/bland-tofu-1-full-duplex-speech-to-speech-model/",
-      "snippet": "Bland has released Tofu-1, a full-duplex speech-to-speech model for noisy, high-stakes phone calls. It is in enterprise research preview, with no publ",
-      "pubDate": "Sun, 15 Nov 2026 10:06:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-16T05:13:51.540Z",
-      "tags": [
-        "AI应用",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Where was Nvidia’s security team?",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "snippet": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive",
-      "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Connie Loizos",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "snippet": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
-      "pubDate": "Sat, 14 Nov 2026 21:41:22 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "snippet": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-      "pubDate": "Sat, 14 Nov 2026 17:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Lauren Forristal",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "AI应用",
-        "商业融资"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Cmpnd Releases dspy-wsp: Weight-Space Programming Comes to DSPy",
-      "link": "https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/",
-      "snippet": "Cmpnd released dspy-wsp, a prototype DSPy optimizer for weight-space programming. A frontier LLM reads a small model’s weights, edits them in a sandbo",
-      "pubDate": "Sat, 14 Nov 2026 16:45:48 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-16T05:13:51.540Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "snippet": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigatio",
-      "pubDate": "Sat, 14 Nov 2026 16:34:15 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kate Park",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "snippet": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode",
-      "pubDate": "2026-11-14T15:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Jensen Huang and the decline of the visionary showman founder CEO",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "snippet": "Nvidia CEO Jensen Huang at CES 2025 in Las Vegas, Nevada, on January 6, 2025. | Photo by Artur Widak/NurPhoto via Getty Images\t  On January 6th, 2025,",
-      "pubDate": "2026-11-14T12:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
-      "link": "https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/",
-      "snippet": "Stanford researchers released Memorilla, an open-source memory system that compresses a document collection into 16 memory tokens for a frozen Qwen3-8",
-      "pubDate": "Sat, 14 Nov 2026 10:21:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-16T05:13:51.540Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "英伟达上演“奥特曼2.0”，员工集体请愿：让老黄回家！",
-      "link": "https://www.qbitai.com/2026/11/510297.html",
-      "snippet": "马斯克也签名了",
-      "pubDate": "Sat, 14 Nov 2026 10:08:08 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-11-16T05:13:44.407Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-      "link": "https://www.qbitai.com/2026/11/510232.html",
-      "snippet": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了",
-      "pubDate": "Sat, 14 Nov 2026 09:58:22 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "鹭羽",
-      "fetchedAt": "2026-11-16T05:13:44.407Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "程序员集体沉迷折纸飞机！最长滞空31.2秒",
-      "link": "https://www.qbitai.com/2026/11/510150.html",
-      "snippet": "童年的纸飞机，现在终于飞回我手里～",
-      "pubDate": "Sat, 14 Nov 2026 09:48:34 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "程浅",
-      "fetchedAt": "2026-11-16T05:13:44.407Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "绿电进Token出！联想重新定义词元工厂",
-      "link": "https://www.qbitai.com/2026/11/510094.html",
-      "snippet": "年产2000万亿Token，成本狂降70%",
-      "pubDate": "Sat, 14 Nov 2026 09:41:02 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "杰西卡",
-      "fetchedAt": "2026-11-16T05:13:44.407Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Vercel Releases UI SDK: 50+ UI Behaviors for AI Coding Agents",
-      "link": "https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/",
-      "snippet": "Vercel Labs released Vercel UI SDK, an Apache-2.0 beta library of 50+ UI behaviors. Coding agents compose them into accessible components for React, V",
-      "pubDate": "Sat, 14 Nov 2026 06:38:14 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-16T05:13:51.540Z",
-      "tags": [
-        "开源工具",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "百度词元所发布首日：供应商暴增超100家，客户新增超1000家",
-      "link": "https://www.leiphone.com/category/industrynews/cqPXhF38rM4VcVa7.html",
-      "snippet": "11月14日，从百度获悉，百度词元所发布首日，新增申请入驻的供应商已超过100家，新增超过1000家客户接入。   词元所在11月12日举行的百度世界2026上正式发布，百度创始人李彦宏将其称为“大模型的交易所”。据介绍，词元所一端汇聚模型和模型提供商，另一端服务企业和个人，让用户便捷地找到、购买和",
-      "pubDate": "Sat, 14 Nov 2026 13:45:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:48.815Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "中专生拍出《哈利·波特》爆款！欧美明星、好莱坞制片人集体点赞",
-      "link": "https://www.qbitai.com/2026/11/510013.html",
-      "snippet": "狂揽3000万播放量",
-      "pubDate": "Sat, 14 Nov 2026 02:59:35 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "一水",
-      "fetchedAt": "2026-11-16T05:13:44.407Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "突发！DeepSeek开放全家桶API",
-      "link": "https://www.qbitai.com/2026/11/510003.html",
-      "snippet": "官方App功能均可自由组合调用",
-      "pubDate": "Sat, 14 Nov 2026 02:39:56 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "一水",
-      "fetchedAt": "2026-11-16T05:13:44.407Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Amazon has a plan to index the world’s online shopping data",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "snippet": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information",
-      "pubDate": "2026-11-13T23:49:11.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "snippet": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuat",
-      "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Marina Temkin, Dominic-Madori Davis",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-      "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-      "snippet": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-      "pubDate": "Fri, 13 Nov 2026 21:20:47 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-16T05:13:50.665Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "snippet": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting tod",
-      "pubDate": "2026-11-13T20:45:10.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "AI agent startup LangChain hits $3B valuation",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "snippet": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
-      "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Julie Bort",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "商业融资",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "snippet": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
-      "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-      "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
-      "snippet": "Researcher traces a path from AI reward hacking to potential human extinction.",
-      "pubDate": "Fri, 13 Nov 2026 17:25:45 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Kyle Orland\n                ",
-      "fetchedAt": "2026-11-16T05:13:50.665Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Best AI Video Generation Models in 2026: Elo, Price per Second, Open Weights",
-      "link": "https://www.marktechpost.com/2026/11/13/best-ai-video-generation-models-2026/",
-      "snippet": "The AI video leaderboard looks very different from 12 months ago. Native audio is now table stakes. Clips run 15–30 seconds. And an open-weights model",
-      "pubDate": "Fri, 13 Nov 2026 17:23:51 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-16T05:13:51.540Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "浙大彭思达：从元宇宙到具身智能，一个三维视觉研究者的八年 | 世界模型50人",
-      "link": "https://www.leiphone.com/category/ai/lpK3LQWqmpZP8jcG.html",
-      "snippet": "八年研究，两个落地系统，超六万GitHub Stars。          作者丨李秋悦      编辑丨吴   彤",
-      "pubDate": "Sat, 14 Nov 2026 00:50:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:48.815Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Perplexity Releases Decider v1.3: Open-Weight Decision Models Add Locate",
-      "link": "https://www.marktechpost.com/2026/11/13/perplexity-decider-v1-3-open-weight-decision-models-locate/",
-      "snippet": "Perplexity Decider v1.3 and Flash v1.3 are open-weight decision models that return probabilities, not text. Version 1.3 adds Locate for span extractio",
-      "pubDate": "Fri, 13 Nov 2026 16:10:02 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-16T05:13:51.540Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
-      "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-      "snippet": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
-      "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop",
-      "pubDate": "Fri, 13 Nov 2026 15:58:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Introducing ChatGPT Wallet",
-      "link": "https://openai.com/index/introducing-chatgpt-wallet",
-      "snippet": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protec",
-      "pubDate": "Fri, 13 Nov 2026 15:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:51.182Z",
-      "tags": [
-        "大模型",
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "What&#8217;s really at stake in the Jensen Huang saga",
-      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "snippet": "One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important co",
-      "pubDate": "2026-11-13T14:47:16.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-      "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-      "snippet": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-      "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "snippet": "Let’s get to work. | Photo: Allison Johnson / The Verge\t  Normally, the products I test don't offer to help me write up my experience with them. Duet",
-      "pubDate": "2026-11-13T14:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:49.432Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "link": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "snippet": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Vall",
-      "pubDate": "Fri, 13 Nov 2026 13:10:00 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-16T05:13:49.765Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
-      "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
-      "snippet": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
-      "pubDate": "Fri, 13 Nov 2026 12:52:19 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anna Heim",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Jensen Huang didn’t show confidence in his successor, report says",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
-      "snippet": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
-      "pubDate": "Fri, 13 Nov 2026 12:28:23 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-16T05:13:49.093Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Google Releases TPU Sync: Open-Source KV Cache Transfer for TPUs",
-      "link": "https://www.marktechpost.com/2026/11/13/google-tpu-sync-kv-cache-transfer-library/",
-      "snippet": "Google released TPU Sync, an open-source C++ library that moves KV caches and weights across TPU HBM, host DRAM, storage and network. Google reports o",
-      "pubDate": "Fri, 13 Nov 2026 10:32:26 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-16T05:13:51.540Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "独家｜燧原科技首席生态官李星宇离职",
-      "link": "https://www.leiphone.com/category/chips/G6AiPuplIGyPkaQL.html",
-      "snippet": "作者｜包永刚 编辑｜刘伟 雷峰网独家获悉，燧原科技首席生态官李星宇已于近日离职。他离职后已入读港大-北大联合DBA博士项目，但尚未披露下一步职业计划。 李星宇拥有超过20年的半导体行业从业经验，工作经历涵盖云端AI计算芯片、自动驾驶AI芯片、智能座舱芯片等领域。 加入燧原科技之前，他曾在地平线任职8",
-      "pubDate": "Fri, 13 Nov 2026 18:00:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T05:13:48.815Z",
+      "fetchedAt": "2026-11-16T15:03:14.495Z",
       "tags": [
         "综合"
       ]
