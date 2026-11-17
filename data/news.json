@@ -1,25 +1,395 @@
 {
-  "generatedAt": "2026-11-16T15:09:55.946Z",
+  "generatedAt": "2026-11-17T00:10:13.495Z",
   "stats": {
-    "total": 117,
+    "total": 101,
     "shown": 50,
-    "chinese": 28,
-    "english": 89,
-    "today": 43
+    "chinese": 9,
+    "english": 92,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "link": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+      "snippet": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are c",
+      "pubDate": "2026-11-16T23:17:34.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+      "link": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+      "snippet": "Robotics startup misses payroll a year after CEO used funds for luxury home.",
+      "pubDate": "Mon, 16 Nov 2026 22:58:27 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-11-17T00:00:27.095Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+      "link": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+      "snippet": "Nvidia interim CEO and longtime CFO Colette Kress is about to have one of the biggest days of her career on Tuesday when the company reports its third",
+      "pubDate": "Mon, 16 Nov 2026 22:03:02 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Julie Bort",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "California sues OpenAI over rogue AI hacking incidents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+      "snippet": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit",
+      "pubDate": "2026-11-16T20:46:01.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "snippet": "Sam… thank you. | Image: Getty Images\t  OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be c",
+      "pubDate": "2026-11-16T20:41:28.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+      "link": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+      "snippet": "Constellation's Clinton Clean Energy Center’s single nuclear reactor power plant, July 25, 2025 in Clinton, Illinois. Meta signed a 20-year power purc",
+      "pubDate": "2026-11-16T20:29:37.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "US data centers now burn more electricity than a midsized country",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "snippet": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainabi",
+      "pubDate": "2026-11-16T20:27:58.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "California state AG sues OpenAI over rogue agent incidents",
+      "link": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+      "snippet": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident.",
+      "pubDate": "Mon, 16 Nov 2026 20:07:13 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Russell Brandom",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+      "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+      "snippet": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for",
+      "pubDate": "2026-11-16T19:24:40.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+      "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+      "snippet": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on qui",
+      "pubDate": "2026-11-16T19:23:45.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+      "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+      "snippet": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
+      "pubDate": "Mon, 16 Nov 2026 19:12:02 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Amanda Silberling",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "US moves to cut China’s remote access to AI chips",
+      "link": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/",
+      "snippet": "Trump bets China won’t mind US blocking remote access to AI chips.",
+      "pubDate": "Mon, 16 Nov 2026 19:10:09 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ashley Belanger\n                ",
+      "fetchedAt": "2026-11-17T00:00:27.095Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+      "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+      "snippet": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the boar",
+      "pubDate": "2026-11-16T18:43:35.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The open-source movement wants Jensen Huang back",
+      "link": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "snippet": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a",
+      "pubDate": "Mon, 16 Nov 2026 18:38:47 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "James O'Donnell",
+      "fetchedAt": "2026-11-17T00:00:26.533Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+      "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+      "snippet": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fin",
+      "pubDate": "Mon, 16 Nov 2026 18:11:10 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+      "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+      "snippet": "The FBI says that the open source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
+      "pubDate": "Mon, 16 Nov 2026 17:36:43 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Zack Whittaker",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+      "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+      "snippet": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+      "pubDate": "Mon, 16 Nov 2026 17:10:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Connie Loizos",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI will embed safety researchers to investigate AI subversion",
+      "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+      "snippet": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and di",
+      "pubDate": "Mon, 16 Nov 2026 17:02:43 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Rebecca Bellan",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+      "snippet": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Ivan Mehta",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Broadening access to AI for scientists",
+      "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "snippet": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:27.468Z",
+      "tags": [
+        "大模型",
+        "学术研究"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "link": "https://openai.com/index/strengthening-online-child-safety",
+      "snippet": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-17T00:00:27.468Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "link": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+      "snippet": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts a",
+      "pubDate": "Mon, 16 Nov 2026 16:04:28 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Sudhi Sinha",
+      "fetchedAt": "2026-11-17T00:00:26.533Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Audible turns to AI to help users discover audiobooks",
+      "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+      "snippet": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
+      "pubDate": "Mon, 16 Nov 2026 15:52:19 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Sarah Perez",
+      "fetchedAt": "2026-11-17T00:00:25.977Z",
+      "tags": [
+        "综合"
+      ]
+    },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
       "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
-      "snippet": "Under the interim rule, US will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
+      "snippet": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countr",
       "pubDate": "Mon, 16 Nov 2026 15:02:34 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Ram Iyer",
-      "fetchedAt": "2026-11-16T15:03:14.140Z",
+      "fetchedAt": "2026-11-17T00:00:25.978Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +405,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-16T15:03:14.140Z",
+      "fetchedAt": "2026-11-17T00:00:25.978Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +421,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Michael Acton, Financial Times\n                ",
-      "fetchedAt": "2026-11-16T15:03:15.547Z",
+      "fetchedAt": "2026-11-17T00:00:27.095Z",
       "tags": [
         "综合"
       ]
@@ -67,7 +437,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-16T15:03:14.495Z",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
       "tags": [
         "AI应用"
       ]
@@ -83,7 +453,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-16T15:03:14.495Z",
+      "fetchedAt": "2026-11-17T00:00:26.309Z",
       "tags": [
         "AI应用"
       ]
@@ -99,23 +469,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-16T15:03:14.809Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "The Nvidia scandal isn’t slowing down",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031740/jensen-huang-nvidia-scandal-isnt-slowing-down",
-      "snippet": "For years, Jensen Huang has had an almost unprecedented power to shape AI's advancement as Nvidia's CEO, cofounder, and president. As The Verge wrote",
-      "pubDate": "2026-11-16T13:00:00.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:14.495Z",
+      "fetchedAt": "2026-11-17T00:00:26.533Z",
       "tags": [
         "综合"
       ]
@@ -131,7 +485,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-11-16T15:03:14.809Z",
+      "fetchedAt": "2026-11-17T00:00:26.533Z",
       "tags": [
         "AI应用"
       ]
@@ -147,25 +501,26 @@
       "lang": "en",
       "category": "商业",
       "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-11-16T15:03:14.140Z",
+      "fetchedAt": "2026-11-17T00:00:25.978Z",
       "tags": [
         "商业融资"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "黄仁勋被曝考虑重返英伟达担任CEO！其硅谷盟友正施压董事会；女子因拒绝给HR带咖啡被取消面试，BOSS直聘回应；李牧青出任AI公司联席CEO",
-      "link": "https://www.leiphone.com/category/zaobao/QP6ok2UwM4JBsMEx.html",
-      "snippet": "要闻提示      1.黄仁勋被曝考虑重返英伟达担任 CEO！其硅谷盟友正施压董事会 2.女子称因拒绝给HR带咖啡被取消面试，BOSS直聘回应：已暂停该招聘账号权限 3.董明珠：格力对文凭的考虑已逐步取消，本事才是硬通行证 4.腾讯 AI 李牧青离职，出任 AI 公司联席 CEO 5.韩路也来凑热闹",
-      "pubDate": "Mon, 16 Nov 2026 19:21:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "link": "https://openai.com/index/science-at-the-frontier",
+      "snippet": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery",
+      "pubDate": "Mon, 16 Nov 2026 12:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "fetchedAt": "2026-11-17T00:00:27.468Z",
       "tags": [
-        "综合"
+        "大模型",
+        "AI应用"
       ]
     },
     {
@@ -179,7 +534,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "fetchedAt": "2026-11-17T00:00:15.314Z",
       "tags": [
         "AI应用"
       ]
@@ -195,25 +550,9 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-16T15:03:16.507Z",
+      "fetchedAt": "2026-11-17T00:00:27.773Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "启境GT7 Ultra舒享版纯电/增程正式上新！首付6.66万起，拿下L3级架构猎装",
-      "link": "https://www.leiphone.com/category/industrynews/OCFaX1WjrKRkcFm5.html",
-      "snippet": "11月13日，启境汽车以“一车双能 为热爱上新”为主题，正式推出启境GT7 Ultra舒享版增程、纯电双车型，限时权益价分别为22.19万元与23.19万元。两款新车均标配面向L3级自动驾驶架构，启境GT7此次上新进一步拓宽了动力选择：增程版主打超长续航，纯电版兼顾豪华舒享。双车型均享最低首付6.6",
-      "pubDate": "Mon, 16 Nov 2026 17:54:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -227,7 +566,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-16T15:03:16.507Z",
+      "fetchedAt": "2026-11-17T00:00:27.773Z",
       "tags": [
         "AI应用"
       ]
@@ -243,7 +582,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-16T15:03:16.507Z",
+      "fetchedAt": "2026-11-17T00:00:27.774Z",
       "tags": [
         "AI应用"
       ]
@@ -259,25 +598,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-16T15:03:15.998Z",
+      "fetchedAt": "2026-11-17T00:00:27.468Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育等21个专业场景",
-      "link": "https://www.leiphone.com/category/industrynews/hnSL5YwUtQjerTRK.html",
-      "snippet": "近日，豆包工作独家上线“工作台”功能，首批覆盖金融、医疗、教育、创意设计等21个专业场景，让AI办公进一步走向职业化。据悉，这也是业内首个面向多个专业场景、不同职业人群定制的AI工作台功能。  工作台页面 据豆包工作官方介绍，“工作台”是为用户的专业工作场景提供的专属AI工作空间。金融、医疗、教育、",
-      "pubDate": "Mon, 16 Nov 2026 16:59:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -291,23 +614,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "智算接棒：物理AI的下一个风口，在于计算基础设施",
-      "link": "https://www.leiphone.com/category/chips/yYPDwzuTBbcMSCSx.html",
-      "snippet": "物理AI的热度，正从机器人本体向产业链上下游扩散。 过去一年，人形机器人、四足机器狗频繁出现在工厂、仓库和门店。产业界关心的问题正在变化：从“机器人能完成什么动作”转向“如何让它越做越准”。 答案不只在机器人本体，更在其背后的计算系统：数据从哪里来，仿真在哪里运行，模型多久迭代，算力如何匹配研发节奏",
-      "pubDate": "Mon, 16 Nov 2026 16:04:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "fetchedAt": "2026-11-17T00:00:15.314Z",
       "tags": [
         "综合"
       ]
@@ -323,23 +630,23 @@
       "lang": "zh",
       "category": "综合",
       "creator": "程浅",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "fetchedAt": "2026-11-17T00:00:15.314Z",
       "tags": [
         "综合"
       ]
     },
     {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "HCI 先驱 de Souza：当 AI 替我们阅读，谁来为知识负责？| ACM MM 2026",
-      "link": "https://www.leiphone.com/category/private/j1CWHNsD9eBM7Wwc.html",
-      "snippet": "研究者需要的不只是AI生成的答案，更是审查答案、追溯来源并为知识判断负责的能力。          作者丨张   璐      编辑丨马晓宁",
-      "pubDate": "Mon, 16 Nov 2026 15:59:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Our first phase of embedded assessments",
+      "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "snippet": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and",
+      "pubDate": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
+      "fetchedAt": "2026-11-17T00:00:27.468Z",
       "tags": [
         "学术研究"
       ]
@@ -355,7 +662,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "fetchedAt": "2026-11-17T00:00:15.314Z",
       "tags": [
         "商业融资"
       ]
@@ -371,25 +678,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "fetchedAt": "2026-11-17T00:00:15.314Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "李飞飞最新 CoRL2026 演讲实录：从「橱柜模型」到世界模型，机器人需要什么样的 AI ？",
-      "link": "https://www.leiphone.com/category/ai/zV4No5T5XDHJcupr.html",
-      "snippet": "时隔两年，World Labs 的工作已经完全不同了。          作者丨齐铖湧      编辑丨岑   峰",
-      "pubDate": "Mon, 16 Nov 2026 15:28:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -403,25 +694,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "杰西卡",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "fetchedAt": "2026-11-17T00:00:15.314Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "李飞飞对话苏姿丰：AMD 收购后首次同台，CoRL 现场谈算力、机器人与「这个时代最大的失误」",
-      "link": "https://www.leiphone.com/category/ai/b2VJ0YUl2gN5nNie.html",
-      "snippet": "一场横跨科研、经济、AI、社会话题、算力未来的女性对话。          作者丨齐铖湧      编辑丨岑   峰",
-      "pubDate": "Mon, 16 Nov 2026 15:24:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "商业融资"
       ]
     },
     {
@@ -435,7 +710,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-16T15:03:15.998Z",
+      "fetchedAt": "2026-11-17T00:00:27.468Z",
       "tags": [
         "综合"
       ]
@@ -451,41 +726,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-16T15:03:15.998Z",
+      "fetchedAt": "2026-11-17T00:00:27.468Z",
       "tags": [
         "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "韩国消费者爱上速卖通双11！中国品牌成交大涨4倍",
-      "link": "https://www.leiphone.com/category/industrynews/cKZQPQOnwbz4y30h.html",
-      "snippet": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。     （速卖通韩国在双11活动现场送出特斯拉大奖）   速卖通平台数据显示，11月1日至10日，电脑办公品牌",
-      "pubDate": "Mon, 16 Nov 2026 13:33:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "韩国消费者爱上双11！速卖通上中国品牌成交大涨4倍",
-      "link": "https://www.leiphone.com/category/industrynews/Qm4GG0NRchACeSdH.html",
-      "snippet": "今年海外双11，阿里旗下跨境电商平台速卖通在韩国加大品牌投入，豪送4辆特斯拉，直接带动双11首日Brand+品牌商品成交额同比去年大涨4倍，石头、绿联等一众中国品牌在韩国市场实现数倍增长。随着新能源车的兴起，电动汽车配件也在韩国热卖。11月1日至10日，速卖通汽摩配类目的买家数较去年同期几乎翻番，电",
-      "pubDate": "Mon, 16 Nov 2026 13:31:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -499,91 +742,9 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "fetchedAt": "2026-11-17T00:00:15.314Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "模型选择自由！千问办公上线Qwen4、Kimi-K3.1、GLM-5.3等10款模型",
-      "link": "https://www.leiphone.com/category/industrynews/tDhzNl3D84AjopSh.html",
-      "snippet": "11月16日，千问办公一口气上线10款模型，包括刚刚发布的Qwen4-Max，以及Kimi、GLM、DeepSeek、MiniMax、Step等多款三方大模型。目前，千问办公的模型列表已向用户开放选择，个人版和企业标准版用户可结合自身使用场景自由选择模型。      此前，千问办公在模型供给上为用户",
-      "pubDate": "Mon, 16 Nov 2026 12:08:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "百度世界2026｜让金融AI用得起、更专业，度小满“轩辕”探索中小机构落地新路径",
-      "link": "https://www.leiphone.com/category/industrynews/JDoXug7VZqSjkQrQ.html",
-      "snippet": "11月12日，百度世界2026在北京举行，大会聚焦 AI 时代下如何提升组织能力。百度创始人李彦宏在开幕式上判断，人工智能的下一幕是“智能组织”，并首次提出“组织进化三原则”：打破岗位边界、沉淀隐性知识、设计流程闭环。“如果说，人工智能是新电能。那么，智能组织就是AI时代的新厂房，是生产力真正发生的",
-      "pubDate": "Mon, 16 Nov 2026 12:00:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "众筹超500万美元，全球首款多地形跟拍机器人Beni线下首发",
-      "link": "https://www.leiphone.com/category/weiwu/nFSVApZT1GmSFH9T.html",
-      "snippet": "2026 年 11 月 14 日，深圳湾文化广场北馆INNO100 全球创新旗舰店，Kickstarter为其平台上的众筹爆款新品——妙动科技打造的多地形跟拍机器人Beni，举办“首硬礼”中国线下首发活动。即日起用户可在该线下门店现场体验并直接购买Beni跟拍机器人，标准套装4999元、探索套装57",
-      "pubDate": "Mon, 16 Nov 2026 11:50:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "抖音商城双11 好物节收官：品牌如何在大促中收获生意爆发？",
-      "link": "https://www.leiphone.com/category/industrynews/k4AfYGyYAfHKk0WW.html",
-      "snippet": "2026年抖音商城双11好物节已落下帷幕，品牌商家们围绕不同的消费需求规划货盘与内容，并结合消费券、补贴和现货履约保障，取得了各具特点的经营成果。 接下来，本文将结合品牌的真实案例，分享商家在大促中的“高能打法”与可复用的经营策略。 荣耀：携手「上新了！超级开新」IP首发年度新品，联动明星达人直播引",
-      "pubDate": "Mon, 16 Nov 2026 11:37:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "华为Mate X8官宣第二代灵珑屏，折叠屏手机进入大焕新时代？",
-      "link": "https://www.leiphone.com/category/industrynews/uQHWYgknaxF4jzlB.html",
-      "snippet": "11月16日，华为终端发布华为Mate X8新机屏幕卖点视频，官宣其将搭载第二代灵珑屏。与此同时，以“大、亮、平”为主题的户外广告同步登陆多个核心商圈户外大屏，迅速掀起新一轮热议。作为新一代大折叠的核心升级点，这次屏幕焕新显然不止是常规参数迭代，而是预示着折叠屏体验即将迎来一次全面进阶。  提到折叠",
-      "pubDate": "Mon, 16 Nov 2026 11:35:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
       ]
     },
     {
@@ -597,7 +758,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "fetchedAt": "2026-11-17T00:00:15.315Z",
       "tags": [
         "综合"
       ]
@@ -613,76 +774,26 @@
       "lang": "zh",
       "category": "综合",
       "creator": "思邈",
-      "fetchedAt": "2026-11-16T15:03:07.792Z",
+      "fetchedAt": "2026-11-17T00:00:15.315Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "会畅科技发布任务管理原生 Agent 矩阵 软硬件协同深耕企业执行场景",
-      "link": "https://www.leiphone.com/category/industrynews/vBMqo9G7ViFbsPER.html",
-      "snippet": "2026 年 11 月 12 日，“会联运营・畅享执行 ——2026 会畅科技任务管理原生 Agent 发布会” 在上海举办。会畅科技现场推出白泽任务管理 OS 与会畅超光桌面 AI 助理终端两大核心产品，首次提出 “以任务为 AI 原生组织最小协作单元” 的产业判断，通过 “软件中枢 + 硬件入口",
-      "pubDate": "Mon, 16 Nov 2026 10:39:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "AI应用",
-        "开源工具"
-      ]
-    },
-    {
-      "id": "bGVpcGhvbmU6aHR0",
-      "title": "AI公司转型最难的一步：如何构建AI Native的产品体系",
-      "link": "https://www.leiphone.com/category/ai/pzBYjjLW3Cjb6AAO.html",
-      "snippet": "企业把大模型接进产品之后，新的经营问题才刚刚展开。客户提出一项任务，系统能拿到哪些信息，由谁核准结果，出现例外时如何处理，都会影响AI能否持续投入使用。产品演示中的能力，需要经由完整的服务过程才能转化为客户价值。 王强宇出任百望股份首席执行官（CEO），为观察这项变化提供了一个具体切口：王强宇如何将",
-      "pubDate": "Mon, 16 Nov 2026 10:12:00 +0800",
-      "sourceName": "雷锋网",
-      "sourceId": "leiphone",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:13.788Z",
-      "tags": [
-        "AI应用",
-        "大模型"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
       "title": "Apple launches new app to study how people use AI for health",
       "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-      "snippet": "Apple's new app for a study will answer everyday medical questions",
+      "snippet": "Apple's new app for a study will answer everyday medical questions.",
       "pubDate": "Mon, 16 Nov 2026 01:30:00 +0000",
       "sourceName": "TechCrunch",
       "sourceId": "techcrunch-ai",
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-16T15:03:14.140Z",
+      "fetchedAt": "2026-11-17T00:00:25.978Z",
       "tags": [
         "AI应用",
         "学术研究"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-      "snippet": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their r",
-      "pubDate": "2026-11-16T01:26:56.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:14.495Z",
-      "tags": [
-        "AI应用"
       ]
     },
     {
@@ -696,121 +807,9 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-16T15:03:15.998Z",
+      "fetchedAt": "2026-11-17T00:00:27.468Z",
       "tags": [
         "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-      "snippet": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
-      "pubDate": "Sun, 15 Nov 2026 23:30:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Jagmeet Singh",
-      "fetchedAt": "2026-11-16T15:03:14.140Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "snippet": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-      "pubDate": "Sun, 15 Nov 2026 22:00:01 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:15.998Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Our new blog for science",
-      "link": "https://openai.com/index/our-new-blog-for-science",
-      "snippet": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "pubDate": "Sun, 15 Nov 2026 22:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:15.998Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-      "snippet": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
-      "pubDate": "Sun, 15 Nov 2026 21:56:35 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-16T15:03:14.140Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-      "snippet": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our  Stepback newsletter should get you up t",
-      "pubDate": "2026-11-15T20:43:49.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:14.495Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-      "snippet": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all",
-      "pubDate": "Sun, 15 Nov 2026 20:20:57 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Anthony Ha",
-      "fetchedAt": "2026-11-16T15:03:14.140Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-      "snippet": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restric",
-      "pubDate": "2026-11-15T19:15:43.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-16T15:03:14.495Z",
-      "tags": [
-        "综合"
       ]
     }
   ]
