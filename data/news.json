@@ -1,13 +1,125 @@
 {
-  "generatedAt": "2026-11-20T18:28:59.629Z",
+  "generatedAt": "2026-11-21T01:14:24.675Z",
   "stats": {
-    "total": 121,
+    "total": 124,
     "shown": 50,
     "chinese": 30,
-    "english": 91,
-    "today": 34
+    "english": 94,
+    "today": 0
   },
   "articles": [
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Google rolls out new search homepage with AI chat history and no search button",
+      "link": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+      "snippet": "Google search is making it even easier to access AI tools on the search page.",
+      "pubDate": "Fri, 20 Nov 2026 21:58:29 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Ryan Whitwam\n                ",
+      "fetchedAt": "2026-11-21T01:07:44.229Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
+      "link": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+      "snippet": "Meta is “re-evaluating” 2030 sustainability goals. Will others follow?",
+      "pubDate": "Fri, 20 Nov 2026 21:47:10 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Jeremy Hsu\n                ",
+      "fetchedAt": "2026-11-21T01:07:44.229Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "YXJzdGVjaG5pY2Et",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "link": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+      "snippet": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "pubDate": "Fri, 20 Nov 2026 20:59:08 +0000",
+      "sourceName": "Ars Technica",
+      "sourceId": "arstechnica-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "\n                    Dan Goodin\n                ",
+      "fetchedAt": "2026-11-21T01:07:44.229Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "snippet": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "pubDate": "Fri, 20 Nov 2026 19:53:41 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim De Chant",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
+      "tags": [
+        "学术研究"
+      ]
+    },
+    {
+      "id": "dGVjaGNydW5jaC1h",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "snippet": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
+      "sourceName": "TechCrunch",
+      "sourceId": "techcrunch-ai",
+      "lang": "en",
+      "category": "商业",
+      "creator": "Tim Fernholz",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "dGhldmVyZ2UtYWk6",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "snippet": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the",
+      "pubDate": "2026-11-20T18:50:19.000Z",
+      "sourceName": "The Verge",
+      "sourceId": "theverge-ai",
+      "lang": "en",
+      "category": "科技",
+      "creator": "",
+      "fetchedAt": "2026-11-21T01:07:42.923Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+      "snippet": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it al",
+      "pubDate": "Fri, 20 Nov 2026 18:15:15 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Grace Huckins",
+      "fetchedAt": "2026-11-21T01:07:43.213Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
     {
       "id": "bWFya3RlY2hwb3N0",
       "title": "RadixArk Ships DaisyRose-27B, a 27B Agentic Coding Model Trained With Reinforcement Learning Only",
@@ -19,14 +131,14 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-20T18:22:20.006Z",
+      "fetchedAt": "2026-11-21T01:07:45.179Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Chips can survive the space environment. Can their financing?",
+      "title": "Chips can survive the space environment — can their financing?",
       "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "snippet": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
       "pubDate": "Fri, 20 Nov 2026 17:40:01 +0000",
@@ -35,7 +147,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
       "tags": [
         "综合"
       ]
@@ -51,7 +163,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.957Z",
+      "fetchedAt": "2026-11-21T01:07:42.923Z",
       "tags": [
         "大模型"
       ]
@@ -67,7 +179,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Tim De Chant",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +195,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-20T18:22:20.006Z",
+      "fetchedAt": "2026-11-21T01:07:45.179Z",
       "tags": [
         "AI应用"
       ]
@@ -99,7 +211,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "AI应用"
       ]
@@ -115,7 +227,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.957Z",
+      "fetchedAt": "2026-11-21T01:07:42.923Z",
       "tags": [
         "政策监管"
       ]
@@ -131,7 +243,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
       "tags": [
         "综合"
       ]
@@ -147,7 +259,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-20T18:22:18.333Z",
+      "fetchedAt": "2026-11-21T01:07:43.213Z",
       "tags": [
         "综合"
       ]
@@ -163,7 +275,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.957Z",
+      "fetchedAt": "2026-11-21T01:07:42.923Z",
       "tags": [
         "大模型"
       ]
@@ -179,7 +291,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "商业融资"
       ]
@@ -195,7 +307,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "AI应用",
         "商业融资"
@@ -212,9 +324,25 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "综合"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Combatting adversarial distillation",
+      "link": "https://openai.com/index/combatting-adversarial-distillation",
+      "snippet": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability ex",
+      "pubDate": "Fri, 20 Nov 2026 10:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-21T01:07:44.735Z",
+      "tags": [
+        "AI应用"
       ]
     },
     {
@@ -228,7 +356,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "AI应用",
         "开源工具"
@@ -245,7 +373,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "商业融资"
       ]
@@ -261,7 +389,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "商业融资"
       ]
@@ -277,7 +405,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "综合"
       ]
@@ -293,7 +421,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "综合"
       ]
@@ -309,7 +437,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-11-20T18:22:14.026Z",
+      "fetchedAt": "2026-11-21T01:07:38.670Z",
       "tags": [
         "AI应用"
       ]
@@ -325,7 +453,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "商业融资"
       ]
@@ -341,7 +469,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "商业融资"
       ]
@@ -357,7 +485,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "综合"
       ]
@@ -373,7 +501,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "商业融资"
       ]
@@ -389,7 +517,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-20T18:22:14.026Z",
+      "fetchedAt": "2026-11-21T01:07:38.670Z",
       "tags": [
         "综合"
       ]
@@ -405,7 +533,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "学术研究"
       ]
@@ -421,7 +549,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "AI应用"
       ]
@@ -437,7 +565,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "一水",
-      "fetchedAt": "2026-11-20T18:22:14.026Z",
+      "fetchedAt": "2026-11-21T01:07:38.670Z",
       "tags": [
         "开源工具"
       ]
@@ -453,7 +581,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "商业融资"
       ]
@@ -469,7 +597,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "综合"
       ]
@@ -485,7 +613,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "学术研究"
       ]
@@ -501,7 +629,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.411Z",
+      "fetchedAt": "2026-11-21T01:07:42.368Z",
       "tags": [
         "政策监管"
       ]
@@ -517,7 +645,7 @@
       "lang": "zh",
       "category": "综合",
       "creator": "田, 晏林",
-      "fetchedAt": "2026-11-20T18:22:14.026Z",
+      "fetchedAt": "2026-11-21T01:07:38.670Z",
       "tags": [
         "综合"
       ]
@@ -533,7 +661,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
       "tags": [
         "大模型"
       ]
@@ -549,9 +677,41 @@
       "lang": "en",
       "category": "商业",
       "creator": "Julie Bort",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
       "tags": [
         "商业融资"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "link": "https://openai.com/business/customer-stories/hebbia",
+      "snippet": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation relevance, and presentation qual",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-21T01:07:44.735Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "b3BlbmFpLWJsb2c6",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "link": "https://openai.com/index/introducing-medchembench",
+      "snippet": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discov",
+      "pubDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "sourceName": "OpenAI",
+      "sourceId": "openai-blog",
+      "lang": "en",
+      "category": "企业",
+      "creator": "",
+      "fetchedAt": "2026-11-21T01:07:44.735Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -565,7 +725,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.957Z",
+      "fetchedAt": "2026-11-21T01:07:42.923Z",
       "tags": [
         "AI应用"
       ]
@@ -581,7 +741,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.957Z",
+      "fetchedAt": "2026-11-21T01:07:42.923Z",
       "tags": [
         "综合"
       ]
@@ -597,7 +757,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
       "tags": [
         "综合"
       ]
@@ -613,7 +773,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-20T18:22:20.006Z",
+      "fetchedAt": "2026-11-21T01:07:45.179Z",
       "tags": [
         "综合"
       ]
@@ -629,7 +789,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Dominic-Madori Davis",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
+      "fetchedAt": "2026-11-21T01:07:42.657Z",
       "tags": [
         "AI应用"
       ]
@@ -645,170 +805,9 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.957Z",
+      "fetchedAt": "2026-11-21T01:07:42.923Z",
       "tags": [
         "综合"
-      ]
-    },
-    {
-      "id": "YXJzdGVjaG5pY2Et",
-      "title": "Traumatized teens sue school, cops after Doritos bag triggers AI gun alert",
-      "link": "https://arstechnica.com/tech-policy/2026/11/traumatized-teens-sue-school-cops-after-doritos-bag-triggers-ai-gun-alert/",
-      "snippet": "Lawsuit: Over 99% of school system’s AI gun alerts were false positives.",
-      "pubDate": "Thu, 19 Nov 2026 20:19:28 +0000",
-      "sourceName": "Ars Technica",
-      "sourceId": "arstechnica-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "\n                    Ashley Belanger\n                ",
-      "fetchedAt": "2026-11-20T18:22:19.251Z",
-      "tags": [
-        "政策监管"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "snippet": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop",
-      "pubDate": "Thu, 19 Nov 2026 20:18:49 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Google is putting AI chats right on the homepage",
-      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-      "snippet": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a",
-      "pubDate": "2026-11-19T20:05:06.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.957Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic’s IPO could deliver $156B to charity",
-      "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-      "snippet": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
-      "pubDate": "Thu, 19 Nov 2026 19:10:45 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Tim Fernholz",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Gemini on Mac can now use your computer",
-      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-      "snippet": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the",
-      "pubDate": "2026-11-19T18:21:13.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-20T18:22:17.957Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "13 Best Agent Gateways in 2026 for MCP, A2A and LLM Traffic: Kong, Bifrost, AgentCore, Arcade",
-      "link": "https://www.marktechpost.com/2026/11/19/best-agent-gateways-2026/",
-      "snippet": "We ranked the 13 best agent gateways of 2026 by how they govern model, MCP tool and agent-to-agent traffic, with verified pricing, deployment options",
-      "pubDate": "Thu, 19 Nov 2026 18:13:21 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-20T18:22:20.006Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Google gives Gemini the ability to use your Mac for you",
-      "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-      "snippet": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-      "pubDate": "Thu, 19 Nov 2026 18:09:11 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
-      "tags": [
-        "大模型"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Perplexity Launches Orchestrator API for Failover and Model Routing",
-      "link": "https://www.marktechpost.com/2026/11/19/perplexity-orchestrator-api-failover-model-routing/",
-      "snippet": "Perplexity’s Orchestrator API serves OpenAI, Anthropic, Google, xAI and open-weight models through 1 endpoint, with same-model provider failover, unif",
-      "pubDate": "Thu, 19 Nov 2026 17:47:00 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-20T18:22:20.006Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-      "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-      "snippet": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, produc",
-      "pubDate": "Thu, 19 Nov 2026 17:38:40 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-      "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-      "snippet": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-      "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Kate Park",
-      "fetchedAt": "2026-11-20T18:22:17.684Z",
-      "tags": [
-        "商业融资",
-        "AI应用"
       ]
     }
   ]
