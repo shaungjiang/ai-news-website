@@ -1,16 +1,258 @@
 {
-  "generatedAt": "2026-11-25T00:31:43.691Z",
+  "generatedAt": "2026-11-25T11:03:13.654Z",
   "stats": {
-    "total": 97,
+    "total": 111,
     "shown": 50,
-    "chinese": 10,
-    "english": 87,
-    "today": 1
+    "chinese": 30,
+    "english": 81,
+    "today": 16
   },
   "articles": [
     {
+      "id": "bWl0LXRyOmh0dHBz",
+      "title": "AI is straining America’s open records systems",
+      "link": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "snippet": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as th",
+      "pubDate": "Wed, 25 Nov 2026 10:00:00 +0000",
+      "sourceName": "MIT Tech Review",
+      "sourceId": "mit-tr",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Matthew King",
+      "fetchedAt": "2026-11-25T10:56:32.436Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Anthropic还藏着2个最强模型…",
+      "link": "https://www.qbitai.com/2026/11/512538.html",
+      "snippet": "Fable5.2已经很旧了。",
+      "pubDate": "Wed, 25 Nov 2026 08:23:24 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "程浅",
+      "fetchedAt": "2026-11-25T10:56:26.255Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "完整议程！第二十一届中国IDC产业年度大典（IDCC2026）",
+      "link": "https://www.qbitai.com/2026/11/512532.html",
+      "snippet": "第二十一届中国IDC产业年度大典（IDCC2026）暨2026全球数字基础设施科技展即将举办",
+      "pubDate": "Wed, 25 Nov 2026 08:18:54 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "量子位的朋友们",
+      "fetchedAt": "2026-11-25T10:56:26.255Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "A社Tibo被曝加盟OpenAI！上市前离职三人组异地团圆",
+      "link": "https://www.qbitai.com/2026/11/512515.html",
+      "snippet": "OpenAI这下要有俩Tibo了",
+      "pubDate": "Wed, 25 Nov 2026 07:46:52 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "一水",
+      "fetchedAt": "2026-11-25T10:56:26.255Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从 AGI 到 ASI，DeepMind 提出让 AI 自己「开公司」、重塑组织架构，自己进化",
+      "link": "https://www.leiphone.com/category/ai/12hVnzl8xc2Hblwx.html",
+      "snippet": "100 个 AI 联合做题竟学会「集体作弊」？谷歌抛出 ASI 演进新框架，揭示组织化进化的恐怖与隐忧。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Wed, 25 Nov 2026 15:12:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "大疆 Osmo Action 6 以旗舰影像拓展街拍，Action 系列双11销量份额超八成",
+      "link": "https://www.leiphone.com/category/industrynews/vJY0MGRzRVddA3AW.html",
+      "snippet": "2026年双11期间，大疆 Osmo Action 系列以超八成的销量份额位居传统运动相机品类第一，多款机型登上多个主要电商商品榜单首位。延续这一热销势头，大疆正式推出 Osmo Action 6 街拍大师套装，以全新电控手柄与直出滤镜，将可变光圈、方形传感器带来的旗舰影像能力进一步融入日常拍摄，为",
+      "pubDate": "Wed, 25 Nov 2026 15:06:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "OpenAI 联手 AMD，在旗舰 GPU 中抠出 14% 物理极限",
+      "link": "https://www.leiphone.com/category/ai/9tAw4Cw8AcxtFzUm.html",
+      "snippet": "不到 5 个月完成约 1 年工程进展，从自研推理芯片 Jalapeño 到商用流片，大模型正式接管前端微架构。          作者丨郑佳美      编辑丨岑   峰",
+      "pubDate": "Wed, 25 Nov 2026 15:01:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "新希望乳业“产供销服”全领域接入千问办公",
+      "link": "https://www.leiphone.com/category/industrynews/rfxUGiq3uRAZJslx.html",
+      "snippet": "近日，新希望乳业已在生产经营、供应链、财务、销售、营销服务等领域全面接入千问办公。在牛群结构预测场景中，借助千问办公，基于预测结果制定预算的时间由一周缩短至分钟级，预测结果与实际情况的平均误差不到3%。       新希望乳业是新希望集团旗下公司，主营乳制品及含乳饮料的研发、生产和销售，拥有17家乳",
+      "pubDate": "Wed, 25 Nov 2026 14:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "link": "https://www.qbitai.com/2026/11/512498.html",
+      "snippet": "复杂场景三维建模成本降至10美元以内",
+      "pubDate": "Wed, 25 Nov 2026 06:49:27 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "衡宇",
+      "fetchedAt": "2026-11-25T10:56:26.255Z",
+      "tags": [
+        "商业融资"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "AI能力突飞猛进，企业为何还没释放数据生产力？",
+      "link": "https://www.leiphone.com/category/industrynews/4Q0TOJ3F8a95ZXGq.html",
+      "snippet": "能否像认真对待模型一样，认真对待自己的数据，正在决定一家企业AI转型的成败。 过去两年，大模型能力快速跃升、调用成本持续走低，企业引入先进模型已不再是难以逾越的门槛。依托海量公开数据，大模型已在办公、编程等通用辅助场景展现实力，但仅靠公域数据，AI很难真正深入复杂的业务流程，也难以带动企业自身经营效",
+      "pubDate": "Wed, 25 Nov 2026 14:49:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bWFya3RlY2hwb3N0",
+      "title": "ByteDance Researchers Open-Sources Laminar, an Async Reinforcement Learning RL Post-Training Framework",
+      "link": "https://www.marktechpost.com/2026/11/24/bytedance-seed-laminar-async-rl-post-training-framework/",
+      "snippet": "Laminar is an open-source asynchronous RL post-training framework from HKU and ByteDance Seed researchers. It decouples rollout, training and weight s",
+      "pubDate": "Wed, 25 Nov 2026 05:42:05 +0000",
+      "sourceName": "MarkTechPost",
+      "sourceId": "marktechpost",
+      "lang": "en",
+      "category": "学术",
+      "creator": "Asif Razzaq",
+      "fetchedAt": "2026-11-25T10:56:34.034Z",
+      "tags": [
+        "AI应用"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "搭载线控数字底盘，第三代唐售价18.79万-21.99万元",
+      "link": "https://www.leiphone.com/category/industrynews/9aHVg0PkWKreUOax.html",
+      "snippet": "11月24日，比亚迪王朝网第三代唐上市。新车定位大五座SUV，共推出三款车型：730KM后驱尊贵型、850KM后驱激光尊荣型、850KM后驱激光旗舰型，售价18.79万至21.99万元。官方表示，全国终端已有现车，上市即交付，用户可通过王朝官方APP、小程序及授权门店下订。 其中顶配的850KM后驱",
+      "pubDate": "Wed, 25 Nov 2026 13:03:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "AI应用",
+        "商业融资"
+      ]
+    },
+    {
+      "id": "cWJpdGFpOmh0dHBz",
+      "title": "Claude Opus 5.6灰测效果来了",
+      "link": "https://www.qbitai.com/2026/11/512478.html",
+      "snippet": "整体效率大约是此前Opus版本的2到3倍。",
+      "pubDate": "Wed, 25 Nov 2026 02:43:07 +0000",
+      "sourceName": "量子位",
+      "sourceId": "qbitai",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "henry",
+      "fetchedAt": "2026-11-25T10:56:26.255Z",
+      "tags": [
+        "大模型"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "千问Go全面开放免费代打电话服务，支持订餐厅、找快递、寻失物",
+      "link": "https://www.leiphone.com/category/industrynews/L9rc3Khgc8pFgYtD.html",
+      "snippet": "11月25日，千问Go全面开放代打电话服务，人人都能免费拥有一个帮自己打电话的专属AI助手。告知千问拨打对象和通话需求，用户授权后，千问即可代为联系餐厅预订包间、向酒店查询遗失物品、联系快递员确认配送进度等，并反馈沟通结果。此外，千问还支持定时代打电话。   据了解，千问代打电话需经用户授权，通话中",
+      "pubDate": "Wed, 25 Nov 2026 10:28:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "CCF HPC 2026访谈：HPC与AI需求推动算力走向系统协同",
+      "link": "https://www.leiphone.com/category/chips/yHCLu9wEjr4z9AgA.html",
+      "snippet": "过去两年，从 ChatGPT 到国内外各路大模型百舸争流，AI 从只会聊天的机器人，一路长成了能看图、能听声、能剪视频的多面手。短剧、内容创作、智能客服、企业办公……应用场景越铺越开，模型规模越做越大，训练和推理的胃口也随之水涨船高。可当所有人都意识到\"算力就是新的水电\"时，一个更棘手的问题浮出水面",
+      "pubDate": "Wed, 25 Nov 2026 09:51:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "大模型",
+        "AI应用"
+      ]
+    },
+    {
       "id": "dGVjaGNydW5jaC1h",
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to U.S. industrial might — not a champion",
+      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
       "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
       "snippet": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could",
       "pubDate": "Wed, 25 Nov 2026 00:12:02 +0000",
@@ -19,7 +261,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Connie Loizos",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "综合"
       ]
@@ -35,7 +277,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Michal Sutter",
-      "fetchedAt": "2026-11-25T00:25:04.086Z",
+      "fetchedAt": "2026-11-25T10:56:34.034Z",
       "tags": [
         "大模型"
       ]
@@ -51,7 +293,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Kirsten Korosec",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "AI应用"
       ]
@@ -67,7 +309,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lucas Ropek",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "综合"
       ]
@@ -83,7 +325,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Rebecca Bellan",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "商业融资"
       ]
@@ -99,7 +341,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Lauren Forristal",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "综合"
       ]
@@ -115,7 +357,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "商业融资",
         "AI应用"
@@ -132,7 +374,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    John Timmer\n                ",
-      "fetchedAt": "2026-11-25T00:25:03.258Z",
+      "fetchedAt": "2026-11-25T10:56:33.242Z",
       "tags": [
         "综合"
       ]
@@ -148,7 +390,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-25T00:25:02.219Z",
+      "fetchedAt": "2026-11-25T10:56:32.105Z",
       "tags": [
         "综合"
       ]
@@ -164,7 +406,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Jeremy Hsu\n                ",
-      "fetchedAt": "2026-11-25T00:25:03.258Z",
+      "fetchedAt": "2026-11-25T10:56:33.242Z",
       "tags": [
         "综合"
       ]
@@ -180,7 +422,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Marina Temkin",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "商业融资"
       ]
@@ -196,7 +438,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-25T00:25:02.219Z",
+      "fetchedAt": "2026-11-25T10:56:32.105Z",
       "tags": [
         "综合"
       ]
@@ -212,7 +454,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Zack Whittaker",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "政策监管"
       ]
@@ -228,7 +470,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Ryan Whitwam\n                ",
-      "fetchedAt": "2026-11-25T00:25:03.258Z",
+      "fetchedAt": "2026-11-25T10:56:33.242Z",
       "tags": [
         "政策监管"
       ]
@@ -244,7 +486,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-25T00:25:02.219Z",
+      "fetchedAt": "2026-11-25T10:56:32.105Z",
       "tags": [
         "政策监管"
       ]
@@ -260,7 +502,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Aisha Malik",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "AI应用"
       ]
@@ -276,7 +518,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Ivan Mehta",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "政策监管"
       ]
@@ -292,7 +534,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-25T00:25:02.219Z",
+      "fetchedAt": "2026-11-25T10:56:32.105Z",
       "tags": [
         "商业融资"
       ]
@@ -308,7 +550,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Tim De Chant",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "综合"
       ]
@@ -324,7 +566,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "",
-      "fetchedAt": "2026-11-25T00:25:02.219Z",
+      "fetchedAt": "2026-11-25T10:56:32.105Z",
       "tags": [
         "AI应用"
       ]
@@ -340,7 +582,7 @@
       "lang": "en",
       "category": "商业",
       "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "综合"
       ]
@@ -356,25 +598,9 @@
       "lang": "en",
       "category": "商业",
       "creator": "Anna Heim",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
+      "fetchedAt": "2026-11-25T10:56:31.847Z",
       "tags": [
         "商业融资"
-      ]
-    },
-    {
-      "id": "bWl0LXRyOmh0dHBz",
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "snippet": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest sourc",
-      "pubDate": "Tue, 24 Nov 2026 15:15:16 +0000",
-      "sourceName": "MIT Tech Review",
-      "sourceId": "mit-tr",
-      "lang": "en",
-      "category": "学术",
-      "creator": "MIT Technology Review Insights",
-      "fetchedAt": "2026-11-25T00:25:02.551Z",
-      "tags": [
-        "综合"
       ]
     },
     {
@@ -388,7 +614,7 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Michael Acton, Financial Times\n                ",
-      "fetchedAt": "2026-11-25T00:25:03.258Z",
+      "fetchedAt": "2026-11-25T10:56:33.242Z",
       "tags": [
         "综合"
       ]
@@ -404,7 +630,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-25T00:25:04.086Z",
+      "fetchedAt": "2026-11-25T10:56:34.034Z",
       "tags": [
         "AI应用"
       ]
@@ -420,7 +646,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Thomas Macaulay",
-      "fetchedAt": "2026-11-25T00:25:02.551Z",
+      "fetchedAt": "2026-11-25T10:56:32.436Z",
       "tags": [
         "综合"
       ]
@@ -436,7 +662,7 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-25T00:25:03.723Z",
+      "fetchedAt": "2026-11-25T10:56:33.643Z",
       "tags": [
         "大模型"
       ]
@@ -452,9 +678,57 @@
       "lang": "en",
       "category": "科技",
       "creator": "\n                    Dan Goodin\n                ",
-      "fetchedAt": "2026-11-25T00:25:03.258Z",
+      "fetchedAt": "2026-11-25T10:56:33.242Z",
       "tags": [
         "开源工具"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "传统大厂的智驾，困在了组织里",
+      "link": "https://www.leiphone.com/category/transportation/Q7xf6JUVu3HScTsH.html",
+      "snippet": "一位传统车厂高管曾向雷峰网回忆，疫情期间，他所任职的车厂负责人去了一趟苏州博世。 那时车企都在忙着保供。按照他的记忆，这位CEO级的负责人为了一项主动安全系统的供应，在那里守了几天，最后既没见到负责人，也没能保供成功。 走出博世时，他长叹一口气：“到底谁是甲方，谁是乙方。” 他记住了这件事，这件事也",
+      "pubDate": "Tue, 24 Nov 2026 19:12:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "政策监管"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "从「卖向全球」到「扎根全球」，奇瑞怎么把增长做久？",
+      "link": "https://www.leiphone.com/category/transportation/DQjM3IyKu5bVltcG.html",
+      "snippet": "“如果把这个剔除之外，应该达到170多亿元。” 近期，在一场小范围沟通会上，奇瑞汽车管理层透露汇率波动对利润造成了影响。前三季度，奇瑞有31.71亿元汇兑净损失。去年同期，这一项还是29.74亿元净收益，一来一回差了61.45亿元。 这导致，奇瑞前三季度的归母净利润为139.63亿元，同比下降2.8",
+      "pubDate": "Tue, 24 Nov 2026 19:11:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "综合"
+      ]
+    },
+    {
+      "id": "bGVpcGhvbmU6aHR0",
+      "title": "中国汽车的下一场硬仗：让世界为中国式豪华买单",
+      "link": "https://www.leiphone.com/category/transportation/mQcJOTY4udaVnxHp.html",
+      "snippet": "11月7日，阿布扎比文华东方酋长皇宫酒店，两位中国女性高管的着装格外惹眼。 雷峰网注意到，被人群簇拥着走上舞台的，是比亚迪执行副总裁李柯。她身着一袭融合东方山水意境的礼服，丝绒上衣汲取中国旗袍的韵味，裙身以中国画的泼墨、泼彩为底，手绘山河，再辅以刺绣、青金石与羽毛绣，将中国传统绘画中的山水意境穿在了",
+      "pubDate": "Tue, 24 Nov 2026 19:08:00 +0800",
+      "sourceName": "雷锋网",
+      "sourceId": "leiphone",
+      "lang": "zh",
+      "category": "综合",
+      "creator": "",
+      "fetchedAt": "2026-11-25T10:56:31.541Z",
+      "tags": [
+        "综合"
       ]
     },
     {
@@ -468,7 +742,7 @@
       "lang": "en",
       "category": "学术",
       "creator": "Casey Crownhart",
-      "fetchedAt": "2026-11-25T00:25:02.551Z",
+      "fetchedAt": "2026-11-25T10:56:32.436Z",
       "tags": [
         "AI应用"
       ]
@@ -484,119 +758,39 @@
       "lang": "en",
       "category": "企业",
       "creator": "",
-      "fetchedAt": "2026-11-25T00:25:03.723Z",
+      "fetchedAt": "2026-11-25T10:56:33.643Z",
       "tags": [
         "综合"
       ]
     },
     {
       "id": "cWJpdGFpOmh0dHBz",
-      "title": "Google Cloud 出海峰会报名开启",
-      "link": "https://www.qbitai.com/2026/11/512370.html",
-      "snippet": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
-      "pubDate": "Tue, 24 Nov 2026 06:52:29 +0000",
+      "title": "高德发布世界模型ABot-World 0.5，支持构建音画同步、可实时重塑的AI物理世界",
+      "link": "https://www.qbitai.com/2026/11/512454.html",
+      "snippet": "近日，阿里巴巴集团旗下高德正式发布新一代通用交互式世界模型 ABot-World 0.5。",
+      "pubDate": "Tue, 24 Nov 2026 10:30:42 +0000",
       "sourceName": "量子位",
       "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "link": "https://www.qbitai.com/2026/11/512362.html",
-      "snippet": "端侧老炮辛米尔，打通物理AI规模化落地之路",
-      "pubDate": "Tue, 24 Nov 2026 06:35:06 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "衡宇",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
+      "fetchedAt": "2026-11-25T10:56:26.255Z",
       "tags": [
         "AI应用"
       ]
     },
     {
       "id": "cWJpdGFpOmh0dHBz",
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
-      "link": "https://www.qbitai.com/2026/11/512354.html",
-      "snippet": "",
-      "pubDate": "Tue, 24 Nov 2026 06:22:28 +0000",
+      "title": "蚂蚁开源医疗健康预测模型，根据睡眠数据可预测未来六年150种疾病风险",
+      "link": "https://www.qbitai.com/2026/11/512451.html",
+      "snippet": "蚂蚁刚刚发布医疗健康模型全家桶",
+      "pubDate": "Tue, 24 Nov 2026 10:15:57 +0000",
       "sourceName": "量子位",
       "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
       "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
-      "tags": [
-        "开源工具"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
-      "link": "https://www.qbitai.com/2026/11/512348.html",
-      "snippet": "11月19日，方程豹钛9上市，售价27.99万元起",
-      "pubDate": "Tue, 24 Nov 2026 06:15:38 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-      "link": "https://www.qbitai.com/2026/11/512343.html",
-      "snippet": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
-      "pubDate": "Tue, 24 Nov 2026 06:12:16 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
-      "link": "https://www.qbitai.com/2026/11/512329.html",
-      "snippet": "12.9 北京，来MEET2027现场",
-      "pubDate": "Tue, 24 Nov 2026 03:33:48 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-      "link": "https://www.qbitai.com/2026/11/512330.html",
-      "snippet": "中国AI数据平台加速崛起",
-      "pubDate": "Tue, 24 Nov 2026 03:30:46 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
+      "fetchedAt": "2026-11-25T10:56:26.255Z",
       "tags": [
         "开源工具",
         "AI应用"
@@ -604,213 +798,18 @@
     },
     {
       "id": "cWJpdGFpOmh0dHBz",
-      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "link": "https://www.qbitai.com/2026/11/512305.html",
-      "snippet": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-      "pubDate": "Tue, 24 Nov 2026 03:21:12 +0000",
+      "title": "智谱刚刚发了GLM-5.4，全新架构的那种！网友直呼：超过预期",
+      "link": "https://www.qbitai.com/2026/11/512423.html",
+      "snippet": "纯代码手搓了一个MV！",
+      "pubDate": "Tue, 24 Nov 2026 09:21:55 +0000",
       "sourceName": "量子位",
       "sourceId": "qbitai",
       "lang": "zh",
       "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
+      "creator": "十三",
+      "fetchedAt": "2026-11-25T10:56:26.255Z",
       "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
-      "link": "https://www.qbitai.com/2026/11/512297.html",
-      "snippet": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
-      "pubDate": "Tue, 24 Nov 2026 02:36:08 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "量子位的朋友们",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "cWJpdGFpOmh0dHBz",
-      "title": "具身行业，终于等来了自己的通用智能时刻",
-      "link": "https://www.qbitai.com/2026/11/512264.html",
-      "snippet": "行业苦等多年的预训练通用智能，终于有了答案",
-      "pubDate": "Tue, 24 Nov 2026 01:51:56 +0000",
-      "sourceName": "量子位",
-      "sourceId": "qbitai",
-      "lang": "zh",
-      "category": "综合",
-      "creator": "梦瑶",
-      "fetchedAt": "2026-11-25T00:24:52.163Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "bWFya3RlY2hwb3N0",
-      "title": "Anthropic Launches Claude Ship for GitHub Pull Request Review and Fixes",
-      "link": "https://www.marktechpost.com/2026/11/23/anthropic-claude-ship-pull-request-agents/",
-      "snippet": "Anthropic's Claude Ship bundles Code Review, PR Steward and Claude Approvals to review, fix and approve GitHub pull requests. Code Review is GA; the o",
-      "pubDate": "Tue, 24 Nov 2026 00:02:39 +0000",
-      "sourceName": "MarkTechPost",
-      "sourceId": "marktechpost",
-      "lang": "en",
-      "category": "学术",
-      "creator": "Asif Razzaq",
-      "fetchedAt": "2026-11-25T00:25:04.086Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How Intentful uses dots to make more time for growth",
-      "link": "https://openai.com/business/customer-stories/intentful-dots",
-      "snippet": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
-      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-25T00:25:03.723Z",
-      "tags": [
-        "学术研究"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "link": "https://openai.com/business/customer-stories/ifood",
-      "snippet": "",
-      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-25T00:25:03.723Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "b3BlbmFpLWJsb2c6",
-      "title": "Clay helps sales teams win with Codex and ChatGPT",
-      "link": "https://openai.com/business/customer-stories/clay-plugins-openai",
-      "snippet": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
-      "pubDate": "Tue, 24 Nov 2026 00:00:00 GMT",
-      "sourceName": "OpenAI",
-      "sourceId": "openai-blog",
-      "lang": "en",
-      "category": "企业",
-      "creator": "",
-      "fetchedAt": "2026-11-25T00:25:03.723Z",
-      "tags": [
-        "大模型",
-        "学术研究"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Trump engineered a risky comeback for Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-      "snippet": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Don",
-      "pubDate": "2026-11-23T22:25:12.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-25T00:25:02.219Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "snippet": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company",
-      "pubDate": "2026-11-23T22:10:32.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-25T00:25:02.219Z",
-      "tags": [
-        "AI应用"
-      ]
-    },
-    {
-      "id": "dGhldmVyZ2UtYWk6",
-      "title": "Welcome to elite impunity, Jensen Huang",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-      "snippet": "Too big to fail, the sequel. | Image: The Verge; Getty Images\t  I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidi",
-      "pubDate": "2026-11-23T22:09:26.000Z",
-      "sourceName": "The Verge",
-      "sourceId": "theverge-ai",
-      "lang": "en",
-      "category": "科技",
-      "creator": "",
-      "fetchedAt": "2026-11-25T00:25:02.219Z",
-      "tags": [
-        "综合"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
-      "snippet": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
-      "pubDate": "Mon, 23 Nov 2026 22:05:50 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
-      "tags": [
-        "AI应用",
-        "大模型"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
-      "snippet": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-      "pubDate": "Mon, 23 Nov 2026 22:02:05 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Sarah Perez",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
-      "tags": [
-        "商业融资"
-      ]
-    },
-    {
-      "id": "dGVjaGNydW5jaC1h",
-      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
-      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
-      "snippet": "\"The mistake has been corrected,\" Elon Musk chimed in.",
-      "pubDate": "Mon, 23 Nov 2026 21:47:41 +0000",
-      "sourceName": "TechCrunch",
-      "sourceId": "techcrunch-ai",
-      "lang": "en",
-      "category": "商业",
-      "creator": "Amanda Silberling",
-      "fetchedAt": "2026-11-25T00:25:01.887Z",
-      "tags": [
-        "综合"
+        "开源工具"
       ]
     }
   ]
